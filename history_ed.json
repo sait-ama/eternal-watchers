@@ -40,6 +40,16 @@
     "guild": "Eternal Demonic"
   },
   {
+    "norm": "ronin74",
+    "display": "Ronin74",
+    "initial": 36010,
+    "current": 42030,
+    "diff": 6020,
+    "avatar": "avatars/ronin74.jpg",
+    "profile": "https://remanga.org/user/76998/about",
+    "guild": "Eternal Demonic"
+  },
+  {
     "norm": "@toxic",
     "display": "@𝑻𝑶𝑿𝑰𝑪",
     "initial": 11880,
@@ -47,16 +57,6 @@
     "diff": 5030,
     "avatar": "avatars/@toxic.jpg",
     "profile": "https://remanga.org/user/3204383/about",
-    "guild": "Eternal Demonic"
-  },
-  {
-    "norm": "ronin74",
-    "display": "Ronin74",
-    "initial": 36010,
-    "current": 40940,
-    "diff": 4930,
-    "avatar": "avatars/ronin74.jpg",
-    "profile": "https://remanga.org/user/76998/about",
     "guild": "Eternal Demonic"
   },
   {
