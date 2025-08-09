@@ -1,0 +1,1508 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Eternal Watchers</title>
+<style>
+    body {
+        background-color: #121212;
+        color: #fff;
+        font-family: 'Segoe UI', Tahoma, sans-serif;
+        margin: 0;
+        padding: 0;
+    }
+    header {
+        background-color: #1f1f1f;
+        padding: 1em;
+        text-align: center;
+        font-size: 1.5em;
+        font-weight: bold;
+        border-bottom: 1px solid #2e2e2e;
+    }
+    .container {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+        gap: 1em;
+        padding: 1em;
+        max-width: 1200px;
+        margin: auto;
+    }
+    .card {
+        background-color: #1e1e1e;
+        border-radius: 8px;
+        padding: 1em;
+        box-shadow: 0 2px 5px rgba(0,0,0,0.4);
+        display: flex;
+        gap: 1em;
+        align-items: center;
+        transition: transform 0.2s ease, box-shadow 0.2s ease;
+    }
+    .card:hover {
+        transform: translateY(-3px);
+        box-shadow: 0 4px 12px rgba(0,0,0,0.6);
+    }
+    .avatar {
+        width: 64px;
+        height: 64px;
+        border-radius: 50%;
+        background-color: #2a2a2a;
+        background-size: cover;
+        background-position: center;
+        flex-shrink: 0;
+    }
+    .place {
+        font-size: 1.2em;
+        font-weight: bold;
+        color: #ffd700;
+        width: 40px;
+        text-align: center;
+    }
+    .nickname a {
+        font-size: 1.1em;
+        font-weight: bold;
+        color: #4a90e2;
+        text-decoration: none;
+        transition: color 0.2s ease;
+    }
+    .nickname a:hover {
+        color: #82b5f7;
+        text-decoration: underline;
+    }
+    .stats div {
+        font-size: 0.9em;
+        margin: 0.2em 0;
+        color: #ccc;
+    }
+    .stats span {
+        color: #888;
+    }
+    footer {
+        text-align: center;
+        padding: 1em;
+        font-size: 0.8em;
+        color: #777;
+        border-top: 1px solid #2e2e2e;
+    }
+</style>
+</head>
+<body>
+<header>
+    Eternal Watchers — статистика
+</header>
+<main class="container">
+    
+    <div class="card">
+        <div class="place">#1</div>
+        <div class="avatar" style="background-image: url('avatars/desport.jpg');"></div>
+        <div class="info">
+            <div class="nickname">
+                <a href="https://remanga.org/user/216019/about" target="_blank">desport</a>
+            </div>
+            <div class="stats">
+                <div><span>Начальный вклад:</span> 24730</div>
+                <div><span>Текущий вклад:</span> 39170</div>
+                <div><span>Сумма залитых молний:</span> 14440</div>
+                <div><span>Прирост за цикл:</span> 14440</div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="card">
+        <div class="place">#2</div>
+        <div class="avatar" style="background-image: url('avatars/rezordaye.jpg');"></div>
+        <div class="info">
+            <div class="nickname">
+                <a href="https://remanga.org/user/210114/about" target="_blank">rezord_aye</a>
+            </div>
+            <div class="stats">
+                <div><span>Начальный вклад:</span> 25070</div>
+                <div><span>Текущий вклад:</span> 31370</div>
+                <div><span>Сумма залитых молний:</span> 6300</div>
+                <div><span>Прирост за цикл:</span> 6300</div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="card">
+        <div class="place">#3</div>
+        <div class="avatar" style="background-image: url('avatars/p03a.jpg');"></div>
+        <div class="info">
+            <div class="nickname">
+                <a href="https://remanga.org/user/1262251/about" target="_blank">Р03А</a>
+            </div>
+            <div class="stats">
+                <div><span>Начальный вклад:</span> 23260</div>
+                <div><span>Текущий вклад:</span> 27560</div>
+                <div><span>Сумма залитых молний:</span> 4300</div>
+                <div><span>Прирост за цикл:</span> 4300</div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="card">
+        <div class="place">#4</div>
+        <div class="avatar" style="background-image: url('avatars/okiarya.jpg');"></div>
+        <div class="info">
+            <div class="nickname">
+                <a href="https://remanga.org/user/2391629/about" target="_blank">Okiarya</a>
+            </div>
+            <div class="stats">
+                <div><span>Начальный вклад:</span> 40400</div>
+                <div><span>Текущий вклад:</span> 41400</div>
+                <div><span>Сумма залитых молний:</span> 1000</div>
+                <div><span>Прирост за цикл:</span> 1000</div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="card">
+        <div class="place">#5</div>
+        <div class="avatar" style="background-image: url('avatars/satisfied.jpg');"></div>
+        <div class="info">
+            <div class="nickname">
+                <a href="https://remanga.org/user/876190/about" target="_blank">Satisfied</a>
+            </div>
+            <div class="stats">
+                <div><span>Начальный вклад:</span> 38170</div>
+                <div><span>Текущий вклад:</span> 39170</div>
+                <div><span>Сумма залитых молний:</span> 1000</div>
+                <div><span>Прирост за цикл:</span> 1000</div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="card">
+        <div class="place">#6</div>
+        <div class="avatar" style="background-image: url('avatars/xmmxmm.jpg');"></div>
+        <div class="info">
+            <div class="nickname">
+                <a href="https://remanga.org/user/2724307/about" target="_blank">Xmmxmm</a>
+            </div>
+            <div class="stats">
+                <div><span>Начальный вклад:</span> 10000</div>
+                <div><span>Текущий вклад:</span> 10820</div>
+                <div><span>Сумма залитых молний:</span> 820</div>
+                <div><span>Прирост за цикл:</span> 820</div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="card">
+        <div class="place">#7</div>
+        <div class="avatar" style="background-image: url('avatars/яшtyг.jpg');"></div>
+        <div class="info">
+            <div class="nickname">
+                <a href="https://remanga.org/user/1317566/about" target="_blank">Яштуг</a>
+            </div>
+            <div class="stats">
+                <div><span>Начальный вклад:</span> 119860</div>
+                <div><span>Текущий вклад:</span> 120640</div>
+                <div><span>Сумма залитых молний:</span> 780</div>
+                <div><span>Прирост за цикл:</span> 780</div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="card">
+        <div class="place">#8</div>
+        <div class="avatar" style="background-image: url('avatars/tokkebi11.jpg');"></div>
+        <div class="info">
+            <div class="nickname">
+                <a href="https://remanga.org/user/1132063/about" target="_blank">ToKKeBi11</a>
+            </div>
+            <div class="stats">
+                <div><span>Начальный вклад:</span> 8940</div>
+                <div><span>Текущий вклад:</span> 9610</div>
+                <div><span>Сумма залитых молний:</span> 670</div>
+                <div><span>Прирост за цикл:</span> 670</div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="card">
+        <div class="place">#9</div>
+        <div class="avatar" style="background-image: url('avatars/totktocmotpиt.jpg');"></div>
+        <div class="info">
+            <div class="nickname">
+                <a href="https://remanga.org/user/201921/about" target="_blank">тот_кто_смотрит....</a>
+            </div>
+            <div class="stats">
+                <div><span>Начальный вклад:</span> 17540</div>
+                <div><span>Текущий вклад:</span> 18040</div>
+                <div><span>Сумма залитых молний:</span> 500</div>
+                <div><span>Прирост за цикл:</span> 500</div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="card">
+        <div class="place">#10</div>
+        <div class="avatar" style="background-image: url('avatars/akiragame.jpg');"></div>
+        <div class="info">
+            <div class="nickname">
+                <a href="https://remanga.org/user/1714962/about" target="_blank">AkiraGame</a>
+            </div>
+            <div class="stats">
+                <div><span>Начальный вклад:</span> 47500</div>
+                <div><span>Текущий вклад:</span> 47710</div>
+                <div><span>Сумма залитых молний:</span> 210</div>
+                <div><span>Прирост за цикл:</span> 210</div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="card">
+        <div class="place">#11</div>
+        <div class="avatar" style="background-image: url('avatars/calistotzy.jpg');"></div>
+        <div class="info">
+            <div class="nickname">
+                <a href="https://remanga.org/user/75644/about" target="_blank">CalistoTzy</a>
+            </div>
+            <div class="stats">
+                <div><span>Начальный вклад:</span> 114000</div>
+                <div><span>Текущий вклад:</span> 114000</div>
+                <div><span>Сумма залитых молний:</span> 0</div>
+                <div><span>Прирост за цикл:</span> 0</div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="card">
+        <div class="place">#12</div>
+        <div class="avatar" style="background-image: url('avatars/mилыйkoxaй.jpg');"></div>
+        <div class="info">
+            <div class="nickname">
+                <a href="https://remanga.org/user/45081/about" target="_blank">МилыйКохай</a>
+            </div>
+            <div class="stats">
+                <div><span>Начальный вклад:</span> 109320</div>
+                <div><span>Текущий вклад:</span> 109320</div>
+                <div><span>Сумма залитых молний:</span> 0</div>
+                <div><span>Прирост за цикл:</span> 0</div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="card">
+        <div class="place">#13</div>
+        <div class="avatar" style="background-image: url('avatars/casepona.jpg');"></div>
+        <div class="info">
+            <div class="nickname">
+                <a href="https://remanga.org/user/574245/about" target="_blank">Casepona</a>
+            </div>
+            <div class="stats">
+                <div><span>Начальный вклад:</span> 157780</div>
+                <div><span>Текущий вклад:</span> 157780</div>
+                <div><span>Сумма залитых молний:</span> 0</div>
+                <div><span>Прирост за цикл:</span> 0</div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="card">
+        <div class="place">#14</div>
+        <div class="avatar" style="background-image: url('avatars/zurichka.jpg');"></div>
+        <div class="info">
+            <div class="nickname">
+                <a href="https://remanga.org/user/189990/about" target="_blank">Zurichka</a>
+            </div>
+            <div class="stats">
+                <div><span>Начальный вклад:</span> 36000</div>
+                <div><span>Текущий вклад:</span> 36000</div>
+                <div><span>Сумма залитых молний:</span> 0</div>
+                <div><span>Прирост за цикл:</span> 0</div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="card">
+        <div class="place">#15</div>
+        <div class="avatar" style="background-image: url('avatars/belashik.jpg');"></div>
+        <div class="info">
+            <div class="nickname">
+                <a href="https://remanga.org/user/175047/about" target="_blank">Belashik</a>
+            </div>
+            <div class="stats">
+                <div><span>Начальный вклад:</span> 104070</div>
+                <div><span>Текущий вклад:</span> 104070</div>
+                <div><span>Сумма залитых молний:</span> 0</div>
+                <div><span>Прирост за цикл:</span> 0</div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="card">
+        <div class="place">#16</div>
+        <div class="avatar" style="background-image: url('avatars/wertyservyt.jpg');"></div>
+        <div class="info">
+            <div class="nickname">
+                <a href="https://remanga.org/user/364625/about" target="_blank">Werty-Servyt</a>
+            </div>
+            <div class="stats">
+                <div><span>Начальный вклад:</span> 123340</div>
+                <div><span>Текущий вклад:</span> 123340</div>
+                <div><span>Сумма залитых молний:</span> 0</div>
+                <div><span>Прирост за цикл:</span> 0</div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="card">
+        <div class="place">#17</div>
+        <div class="avatar" style="background-image: url('avatars/markutts.jpg');"></div>
+        <div class="info">
+            <div class="nickname">
+                <a href="https://remanga.org/user/660145/about" target="_blank">MARKUTTs</a>
+            </div>
+            <div class="stats">
+                <div><span>Начальный вклад:</span> 44500</div>
+                <div><span>Текущий вклад:</span> 44500</div>
+                <div><span>Сумма залитых молний:</span> 0</div>
+                <div><span>Прирост за цикл:</span> 0</div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="card">
+        <div class="place">#18</div>
+        <div class="avatar" style="background-image: url('avatars/ewnobon.jpg');"></div>
+        <div class="info">
+            <div class="nickname">
+                <a href="https://remanga.org/user/155090/about" target="_blank">EW_NoBoN</a>
+            </div>
+            <div class="stats">
+                <div><span>Начальный вклад:</span> 53000</div>
+                <div><span>Текущий вклад:</span> 53000</div>
+                <div><span>Сумма залитых молний:</span> 0</div>
+                <div><span>Прирост за цикл:</span> 0</div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="card">
+        <div class="place">#19</div>
+        <div class="avatar" style="background-image: url('avatars/healot.jpg');"></div>
+        <div class="info">
+            <div class="nickname">
+                <a href="https://remanga.org/user/2505495/about" target="_blank">healot</a>
+            </div>
+            <div class="stats">
+                <div><span>Начальный вклад:</span> 16500</div>
+                <div><span>Текущий вклад:</span> 16500</div>
+                <div><span>Сумма залитых молний:</span> 0</div>
+                <div><span>Прирост за цикл:</span> 0</div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="card">
+        <div class="place">#20</div>
+        <div class="avatar" style="background-image: url('avatars/festashka.jpg');"></div>
+        <div class="info">
+            <div class="nickname">
+                <a href="https://remanga.org/user/199911/about" target="_blank">_festashka_</a>
+            </div>
+            <div class="stats">
+                <div><span>Начальный вклад:</span> 56250</div>
+                <div><span>Текущий вклад:</span> 56250</div>
+                <div><span>Сумма залитых молний:</span> 0</div>
+                <div><span>Прирост за цикл:</span> 0</div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="card">
+        <div class="place">#21</div>
+        <div class="avatar" style="background-image: url('avatars/chitandael.jpg');"></div>
+        <div class="info">
+            <div class="nickname">
+                <a href="https://remanga.org/user/372102/about" target="_blank">Chitandael</a>
+            </div>
+            <div class="stats">
+                <div><span>Начальный вклад:</span> 29380</div>
+                <div><span>Текущий вклад:</span> 29380</div>
+                <div><span>Сумма залитых молний:</span> 0</div>
+                <div><span>Прирост за цикл:</span> 0</div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="card">
+        <div class="place">#22</div>
+        <div class="avatar" style="background-image: url('avatars/tavik.jpg');"></div>
+        <div class="info">
+            <div class="nickname">
+                <a href="https://remanga.org/user/72974/about" target="_blank">Tavik</a>
+            </div>
+            <div class="stats">
+                <div><span>Начальный вклад:</span> 48770</div>
+                <div><span>Текущий вклад:</span> 48770</div>
+                <div><span>Сумма залитых молний:</span> 0</div>
+                <div><span>Прирост за цикл:</span> 0</div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="card">
+        <div class="place">#23</div>
+        <div class="avatar" style="background-image: url('avatars/meeqq.jpg');"></div>
+        <div class="info">
+            <div class="nickname">
+                <a href="https://remanga.org/user/2360369/about" target="_blank">MeeQ_Q</a>
+            </div>
+            <div class="stats">
+                <div><span>Начальный вклад:</span> 39750</div>
+                <div><span>Текущий вклад:</span> 39750</div>
+                <div><span>Сумма залитых молний:</span> 0</div>
+                <div><span>Прирост за цикл:</span> 0</div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="card">
+        <div class="place">#24</div>
+        <div class="avatar" style="background-image: url('avatars/thostriel.jpg');"></div>
+        <div class="info">
+            <div class="nickname">
+                <a href="https://remanga.org/user/1405392/about" target="_blank">Thostriel</a>
+            </div>
+            <div class="stats">
+                <div><span>Начальный вклад:</span> 37810</div>
+                <div><span>Текущий вклад:</span> 37810</div>
+                <div><span>Сумма залитых молний:</span> 0</div>
+                <div><span>Прирост за цикл:</span> 0</div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="card">
+        <div class="place">#25</div>
+        <div class="avatar" style="background-image: url('avatars/overcooling.jpg');"></div>
+        <div class="info">
+            <div class="nickname">
+                <a href="https://remanga.org/user/52079/about" target="_blank">Overcooling</a>
+            </div>
+            <div class="stats">
+                <div><span>Начальный вклад:</span> 35500</div>
+                <div><span>Текущий вклад:</span> 35500</div>
+                <div><span>Сумма залитых молний:</span> 0</div>
+                <div><span>Прирост за цикл:</span> 0</div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="card">
+        <div class="place">#26</div>
+        <div class="avatar" style="background-image: url('avatars/admiralsengoku.jpg');"></div>
+        <div class="info">
+            <div class="nickname">
+                <a href="https://remanga.org/user/1529739/about" target="_blank">ADMIRAL_SENGOKU</a>
+            </div>
+            <div class="stats">
+                <div><span>Начальный вклад:</span> 28000</div>
+                <div><span>Текущий вклад:</span> 28000</div>
+                <div><span>Сумма залитых молний:</span> 0</div>
+                <div><span>Прирост за цикл:</span> 0</div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="card">
+        <div class="place">#27</div>
+        <div class="avatar" style="background-image: url('avatars/arbogastr.jpg');"></div>
+        <div class="info">
+            <div class="nickname">
+                <a href="https://remanga.org/user/993371/about" target="_blank">Arbogastr</a>
+            </div>
+            <div class="stats">
+                <div><span>Начальный вклад:</span> 31500</div>
+                <div><span>Текущий вклад:</span> 31500</div>
+                <div><span>Сумма залитых молний:</span> 0</div>
+                <div><span>Прирост за цикл:</span> 0</div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="card">
+        <div class="place">#28</div>
+        <div class="avatar" style="background-image: url('avatars/kodokunayurei.jpg');"></div>
+        <div class="info">
+            <div class="nickname">
+                <a href="https://remanga.org/user/108546/about" target="_blank">KodokunaYurei</a>
+            </div>
+            <div class="stats">
+                <div><span>Начальный вклад:</span> 54990</div>
+                <div><span>Текущий вклад:</span> 54990</div>
+                <div><span>Сумма залитых молний:</span> 0</div>
+                <div><span>Прирост за цикл:</span> 0</div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="card">
+        <div class="place">#29</div>
+        <div class="avatar" style="background-image: url('avatars/harlequ1n.jpg');"></div>
+        <div class="info">
+            <div class="nickname">
+                <a href="https://remanga.org/user/959231/about" target="_blank">HARLEQU1N</a>
+            </div>
+            <div class="stats">
+                <div><span>Начальный вклад:</span> 21790</div>
+                <div><span>Текущий вклад:</span> 21790</div>
+                <div><span>Сумма залитых молний:</span> 0</div>
+                <div><span>Прирост за цикл:</span> 0</div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="card">
+        <div class="place">#30</div>
+        <div class="avatar" style="background-image: url('avatars/andrefalkonen.jpg');"></div>
+        <div class="info">
+            <div class="nickname">
+                <a href="https://remanga.org/user/35664/about" target="_blank">Andre_Falkonen</a>
+            </div>
+            <div class="stats">
+                <div><span>Начальный вклад:</span> 32890</div>
+                <div><span>Текущий вклад:</span> 32890</div>
+                <div><span>Сумма залитых молний:</span> 0</div>
+                <div><span>Прирост за цикл:</span> 0</div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="card">
+        <div class="place">#31</div>
+        <div class="avatar" style="background-image: url('avatars/bagas.jpg');"></div>
+        <div class="info">
+            <div class="nickname">
+                <a href="https://remanga.org/user/79904/about" target="_blank">Bagas</a>
+            </div>
+            <div class="stats">
+                <div><span>Начальный вклад:</span> 22360</div>
+                <div><span>Текущий вклад:</span> 22360</div>
+                <div><span>Сумма залитых молний:</span> 0</div>
+                <div><span>Прирост за цикл:</span> 0</div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="card">
+        <div class="place">#32</div>
+        <div class="avatar" style="background-image: url('avatars/йopm.jpg');"></div>
+        <div class="info">
+            <div class="nickname">
+                <a href="https://remanga.org/user/208257/about" target="_blank">Йорм</a>
+            </div>
+            <div class="stats">
+                <div><span>Начальный вклад:</span> 13160</div>
+                <div><span>Текущий вклад:</span> 13160</div>
+                <div><span>Сумма залитых молний:</span> 0</div>
+                <div><span>Прирост за цикл:</span> 0</div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="card">
+        <div class="place">#33</div>
+        <div class="avatar" style="background-image: url('avatars/ewtaya.jpg');"></div>
+        <div class="info">
+            <div class="nickname">
+                <a href="https://remanga.org/user/2325061/about" target="_blank">EW_Taya_</a>
+            </div>
+            <div class="stats">
+                <div><span>Начальный вклад:</span> 36440</div>
+                <div><span>Текущий вклад:</span> 36440</div>
+                <div><span>Сумма залитых молний:</span> 0</div>
+                <div><span>Прирост за цикл:</span> 0</div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="card">
+        <div class="place">#34</div>
+        <div class="avatar" style="background-image: url('avatars/clf.jpg');"></div>
+        <div class="info">
+            <div class="nickname">
+                <a href="https://remanga.org/user/942689/about" target="_blank">Clf</a>
+            </div>
+            <div class="stats">
+                <div><span>Начальный вклад:</span> 24190</div>
+                <div><span>Текущий вклад:</span> 24190</div>
+                <div><span>Сумма залитых молний:</span> 0</div>
+                <div><span>Прирост за цикл:</span> 0</div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="card">
+        <div class="place">#35</div>
+        <div class="avatar" style="background-image: url('avatars/kaйдeh.jpg');"></div>
+        <div class="info">
+            <div class="nickname">
+                <a href="https://remanga.org/user/439629/about" target="_blank">Кайден</a>
+            </div>
+            <div class="stats">
+                <div><span>Начальный вклад:</span> 37610</div>
+                <div><span>Текущий вклад:</span> 37610</div>
+                <div><span>Сумма залитых молний:</span> 0</div>
+                <div><span>Прирост за цикл:</span> 0</div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="card">
+        <div class="place">#36</div>
+        <div class="avatar" style="background-image: url('avatars/nikita9.jpg');"></div>
+        <div class="info">
+            <div class="nickname">
+                <a href="https://remanga.org/user/3040361/about" target="_blank">𝕹𝖎𝖐𝖎𝖙𝖆⁹</a>
+            </div>
+            <div class="stats">
+                <div><span>Начальный вклад:</span> 44630</div>
+                <div><span>Текущий вклад:</span> 44630</div>
+                <div><span>Сумма залитых молний:</span> 0</div>
+                <div><span>Прирост за цикл:</span> 0</div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="card">
+        <div class="place">#37</div>
+        <div class="avatar" style="background-image: url('avatars/loly2810.jpg');"></div>
+        <div class="info">
+            <div class="nickname">
+                <a href="https://remanga.org/user/732690/about" target="_blank">Loly2810</a>
+            </div>
+            <div class="stats">
+                <div><span>Начальный вклад:</span> 14650</div>
+                <div><span>Текущий вклад:</span> 14650</div>
+                <div><span>Сумма залитых молний:</span> 0</div>
+                <div><span>Прирост за цикл:</span> 0</div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="card">
+        <div class="place">#38</div>
+        <div class="avatar" style="background-image: url('avatars/placeholder.jpg');"></div>
+        <div class="info">
+            <div class="nickname">
+                <a href="https://remanga.org/user/191280/about" target="_blank">гдемойстояк</a>
+            </div>
+            <div class="stats">
+                <div><span>Начальный вклад:</span> 10000</div>
+                <div><span>Текущий вклад:</span> 10000</div>
+                <div><span>Сумма залитых молний:</span> 0</div>
+                <div><span>Прирост за цикл:</span> 0</div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="card">
+        <div class="place">#39</div>
+        <div class="avatar" style="background-image: url('avatars/frostik4.jpg');"></div>
+        <div class="info">
+            <div class="nickname">
+                <a href="https://remanga.org/user/3003544/about" target="_blank">Frostik4</a>
+            </div>
+            <div class="stats">
+                <div><span>Начальный вклад:</span> 25700</div>
+                <div><span>Текущий вклад:</span> 25700</div>
+                <div><span>Сумма залитых молний:</span> 0</div>
+                <div><span>Прирост за цикл:</span> 0</div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="card">
+        <div class="place">#40</div>
+        <div class="avatar" style="background-image: url('avatars/merrihew.jpg');"></div>
+        <div class="info">
+            <div class="nickname">
+                <a href="https://remanga.org/user/1496494/about" target="_blank">Merrihew</a>
+            </div>
+            <div class="stats">
+                <div><span>Начальный вклад:</span> 27430</div>
+                <div><span>Текущий вклад:</span> 27430</div>
+                <div><span>Сумма залитых молний:</span> 0</div>
+                <div><span>Прирост за цикл:</span> 0</div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="card">
+        <div class="place">#41</div>
+        <div class="avatar" style="background-image: url('avatars/misikira.jpg');"></div>
+        <div class="info">
+            <div class="nickname">
+                <a href="https://remanga.org/user/2350456/about" target="_blank">Misikira</a>
+            </div>
+            <div class="stats">
+                <div><span>Начальный вклад:</span> 16300</div>
+                <div><span>Текущий вклад:</span> 16300</div>
+                <div><span>Сумма залитых молний:</span> 0</div>
+                <div><span>Прирост за цикл:</span> 0</div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="card">
+        <div class="place">#42</div>
+        <div class="avatar" style="background-image: url('avatars/creamwhite.jpg');"></div>
+        <div class="info">
+            <div class="nickname">
+                <a href="https://remanga.org/user/133044/about" target="_blank">CreamWhite</a>
+            </div>
+            <div class="stats">
+                <div><span>Начальный вклад:</span> 21000</div>
+                <div><span>Текущий вклад:</span> 21000</div>
+                <div><span>Сумма залитых молний:</span> 0</div>
+                <div><span>Прирост за цикл:</span> 0</div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="card">
+        <div class="place">#43</div>
+        <div class="avatar" style="background-image: url('avatars/payk.jpg');"></div>
+        <div class="info">
+            <div class="nickname">
+                <a href="https://remanga.org/user/155452/about" target="_blank">Payk_</a>
+            </div>
+            <div class="stats">
+                <div><span>Начальный вклад:</span> 25000</div>
+                <div><span>Текущий вклад:</span> 25000</div>
+                <div><span>Сумма залитых молний:</span> 0</div>
+                <div><span>Прирост за цикл:</span> 0</div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="card">
+        <div class="place">#44</div>
+        <div class="avatar" style="background-image: url('avatars/ミュージシャン.jpg');"></div>
+        <div class="info">
+            <div class="nickname">
+                <a href="https://remanga.org/user/938359/about" target="_blank">ミュージシャン</a>
+            </div>
+            <div class="stats">
+                <div><span>Начальный вклад:</span> 105000</div>
+                <div><span>Текущий вклад:</span> 105000</div>
+                <div><span>Сумма залитых молний:</span> 0</div>
+                <div><span>Прирост за цикл:</span> 0</div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="card">
+        <div class="place">#45</div>
+        <div class="avatar" style="background-image: url('avatars/darkangei.jpg');"></div>
+        <div class="info">
+            <div class="nickname">
+                <a href="https://remanga.org/user/458815/about" target="_blank">Dark_AngeI</a>
+            </div>
+            <div class="stats">
+                <div><span>Начальный вклад:</span> 10080</div>
+                <div><span>Текущий вклад:</span> 10080</div>
+                <div><span>Сумма залитых молний:</span> 0</div>
+                <div><span>Прирост за цикл:</span> 0</div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="card">
+        <div class="place">#46</div>
+        <div class="avatar" style="background-image: url('avatars/bloodborrn.jpg');"></div>
+        <div class="info">
+            <div class="nickname">
+                <a href="https://remanga.org/user/832683/about" target="_blank">Bloodborrn</a>
+            </div>
+            <div class="stats">
+                <div><span>Начальный вклад:</span> 13540</div>
+                <div><span>Текущий вклад:</span> 13540</div>
+                <div><span>Сумма залитых молний:</span> 0</div>
+                <div><span>Прирост за цикл:</span> 0</div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="card">
+        <div class="place">#47</div>
+        <div class="avatar" style="background-image: url('avatars/vladosrat.jpg');"></div>
+        <div class="info">
+            <div class="nickname">
+                <a href="https://remanga.org/user/1037182/about" target="_blank">vladosrat</a>
+            </div>
+            <div class="stats">
+                <div><span>Начальный вклад:</span> 44060</div>
+                <div><span>Текущий вклад:</span> 44060</div>
+                <div><span>Сумма залитых молний:</span> 0</div>
+                <div><span>Прирост за цикл:</span> 0</div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="card">
+        <div class="place">#48</div>
+        <div class="avatar" style="background-image: url('avatars/monalize.jpg');"></div>
+        <div class="info">
+            <div class="nickname">
+                <a href="https://remanga.org/user/809195/about" target="_blank">MonaLize</a>
+            </div>
+            <div class="stats">
+                <div><span>Начальный вклад:</span> 27900</div>
+                <div><span>Текущий вклад:</span> 27900</div>
+                <div><span>Сумма залитых молний:</span> 0</div>
+                <div><span>Прирост за цикл:</span> 0</div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="card">
+        <div class="place">#49</div>
+        <div class="avatar" style="background-image: url('avatars/abigor.jpg');"></div>
+        <div class="info">
+            <div class="nickname">
+                <a href="https://remanga.org/user/2093362/about" target="_blank">Abigor.</a>
+            </div>
+            <div class="stats">
+                <div><span>Начальный вклад:</span> 13920</div>
+                <div><span>Текущий вклад:</span> 13920</div>
+                <div><span>Сумма залитых молний:</span> 0</div>
+                <div><span>Прирост за цикл:</span> 0</div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="card">
+        <div class="place">#50</div>
+        <div class="avatar" style="background-image: url('avatars/гocьka.jpg');"></div>
+        <div class="info">
+            <div class="nickname">
+                <a href="https://remanga.org/user/1079084/about" target="_blank">Госька</a>
+            </div>
+            <div class="stats">
+                <div><span>Начальный вклад:</span> 26040</div>
+                <div><span>Текущий вклад:</span> 26040</div>
+                <div><span>Сумма залитых молний:</span> 0</div>
+                <div><span>Прирост за цикл:</span> 0</div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="card">
+        <div class="place">#51</div>
+        <div class="avatar" style="background-image: url('avatars/pupstv.jpg');"></div>
+        <div class="info">
+            <div class="nickname">
+                <a href="https://remanga.org/user/117177/about" target="_blank">PupsTv</a>
+            </div>
+            <div class="stats">
+                <div><span>Начальный вклад:</span> 11200</div>
+                <div><span>Текущий вклад:</span> 11200</div>
+                <div><span>Сумма залитых молний:</span> 0</div>
+                <div><span>Прирост за цикл:</span> 0</div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="card">
+        <div class="place">#52</div>
+        <div class="avatar" style="background-image: url('avatars/greein.jpg');"></div>
+        <div class="info">
+            <div class="nickname">
+                <a href="https://remanga.org/user/1089770/about" target="_blank">Gree.in</a>
+            </div>
+            <div class="stats">
+                <div><span>Начальный вклад:</span> 10010</div>
+                <div><span>Текущий вклад:</span> 10010</div>
+                <div><span>Сумма залитых молний:</span> 0</div>
+                <div><span>Прирост за цикл:</span> 0</div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="card">
+        <div class="place">#53</div>
+        <div class="avatar" style="background-image: url('avatars/kaпиtahзahyдa.jpg');"></div>
+        <div class="info">
+            <div class="nickname">
+                <a href="https://remanga.org/user/1323051/about" target="_blank">Капитан-зануда</a>
+            </div>
+            <div class="stats">
+                <div><span>Начальный вклад:</span> 12000</div>
+                <div><span>Текущий вклад:</span> 12000</div>
+                <div><span>Сумма залитых молний:</span> 0</div>
+                <div><span>Прирост за цикл:</span> 0</div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="card">
+        <div class="place">#54</div>
+        <div class="avatar" style="background-image: url('avatars/temƥest.jpg');"></div>
+        <div class="info">
+            <div class="nickname">
+                <a href="https://remanga.org/user/349055/about" target="_blank">TeᴍƤeຮt</a>
+            </div>
+            <div class="stats">
+                <div><span>Начальный вклад:</span> 10000</div>
+                <div><span>Текущий вклад:</span> 10000</div>
+                <div><span>Сумма залитых молний:</span> 0</div>
+                <div><span>Прирост за цикл:</span> 0</div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="card">
+        <div class="place">#55</div>
+        <div class="avatar" style="background-image: url('avatars/feelwhatlifeis.jpg');"></div>
+        <div class="info">
+            <div class="nickname">
+                <a href="https://remanga.org/user/2105597/about" target="_blank">Feel_what_life_is</a>
+            </div>
+            <div class="stats">
+                <div><span>Начальный вклад:</span> 26710</div>
+                <div><span>Текущий вклад:</span> 26710</div>
+                <div><span>Сумма залитых молний:</span> 0</div>
+                <div><span>Прирост за цикл:</span> 0</div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="card">
+        <div class="place">#56</div>
+        <div class="avatar" style="background-image: url('avatars/mangalev.jpg');"></div>
+        <div class="info">
+            <div class="nickname">
+                <a href="https://remanga.org/user/1096325/about" target="_blank">mangalev</a>
+            </div>
+            <div class="stats">
+                <div><span>Начальный вклад:</span> 11760</div>
+                <div><span>Текущий вклад:</span> 11760</div>
+                <div><span>Сумма залитых молний:</span> 0</div>
+                <div><span>Прирост за цикл:</span> 0</div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="card">
+        <div class="place">#57</div>
+        <div class="avatar" style="background-image: url('avatars/chirusan.jpg');"></div>
+        <div class="info">
+            <div class="nickname">
+                <a href="https://remanga.org/user/243053/about" target="_blank">Chiru-san</a>
+            </div>
+            <div class="stats">
+                <div><span>Начальный вклад:</span> 10050</div>
+                <div><span>Текущий вклад:</span> 10050</div>
+                <div><span>Сумма залитых молний:</span> 0</div>
+                <div><span>Прирост за цикл:</span> 0</div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="card">
+        <div class="place">#58</div>
+        <div class="avatar" style="background-image: url('avatars/efiliyens.jpg');"></div>
+        <div class="info">
+            <div class="nickname">
+                <a href="https://remanga.org/user/169153/about" target="_blank">Efiliyens</a>
+            </div>
+            <div class="stats">
+                <div><span>Начальный вклад:</span> 13310</div>
+                <div><span>Текущий вклад:</span> 13310</div>
+                <div><span>Сумма залитых молний:</span> 0</div>
+                <div><span>Прирост за цикл:</span> 0</div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="card">
+        <div class="place">#59</div>
+        <div class="avatar" style="background-image: url('avatars/spidvrassrochku.jpg');"></div>
+        <div class="info">
+            <div class="nickname">
+                <a href="https://remanga.org/user/10999/about" target="_blank">spidvrassrochku</a>
+            </div>
+            <div class="stats">
+                <div><span>Начальный вклад:</span> 10860</div>
+                <div><span>Текущий вклад:</span> 10860</div>
+                <div><span>Сумма залитых молний:</span> 0</div>
+                <div><span>Прирост за цикл:</span> 0</div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="card">
+        <div class="place">#60</div>
+        <div class="avatar" style="background-image: url('avatars/ckpыtыйиhtpигah.jpg');"></div>
+        <div class="info">
+            <div class="nickname">
+                <a href="https://remanga.org/user/410852/about" target="_blank">Cкрытый_интриган</a>
+            </div>
+            <div class="stats">
+                <div><span>Начальный вклад:</span> 12750</div>
+                <div><span>Текущий вклад:</span> 12750</div>
+                <div><span>Сумма залитых молний:</span> 0</div>
+                <div><span>Прирост за цикл:</span> 0</div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="card">
+        <div class="place">#61</div>
+        <div class="avatar" style="background-image: url('avatars/osmodeuss.jpg');"></div>
+        <div class="info">
+            <div class="nickname">
+                <a href="https://remanga.org/user/928524/about" target="_blank">osmodeuss</a>
+            </div>
+            <div class="stats">
+                <div><span>Начальный вклад:</span> 10050</div>
+                <div><span>Текущий вклад:</span> 10050</div>
+                <div><span>Сумма залитых молний:</span> 0</div>
+                <div><span>Прирост за цикл:</span> 0</div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="card">
+        <div class="place">#62</div>
+        <div class="avatar" style="background-image: url('avatars/talent.jpg');"></div>
+        <div class="info">
+            <div class="nickname">
+                <a href="https://remanga.org/user/926473/about" target="_blank">Talent</a>
+            </div>
+            <div class="stats">
+                <div><span>Начальный вклад:</span> 7510</div>
+                <div><span>Текущий вклад:</span> 7510</div>
+                <div><span>Сумма залитых молний:</span> 0</div>
+                <div><span>Прирост за цикл:</span> 0</div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="card">
+        <div class="place">#63</div>
+        <div class="avatar" style="background-image: url('avatars/sallikrash.jpg');"></div>
+        <div class="info">
+            <div class="nickname">
+                <a href="https://remanga.org/user/73710/about" target="_blank">SalliKrash</a>
+            </div>
+            <div class="stats">
+                <div><span>Начальный вклад:</span> 32500</div>
+                <div><span>Текущий вклад:</span> 32500</div>
+                <div><span>Сумма залитых молний:</span> 0</div>
+                <div><span>Прирост за цикл:</span> 0</div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="card">
+        <div class="place">#64</div>
+        <div class="avatar" style="background-image: url('avatars/asura.jpg');"></div>
+        <div class="info">
+            <div class="nickname">
+                <a href="https://remanga.org/user/1365587/about" target="_blank">__ASURA__</a>
+            </div>
+            <div class="stats">
+                <div><span>Начальный вклад:</span> 10090</div>
+                <div><span>Текущий вклад:</span> 10090</div>
+                <div><span>Сумма залитых молний:</span> 0</div>
+                <div><span>Прирост за цикл:</span> 0</div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="card">
+        <div class="place">#65</div>
+        <div class="avatar" style="background-image: url('avatars/jedi.jpg');"></div>
+        <div class="info">
+            <div class="nickname">
+                <a href="https://remanga.org/user/239346/about" target="_blank">Jedı</a>
+            </div>
+            <div class="stats">
+                <div><span>Начальный вклад:</span> 16550</div>
+                <div><span>Текущий вклад:</span> 16550</div>
+                <div><span>Сумма залитых молний:</span> 0</div>
+                <div><span>Прирост за цикл:</span> 0</div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="card">
+        <div class="place">#66</div>
+        <div class="avatar" style="background-image: url('avatars/sunshi.jpg');"></div>
+        <div class="info">
+            <div class="nickname">
+                <a href="https://remanga.org/user/2317545/about" target="_blank">Sunshi</a>
+            </div>
+            <div class="stats">
+                <div><span>Начальный вклад:</span> 7660</div>
+                <div><span>Текущий вклад:</span> 7660</div>
+                <div><span>Сумма залитых молний:</span> 0</div>
+                <div><span>Прирост за цикл:</span> 0</div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="card">
+        <div class="place">#67</div>
+        <div class="avatar" style="background-image: url('avatars/frozenjfx.jpg');"></div>
+        <div class="info">
+            <div class="nickname">
+                <a href="https://remanga.org/user/594356/about" target="_blank">FrozenJFX</a>
+            </div>
+            <div class="stats">
+                <div><span>Начальный вклад:</span> 22610</div>
+                <div><span>Текущий вклад:</span> 22610</div>
+                <div><span>Сумма залитых молний:</span> 0</div>
+                <div><span>Прирост за цикл:</span> 0</div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="card">
+        <div class="place">#68</div>
+        <div class="avatar" style="background-image: url('avatars/ялyчшийbmиpe.jpg');"></div>
+        <div class="info">
+            <div class="nickname">
+                <a href="https://remanga.org/user/285519/about" target="_blank">Я_лучший_в_мире</a>
+            </div>
+            <div class="stats">
+                <div><span>Начальный вклад:</span> 18080</div>
+                <div><span>Текущий вклад:</span> 18080</div>
+                <div><span>Сумма залитых молний:</span> 0</div>
+                <div><span>Прирост за цикл:</span> 0</div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="card">
+        <div class="place">#69</div>
+        <div class="avatar" style="background-image: url('avatars/rayze.jpg');"></div>
+        <div class="info">
+            <div class="nickname">
+                <a href="https://remanga.org/user/108995/about" target="_blank">RayZe</a>
+            </div>
+            <div class="stats">
+                <div><span>Начальный вклад:</span> 11430</div>
+                <div><span>Текущий вклад:</span> 11430</div>
+                <div><span>Сумма залитых молний:</span> 0</div>
+                <div><span>Прирост за цикл:</span> 0</div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="card">
+        <div class="place">#70</div>
+        <div class="avatar" style="background-image: url('avatars/k4йдэh.jpg');"></div>
+        <div class="info">
+            <div class="nickname">
+                <a href="https://remanga.org/user/1488259/about" target="_blank">К4йдэн</a>
+            </div>
+            <div class="stats">
+                <div><span>Начальный вклад:</span> 10220</div>
+                <div><span>Текущий вклад:</span> 10220</div>
+                <div><span>Сумма залитых молний:</span> 0</div>
+                <div><span>Прирост за цикл:</span> 0</div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="card">
+        <div class="place">#71</div>
+        <div class="avatar" style="background-image: url('avatars/harutsu.jpg');"></div>
+        <div class="info">
+            <div class="nickname">
+                <a href="https://remanga.org/user/415473/about" target="_blank">Harutsu</a>
+            </div>
+            <div class="stats">
+                <div><span>Начальный вклад:</span> 31280</div>
+                <div><span>Текущий вклад:</span> 31280</div>
+                <div><span>Сумма залитых молний:</span> 0</div>
+                <div><span>Прирост за цикл:</span> 0</div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="card">
+        <div class="place">#72</div>
+        <div class="avatar" style="background-image: url('avatars/nowarries.jpg');"></div>
+        <div class="info">
+            <div class="nickname">
+                <a href="https://remanga.org/user/1160253/about" target="_blank">No_warries</a>
+            </div>
+            <div class="stats">
+                <div><span>Начальный вклад:</span> 14270</div>
+                <div><span>Текущий вклад:</span> 14270</div>
+                <div><span>Сумма залитых молний:</span> 0</div>
+                <div><span>Прирост за цикл:</span> 0</div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="card">
+        <div class="place">#73</div>
+        <div class="avatar" style="background-image: url('avatars/techal.jpg');"></div>
+        <div class="info">
+            <div class="nickname">
+                <a href="https://remanga.org/user/1681839/about" target="_blank">TeChal</a>
+            </div>
+            <div class="stats">
+                <div><span>Начальный вклад:</span> 10180</div>
+                <div><span>Текущий вклад:</span> 10180</div>
+                <div><span>Сумма залитых молний:</span> 0</div>
+                <div><span>Прирост за цикл:</span> 0</div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="card">
+        <div class="place">#74</div>
+        <div class="avatar" style="background-image: url('avatars/hellsait.jpg');"></div>
+        <div class="info">
+            <div class="nickname">
+                <a href="https://remanga.org/user/2906080/about" target="_blank">Hellsait</a>
+            </div>
+            <div class="stats">
+                <div><span>Начальный вклад:</span> 9780</div>
+                <div><span>Текущий вклад:</span> 9780</div>
+                <div><span>Сумма залитых молний:</span> 0</div>
+                <div><span>Прирост за цикл:</span> 0</div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="card">
+        <div class="place">#75</div>
+        <div class="avatar" style="background-image: url('avatars/чmoшkamoшka.jpg');"></div>
+        <div class="info">
+            <div class="nickname">
+                <a href="https://remanga.org/user/2991171/about" target="_blank">Чмошка-Мошка</a>
+            </div>
+            <div class="stats">
+                <div><span>Начальный вклад:</span> 10880</div>
+                <div><span>Текущий вклад:</span> 10880</div>
+                <div><span>Сумма залитых молний:</span> 0</div>
+                <div><span>Прирост за цикл:</span> 0</div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="card">
+        <div class="place">#76</div>
+        <div class="avatar" style="background-image: url('avatars/nikesnt.jpg');"></div>
+        <div class="info">
+            <div class="nickname">
+                <a href="https://remanga.org/user/1227659/about" target="_blank">NikesNt</a>
+            </div>
+            <div class="stats">
+                <div><span>Начальный вклад:</span> 10040</div>
+                <div><span>Текущий вклад:</span> 10040</div>
+                <div><span>Сумма залитых молний:</span> 0</div>
+                <div><span>Прирост за цикл:</span> 0</div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="card">
+        <div class="place">#77</div>
+        <div class="avatar" style="background-image: url('avatars/zarti.jpg');"></div>
+        <div class="info">
+            <div class="nickname">
+                <a href="https://remanga.org/user/845606/about" target="_blank">zarti</a>
+            </div>
+            <div class="stats">
+                <div><span>Начальный вклад:</span> 10080</div>
+                <div><span>Текущий вклад:</span> 10080</div>
+                <div><span>Сумма залитых молний:</span> 0</div>
+                <div><span>Прирост за цикл:</span> 0</div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="card">
+        <div class="place">#78</div>
+        <div class="avatar" style="background-image: url('avatars/loli69228.jpg');"></div>
+        <div class="info">
+            <div class="nickname">
+                <a href="https://remanga.org/user/69929/about" target="_blank">loli69228</a>
+            </div>
+            <div class="stats">
+                <div><span>Начальный вклад:</span> 26090</div>
+                <div><span>Текущий вклад:</span> 26090</div>
+                <div><span>Сумма залитых молний:</span> 0</div>
+                <div><span>Прирост за цикл:</span> 0</div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="card">
+        <div class="place">#79</div>
+        <div class="avatar" style="background-image: url('avatars/laytee.jpg');"></div>
+        <div class="info">
+            <div class="nickname">
+                <a href="https://remanga.org/user/2488048/about" target="_blank">Laytee</a>
+            </div>
+            <div class="stats">
+                <div><span>Начальный вклад:</span> 10030</div>
+                <div><span>Текущий вклад:</span> 10030</div>
+                <div><span>Сумма залитых молний:</span> 0</div>
+                <div><span>Прирост за цикл:</span> 0</div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="card">
+        <div class="place">#80</div>
+        <div class="avatar" style="background-image: url('avatars/ctapeйшиhaчy.jpg');"></div>
+        <div class="info">
+            <div class="nickname">
+                <a href="https://remanga.org/user/69640/about" target="_blank">Старейшина-Чу</a>
+            </div>
+            <div class="stats">
+                <div><span>Начальный вклад:</span> 16550</div>
+                <div><span>Текущий вклад:</span> 16550</div>
+                <div><span>Сумма залитых молний:</span> 0</div>
+                <div><span>Прирост за цикл:</span> 0</div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="card">
+        <div class="place">#81</div>
+        <div class="avatar" style="background-image: url('avatars/abyss.jpg');"></div>
+        <div class="info">
+            <div class="nickname">
+                <a href="https://remanga.org/user/170917/about" target="_blank">_Abyss_</a>
+            </div>
+            <div class="stats">
+                <div><span>Начальный вклад:</span> 12550</div>
+                <div><span>Текущий вклад:</span> 12550</div>
+                <div><span>Сумма залитых молний:</span> 0</div>
+                <div><span>Прирост за цикл:</span> 0</div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="card">
+        <div class="place">#82</div>
+        <div class="avatar" style="background-image: url('avatars/역사관.jpg');"></div>
+        <div class="info">
+            <div class="nickname">
+                <a href="https://remanga.org/user/2448467/about" target="_blank">역사관</a>
+            </div>
+            <div class="stats">
+                <div><span>Начальный вклад:</span> 16480</div>
+                <div><span>Текущий вклад:</span> 16480</div>
+                <div><span>Сумма залитых молний:</span> 0</div>
+                <div><span>Прирост за цикл:</span> 0</div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="card">
+        <div class="place">#83</div>
+        <div class="avatar" style="background-image: url('avatars/darqee.jpg');"></div>
+        <div class="info">
+            <div class="nickname">
+                <a href="https://remanga.org/user/2234201/about" target="_blank">DarQee</a>
+            </div>
+            <div class="stats">
+                <div><span>Начальный вклад:</span> 1000</div>
+                <div><span>Текущий вклад:</span> 1000</div>
+                <div><span>Сумма залитых молний:</span> 0</div>
+                <div><span>Прирост за цикл:</span> 0</div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="card">
+        <div class="place">#84</div>
+        <div class="avatar" style="background-image: url('avatars/volcopik.jpg');"></div>
+        <div class="info">
+            <div class="nickname">
+                <a href="https://remanga.org/user/2315056/about" target="_blank">Volcopik</a>
+            </div>
+            <div class="stats">
+                <div><span>Начальный вклад:</span> 82050</div>
+                <div><span>Текущий вклад:</span> 82050</div>
+                <div><span>Сумма залитых молний:</span> 0</div>
+                <div><span>Прирост за цикл:</span> 0</div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="card">
+        <div class="place">#85</div>
+        <div class="avatar" style="background-image: url('avatars/charisma.jpg');"></div>
+        <div class="info">
+            <div class="nickname">
+                <a href="https://remanga.org/user/636791/about" target="_blank">Charisma</a>
+            </div>
+            <div class="stats">
+                <div><span>Начальный вклад:</span> 4000</div>
+                <div><span>Текущий вклад:</span> 4000</div>
+                <div><span>Сумма залитых молний:</span> 0</div>
+                <div><span>Прирост за цикл:</span> 0</div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="card">
+        <div class="place">#86</div>
+        <div class="avatar" style="background-image: url('avatars/ewmahkидиглyпый.jpg');"></div>
+        <div class="info">
+            <div class="nickname">
+                <a href="https://remanga.org/user/155435/about" target="_blank">EW_МанкиДиГлупый</a>
+            </div>
+            <div class="stats">
+                <div><span>Начальный вклад:</span> 40000</div>
+                <div><span>Текущий вклад:</span> 40000</div>
+                <div><span>Сумма залитых молний:</span> 0</div>
+                <div><span>Прирост за цикл:</span> 0</div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="card">
+        <div class="place">#87</div>
+        <div class="avatar" style="background-image: url('avatars/whiteflower.jpg');"></div>
+        <div class="info">
+            <div class="nickname">
+                <a href="https://remanga.org/user/767041/about" target="_blank">WhitеFlower</a>
+            </div>
+            <div class="stats">
+                <div><span>Начальный вклад:</span> 31000</div>
+                <div><span>Текущий вклад:</span> 31000</div>
+                <div><span>Сумма залитых молний:</span> 0</div>
+                <div><span>Прирост за цикл:</span> 0</div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="card">
+        <div class="place">#88</div>
+        <div class="avatar" style="background-image: url('avatars/wladzer.jpg');"></div>
+        <div class="info">
+            <div class="nickname">
+                <a href="https://remanga.org/user/920777/about" target="_blank">Wladzer</a>
+            </div>
+            <div class="stats">
+                <div><span>Начальный вклад:</span> 10380</div>
+                <div><span>Текущий вклад:</span> 10380</div>
+                <div><span>Сумма залитых молний:</span> 0</div>
+                <div><span>Прирост за цикл:</span> 0</div>
+            </div>
+        </div>
+    </div>
+    
+</main>
+<footer>
+    Данные на 09.08.25 07:08 МСК | Старт цикла: 08.08.25 12:00 МСК
+</footer>
+</body>
+</html>
