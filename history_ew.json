@@ -10,6 +10,16 @@
     "guild": "Eternal Watchers"
   },
   {
+    "norm": "zurichka",
+    "display": "Zurichka",
+    "initial": 36000,
+    "current": 49500,
+    "diff": 13500,
+    "avatar": "avatars/zurichka.jpg",
+    "profile": "https://remanga.org/user/189990/about",
+    "guild": "Eternal Watchers"
+  },
+  {
     "norm": "rezordaye",
     "display": "rezord_aye",
     "initial": 20070,
@@ -37,16 +47,6 @@
     "diff": 4300,
     "avatar": "avatars/p03a.jpg",
     "profile": "https://remanga.org/user/1262251/about",
-    "guild": "Eternal Watchers"
-  },
-  {
-    "norm": "zurichka",
-    "display": "Zurichka",
-    "initial": 36000,
-    "current": 38000,
-    "diff": 2000,
-    "avatar": "avatars/zurichka.jpg",
-    "profile": "https://remanga.org/user/189990/about",
     "guild": "Eternal Watchers"
   },
   {
