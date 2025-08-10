@@ -130,6 +130,16 @@
     "guild": "Eternal Watchers"
   },
   {
+    "norm": "festashka",
+    "display": "_festashka_",
+    "initial": 56250,
+    "current": 57250,
+    "diff": 1000,
+    "avatar": "avatars/festashka.jpg",
+    "profile": "https://remanga.org/user/199911/about",
+    "guild": "Eternal Watchers"
+  },
+  {
     "norm": "satisfied",
     "display": "Satisfied",
     "initial": 38170,
@@ -247,16 +257,6 @@
     "diff": 0,
     "avatar": "avatars/healot.jpg",
     "profile": "https://remanga.org/user/2505495/about",
-    "guild": "Eternal Watchers"
-  },
-  {
-    "norm": "festashka",
-    "display": "_festashka_",
-    "initial": 56250,
-    "current": 56250,
-    "diff": 0,
-    "avatar": "avatars/festashka.jpg",
-    "profile": "https://remanga.org/user/199911/about",
     "guild": "Eternal Watchers"
   },
   {
