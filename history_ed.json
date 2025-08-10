@@ -70,6 +70,16 @@
     "guild": "Eternal Demonic"
   },
   {
+    "norm": "destructiongod𒉭",
+    "display": "DestructionGod𒉭",
+    "initial": 40000,
+    "current": 44000,
+    "diff": 4000,
+    "avatar": "avatars/destructiongod𒉭.jpg",
+    "profile": "https://remanga.org/user/1650325/about",
+    "guild": "Eternal Demonic"
+  },
+  {
     "norm": "kaizaki",
     "display": "Kaizaki",
     "initial": 11394,
@@ -137,16 +147,6 @@
     "diff": 2050,
     "avatar": "avatars/beast.jpg",
     "profile": "https://remanga.org/user/1935045/about",
-    "guild": "Eternal Demonic"
-  },
-  {
-    "norm": "destructiongod𒉭",
-    "display": "DestructionGod𒉭",
-    "initial": 40000,
-    "current": 42000,
-    "diff": 2000,
-    "avatar": "avatars/destructiongod𒉭.jpg",
-    "profile": "https://remanga.org/user/1650325/about",
     "guild": "Eternal Demonic"
   },
   {
