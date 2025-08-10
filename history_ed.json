@@ -1,382 +1,202 @@
 [
   {
-    "norm": "flammenoire",
-    "display": "FlammeNoire",
-    "initial": 21640,
-    "current": 38680,
-    "diff": 17040,
-    "avatar": "avatars/flammenoire.jpg",
-    "profile": "https://remanga.org/user/2384260/about",
-    "guild": "Eternal Demonic"
-  },
-  {
     "norm": "urus",
     "display": "URUS",
     "initial": 8000,
-    "current": 24760,
-    "diff": 16760,
-    "avatar": "avatars/urus.jpg",
-    "profile": "https://remanga.org/user/46754/about",
+    "current": 8000,
+    "diff": 0,
+    "avatar": "avatars/placeholder.jpg",
+    "profile": "https://remanga.org",
     "guild": "Eternal Demonic"
   },
   {
     "norm": "pepegaronni",
     "display": "Pepegaronni",
     "initial": 10638,
-    "current": 22330,
-    "diff": 11692,
-    "avatar": "avatars/pepegaronni.jpg",
-    "profile": "https://remanga.org/user/27168/about",
+    "current": 10638,
+    "diff": 0,
+    "avatar": "avatars/placeholder.jpg",
+    "profile": "https://remanga.org",
     "guild": "Eternal Demonic"
   },
   {
     "norm": "allentina",
     "display": "allentina",
     "initial": 19500,
-    "current": 25900,
-    "diff": 6400,
-    "avatar": "avatars/allentina.jpg",
-    "profile": "https://remanga.org/user/890414/about",
-    "guild": "Eternal Demonic"
-  },
-  {
-    "norm": "ronin74",
-    "display": "Ronin74",
-    "initial": 36010,
-    "current": 42030,
-    "diff": 6020,
-    "avatar": "avatars/ronin74.jpg",
-    "profile": "https://remanga.org/user/76998/about",
+    "current": 19500,
+    "diff": 0,
+    "avatar": "avatars/placeholder.jpg",
+    "profile": "https://remanga.org",
     "guild": "Eternal Demonic"
   },
   {
     "norm": "@toxic",
     "display": "@𝑻𝑶𝑿𝑰𝑪",
     "initial": 11880,
-    "current": 17000,
-    "diff": 5120,
-    "avatar": "avatars/@toxic.jpg",
-    "profile": "https://remanga.org/user/3204383/about",
+    "current": 11880,
+    "diff": 0,
+    "avatar": "avatars/placeholder.jpg",
+    "profile": "https://remanga.org",
+    "guild": "Eternal Demonic"
+  },
+  {
+    "norm": "ronin74",
+    "display": "Ronin74",
+    "initial": 36010,
+    "current": 36010,
+    "diff": 0,
+    "avatar": "avatars/placeholder.jpg",
+    "profile": "https://remanga.org",
     "guild": "Eternal Demonic"
   },
   {
     "norm": "ham021",
     "display": "Ham021",
     "initial": 22000,
-    "current": 26000,
-    "diff": 4000,
-    "avatar": "avatars/ham021.jpg",
-    "profile": "https://remanga.org/user/27288/about",
+    "current": 22000,
+    "diff": 0,
+    "avatar": "avatars/placeholder.jpg",
+    "profile": "https://remanga.org",
     "guild": "Eternal Demonic"
   },
   {
     "norm": "mmarti",
     "display": "mmarti",
     "initial": 8000,
-    "current": 12000,
-    "diff": 4000,
-    "avatar": "avatars/mmarti.jpg",
-    "profile": "https://remanga.org/user/184784/about",
+    "current": 8000,
+    "diff": 0,
+    "avatar": "avatars/placeholder.jpg",
+    "profile": "https://remanga.org",
     "guild": "Eternal Demonic"
   },
   {
-    "norm": "destructiongod𒉭",
-    "display": "DestructionGod𒉭",
-    "initial": 40000,
-    "current": 44000,
-    "diff": 4000,
-    "avatar": "avatars/destructiongod𒉭.jpg",
-    "profile": "https://remanga.org/user/1650325/about",
+    "norm": "flammenoire",
+    "display": "FlammeNoire",
+    "initial": 21640,
+    "current": 21640,
+    "diff": 0,
+    "avatar": "avatars/placeholder.jpg",
+    "profile": "https://remanga.org",
     "guild": "Eternal Demonic"
   },
   {
     "norm": "kaizaki",
     "display": "Kaizaki",
     "initial": 11394,
-    "current": 14670,
-    "diff": 3276,
+    "current": 11394,
+    "diff": 0,
     "avatar": "avatars/placeholder.jpg",
-    "profile": "https://remanga.org/user/40277/about",
-    "guild": "Eternal Demonic"
-  },
-  {
-    "norm": "riverfreedom",
-    "display": "RiverFreedom",
-    "initial": 9000,
-    "current": 12000,
-    "diff": 3000,
-    "avatar": "avatars/riverfreedom.jpg",
-    "profile": "https://remanga.org/user/3215284/about",
+    "profile": "https://remanga.org",
     "guild": "Eternal Demonic"
   },
   {
     "norm": "dergauss",
     "display": "Dergauss",
     "initial": 10000,
-    "current": 12500,
-    "diff": 2500,
-    "avatar": "avatars/dergauss.jpg",
-    "profile": "https://remanga.org/user/57091/about",
+    "current": 10000,
+    "diff": 0,
+    "avatar": "avatars/placeholder.jpg",
+    "profile": "https://remanga.org",
     "guild": "Eternal Demonic"
   },
   {
     "norm": "trololomio",
     "display": "Trololo_Mio",
     "initial": 8410,
-    "current": 10590,
-    "diff": 2180,
-    "avatar": "avatars/trololomio.jpg",
-    "profile": "https://remanga.org/user/3263817/about",
-    "guild": "Eternal Demonic"
-  },
-  {
-    "norm": "rwbylove",
-    "display": "RWBYLOVE",
-    "initial": 10000,
-    "current": 12120,
-    "diff": 2120,
-    "avatar": "avatars/rwbylove.jpg",
-    "profile": "https://remanga.org/user/740757/about",
+    "current": 8410,
+    "diff": 0,
+    "avatar": "avatars/placeholder.jpg",
+    "profile": "https://remanga.org",
     "guild": "Eternal Demonic"
   },
   {
     "norm": "beast",
     "display": "Beast_",
     "initial": 37930,
-    "current": 39980,
-    "diff": 2050,
-    "avatar": "avatars/beast.jpg",
-    "profile": "https://remanga.org/user/1935045/about",
+    "current": 37930,
+    "diff": 0,
+    "avatar": "avatars/placeholder.jpg",
+    "profile": "https://remanga.org",
     "guild": "Eternal Demonic"
   },
   {
-    "norm": "overtime",
-    "display": "over-time",
-    "initial": 9190,
-    "current": 11190,
-    "diff": 2000,
-    "avatar": "avatars/overtime.jpg",
-    "profile": "https://remanga.org/user/899302/about",
+    "norm": "destructiongod𒉭",
+    "display": "DestructionGod𒉭",
+    "initial": 40000,
+    "current": 40000,
+    "diff": 0,
+    "avatar": "avatars/placeholder.jpg",
+    "profile": "https://remanga.org",
     "guild": "Eternal Demonic"
   },
   {
     "norm": "zatex",
     "display": "Zatex",
     "initial": 10004,
-    "current": 11380,
-    "diff": 1376,
-    "avatar": "avatars/zatex.jpg",
-    "profile": "https://remanga.org/user/246605/about",
-    "guild": "Eternal Demonic"
-  },
-  {
-    "norm": "sckatman",
-    "display": "Sckat_Man",
-    "initial": 4000,
-    "current": 5220,
-    "diff": 1220,
-    "avatar": "avatars/sckatman.jpg",
-    "profile": "https://remanga.org/user/136935/about",
+    "current": 10004,
+    "diff": 0,
+    "avatar": "avatars/placeholder.jpg",
+    "profile": "https://remanga.org",
     "guild": "Eternal Demonic"
   },
   {
     "norm": "trillo",
     "display": "Trillo",
     "initial": 7210,
-    "current": 8320,
-    "diff": 1110,
-    "avatar": "avatars/trillo.jpg",
-    "profile": "https://remanga.org/user/207200/about",
+    "current": 7210,
+    "diff": 0,
+    "avatar": "avatars/placeholder.jpg",
+    "profile": "https://remanga.org",
     "guild": "Eternal Demonic"
   },
   {
-    "norm": "akihiko",
-    "display": "Akihiko",
-    "initial": 7900,
+    "norm": "riverfreedom",
+    "display": "RiverFreedom",
+    "initial": 9000,
     "current": 9000,
-    "diff": 1100,
-    "avatar": "avatars/akihiko.jpg",
-    "profile": "https://remanga.org/user/183282/about",
+    "diff": 0,
+    "avatar": "avatars/placeholder.jpg",
+    "profile": "https://remanga.org",
     "guild": "Eternal Demonic"
   },
   {
     "norm": "谢怜",
     "display": ".谢怜.",
     "initial": 9000,
-    "current": 10000,
-    "diff": 1000,
-    "avatar": "avatars/谢怜.jpg",
-    "profile": "https://remanga.org/user/164257/about",
+    "current": 9000,
+    "diff": 0,
+    "avatar": "avatars/placeholder.jpg",
+    "profile": "https://remanga.org",
     "guild": "Eternal Demonic"
   },
   {
     "norm": "akashi550",
     "display": "Akashi550",
     "initial": 8000,
-    "current": 9000,
-    "diff": 1000,
-    "avatar": "avatars/akashi550.jpg",
-    "profile": "https://remanga.org/user/617426/about",
+    "current": 8000,
+    "diff": 0,
+    "avatar": "avatars/placeholder.jpg",
+    "profile": "https://remanga.org",
     "guild": "Eternal Demonic"
   },
   {
     "norm": "kim5+",
     "display": "Kim_5+",
     "initial": 7000,
-    "current": 8000,
-    "diff": 1000,
-    "avatar": "avatars/kim5+.jpg",
-    "profile": "https://remanga.org/user/880531/about",
+    "current": 7000,
+    "diff": 0,
+    "avatar": "avatars/placeholder.jpg",
+    "profile": "https://remanga.org",
     "guild": "Eternal Demonic"
   },
   {
     "norm": "cracker7",
     "display": "Cracker_7",
     "initial": 8500,
-    "current": 9500,
-    "diff": 1000,
-    "avatar": "avatars/cracker7.jpg",
-    "profile": "https://remanga.org/user/197380/about",
-    "guild": "Eternal Demonic"
-  },
-  {
-    "norm": "alld995",
-    "display": "AllD-995",
-    "initial": 14000,
-    "current": 15000,
-    "diff": 1000,
-    "avatar": "avatars/alld995.jpg",
-    "profile": "https://remanga.org/user/453647/about",
-    "guild": "Eternal Demonic"
-  },
-  {
-    "norm": "oblakatt",
-    "display": "OblakaT_T",
-    "initial": 9000,
-    "current": 10000,
-    "diff": 1000,
-    "avatar": "avatars/oblakatt.jpg",
-    "profile": "https://remanga.org/user/474087/about",
-    "guild": "Eternal Demonic"
-  },
-  {
-    "norm": "banshei",
-    "display": "BanShei",
-    "initial": 7000,
-    "current": 8000,
-    "diff": 1000,
-    "avatar": "avatars/banshei.jpg",
-    "profile": "https://remanga.org/user/204988/about",
-    "guild": "Eternal Demonic"
-  },
-  {
-    "norm": "takahikoo",
-    "display": "Takahikoo",
-    "initial": 8000,
-    "current": 9000,
-    "diff": 1000,
-    "avatar": "avatars/takahikoo.jpg",
-    "profile": "https://remanga.org/user/3225144/about",
-    "guild": "Eternal Demonic"
-  },
-  {
-    "norm": "so1omoon",
-    "display": "So1oMooN",
-    "initial": 7000,
-    "current": 8000,
-    "diff": 1000,
-    "avatar": "avatars/so1omoon.jpg",
-    "profile": "https://remanga.org/user/102035/about",
-    "guild": "Eternal Demonic"
-  },
-  {
-    "norm": "aмeн",
-    "display": "Амен",
-    "initial": 8000,
-    "current": 9000,
-    "diff": 1000,
-    "avatar": "avatars/aмeн.jpg",
-    "profile": "https://remanga.org/user/993301/about",
-    "guild": "Eternal Demonic"
-  },
-  {
-    "norm": "hazenberg",
-    "display": "Hazenberg",
-    "initial": 6000,
-    "current": 7000,
-    "diff": 1000,
-    "avatar": "avatars/hazenberg.jpg",
-    "profile": "https://remanga.org/user/612259/about",
-    "guild": "Eternal Demonic"
-  },
-  {
-    "norm": "samurafs",
-    "display": "SamuraFs",
-    "initial": 6000,
-    "current": 7000,
-    "diff": 1000,
-    "avatar": "avatars/samurafs.jpg",
-    "profile": "https://remanga.org/user/93225/about",
-    "guild": "Eternal Demonic"
-  },
-  {
-    "norm": "acediaqq",
-    "display": "Acediaqq",
-    "initial": 6000,
-    "current": 7000,
-    "diff": 1000,
-    "avatar": "avatars/acediaqq.jpg",
-    "profile": "https://remanga.org/user/102335/about",
-    "guild": "Eternal Demonic"
-  },
-  {
-    "norm": "дoлинapeкиcetyнь",
-    "display": "ДолинаРекиСетунь",
-    "initial": 20570,
-    "current": 21420,
-    "diff": 850,
-    "avatar": "avatars/дoлинapeкиcetyнь.jpg",
-    "profile": "https://remanga.org/user/24432/about",
-    "guild": "Eternal Demonic"
-  },
-  {
-    "norm": "haisan",
-    "display": "HaiSan",
-    "initial": 15700,
-    "current": 16500,
-    "diff": 800,
-    "avatar": "avatars/haisan.jpg",
-    "profile": "https://remanga.org/user/2577043/about",
-    "guild": "Eternal Demonic"
-  },
-  {
-    "norm": "llikojioma",
-    "display": "LLIKoJIoma",
-    "initial": 6000,
-    "current": 6500,
-    "diff": 500,
-    "avatar": "avatars/llikojioma.jpg",
-    "profile": "https://remanga.org/user/938430/about",
-    "guild": "Eternal Demonic"
-  },
-  {
-    "norm": "meimei",
-    "display": "mei_mei",
-    "initial": 9103,
-    "current": 9550,
-    "diff": 447,
-    "avatar": "avatars/meimei.jpg",
-    "profile": "https://remanga.org/user/52975/about",
-    "guild": "Eternal Demonic"
-  },
-  {
-    "norm": "издateль",
-    "display": "Издатель",
-    "initial": 11030,
-    "current": 11370,
-    "diff": 340,
-    "avatar": "avatars/издateль.jpg",
-    "profile": "https://remanga.org/user/2439923/about",
+    "current": 8500,
+    "diff": 0,
+    "avatar": "avatars/placeholder.jpg",
+    "profile": "https://remanga.org",
     "guild": "Eternal Demonic"
   },
   {
@@ -390,13 +210,33 @@
     "guild": "Eternal Demonic"
   },
   {
+    "norm": "meimei",
+    "display": "mei_mei",
+    "initial": 9103,
+    "current": 9103,
+    "diff": 0,
+    "avatar": "avatars/placeholder.jpg",
+    "profile": "https://remanga.org",
+    "guild": "Eternal Demonic"
+  },
+  {
     "norm": "silenthill",
     "display": "SilentHill",
     "initial": 23100,
     "current": 23100,
     "diff": 0,
-    "avatar": "avatars/silenthill.jpg",
-    "profile": "https://remanga.org/user/54424/about",
+    "avatar": "avatars/placeholder.jpg",
+    "profile": "https://remanga.org",
+    "guild": "Eternal Demonic"
+  },
+  {
+    "norm": "haisan",
+    "display": "HaiSan",
+    "initial": 15700,
+    "current": 15700,
+    "diff": 0,
+    "avatar": "avatars/placeholder.jpg",
+    "profile": "https://remanga.org",
     "guild": "Eternal Demonic"
   },
   {
@@ -405,8 +245,8 @@
     "initial": 14290,
     "current": 14290,
     "diff": 0,
-    "avatar": "avatars/webru.jpg",
-    "profile": "https://remanga.org/user/1727226/about",
+    "avatar": "avatars/placeholder.jpg",
+    "profile": "https://remanga.org",
     "guild": "Eternal Demonic"
   },
   {
@@ -415,8 +255,18 @@
     "initial": 22000,
     "current": 22000,
     "diff": 0,
-    "avatar": "avatars/dmitryflow.jpg",
-    "profile": "https://remanga.org/user/742164/about",
+    "avatar": "avatars/placeholder.jpg",
+    "profile": "https://remanga.org",
+    "guild": "Eternal Demonic"
+  },
+  {
+    "norm": "alld995",
+    "display": "AllD-995",
+    "initial": 14000,
+    "current": 14000,
+    "diff": 0,
+    "avatar": "avatars/placeholder.jpg",
+    "profile": "https://remanga.org",
     "guild": "Eternal Demonic"
   },
   {
@@ -425,8 +275,8 @@
     "initial": 9720,
     "current": 9720,
     "diff": 0,
-    "avatar": "avatars/hatin.jpg",
-    "profile": "https://remanga.org/user/2797890/about",
+    "avatar": "avatars/placeholder.jpg",
+    "profile": "https://remanga.org",
     "guild": "Eternal Demonic"
   },
   {
@@ -435,8 +285,18 @@
     "initial": 9280,
     "current": 9280,
     "diff": 0,
-    "avatar": "avatars/pилcyчк@.jpg",
-    "profile": "https://remanga.org/user/1245568/about",
+    "avatar": "avatars/placeholder.jpg",
+    "profile": "https://remanga.org",
+    "guild": "Eternal Demonic"
+  },
+  {
+    "norm": "издateль",
+    "display": "Издатель",
+    "initial": 11030,
+    "current": 11030,
+    "diff": 0,
+    "avatar": "avatars/placeholder.jpg",
+    "profile": "https://remanga.org",
     "guild": "Eternal Demonic"
   },
   {
@@ -445,8 +305,8 @@
     "initial": 9700,
     "current": 9700,
     "diff": 0,
-    "avatar": "avatars/gidik.jpg",
-    "profile": "https://remanga.org/user/1236516/about",
+    "avatar": "avatars/placeholder.jpg",
+    "profile": "https://remanga.org",
     "guild": "Eternal Demonic"
   },
   {
@@ -455,8 +315,18 @@
     "initial": 23100,
     "current": 23100,
     "diff": 0,
-    "avatar": "avatars/woodss.jpg",
-    "profile": "https://remanga.org/user/1450372/about",
+    "avatar": "avatars/placeholder.jpg",
+    "profile": "https://remanga.org",
+    "guild": "Eternal Demonic"
+  },
+  {
+    "norm": "rwbylove",
+    "display": "RWBYLOVE",
+    "initial": 10000,
+    "current": 10000,
+    "diff": 0,
+    "avatar": "avatars/placeholder.jpg",
+    "profile": "https://remanga.org",
     "guild": "Eternal Demonic"
   },
   {
@@ -465,8 +335,8 @@
     "initial": 10000,
     "current": 10000,
     "diff": 0,
-    "avatar": "avatars/kintownskiy.jpg",
-    "profile": "https://remanga.org/user/3983/about",
+    "avatar": "avatars/placeholder.jpg",
+    "profile": "https://remanga.org",
     "guild": "Eternal Demonic"
   },
   {
@@ -475,8 +345,8 @@
     "initial": 8000,
     "current": 8000,
     "diff": 0,
-    "avatar": "avatars/sw1ty.jpg",
-    "profile": "https://remanga.org/user/3154400/about",
+    "avatar": "avatars/placeholder.jpg",
+    "profile": "https://remanga.org",
     "guild": "Eternal Demonic"
   },
   {
@@ -485,8 +355,28 @@
     "initial": 7100,
     "current": 7100,
     "diff": 0,
-    "avatar": "avatars/leyley.jpg",
-    "profile": "https://remanga.org/user/24708/about",
+    "avatar": "avatars/placeholder.jpg",
+    "profile": "https://remanga.org",
+    "guild": "Eternal Demonic"
+  },
+  {
+    "norm": "oblakatt",
+    "display": "OblakaT_T",
+    "initial": 9000,
+    "current": 9000,
+    "diff": 0,
+    "avatar": "avatars/placeholder.jpg",
+    "profile": "https://remanga.org",
+    "guild": "Eternal Demonic"
+  },
+  {
+    "norm": "banshei",
+    "display": "BanShei",
+    "initial": 7000,
+    "current": 7000,
+    "diff": 0,
+    "avatar": "avatars/placeholder.jpg",
+    "profile": "https://remanga.org",
     "guild": "Eternal Demonic"
   },
   {
@@ -495,8 +385,8 @@
     "initial": 8000,
     "current": 8000,
     "diff": 0,
-    "avatar": "avatars/чиtateль+дpyг.jpg",
-    "profile": "https://remanga.org/user/616372/about",
+    "avatar": "avatars/placeholder.jpg",
+    "profile": "https://remanga.org",
     "guild": "Eternal Demonic"
   },
   {
@@ -505,8 +395,8 @@
     "initial": 11110,
     "current": 11110,
     "diff": 0,
-    "avatar": "avatars/jdhdbx.jpg",
-    "profile": "https://remanga.org/user/1911610/about",
+    "avatar": "avatars/placeholder.jpg",
+    "profile": "https://remanga.org",
     "guild": "Eternal Demonic"
   },
   {
@@ -515,8 +405,8 @@
     "initial": 8500,
     "current": 8500,
     "diff": 0,
-    "avatar": "avatars/vaenkh.jpg",
-    "profile": "https://remanga.org/user/410162/about",
+    "avatar": "avatars/placeholder.jpg",
+    "profile": "https://remanga.org",
     "guild": "Eternal Demonic"
   },
   {
@@ -525,8 +415,8 @@
     "initial": 8050,
     "current": 8050,
     "diff": 0,
-    "avatar": "avatars/moonsh1ne.jpg",
-    "profile": "https://remanga.org/user/128587/about",
+    "avatar": "avatars/placeholder.jpg",
+    "profile": "https://remanga.org",
     "guild": "Eternal Demonic"
   },
   {
@@ -535,8 +425,18 @@
     "initial": 11010,
     "current": 11010,
     "diff": 0,
-    "avatar": "avatars/sas47.jpg",
-    "profile": "https://remanga.org/user/2044615/about",
+    "avatar": "avatars/placeholder.jpg",
+    "profile": "https://remanga.org",
+    "guild": "Eternal Demonic"
+  },
+  {
+    "norm": "takahikoo",
+    "display": "Takahikoo",
+    "initial": 8000,
+    "current": 8000,
+    "diff": 0,
+    "avatar": "avatars/placeholder.jpg",
+    "profile": "https://remanga.org",
     "guild": "Eternal Demonic"
   },
   {
@@ -545,8 +445,8 @@
     "initial": 6000,
     "current": 6000,
     "diff": 0,
-    "avatar": "avatars/akiram.jpg",
-    "profile": "https://remanga.org/user/3307870/about",
+    "avatar": "avatars/placeholder.jpg",
+    "profile": "https://remanga.org",
     "guild": "Eternal Demonic"
   },
   {
@@ -555,8 +455,8 @@
     "initial": 26000,
     "current": 26000,
     "diff": 0,
-    "avatar": "avatars/mefisto51.jpg",
-    "profile": "https://remanga.org/user/335099/about",
+    "avatar": "avatars/placeholder.jpg",
+    "profile": "https://remanga.org",
     "guild": "Eternal Demonic"
   },
   {
@@ -565,8 +465,18 @@
     "initial": 8000,
     "current": 8000,
     "diff": 0,
-    "avatar": "avatars/samurai.jpg",
-    "profile": "https://remanga.org/user/396925/about",
+    "avatar": "avatars/placeholder.jpg",
+    "profile": "https://remanga.org",
+    "guild": "Eternal Demonic"
+  },
+  {
+    "norm": "so1omoon",
+    "display": "So1oMooN",
+    "initial": 7000,
+    "current": 7000,
+    "diff": 0,
+    "avatar": "avatars/placeholder.jpg",
+    "profile": "https://remanga.org",
     "guild": "Eternal Demonic"
   },
   {
@@ -575,8 +485,18 @@
     "initial": 8000,
     "current": 8000,
     "diff": 0,
-    "avatar": "avatars/etoromantic.jpg",
-    "profile": "https://remanga.org/user/90646/about",
+    "avatar": "avatars/placeholder.jpg",
+    "profile": "https://remanga.org",
+    "guild": "Eternal Demonic"
+  },
+  {
+    "norm": "aмeн",
+    "display": "Амен",
+    "initial": 8000,
+    "current": 8000,
+    "diff": 0,
+    "avatar": "avatars/placeholder.jpg",
+    "profile": "https://remanga.org",
     "guild": "Eternal Demonic"
   },
   {
@@ -585,8 +505,8 @@
     "initial": 9000,
     "current": 9000,
     "diff": 0,
-    "avatar": "avatars/vallynor.jpg",
-    "profile": "https://remanga.org/user/876246/about",
+    "avatar": "avatars/placeholder.jpg",
+    "profile": "https://remanga.org",
     "guild": "Eternal Demonic"
   },
   {
@@ -595,8 +515,8 @@
     "initial": 9000,
     "current": 9000,
     "diff": 0,
-    "avatar": "avatars/saytoriya.jpg",
-    "profile": "https://remanga.org/user/126709/about",
+    "avatar": "avatars/placeholder.jpg",
+    "profile": "https://remanga.org",
     "guild": "Eternal Demonic"
   },
   {
@@ -605,8 +525,8 @@
     "initial": 8000,
     "current": 8000,
     "diff": 0,
-    "avatar": "avatars/kost9n.jpg",
-    "profile": "https://remanga.org/user/48794/about",
+    "avatar": "avatars/placeholder.jpg",
+    "profile": "https://remanga.org",
     "guild": "Eternal Demonic"
   },
   {
@@ -615,8 +535,8 @@
     "initial": 8000,
     "current": 8000,
     "diff": 0,
-    "avatar": "avatars/feazxch.jpg",
-    "profile": "https://remanga.org/user/227543/about",
+    "avatar": "avatars/placeholder.jpg",
+    "profile": "https://remanga.org",
     "guild": "Eternal Demonic"
   },
   {
@@ -625,8 +545,8 @@
     "initial": 8000,
     "current": 8000,
     "diff": 0,
-    "avatar": "avatars/velialsalivan.jpg",
-    "profile": "https://remanga.org/user/220375/about",
+    "avatar": "avatars/placeholder.jpg",
+    "profile": "https://remanga.org",
     "guild": "Eternal Demonic"
   },
   {
@@ -635,8 +555,8 @@
     "initial": 8000,
     "current": 8000,
     "diff": 0,
-    "avatar": "avatars/drrи.jpg",
-    "profile": "https://remanga.org/user/823934/about",
+    "avatar": "avatars/placeholder.jpg",
+    "profile": "https://remanga.org",
     "guild": "Eternal Demonic"
   },
   {
@@ -645,8 +565,8 @@
     "initial": 6000,
     "current": 6000,
     "diff": 0,
-    "avatar": "avatars/tenofmoses.jpg",
-    "profile": "https://remanga.org/user/3176212/about",
+    "avatar": "avatars/placeholder.jpg",
+    "profile": "https://remanga.org",
     "guild": "Eternal Demonic"
   },
   {
@@ -655,8 +575,18 @@
     "initial": 6000,
     "current": 6000,
     "diff": 0,
-    "avatar": "avatars/bigmen07.jpg",
-    "profile": "https://remanga.org/user/486583/about",
+    "avatar": "avatars/placeholder.jpg",
+    "profile": "https://remanga.org",
+    "guild": "Eternal Demonic"
+  },
+  {
+    "norm": "hazenberg",
+    "display": "Hazenberg",
+    "initial": 6000,
+    "current": 6000,
+    "diff": 0,
+    "avatar": "avatars/placeholder.jpg",
+    "profile": "https://remanga.org",
     "guild": "Eternal Demonic"
   },
   {
@@ -665,18 +595,28 @@
     "initial": 10500,
     "current": 10500,
     "diff": 0,
-    "avatar": "avatars/lucifiel.jpg",
-    "profile": "https://remanga.org/user/1207689/about",
+    "avatar": "avatars/placeholder.jpg",
+    "profile": "https://remanga.org",
+    "guild": "Eternal Demonic"
+  },
+  {
+    "norm": "akihiko",
+    "display": "Akihiko",
+    "initial": 7900,
+    "current": 7900,
+    "diff": 0,
+    "avatar": "avatars/placeholder.jpg",
+    "profile": "https://remanga.org",
     "guild": "Eternal Demonic"
   },
   {
     "norm": "tiltexist",
-    "display": "TIltExist",
+    "display": "TiltExist",
     "initial": 10910,
     "current": 10910,
     "diff": 0,
-    "avatar": "avatars/tiltexist.jpg",
-    "profile": "https://remanga.org/user/98565/about",
+    "avatar": "avatars/placeholder.jpg",
+    "profile": "https://remanga.org",
     "guild": "Eternal Demonic"
   },
   {
@@ -685,8 +625,8 @@
     "initial": 9130,
     "current": 9130,
     "diff": 0,
-    "avatar": "avatars/stas211242.jpg",
-    "profile": "https://remanga.org/user/269608/about",
+    "avatar": "avatars/placeholder.jpg",
+    "profile": "https://remanga.org",
     "guild": "Eternal Demonic"
   },
   {
@@ -695,8 +635,28 @@
     "initial": 8000,
     "current": 8000,
     "diff": 0,
-    "avatar": "avatars/ckckck.jpg",
-    "profile": "https://remanga.org/user/172319/about",
+    "avatar": "avatars/placeholder.jpg",
+    "profile": "https://remanga.org",
+    "guild": "Eternal Demonic"
+  },
+  {
+    "norm": "дoлинapeкиcetyнь",
+    "display": "ДолинаРекиСетунь",
+    "initial": 20570,
+    "current": 20570,
+    "diff": 0,
+    "avatar": "avatars/placeholder.jpg",
+    "profile": "https://remanga.org",
+    "guild": "Eternal Demonic"
+  },
+  {
+    "norm": "overtime",
+    "display": "over-time",
+    "initial": 9190,
+    "current": 9190,
+    "diff": 0,
+    "avatar": "avatars/placeholder.jpg",
+    "profile": "https://remanga.org",
     "guild": "Eternal Demonic"
   },
   {
@@ -705,8 +665,8 @@
     "initial": 7000,
     "current": 7000,
     "diff": 0,
-    "avatar": "avatars/alafex.jpg",
-    "profile": "https://remanga.org/user/106279/about",
+    "avatar": "avatars/placeholder.jpg",
+    "profile": "https://remanga.org",
     "guild": "Eternal Demonic"
   },
   {
@@ -715,8 +675,8 @@
     "initial": 6000,
     "current": 6000,
     "diff": 0,
-    "avatar": "avatars/luneheim.jpg",
-    "profile": "https://remanga.org/user/646434/about",
+    "avatar": "avatars/placeholder.jpg",
+    "profile": "https://remanga.org",
     "guild": "Eternal Demonic"
   },
   {
@@ -725,8 +685,18 @@
     "initial": 10000,
     "current": 10000,
     "diff": 0,
-    "avatar": "avatars/fox94.jpg",
-    "profile": "https://remanga.org/user/158404/about",
+    "avatar": "avatars/placeholder.jpg",
+    "profile": "https://remanga.org",
+    "guild": "Eternal Demonic"
+  },
+  {
+    "norm": "samurafs",
+    "display": "SamuraFs",
+    "initial": 6000,
+    "current": 6000,
+    "diff": 0,
+    "avatar": "avatars/placeholder.jpg",
+    "profile": "https://remanga.org",
     "guild": "Eternal Demonic"
   },
   {
@@ -735,8 +705,8 @@
     "initial": 10000,
     "current": 10000,
     "diff": 0,
-    "avatar": "avatars/sanctuary.jpg",
-    "profile": "https://remanga.org/user/1511313/about",
+    "avatar": "avatars/placeholder.jpg",
+    "profile": "https://remanga.org",
     "guild": "Eternal Demonic"
   },
   {
@@ -745,8 +715,38 @@
     "initial": 9000,
     "current": 9000,
     "diff": 0,
-    "avatar": "avatars/sunburst.jpg",
-    "profile": "https://remanga.org/user/34154/about",
+    "avatar": "avatars/placeholder.jpg",
+    "profile": "https://remanga.org",
+    "guild": "Eternal Demonic"
+  },
+  {
+    "norm": "sckatman",
+    "display": "Sckat_Man",
+    "initial": 4000,
+    "current": 4000,
+    "diff": 0,
+    "avatar": "avatars/placeholder.jpg",
+    "profile": "https://remanga.org",
+    "guild": "Eternal Demonic"
+  },
+  {
+    "norm": "llikojioma",
+    "display": "LLIKoJIoma",
+    "initial": 6000,
+    "current": 6000,
+    "diff": 0,
+    "avatar": "avatars/placeholder.jpg",
+    "profile": "https://remanga.org",
+    "guild": "Eternal Demonic"
+  },
+  {
+    "norm": "acediaqq",
+    "display": "Acediaqq",
+    "initial": 6000,
+    "current": 6000,
+    "diff": 0,
+    "avatar": "avatars/placeholder.jpg",
+    "profile": "https://remanga.org",
     "guild": "Eternal Demonic"
   },
   {
@@ -755,8 +755,8 @@
     "initial": 6020,
     "current": 6020,
     "diff": 0,
-    "avatar": "avatars/necromant.jpg",
-    "profile": "https://remanga.org/user/1523481/about",
+    "avatar": "avatars/placeholder.jpg",
+    "profile": "https://remanga.org",
     "guild": "Eternal Demonic"
   },
   {
@@ -765,8 +765,8 @@
     "initial": 6000,
     "current": 6000,
     "diff": 0,
-    "avatar": "avatars/henati.jpg",
-    "profile": "https://remanga.org/user/999993/about",
+    "avatar": "avatars/placeholder.jpg",
+    "profile": "https://remanga.org",
     "guild": "Eternal Demonic"
   },
   {
@@ -785,8 +785,8 @@
     "initial": 6000,
     "current": 6000,
     "diff": 0,
-    "avatar": "avatars/aleksan09.jpg",
-    "profile": "https://remanga.org/user/3143187/about",
+    "avatar": "avatars/placeholder.jpg",
+    "profile": "https://remanga.org",
     "guild": "Eternal Demonic"
   },
   {
@@ -795,8 +795,8 @@
     "initial": 7260,
     "current": 7260,
     "diff": 0,
-    "avatar": "avatars/alanhui.jpg",
-    "profile": "https://remanga.org/user/2336976/about",
+    "avatar": "avatars/placeholder.jpg",
+    "profile": "https://remanga.org",
     "guild": "Eternal Demonic"
   }
 ]
