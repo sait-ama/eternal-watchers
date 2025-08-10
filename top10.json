@@ -50,6 +50,16 @@
     "guild": "Eternal Watchers"
   },
   {
+    "norm": "pepegaronni",
+    "display": "Pepegaronni",
+    "initial": 10638,
+    "current": 22330,
+    "diff": 11692,
+    "avatar": "avatars/pepegaronni.jpg",
+    "profile": "https://remanga.org/user/27168/about",
+    "guild": "Eternal Demonic"
+  },
+  {
     "norm": "rezordaye",
     "display": "rezord_aye",
     "initial": 20070,
@@ -58,16 +68,6 @@
     "avatar": "avatars/rezordaye.jpg",
     "profile": "https://remanga.org/user/210114/about",
     "guild": "Eternal Watchers"
-  },
-  {
-    "norm": "pepegaronni",
-    "display": "Pepegaronni",
-    "initial": 10638,
-    "current": 20330,
-    "diff": 9692,
-    "avatar": "avatars/pepegaronni.jpg",
-    "profile": "https://remanga.org/user/27168/about",
-    "guild": "Eternal Demonic"
   },
   {
     "norm": "allentina",
