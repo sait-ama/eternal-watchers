@@ -70,6 +70,16 @@
     "guild": "Eternal Demonic"
   },
   {
+    "norm": "mmarti",
+    "display": "mmarti",
+    "initial": 8000,
+    "current": 12000,
+    "diff": 4000,
+    "avatar": "avatars/mmarti.jpg",
+    "profile": "https://remanga.org/user/184784/about",
+    "guild": "Eternal Demonic"
+  },
+  {
     "norm": "destructiongod𒉭",
     "display": "DestructionGod𒉭",
     "initial": 40000,
@@ -87,16 +97,6 @@
     "diff": 3276,
     "avatar": "avatars/placeholder.jpg",
     "profile": "https://remanga.org/user/40277/about",
-    "guild": "Eternal Demonic"
-  },
-  {
-    "norm": "mmarti",
-    "display": "mmarti",
-    "initial": 8000,
-    "current": 11000,
-    "diff": 3000,
-    "avatar": "avatars/mmarti.jpg",
-    "profile": "https://remanga.org/user/184784/about",
     "guild": "Eternal Demonic"
   },
   {
