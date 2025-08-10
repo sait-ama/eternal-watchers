@@ -220,6 +220,16 @@
     "guild": "Eternal Demonic"
   },
   {
+    "norm": "alld995",
+    "display": "AllD-995",
+    "initial": 14000,
+    "current": 15000,
+    "diff": 1000,
+    "avatar": "avatars/alld995.jpg",
+    "profile": "https://remanga.org/user/453647/about",
+    "guild": "Eternal Demonic"
+  },
+  {
     "norm": "banshei",
     "display": "BanShei",
     "initial": 7000,
@@ -347,16 +357,6 @@
     "diff": 0,
     "avatar": "avatars/dmitryflow.jpg",
     "profile": "https://remanga.org/user/742164/about",
-    "guild": "Eternal Demonic"
-  },
-  {
-    "norm": "alld995",
-    "display": "AllD-995",
-    "initial": 14000,
-    "current": 14000,
-    "diff": 0,
-    "avatar": "avatars/alld995.jpg",
-    "profile": "https://remanga.org/user/453647/about",
     "guild": "Eternal Demonic"
   },
   {
