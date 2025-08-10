@@ -140,6 +140,16 @@
     "guild": "Eternal Demonic"
   },
   {
+    "norm": "riverfreedom",
+    "display": "RiverFreedom",
+    "initial": 9000,
+    "current": 11000,
+    "diff": 2000,
+    "avatar": "avatars/riverfreedom.jpg",
+    "profile": "https://remanga.org/user/3215284/about",
+    "guild": "Eternal Demonic"
+  },
+  {
     "norm": "zatex",
     "display": "Zatex",
     "initial": 10004,
@@ -157,16 +167,6 @@
     "diff": 1110,
     "avatar": "avatars/trillo.jpg",
     "profile": "https://remanga.org/user/207200/about",
-    "guild": "Eternal Demonic"
-  },
-  {
-    "norm": "riverfreedom",
-    "display": "RiverFreedom",
-    "initial": 9000,
-    "current": 10000,
-    "diff": 1000,
-    "avatar": "avatars/riverfreedom.jpg",
-    "profile": "https://remanga.org/user/3215284/about",
     "guild": "Eternal Demonic"
   },
   {
