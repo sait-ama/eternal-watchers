@@ -90,6 +90,16 @@
     "guild": "Eternal Watchers"
   },
   {
+    "norm": "loly2810",
+    "display": "Loly2810",
+    "initial": 14650,
+    "current": 16650,
+    "diff": 2000,
+    "avatar": "avatars/loly2810.jpg",
+    "profile": "https://remanga.org/user/732690/about",
+    "guild": "Eternal Watchers"
+  },
+  {
     "norm": "satisfied",
     "display": "Satisfied",
     "initial": 38170,
@@ -357,16 +367,6 @@
     "diff": 0,
     "avatar": "avatars/nikita9.jpg",
     "profile": "https://remanga.org/user/3040361/about",
-    "guild": "Eternal Watchers"
-  },
-  {
-    "norm": "loly2810",
-    "display": "Loly2810",
-    "initial": 14650,
-    "current": 14650,
-    "diff": 0,
-    "avatar": "avatars/loly2810.jpg",
-    "profile": "https://remanga.org/user/732690/about",
     "guild": "Eternal Watchers"
   },
   {
