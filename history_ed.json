@@ -250,6 +250,16 @@
     "guild": "Eternal Demonic"
   },
   {
+    "norm": "so1omoon",
+    "display": "So1oMooN",
+    "initial": 7000,
+    "current": 8000,
+    "diff": 1000,
+    "avatar": "avatars/so1omoon.jpg",
+    "profile": "https://remanga.org/user/102035/about",
+    "guild": "Eternal Demonic"
+  },
+  {
     "norm": "aмeн",
     "display": "Амен",
     "initial": 8000,
@@ -527,16 +537,6 @@
     "diff": 0,
     "avatar": "avatars/samurai.jpg",
     "profile": "https://remanga.org/user/396925/about",
-    "guild": "Eternal Demonic"
-  },
-  {
-    "norm": "so1omoon",
-    "display": "So1oMooN",
-    "initial": 7000,
-    "current": 7000,
-    "diff": 0,
-    "avatar": "avatars/so1omoon.jpg",
-    "profile": "https://remanga.org/user/102035/about",
     "guild": "Eternal Demonic"
   },
   {
