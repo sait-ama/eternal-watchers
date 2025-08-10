@@ -230,6 +230,16 @@
     "guild": "Eternal Demonic"
   },
   {
+    "norm": "hazenberg",
+    "display": "Hazenberg",
+    "initial": 6000,
+    "current": 7000,
+    "diff": 1000,
+    "avatar": "avatars/hazenberg.jpg",
+    "profile": "https://remanga.org/user/612259/about",
+    "guild": "Eternal Demonic"
+  },
+  {
     "norm": "samurafs",
     "display": "SamuraFs",
     "initial": 6000,
@@ -607,16 +617,6 @@
     "diff": 0,
     "avatar": "avatars/bigmen07.jpg",
     "profile": "https://remanga.org/user/486583/about",
-    "guild": "Eternal Demonic"
-  },
-  {
-    "norm": "hazenberg",
-    "display": "Hazenberg",
-    "initial": 6000,
-    "current": 6000,
-    "diff": 0,
-    "avatar": "avatars/hazenberg.jpg",
-    "profile": "https://remanga.org/user/612259/about",
     "guild": "Eternal Demonic"
   },
   {
