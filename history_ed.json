@@ -190,6 +190,16 @@
     "guild": "Eternal Demonic"
   },
   {
+    "norm": "akihiko",
+    "display": "Akihiko",
+    "initial": 7900,
+    "current": 9000,
+    "diff": 1100,
+    "avatar": "avatars/akihiko.jpg",
+    "profile": "https://remanga.org/user/183282/about",
+    "guild": "Eternal Demonic"
+  },
+  {
     "norm": "谢怜",
     "display": ".谢怜.",
     "initial": 9000,
@@ -317,16 +327,6 @@
     "diff": 1000,
     "avatar": "avatars/acediaqq.jpg",
     "profile": "https://remanga.org/user/102335/about",
-    "guild": "Eternal Demonic"
-  },
-  {
-    "norm": "akihiko",
-    "display": "Akihiko",
-    "initial": 7900,
-    "current": 8800,
-    "diff": 900,
-    "avatar": "avatars/akihiko.jpg",
-    "profile": "https://remanga.org/user/183282/about",
     "guild": "Eternal Demonic"
   },
   {
