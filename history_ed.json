@@ -150,6 +150,16 @@
     "guild": "Eternal Demonic"
   },
   {
+    "norm": "overtime",
+    "display": "over-time",
+    "initial": 9190,
+    "current": 11190,
+    "diff": 2000,
+    "avatar": "avatars/overtime.jpg",
+    "profile": "https://remanga.org/user/899302/about",
+    "guild": "Eternal Demonic"
+  },
+  {
     "norm": "zatex",
     "display": "Zatex",
     "initial": 10004,
@@ -667,16 +677,6 @@
     "diff": 0,
     "avatar": "avatars/ckckck.jpg",
     "profile": "https://remanga.org/user/172319/about",
-    "guild": "Eternal Demonic"
-  },
-  {
-    "norm": "overtime",
-    "display": "over-time",
-    "initial": 9190,
-    "current": 9190,
-    "diff": 0,
-    "avatar": "avatars/overtime.jpg",
-    "profile": "https://remanga.org/user/899302/about",
     "guild": "Eternal Demonic"
   },
   {
