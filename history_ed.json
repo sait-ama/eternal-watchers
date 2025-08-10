@@ -270,6 +270,16 @@
     "guild": "Eternal Demonic"
   },
   {
+    "norm": "издateль",
+    "display": "Издатель",
+    "initial": 11030,
+    "current": 11370,
+    "diff": 340,
+    "avatar": "avatars/издateль.jpg",
+    "profile": "https://remanga.org/user/2439923/about",
+    "guild": "Eternal Demonic"
+  },
+  {
     "norm": "aggressiv",
     "display": "-AGGRESSIV-",
     "initial": 7750,
@@ -337,16 +347,6 @@
     "diff": 0,
     "avatar": "avatars/pилcyчк@.jpg",
     "profile": "https://remanga.org/user/1245568/about",
-    "guild": "Eternal Demonic"
-  },
-  {
-    "norm": "издateль",
-    "display": "Издатель",
-    "initial": 11030,
-    "current": 11030,
-    "diff": 0,
-    "avatar": "avatars/издateль.jpg",
-    "profile": "https://remanga.org/user/2439923/about",
     "guild": "Eternal Demonic"
   },
   {
