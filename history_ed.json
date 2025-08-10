@@ -200,6 +200,16 @@
     "guild": "Eternal Demonic"
   },
   {
+    "norm": "cracker7",
+    "display": "Cracker_7",
+    "initial": 8500,
+    "current": 9500,
+    "diff": 1000,
+    "avatar": "avatars/cracker7.jpg",
+    "profile": "https://remanga.org/user/197380/about",
+    "guild": "Eternal Demonic"
+  },
+  {
     "norm": "banshei",
     "display": "BanShei",
     "initial": 7000,
@@ -217,16 +227,6 @@
     "diff": 1000,
     "avatar": "avatars/samurafs.jpg",
     "profile": "https://remanga.org/user/93225/about",
-    "guild": "Eternal Demonic"
-  },
-  {
-    "norm": "cracker7",
-    "display": "Cracker_7",
-    "initial": 8500,
-    "current": 9350,
-    "diff": 850,
-    "avatar": "avatars/cracker7.jpg",
-    "profile": "https://remanga.org/user/197380/about",
     "guild": "Eternal Demonic"
   },
   {
