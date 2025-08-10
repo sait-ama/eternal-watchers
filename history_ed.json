@@ -320,6 +320,16 @@
     "guild": "Eternal Demonic"
   },
   {
+    "norm": "akihiko",
+    "display": "Akihiko",
+    "initial": 7900,
+    "current": 8800,
+    "diff": 900,
+    "avatar": "avatars/akihiko.jpg",
+    "profile": "https://remanga.org/user/183282/about",
+    "guild": "Eternal Demonic"
+  },
+  {
     "norm": "дoлинapeкиcetyнь",
     "display": "ДолинаРекиСетунь",
     "initial": 20570,
@@ -657,16 +667,6 @@
     "diff": 0,
     "avatar": "avatars/lucifiel.jpg",
     "profile": "https://remanga.org/user/1207689/about",
-    "guild": "Eternal Demonic"
-  },
-  {
-    "norm": "akihiko",
-    "display": "Akihiko",
-    "initial": 7900,
-    "current": 7900,
-    "diff": 0,
-    "avatar": "avatars/akihiko.jpg",
-    "profile": "https://remanga.org/user/183282/about",
     "guild": "Eternal Demonic"
   },
   {
