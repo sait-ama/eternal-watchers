@@ -1,5 +1,15 @@
 [
   {
+    "norm": "wertyservyt",
+    "display": "Werty-Servyt",
+    "initial": 98340,
+    "current": 123340,
+    "diff": 25000,
+    "avatar": "avatars/wertyservyt.jpg",
+    "profile": "https://remanga.org/user/364625/about",
+    "guild": "Eternal Watchers"
+  },
+  {
     "norm": "desport",
     "display": "desport",
     "initial": 24730,
@@ -207,16 +217,6 @@
     "diff": 0,
     "avatar": "avatars/belashik.jpg",
     "profile": "https://remanga.org/user/175047/about",
-    "guild": "Eternal Watchers"
-  },
-  {
-    "norm": "wertyservyt",
-    "display": "Werty-Servyt",
-    "initial": 123340,
-    "current": 123340,
-    "diff": 0,
-    "avatar": "avatars/wertyservyt.jpg",
-    "profile": "https://remanga.org/user/364625/about",
     "guild": "Eternal Watchers"
   },
   {
