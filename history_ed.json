@@ -220,6 +220,16 @@
     "guild": "Eternal Demonic"
   },
   {
+    "norm": "aмeн",
+    "display": "Амен",
+    "initial": 8000,
+    "current": 9000,
+    "diff": 1000,
+    "avatar": "avatars/aмeн.jpg",
+    "profile": "https://remanga.org/user/993301/about",
+    "guild": "Eternal Demonic"
+  },
+  {
     "norm": "samurafs",
     "display": "SamuraFs",
     "initial": 6000,
@@ -517,16 +527,6 @@
     "diff": 0,
     "avatar": "avatars/etoromantic.jpg",
     "profile": "https://remanga.org/user/90646/about",
-    "guild": "Eternal Demonic"
-  },
-  {
-    "norm": "aмeн",
-    "display": "Амен",
-    "initial": 8000,
-    "current": 8000,
-    "diff": 0,
-    "avatar": "avatars/aмeн.jpg",
-    "profile": "https://remanga.org/user/993301/about",
     "guild": "Eternal Demonic"
   },
   {
