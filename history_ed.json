@@ -170,6 +170,16 @@
     "guild": "Eternal Demonic"
   },
   {
+    "norm": "sckatman",
+    "display": "Sckat_Man",
+    "initial": 4000,
+    "current": 5220,
+    "diff": 1220,
+    "avatar": "avatars/sckatman.jpg",
+    "profile": "https://remanga.org/user/136935/about",
+    "guild": "Eternal Demonic"
+  },
+  {
     "norm": "trillo",
     "display": "Trillo",
     "initial": 7210,
@@ -727,16 +737,6 @@
     "diff": 0,
     "avatar": "avatars/sunburst.jpg",
     "profile": "https://remanga.org/user/34154/about",
-    "guild": "Eternal Demonic"
-  },
-  {
-    "norm": "sckatman",
-    "display": "Sckat_Man",
-    "initial": 4000,
-    "current": 4000,
-    "diff": 0,
-    "avatar": "avatars/sckatman.jpg",
-    "profile": "https://remanga.org/user/136935/about",
     "guild": "Eternal Demonic"
   },
   {
