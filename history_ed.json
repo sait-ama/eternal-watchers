@@ -310,6 +310,16 @@
     "guild": "Eternal Demonic"
   },
   {
+    "norm": "acediaqq",
+    "display": "Acediaqq",
+    "initial": 6000,
+    "current": 7000,
+    "diff": 1000,
+    "avatar": "avatars/acediaqq.jpg",
+    "profile": "https://remanga.org/user/102335/about",
+    "guild": "Eternal Demonic"
+  },
+  {
     "norm": "дoлинapeкиcetyнь",
     "display": "ДолинаРекиСетунь",
     "initial": 20570,
@@ -737,16 +747,6 @@
     "diff": 0,
     "avatar": "avatars/sunburst.jpg",
     "profile": "https://remanga.org/user/34154/about",
-    "guild": "Eternal Demonic"
-  },
-  {
-    "norm": "acediaqq",
-    "display": "Acediaqq",
-    "initial": 6000,
-    "current": 6000,
-    "diff": 0,
-    "avatar": "avatars/acediaqq.jpg",
-    "profile": "https://remanga.org/user/102335/about",
     "guild": "Eternal Demonic"
   },
   {
