@@ -320,6 +320,26 @@
     "guild": "Eternal Watchers"
   },
   {
+    "norm": "clf",
+    "display": "Clf",
+    "initial": 24190,
+    "current": 25190,
+    "diff": 1000,
+    "avatar": "avatars/clf.jpg",
+    "profile": "https://remanga.org/user/942689/about",
+    "guild": "Eternal Watchers"
+  },
+  {
+    "norm": "гocькa",
+    "display": "Госька",
+    "initial": 26040,
+    "current": 27040,
+    "diff": 1000,
+    "avatar": "avatars/гocькa.jpg",
+    "profile": "https://remanga.org/user/1079084/about",
+    "guild": "Eternal Watchers"
+  },
+  {
     "norm": "talent",
     "display": "Talent",
     "initial": 7510,
@@ -357,16 +377,6 @@
     "diff": 500,
     "avatar": "avatars/totкtocмotpиt.jpg",
     "profile": "https://remanga.org/user/201921/about",
-    "guild": "Eternal Watchers"
-  },
-  {
-    "norm": "гocькa",
-    "display": "Госька",
-    "initial": 26040,
-    "current": 26540,
-    "diff": 500,
-    "avatar": "avatars/гocькa.jpg",
-    "profile": "https://remanga.org/user/1079084/about",
     "guild": "Eternal Watchers"
   },
   {
@@ -507,16 +517,6 @@
     "diff": 0,
     "avatar": "avatars/bagas.jpg",
     "profile": "https://remanga.org/user/79904/about",
-    "guild": "Eternal Watchers"
-  },
-  {
-    "norm": "clf",
-    "display": "Clf",
-    "initial": 24190,
-    "current": 24190,
-    "diff": 0,
-    "avatar": "avatars/clf.jpg",
-    "profile": "https://remanga.org/user/942689/about",
     "guild": "Eternal Watchers"
   },
   {
