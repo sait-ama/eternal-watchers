@@ -170,6 +170,16 @@
     "guild": "Eternal Watchers"
   },
   {
+    "norm": "zarti",
+    "display": "zarti",
+    "initial": 10080,
+    "current": 11080,
+    "diff": 1000,
+    "avatar": "avatars/zarti.jpg",
+    "profile": "https://remanga.org/user/845606/about",
+    "guild": "Eternal Watchers"
+  },
+  {
     "norm": "xmmxmm",
     "display": "Xmmxmm",
     "initial": 10000,
@@ -757,16 +767,6 @@
     "diff": 0,
     "avatar": "avatars/nikesnt.jpg",
     "profile": "https://remanga.org/user/1227659/about",
-    "guild": "Eternal Watchers"
-  },
-  {
-    "norm": "zarti",
-    "display": "zarti",
-    "initial": 10080,
-    "current": 10080,
-    "diff": 0,
-    "avatar": "avatars/zarti.jpg",
-    "profile": "https://remanga.org/user/845606/about",
     "guild": "Eternal Watchers"
   },
   {
