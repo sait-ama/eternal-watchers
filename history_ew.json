@@ -140,6 +140,16 @@
     "guild": "Eternal Watchers"
   },
   {
+    "norm": "яшtyг",
+    "display": "Яштуг",
+    "initial": 119860,
+    "current": 124030,
+    "diff": 4170,
+    "avatar": "avatars/яшtyг.jpg",
+    "profile": "https://remanga.org/user/1317566/about",
+    "guild": "Eternal Watchers"
+  },
+  {
     "norm": "ewtaya",
     "display": "EW_Taya_",
     "initial": 36440,
@@ -277,16 +287,6 @@
     "diff": 2130,
     "avatar": "avatars/placeholder.jpg",
     "profile": "https://remanga.org/user/434820/about",
-    "guild": "Eternal Watchers"
-  },
-  {
-    "norm": "яшtyг",
-    "display": "Яштуг",
-    "initial": 119860,
-    "current": 121920,
-    "diff": 2060,
-    "avatar": "avatars/яшtyг.jpg",
-    "profile": "https://remanga.org/user/1317566/about",
     "guild": "Eternal Watchers"
   },
   {
