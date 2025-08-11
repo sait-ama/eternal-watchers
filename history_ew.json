@@ -80,6 +80,16 @@
     "guild": "Eternal Watchers"
   },
   {
+    "norm": "okiarya",
+    "display": "Okiarya",
+    "initial": 40400,
+    "current": 44220,
+    "diff": 3820,
+    "avatar": "avatars/okiarya.jpg",
+    "profile": "https://remanga.org/user/2391629/about",
+    "guild": "Eternal Watchers"
+  },
+  {
     "norm": "ewnobon",
     "display": "EW_NoBoN",
     "initial": 53000,
@@ -107,6 +117,16 @@
     "diff": 2930,
     "avatar": "avatars/satisfied.jpg",
     "profile": "https://remanga.org/user/876190/about",
+    "guild": "Eternal Watchers"
+  },
+  {
+    "norm": "ewtaya",
+    "display": "EW_Taya_",
+    "initial": 36440,
+    "current": 39360,
+    "diff": 2920,
+    "avatar": "avatars/ewtaya.jpg",
+    "profile": "https://remanga.org/user/2325061/about",
     "guild": "Eternal Watchers"
   },
   {
@@ -150,16 +170,6 @@
     "guild": "Eternal Watchers"
   },
   {
-    "norm": "okiarya",
-    "display": "Okiarya",
-    "initial": 40400,
-    "current": 42620,
-    "diff": 2220,
-    "avatar": "avatars/okiarya.jpg",
-    "profile": "https://remanga.org/user/2391629/about",
-    "guild": "Eternal Watchers"
-  },
-  {
     "norm": "яшtyг",
     "display": "Яштуг",
     "initial": 119860,
@@ -167,16 +177,6 @@
     "diff": 2060,
     "avatar": "avatars/яшtyг.jpg",
     "profile": "https://remanga.org/user/1317566/about",
-    "guild": "Eternal Watchers"
-  },
-  {
-    "norm": "ewtaya",
-    "display": "EW_Taya_",
-    "initial": 36440,
-    "current": 38460,
-    "diff": 2020,
-    "avatar": "avatars/ewtaya.jpg",
-    "profile": "https://remanga.org/user/2325061/about",
     "guild": "Eternal Watchers"
   },
   {
