@@ -70,6 +70,16 @@
     "guild": "Eternal Watchers"
   },
   {
+    "norm": "p03a",
+    "display": "Р03А",
+    "initial": 23260,
+    "current": 31760,
+    "diff": 8500,
+    "avatar": "avatars/p03a.jpg",
+    "profile": "https://remanga.org/user/1262251/about",
+    "guild": "Eternal Watchers"
+  },
+  {
     "norm": "feelwhatlifeis",
     "display": "Feel_what_life_is",
     "initial": 26710,
@@ -117,16 +127,6 @@
     "diff": 4500,
     "avatar": "avatars/ewnobon.jpg",
     "profile": "https://remanga.org/user/155090/about",
-    "guild": "Eternal Watchers"
-  },
-  {
-    "norm": "p03a",
-    "display": "Р03А",
-    "initial": 23260,
-    "current": 27560,
-    "diff": 4300,
-    "avatar": "avatars/p03a.jpg",
-    "profile": "https://remanga.org/user/1262251/about",
     "guild": "Eternal Watchers"
   },
   {
