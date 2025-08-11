@@ -110,6 +110,16 @@
     "guild": "Eternal Watchers"
   },
   {
+    "norm": "asura",
+    "display": "__ASURA__",
+    "initial": 10090,
+    "current": 12960,
+    "diff": 2870,
+    "avatar": "avatars/asura.jpg",
+    "profile": "https://remanga.org/user/1365587/about",
+    "guild": "Eternal Watchers"
+  },
+  {
     "norm": "merrihew",
     "display": "Merrihew",
     "initial": 27430,
@@ -677,16 +687,6 @@
     "diff": 0,
     "avatar": "avatars/sallikrash.jpg",
     "profile": "https://remanga.org/user/73710/about",
-    "guild": "Eternal Watchers"
-  },
-  {
-    "norm": "asura",
-    "display": "__ASURA__",
-    "initial": 10090,
-    "current": 10090,
-    "diff": 0,
-    "avatar": "avatars/asura.jpg",
-    "profile": "https://remanga.org/user/1365587/about",
     "guild": "Eternal Watchers"
   },
   {
