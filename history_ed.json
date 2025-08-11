@@ -320,6 +320,16 @@
     "guild": "Eternal Demonic"
   },
   {
+    "norm": "woodss",
+    "display": "Woods_s",
+    "initial": 23100,
+    "current": 24100,
+    "diff": 1000,
+    "avatar": "avatars/woodss.jpg",
+    "profile": "https://remanga.org/user/1450372/about",
+    "guild": "Eternal Demonic"
+  },
+  {
     "norm": "sw1ty",
     "display": "Sw1ty",
     "initial": 8000,
@@ -557,16 +567,6 @@
     "diff": 0,
     "avatar": "avatars/gidik.jpg",
     "profile": "https://remanga.org/user/1236516/about",
-    "guild": "Eternal Demonic"
-  },
-  {
-    "norm": "woodss",
-    "display": "Woods_s",
-    "initial": 23100,
-    "current": 23100,
-    "diff": 0,
-    "avatar": "avatars/woodss.jpg",
-    "profile": "https://remanga.org/user/1450372/about",
     "guild": "Eternal Demonic"
   },
   {
