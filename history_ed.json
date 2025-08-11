@@ -100,6 +100,16 @@
     "guild": "Eternal Demonic"
   },
   {
+    "norm": "tiltexist",
+    "display": "TIltExist",
+    "initial": 10910,
+    "current": 13940,
+    "diff": 3030,
+    "avatar": "avatars/tiltexist.jpg",
+    "profile": "https://remanga.org/user/98565/about",
+    "guild": "Eternal Demonic"
+  },
+  {
     "norm": "riverfreedom",
     "display": "RiverFreedom",
     "initial": 9000,
@@ -687,16 +697,6 @@
     "diff": 0,
     "avatar": "avatars/lucifiel.jpg",
     "profile": "https://remanga.org/user/1207689/about",
-    "guild": "Eternal Demonic"
-  },
-  {
-    "norm": "tiltexist",
-    "display": "TIltExist",
-    "initial": 10910,
-    "current": 10910,
-    "diff": 0,
-    "avatar": "avatars/tiltexist.jpg",
-    "profile": "https://remanga.org/user/98565/about",
     "guild": "Eternal Demonic"
   },
   {
