@@ -100,6 +100,16 @@
     "guild": "Eternal Watchers"
   },
   {
+    "norm": "ewtaya",
+    "display": "EW_Taya_",
+    "initial": 36440,
+    "current": 39810,
+    "diff": 3370,
+    "avatar": "avatars/ewtaya.jpg",
+    "profile": "https://remanga.org/user/2325061/about",
+    "guild": "Eternal Watchers"
+  },
+  {
     "norm": "arbogastr",
     "display": "Arbogastr",
     "initial": 31500,
@@ -117,16 +127,6 @@
     "diff": 2930,
     "avatar": "avatars/satisfied.jpg",
     "profile": "https://remanga.org/user/876190/about",
-    "guild": "Eternal Watchers"
-  },
-  {
-    "norm": "ewtaya",
-    "display": "EW_Taya_",
-    "initial": 36440,
-    "current": 39360,
-    "diff": 2920,
-    "avatar": "avatars/ewtaya.jpg",
-    "profile": "https://remanga.org/user/2325061/about",
     "guild": "Eternal Watchers"
   },
   {
@@ -407,6 +407,16 @@
     "diff": 110,
     "avatar": "avatars/tavik.jpg",
     "profile": "https://remanga.org/user/72974/about",
+    "guild": "Eternal Watchers"
+  },
+  {
+    "norm": "laytee",
+    "display": "Laytee",
+    "initial": 10030,
+    "current": 10140,
+    "diff": 110,
+    "avatar": "avatars/laytee.jpg",
+    "profile": "https://remanga.org/user/2488048/about",
     "guild": "Eternal Watchers"
   },
   {
@@ -777,16 +787,6 @@
     "diff": 0,
     "avatar": "avatars/loli69228.jpg",
     "profile": "https://remanga.org/user/69929/about",
-    "guild": "Eternal Watchers"
-  },
-  {
-    "norm": "laytee",
-    "display": "Laytee",
-    "initial": 10030,
-    "current": 10030,
-    "diff": 0,
-    "avatar": "avatars/laytee.jpg",
-    "profile": "https://remanga.org/user/2488048/about",
     "guild": "Eternal Watchers"
   },
   {
