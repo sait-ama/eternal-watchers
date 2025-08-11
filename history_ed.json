@@ -23,8 +23,8 @@
     "norm": "pepegaronni",
     "display": "Pepegaronni",
     "initial": 10638,
-    "current": 22330,
-    "diff": 11692,
+    "current": 24320,
+    "diff": 13682,
     "avatar": "avatars/pepegaronni.jpg",
     "profile": "https://remanga.org/user/27168/about",
     "guild": "Eternal Demonic"
@@ -40,6 +40,16 @@
     "guild": "Eternal Demonic"
   },
   {
+    "norm": "ronin74",
+    "display": "Ronin74",
+    "initial": 36010,
+    "current": 42800,
+    "diff": 6790,
+    "avatar": "avatars/ronin74.jpg",
+    "profile": "https://remanga.org/user/76998/about",
+    "guild": "Eternal Demonic"
+  },
+  {
     "norm": "allentina",
     "display": "allentina",
     "initial": 19500,
@@ -47,16 +57,6 @@
     "diff": 6400,
     "avatar": "avatars/allentina.jpg",
     "profile": "https://remanga.org/user/890414/about",
-    "guild": "Eternal Demonic"
-  },
-  {
-    "norm": "ronin74",
-    "display": "Ronin74",
-    "initial": 36010,
-    "current": 42030,
-    "diff": 6020,
-    "avatar": "avatars/ronin74.jpg",
-    "profile": "https://remanga.org/user/76998/about",
     "guild": "Eternal Demonic"
   },
   {
@@ -180,6 +180,16 @@
     "guild": "Eternal Demonic"
   },
   {
+    "norm": "谢怜",
+    "display": ".谢怜.",
+    "initial": 9000,
+    "current": 11000,
+    "diff": 2000,
+    "avatar": "avatars/谢怜.jpg",
+    "profile": "https://remanga.org/user/164257/about",
+    "guild": "Eternal Demonic"
+  },
+  {
     "norm": "banshei",
     "display": "BanShei",
     "initial": 7000,
@@ -240,6 +250,16 @@
     "guild": "Eternal Demonic"
   },
   {
+    "norm": "дoлинapeкиcetyнь",
+    "display": "ДолинаРекиСетунь",
+    "initial": 20570,
+    "current": 21750,
+    "diff": 1180,
+    "avatar": "avatars/дoлинapeкиcetyнь.jpg",
+    "profile": "https://remanga.org/user/24432/about",
+    "guild": "Eternal Demonic"
+  },
+  {
     "norm": "trillo",
     "display": "Trillo",
     "initial": 7210,
@@ -257,16 +277,6 @@
     "diff": 1100,
     "avatar": "avatars/akihiko.jpg",
     "profile": "https://remanga.org/user/183282/about",
-    "guild": "Eternal Demonic"
-  },
-  {
-    "norm": "谢怜",
-    "display": ".谢怜.",
-    "initial": 9000,
-    "current": 10000,
-    "diff": 1000,
-    "avatar": "avatars/谢怜.jpg",
-    "profile": "https://remanga.org/user/164257/about",
     "guild": "Eternal Demonic"
   },
   {
@@ -390,6 +400,16 @@
     "guild": "Eternal Demonic"
   },
   {
+    "norm": "velialsalivan",
+    "display": "Velial_Salivan",
+    "initial": 8000,
+    "current": 9000,
+    "diff": 1000,
+    "avatar": "avatars/velialsalivan.jpg",
+    "profile": "https://remanga.org/user/220375/about",
+    "guild": "Eternal Demonic"
+  },
+  {
     "norm": "tenofmoses",
     "display": "tenofmoses",
     "initial": 6000,
@@ -450,13 +470,13 @@
     "guild": "Eternal Demonic"
   },
   {
-    "norm": "дoлинapeкиcetyнь",
-    "display": "ДолинаРекиСетунь",
-    "initial": 20570,
-    "current": 21420,
-    "diff": 850,
-    "avatar": "avatars/дoлинapeкиcetyнь.jpg",
-    "profile": "https://remanga.org/user/24432/about",
+    "norm": "alanhui",
+    "display": "alan-hui",
+    "initial": 7260,
+    "current": 8160,
+    "diff": 900,
+    "avatar": "avatars/alanhui.jpg",
+    "profile": "https://remanga.org/user/2336976/about",
     "guild": "Eternal Demonic"
   },
   {
@@ -550,13 +570,13 @@
     "guild": "Eternal Demonic"
   },
   {
-    "norm": "kintownskiy",
-    "display": "kintownskiy",
+    "norm": "kintowncкиy",
+    "display": "kintownскиy",
     "initial": 10000,
     "current": 10000,
     "diff": 0,
-    "avatar": "avatars/kintownskiy.jpg",
-    "profile": "https://remanga.org/user/3983/about",
+    "avatar": "avatars/placeholder.jpg",
+    "profile": "https://remanga.org",
     "guild": "Eternal Demonic"
   },
   {
@@ -670,16 +690,6 @@
     "guild": "Eternal Demonic"
   },
   {
-    "norm": "velialsalivan",
-    "display": "Velial_Salivan",
-    "initial": 8000,
-    "current": 8000,
-    "diff": 0,
-    "avatar": "avatars/velialsalivan.jpg",
-    "profile": "https://remanga.org/user/220375/about",
-    "guild": "Eternal Demonic"
-  },
-  {
     "norm": "drrи",
     "display": "Dr.Rи",
     "initial": 8000,
@@ -787,16 +797,6 @@
     "diff": 0,
     "avatar": "avatars/aleksan09.jpg",
     "profile": "https://remanga.org/user/3143187/about",
-    "guild": "Eternal Demonic"
-  },
-  {
-    "norm": "alanhui",
-    "display": "alan-hui",
-    "initial": 7260,
-    "current": 7260,
-    "diff": 0,
-    "avatar": "avatars/alanhui.jpg",
-    "profile": "https://remanga.org/user/2336976/about",
     "guild": "Eternal Demonic"
   }
 ]
