@@ -200,6 +200,16 @@
     "guild": "Eternal Watchers"
   },
   {
+    "norm": "к4йдэн",
+    "display": "К4йдэн",
+    "initial": 10220,
+    "current": 12840,
+    "diff": 2620,
+    "avatar": "avatars/к4йдэн.jpg",
+    "profile": "https://remanga.org/user/1488259/about",
+    "guild": "Eternal Watchers"
+  },
+  {
     "norm": "harlequ1n",
     "display": "HARLEQU1N",
     "initial": 21790,
@@ -387,6 +397,16 @@
     "diff": 820,
     "avatar": "avatars/xmmxmm.jpg",
     "profile": "https://remanga.org/user/2724307/about",
+    "guild": "Eternal Watchers"
+  },
+  {
+    "norm": "cкpыtыйинtpигaн",
+    "display": "Cкрытый_интриган",
+    "initial": 12750,
+    "current": 13570,
+    "diff": 820,
+    "avatar": "avatars/cкpыtыйинtpигaн.jpg",
+    "profile": "https://remanga.org/user/410852/about",
     "guild": "Eternal Watchers"
   },
   {
@@ -700,16 +720,6 @@
     "guild": "Eternal Watchers"
   },
   {
-    "norm": "cкpыtыйинtpигaн",
-    "display": "Cкрытый_интриган",
-    "initial": 12750,
-    "current": 12750,
-    "diff": 0,
-    "avatar": "avatars/cкpыtыйинtpигaн.jpg",
-    "profile": "https://remanga.org/user/410852/about",
-    "guild": "Eternal Watchers"
-  },
-  {
     "norm": "osmodeuss",
     "display": "osmodeuss",
     "initial": 10050,
@@ -757,16 +767,6 @@
     "diff": 0,
     "avatar": "avatars/ялyчшийвмиpe.jpg",
     "profile": "https://remanga.org/user/285519/about",
-    "guild": "Eternal Watchers"
-  },
-  {
-    "norm": "к4йдэн",
-    "display": "К4йдэн",
-    "initial": 10220,
-    "current": 10220,
-    "diff": 0,
-    "avatar": "avatars/к4йдэн.jpg",
-    "profile": "https://remanga.org/user/1488259/about",
     "guild": "Eternal Watchers"
   },
   {
