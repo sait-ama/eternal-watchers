@@ -10,6 +10,16 @@
     "guild": "Eternal Watchers"
   },
   {
+    "norm": "кaйдeн",
+    "display": "Кайден",
+    "initial": 37610,
+    "current": 52610,
+    "diff": 15000,
+    "avatar": "avatars/кaйдeн.jpg",
+    "profile": "https://remanga.org/user/439629/about",
+    "guild": "Eternal Watchers"
+  },
+  {
     "norm": "desport",
     "display": "desport",
     "initial": 24730,
@@ -37,16 +47,6 @@
     "diff": 11300,
     "avatar": "avatars/rezordaye.jpg",
     "profile": "https://remanga.org/user/210114/about",
-    "guild": "Eternal Watchers"
-  },
-  {
-    "norm": "кaйдeн",
-    "display": "Кайден",
-    "initial": 37610,
-    "current": 47610,
-    "diff": 10000,
-    "avatar": "avatars/кaйдeн.jpg",
-    "profile": "https://remanga.org/user/439629/about",
     "guild": "Eternal Watchers"
   },
   {
@@ -150,6 +150,16 @@
     "guild": "Eternal Watchers"
   },
   {
+    "norm": "ewtaya",
+    "display": "EW_Taya_",
+    "initial": 36440,
+    "current": 38460,
+    "diff": 2020,
+    "avatar": "avatars/ewtaya.jpg",
+    "profile": "https://remanga.org/user/2325061/about",
+    "guild": "Eternal Watchers"
+  },
+  {
     "norm": "loly2810",
     "display": "Loly2810",
     "initial": 14650,
@@ -187,16 +197,6 @@
     "diff": 1500,
     "avatar": "avatars/rayze.jpg",
     "profile": "https://remanga.org/user/108995/about",
-    "guild": "Eternal Watchers"
-  },
-  {
-    "norm": "ewtaya",
-    "display": "EW_Taya_",
-    "initial": 36440,
-    "current": 37770,
-    "diff": 1330,
-    "avatar": "avatars/ewtaya.jpg",
-    "profile": "https://remanga.org/user/2325061/about",
     "guild": "Eternal Watchers"
   },
   {
