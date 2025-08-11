@@ -180,6 +180,16 @@
     "guild": "Eternal Watchers"
   },
   {
+    "norm": "admiralsengoku",
+    "display": "ADMIRAL_SENGOKU",
+    "initial": 28000,
+    "current": 29000,
+    "diff": 1000,
+    "avatar": "avatars/admiralsengoku.jpg",
+    "profile": "https://remanga.org/user/1529739/about",
+    "guild": "Eternal Watchers"
+  },
+  {
     "norm": "xmmxmm",
     "display": "Xmmxmm",
     "initial": 10000,
@@ -337,16 +347,6 @@
     "diff": 0,
     "avatar": "avatars/overcooling.jpg",
     "profile": "https://remanga.org/user/52079/about",
-    "guild": "Eternal Watchers"
-  },
-  {
-    "norm": "admiralsengoku",
-    "display": "ADMIRAL_SENGOKU",
-    "initial": 28000,
-    "current": 28000,
-    "diff": 0,
-    "avatar": "avatars/admiralsengoku.jpg",
-    "profile": "https://remanga.org/user/1529739/about",
     "guild": "Eternal Watchers"
   },
   {
