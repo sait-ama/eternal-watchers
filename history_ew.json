@@ -150,6 +150,16 @@
     "guild": "Eternal Watchers"
   },
   {
+    "norm": "overcooling",
+    "display": "Overcooling",
+    "initial": 35500,
+    "current": 37000,
+    "diff": 1500,
+    "avatar": "avatars/overcooling.jpg",
+    "profile": "https://remanga.org/user/52079/about",
+    "guild": "Eternal Watchers"
+  },
+  {
     "norm": "creamwhite",
     "display": "CreamWhite",
     "initial": 21000,
@@ -260,6 +270,16 @@
     "guild": "Eternal Watchers"
   },
   {
+    "norm": "talent",
+    "display": "Talent",
+    "initial": 7510,
+    "current": 7760,
+    "diff": 250,
+    "avatar": "avatars/talent.jpg",
+    "profile": "https://remanga.org/user/926473/about",
+    "guild": "Eternal Watchers"
+  },
+  {
     "norm": "йopм",
     "display": "Йорм",
     "initial": 13160,
@@ -367,16 +387,6 @@
     "diff": 0,
     "avatar": "avatars/thostriel.jpg",
     "profile": "https://remanga.org/user/1405392/about",
-    "guild": "Eternal Watchers"
-  },
-  {
-    "norm": "overcooling",
-    "display": "Overcooling",
-    "initial": 35500,
-    "current": 35500,
-    "diff": 0,
-    "avatar": "avatars/overcooling.jpg",
-    "profile": "https://remanga.org/user/52079/about",
     "guild": "Eternal Watchers"
   },
   {
@@ -627,16 +637,6 @@
     "diff": 0,
     "avatar": "avatars/osmodeuss.jpg",
     "profile": "https://remanga.org/user/928524/about",
-    "guild": "Eternal Watchers"
-  },
-  {
-    "norm": "talent",
-    "display": "Talent",
-    "initial": 7510,
-    "current": 7510,
-    "diff": 0,
-    "avatar": "avatars/talent.jpg",
-    "profile": "https://remanga.org/user/926473/about",
     "guild": "Eternal Watchers"
   },
   {
