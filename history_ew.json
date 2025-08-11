@@ -70,6 +70,16 @@
     "guild": "Eternal Watchers"
   },
   {
+    "norm": "satisfied",
+    "display": "Satisfied",
+    "initial": 38170,
+    "current": 41100,
+    "diff": 2930,
+    "avatar": "avatars/satisfied.jpg",
+    "profile": "https://remanga.org/user/876190/about",
+    "guild": "Eternal Watchers"
+  },
+  {
     "norm": "akiragame",
     "display": "AkiraGame",
     "initial": 47500,
@@ -177,16 +187,6 @@
     "diff": 1000,
     "avatar": "avatars/festashka.jpg",
     "profile": "https://remanga.org/user/199911/about",
-    "guild": "Eternal Watchers"
-  },
-  {
-    "norm": "satisfied",
-    "display": "Satisfied",
-    "initial": 38170,
-    "current": 39170,
-    "diff": 1000,
-    "avatar": "avatars/satisfied.jpg",
-    "profile": "https://remanga.org/user/876190/about",
     "guild": "Eternal Watchers"
   },
   {
