@@ -120,6 +120,16 @@
     "guild": "Eternal Watchers"
   },
   {
+    "norm": "okiarya",
+    "display": "Okiarya",
+    "initial": 40400,
+    "current": 45720,
+    "diff": 5320,
+    "avatar": "avatars/okiarya.jpg",
+    "profile": "https://remanga.org/user/2391629/about",
+    "guild": "Eternal Watchers"
+  },
+  {
     "norm": "ミュージシャン",
     "display": "ミュージシャン",
     "initial": 105000,
@@ -167,16 +177,6 @@
     "diff": 4000,
     "avatar": "avatars/arbogastr.jpg",
     "profile": "https://remanga.org/user/993371/about",
-    "guild": "Eternal Watchers"
-  },
-  {
-    "norm": "okiarya",
-    "display": "Okiarya",
-    "initial": 40400,
-    "current": 44220,
-    "diff": 3820,
-    "avatar": "avatars/okiarya.jpg",
-    "profile": "https://remanga.org/user/2391629/about",
     "guild": "Eternal Watchers"
   },
   {
@@ -320,6 +320,16 @@
     "guild": "Eternal Watchers"
   },
   {
+    "norm": "clf",
+    "display": "Clf",
+    "initial": 24190,
+    "current": 25690,
+    "diff": 1500,
+    "avatar": "avatars/clf.jpg",
+    "profile": "https://remanga.org/user/942689/about",
+    "guild": "Eternal Watchers"
+  },
+  {
     "norm": "creamwhite",
     "display": "CreamWhite",
     "initial": 21000,
@@ -430,16 +440,6 @@
     "guild": "Eternal Watchers"
   },
   {
-    "norm": "clf",
-    "display": "Clf",
-    "initial": 24190,
-    "current": 25190,
-    "diff": 1000,
-    "avatar": "avatars/clf.jpg",
-    "profile": "https://remanga.org/user/942689/about",
-    "guild": "Eternal Watchers"
-  },
-  {
     "norm": "misikira",
     "display": "Misikira",
     "initial": 16300,
@@ -487,6 +487,16 @@
     "diff": 820,
     "avatar": "avatars/cкpыtыйинtpигaн.jpg",
     "profile": "https://remanga.org/user/410852/about",
+    "guild": "Eternal Watchers"
+  },
+  {
+    "norm": "chirusan",
+    "display": "Chiru-san",
+    "initial": 10050,
+    "current": 10850,
+    "diff": 800,
+    "avatar": "avatars/chirusan.jpg",
+    "profile": "https://remanga.org/user/243053/about",
     "guild": "Eternal Watchers"
   },
   {
@@ -707,16 +717,6 @@
     "diff": 0,
     "avatar": "avatars/temƥeຮt.jpg",
     "profile": "https://remanga.org/user/349055/about",
-    "guild": "Eternal Watchers"
-  },
-  {
-    "norm": "chirusan",
-    "display": "Chiru-san",
-    "initial": 10050,
-    "current": 10050,
-    "diff": 0,
-    "avatar": "avatars/chirusan.jpg",
-    "profile": "https://remanga.org/user/243053/about",
     "guild": "Eternal Watchers"
   },
   {
