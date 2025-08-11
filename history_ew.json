@@ -140,6 +140,16 @@
     "guild": "Eternal Watchers"
   },
   {
+    "norm": "andrefalkonen",
+    "display": "Andre_Falkonen",
+    "initial": 32890,
+    "current": 35690,
+    "diff": 2800,
+    "avatar": "avatars/andrefalkonen.jpg",
+    "profile": "https://remanga.org/user/35664/about",
+    "guild": "Eternal Watchers"
+  },
+  {
     "norm": "merrihew",
     "display": "Merrihew",
     "initial": 27430,
@@ -467,16 +477,6 @@
     "diff": 0,
     "avatar": "avatars/kodokunayurei.jpg",
     "profile": "https://remanga.org/user/108546/about",
-    "guild": "Eternal Watchers"
-  },
-  {
-    "norm": "andrefalkonen",
-    "display": "Andre_Falkonen",
-    "initial": 32890,
-    "current": 32890,
-    "diff": 0,
-    "avatar": "avatars/andrefalkonen.jpg",
-    "profile": "https://remanga.org/user/35664/about",
     "guild": "Eternal Watchers"
   },
   {
