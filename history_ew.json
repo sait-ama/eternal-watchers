@@ -40,6 +40,16 @@
     "guild": "Eternal Watchers"
   },
   {
+    "norm": "frostik4",
+    "display": "Frostik4",
+    "initial": 25700,
+    "current": 31200,
+    "diff": 5500,
+    "avatar": "avatars/frostik4.jpg",
+    "profile": "https://remanga.org/user/3003544/about",
+    "guild": "Eternal Watchers"
+  },
+  {
     "norm": "кaйдeн",
     "display": "Кайден",
     "initial": 37610,
@@ -417,16 +427,6 @@
     "diff": 0,
     "avatar": "avatars/placeholder.jpg",
     "profile": "https://remanga.org/user/191280/about",
-    "guild": "Eternal Watchers"
-  },
-  {
-    "norm": "frostik4",
-    "display": "Frostik4",
-    "initial": 25700,
-    "current": 25700,
-    "diff": 0,
-    "avatar": "avatars/frostik4.jpg",
-    "profile": "https://remanga.org/user/3003544/about",
     "guild": "Eternal Watchers"
   },
   {
