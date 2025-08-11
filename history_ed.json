@@ -70,6 +70,16 @@
     "guild": "Eternal Demonic"
   },
   {
+    "norm": "kaizaki",
+    "display": "Kaizaki",
+    "initial": 11394,
+    "current": 15670,
+    "diff": 4276,
+    "avatar": "avatars/placeholder.jpg",
+    "profile": "https://remanga.org/user/40277/about",
+    "guild": "Eternal Demonic"
+  },
+  {
     "norm": "ham021",
     "display": "Ham021",
     "initial": 22000,
@@ -107,16 +117,6 @@
     "diff": 3800,
     "avatar": "avatars/riverfreedom.jpg",
     "profile": "https://remanga.org/user/3215284/about",
-    "guild": "Eternal Demonic"
-  },
-  {
-    "norm": "kaizaki",
-    "display": "Kaizaki",
-    "initial": 11394,
-    "current": 14670,
-    "diff": 3276,
-    "avatar": "avatars/placeholder.jpg",
-    "profile": "https://remanga.org/user/40277/about",
     "guild": "Eternal Demonic"
   },
   {
