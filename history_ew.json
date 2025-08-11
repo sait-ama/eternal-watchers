@@ -150,6 +150,16 @@
     "guild": "Eternal Watchers"
   },
   {
+    "norm": "creamwhite",
+    "display": "CreamWhite",
+    "initial": 21000,
+    "current": 22500,
+    "diff": 1500,
+    "avatar": "avatars/creamwhite.jpg",
+    "profile": "https://remanga.org/user/133044/about",
+    "guild": "Eternal Watchers"
+  },
+  {
     "norm": "rayze",
     "display": "RayZe",
     "initial": 11430,
@@ -447,16 +457,6 @@
     "diff": 0,
     "avatar": "avatars/misikira.jpg",
     "profile": "https://remanga.org/user/2350456/about",
-    "guild": "Eternal Watchers"
-  },
-  {
-    "norm": "creamwhite",
-    "display": "CreamWhite",
-    "initial": 21000,
-    "current": 21000,
-    "diff": 0,
-    "avatar": "avatars/creamwhite.jpg",
-    "profile": "https://remanga.org/user/133044/about",
     "guild": "Eternal Watchers"
   },
   {
