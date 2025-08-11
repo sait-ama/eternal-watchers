@@ -73,8 +73,8 @@
     "norm": "p03a",
     "display": "Р03А",
     "initial": 23260,
-    "current": 31760,
-    "diff": 8500,
+    "current": 32060,
+    "diff": 8800,
     "avatar": "avatars/p03a.jpg",
     "profile": "https://remanga.org/user/1262251/about",
     "guild": "Eternal Watchers"
@@ -87,6 +87,16 @@
     "diff": 6660,
     "avatar": "avatars/feelwhatlifeis.jpg",
     "profile": "https://remanga.org/user/2105597/about",
+    "guild": "Eternal Watchers"
+  },
+  {
+    "norm": "akiragame",
+    "display": "AkiraGame",
+    "initial": 47500,
+    "current": 53130,
+    "diff": 5630,
+    "avatar": "avatars/akiragame.jpg",
+    "profile": "https://remanga.org/user/1714962/about",
     "guild": "Eternal Watchers"
   },
   {
@@ -107,16 +117,6 @@
     "diff": 5440,
     "avatar": "avatars/chitandael.jpg",
     "profile": "https://remanga.org/user/372102/about",
-    "guild": "Eternal Watchers"
-  },
-  {
-    "norm": "akiragame",
-    "display": "AkiraGame",
-    "initial": 47500,
-    "current": 52800,
-    "diff": 5300,
-    "avatar": "avatars/akiragame.jpg",
-    "profile": "https://remanga.org/user/1714962/about",
     "guild": "Eternal Watchers"
   },
   {
