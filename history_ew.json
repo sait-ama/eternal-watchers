@@ -120,6 +120,16 @@
     "guild": "Eternal Watchers"
   },
   {
+    "norm": "darqee",
+    "display": "DarQee",
+    "initial": 1000,
+    "current": 4050,
+    "diff": 3050,
+    "avatar": "avatars/darqee.jpg",
+    "profile": "https://remanga.org/user/2234201/about",
+    "guild": "Eternal Watchers"
+  },
+  {
     "norm": "arbogastr",
     "display": "Arbogastr",
     "initial": 31500,
@@ -407,6 +417,16 @@
     "diff": 200,
     "avatar": "avatars/чмoшкaмoшкa.jpg",
     "profile": "https://remanga.org/user/2991171/about",
+    "guild": "Eternal Watchers"
+  },
+  {
+    "norm": "ctapeйшинaчy",
+    "display": "Старейшина-Чу",
+    "initial": 16550,
+    "current": 16750,
+    "diff": 200,
+    "avatar": "avatars/ctapeйшинaчy.jpg",
+    "profile": "https://remanga.org/user/69640/about",
     "guild": "Eternal Watchers"
   },
   {
@@ -800,16 +820,6 @@
     "guild": "Eternal Watchers"
   },
   {
-    "norm": "ctapeйшинaчy",
-    "display": "Старейшина-Чу",
-    "initial": 16550,
-    "current": 16550,
-    "diff": 0,
-    "avatar": "avatars/ctapeйшинaчy.jpg",
-    "profile": "https://remanga.org/user/69640/about",
-    "guild": "Eternal Watchers"
-  },
-  {
     "norm": "역사관",
     "display": "역사관",
     "initial": 16480,
@@ -817,16 +827,6 @@
     "diff": 0,
     "avatar": "avatars/역사관.jpg",
     "profile": "https://remanga.org/user/2448467/about",
-    "guild": "Eternal Watchers"
-  },
-  {
-    "norm": "darqee",
-    "display": "DarQee",
-    "initial": 1000,
-    "current": 1000,
-    "diff": 0,
-    "avatar": "avatars/darqee.jpg",
-    "profile": "https://remanga.org/user/2234201/about",
     "guild": "Eternal Watchers"
   },
   {
