@@ -290,6 +290,16 @@
     "guild": "Eternal Watchers"
   },
   {
+    "norm": "pupstv",
+    "display": "PupsTv",
+    "initial": 11200,
+    "current": 11800,
+    "diff": 600,
+    "avatar": "avatars/pupstv.jpg",
+    "profile": "https://remanga.org/user/117177/about",
+    "guild": "Eternal Watchers"
+  },
+  {
     "norm": "totкtocмotpиt",
     "display": "тот_кто_смотрит....",
     "initial": 17540,
@@ -557,16 +567,6 @@
     "diff": 0,
     "avatar": "avatars/monalize.jpg",
     "profile": "https://remanga.org/user/809195/about",
-    "guild": "Eternal Watchers"
-  },
-  {
-    "norm": "pupstv",
-    "display": "PupsTv",
-    "initial": 11200,
-    "current": 11200,
-    "diff": 0,
-    "avatar": "avatars/pupstv.jpg",
-    "profile": "https://remanga.org/user/117177/about",
     "guild": "Eternal Watchers"
   },
   {
