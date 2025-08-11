@@ -130,6 +130,16 @@
     "guild": "Eternal Demonic"
   },
   {
+    "norm": "beast",
+    "display": "Beast_",
+    "initial": 37930,
+    "current": 41010,
+    "diff": 3080,
+    "avatar": "avatars/beast.jpg",
+    "profile": "https://remanga.org/user/1935045/about",
+    "guild": "Eternal Demonic"
+  },
+  {
     "norm": "dergauss",
     "display": "Dergauss",
     "initial": 10000,
@@ -167,16 +177,6 @@
     "diff": 2120,
     "avatar": "avatars/rwbylove.jpg",
     "profile": "https://remanga.org/user/740757/about",
-    "guild": "Eternal Demonic"
-  },
-  {
-    "norm": "beast",
-    "display": "Beast_",
-    "initial": 37930,
-    "current": 39980,
-    "diff": 2050,
-    "avatar": "avatars/beast.jpg",
-    "profile": "https://remanga.org/user/1935045/about",
     "guild": "Eternal Demonic"
   },
   {
