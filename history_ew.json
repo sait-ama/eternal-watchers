@@ -60,6 +60,16 @@
     "guild": "Eternal Watchers"
   },
   {
+    "norm": "chitandael",
+    "display": "Chitandael",
+    "initial": 29380,
+    "current": 34820,
+    "diff": 5440,
+    "avatar": "avatars/chitandael.jpg",
+    "profile": "https://remanga.org/user/372102/about",
+    "guild": "Eternal Watchers"
+  },
+  {
     "norm": "p03a",
     "display": "Р03А",
     "initial": 23260,
@@ -397,16 +407,6 @@
     "diff": 0,
     "avatar": "avatars/healot.jpg",
     "profile": "https://remanga.org/user/2505495/about",
-    "guild": "Eternal Watchers"
-  },
-  {
-    "norm": "chitandael",
-    "display": "Chitandael",
-    "initial": 29380,
-    "current": 29380,
-    "diff": 0,
-    "avatar": "avatars/chitandael.jpg",
-    "profile": "https://remanga.org/user/372102/about",
     "guild": "Eternal Watchers"
   },
   {
