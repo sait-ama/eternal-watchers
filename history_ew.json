@@ -230,6 +230,16 @@
     "guild": "Eternal Watchers"
   },
   {
+    "norm": "tavik",
+    "display": "Tavik",
+    "initial": 48770,
+    "current": 48880,
+    "diff": 110,
+    "avatar": "avatars/tavik.jpg",
+    "profile": "https://remanga.org/user/72974/about",
+    "guild": "Eternal Watchers"
+  },
+  {
     "norm": "calistotzy",
     "display": "CalistoTzy",
     "initial": 114000,
@@ -297,16 +307,6 @@
     "diff": 0,
     "avatar": "avatars/chitandael.jpg",
     "profile": "https://remanga.org/user/372102/about",
-    "guild": "Eternal Watchers"
-  },
-  {
-    "norm": "tavik",
-    "display": "Tavik",
-    "initial": 48770,
-    "current": 48770,
-    "diff": 0,
-    "avatar": "avatars/tavik.jpg",
-    "profile": "https://remanga.org/user/72974/about",
     "guild": "Eternal Watchers"
   },
   {
