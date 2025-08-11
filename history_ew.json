@@ -40,6 +40,16 @@
     "guild": "Eternal Watchers"
   },
   {
+    "norm": "кaйдeн",
+    "display": "Кайден",
+    "initial": 37610,
+    "current": 47610,
+    "diff": 10000,
+    "avatar": "avatars/кaйдeн.jpg",
+    "profile": "https://remanga.org/user/439629/about",
+    "guild": "Eternal Watchers"
+  },
+  {
     "norm": "frostik4",
     "display": "Frostik4",
     "initial": 25700,
@@ -47,16 +57,6 @@
     "diff": 5500,
     "avatar": "avatars/frostik4.jpg",
     "profile": "https://remanga.org/user/3003544/about",
-    "guild": "Eternal Watchers"
-  },
-  {
-    "norm": "кaйдeн",
-    "display": "Кайден",
-    "initial": 37610,
-    "current": 42610,
-    "diff": 5000,
-    "avatar": "avatars/кaйдeн.jpg",
-    "profile": "https://remanga.org/user/439629/about",
     "guild": "Eternal Watchers"
   },
   {
@@ -210,6 +210,16 @@
     "guild": "Eternal Watchers"
   },
   {
+    "norm": "frozenjfx",
+    "display": "FrozenJFX",
+    "initial": 22610,
+    "current": 23770,
+    "diff": 1160,
+    "avatar": "avatars/frozenjfx.jpg",
+    "profile": "https://remanga.org/user/594356/about",
+    "guild": "Eternal Watchers"
+  },
+  {
     "norm": "zarti",
     "display": "zarti",
     "initial": 10080,
@@ -237,6 +247,16 @@
     "diff": 1000,
     "avatar": "avatars/admiralsengoku.jpg",
     "profile": "https://remanga.org/user/1529739/about",
+    "guild": "Eternal Watchers"
+  },
+  {
+    "norm": "talent",
+    "display": "Talent",
+    "initial": 7510,
+    "current": 8470,
+    "diff": 960,
+    "avatar": "avatars/talent.jpg",
+    "profile": "https://remanga.org/user/926473/about",
     "guild": "Eternal Watchers"
   },
   {
@@ -270,13 +290,23 @@
     "guild": "Eternal Watchers"
   },
   {
-    "norm": "talent",
-    "display": "Talent",
-    "initial": 7510,
-    "current": 7760,
-    "diff": 250,
-    "avatar": "avatars/talent.jpg",
-    "profile": "https://remanga.org/user/926473/about",
+    "norm": "nowarries",
+    "display": "No_warries",
+    "initial": 14270,
+    "current": 14600,
+    "diff": 330,
+    "avatar": "avatars/nowarries.jpg",
+    "profile": "https://remanga.org/user/1160253/about",
+    "guild": "Eternal Watchers"
+  },
+  {
+    "norm": "чмoшкaмoшкa",
+    "display": "Чмошка-Мошка",
+    "initial": 10880,
+    "current": 11080,
+    "diff": 200,
+    "avatar": "avatars/чмoшкaмoшкa.jpg",
+    "profile": "https://remanga.org/user/2991171/about",
     "guild": "Eternal Watchers"
   },
   {
@@ -680,16 +710,6 @@
     "guild": "Eternal Watchers"
   },
   {
-    "norm": "frozenjfx",
-    "display": "FrozenJFX",
-    "initial": 22610,
-    "current": 22610,
-    "diff": 0,
-    "avatar": "avatars/frozenjfx.jpg",
-    "profile": "https://remanga.org/user/594356/about",
-    "guild": "Eternal Watchers"
-  },
-  {
     "norm": "ялyчшийвмиpe",
     "display": "Я_лучший_в_мире",
     "initial": 18080,
@@ -720,16 +740,6 @@
     "guild": "Eternal Watchers"
   },
   {
-    "norm": "nowarries",
-    "display": "No_warries",
-    "initial": 14270,
-    "current": 14270,
-    "diff": 0,
-    "avatar": "avatars/nowarries.jpg",
-    "profile": "https://remanga.org/user/1160253/about",
-    "guild": "Eternal Watchers"
-  },
-  {
     "norm": "techal",
     "display": "TeChal",
     "initial": 10180,
@@ -747,16 +757,6 @@
     "diff": 0,
     "avatar": "avatars/hellsait.jpg",
     "profile": "https://remanga.org/user/2906080/about",
-    "guild": "Eternal Watchers"
-  },
-  {
-    "norm": "чмoшкaмoшкa",
-    "display": "Чмошка-Мошка",
-    "initial": 10880,
-    "current": 10880,
-    "diff": 0,
-    "avatar": "avatars/чмoшкaмoшкa.jpg",
-    "profile": "https://remanga.org/user/2991171/about",
     "guild": "Eternal Watchers"
   },
   {

@@ -80,6 +80,16 @@
     "guild": "Eternal Demonic"
   },
   {
+    "norm": "кaйдeн",
+    "display": "Кайден",
+    "initial": 37610,
+    "current": 47610,
+    "diff": 10000,
+    "avatar": "avatars/кaйдeн.jpg",
+    "profile": "https://remanga.org/user/439629/about",
+    "guild": "Eternal Watchers"
+  },
+  {
     "norm": "allentina",
     "display": "allentina",
     "initial": 19500,
@@ -87,16 +97,6 @@
     "diff": 6400,
     "avatar": "avatars/allentina.jpg",
     "profile": "https://remanga.org/user/890414/about",
-    "guild": "Eternal Demonic"
-  },
-  {
-    "norm": "ronin74",
-    "display": "Ronin74",
-    "initial": 36010,
-    "current": 42030,
-    "diff": 6020,
-    "avatar": "avatars/ronin74.jpg",
-    "profile": "https://remanga.org/user/76998/about",
     "guild": "Eternal Demonic"
   }
 ]

@@ -300,6 +300,16 @@
     "guild": "Eternal Demonic"
   },
   {
+    "norm": "leyley",
+    "display": "Ley-Ley",
+    "initial": 7100,
+    "current": 8100,
+    "diff": 1000,
+    "avatar": "avatars/leyley.jpg",
+    "profile": "https://remanga.org/user/24708/about",
+    "guild": "Eternal Demonic"
+  },
+  {
     "norm": "oblakatt",
     "display": "OblakaT_T",
     "initial": 9000,
@@ -537,16 +547,6 @@
     "diff": 0,
     "avatar": "avatars/kintownskiy.jpg",
     "profile": "https://remanga.org/user/3983/about",
-    "guild": "Eternal Demonic"
-  },
-  {
-    "norm": "leyley",
-    "display": "Ley-Ley",
-    "initial": 7100,
-    "current": 7100,
-    "diff": 0,
-    "avatar": "avatars/leyley.jpg",
-    "profile": "https://remanga.org/user/24708/about",
     "guild": "Eternal Demonic"
   },
   {
