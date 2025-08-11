@@ -120,6 +120,16 @@
     "guild": "Eternal Watchers"
   },
   {
+    "norm": "ミュージシャン",
+    "display": "ミュージシャン",
+    "initial": 105000,
+    "current": 110000,
+    "diff": 5000,
+    "avatar": "avatars/ミュージシャン.jpg",
+    "profile": "https://remanga.org/user/938359/about",
+    "guild": "Eternal Watchers"
+  },
+  {
     "norm": "ewnobon",
     "display": "EW_NoBoN",
     "initial": 53000,
@@ -647,16 +657,6 @@
     "diff": 0,
     "avatar": "avatars/placeholder.jpg",
     "profile": "https://remanga.org/user/191280/about",
-    "guild": "Eternal Watchers"
-  },
-  {
-    "norm": "ミュージシャン",
-    "display": "ミュージシャン",
-    "initial": 105000,
-    "current": 105000,
-    "diff": 0,
-    "avatar": "avatars/ミュージシャン.jpg",
-    "profile": "https://remanga.org/user/938359/about",
     "guild": "Eternal Watchers"
   },
   {
