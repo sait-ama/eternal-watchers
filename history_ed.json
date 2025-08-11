@@ -380,6 +380,16 @@
     "guild": "Eternal Demonic"
   },
   {
+    "norm": "akiram",
+    "display": "Aki_Ram",
+    "initial": 6000,
+    "current": 7000,
+    "diff": 1000,
+    "avatar": "avatars/akiram.jpg",
+    "profile": "https://remanga.org/user/3307870/about",
+    "guild": "Eternal Demonic"
+  },
+  {
     "norm": "samurai",
     "display": "S.a.m.u.r.a.i.",
     "initial": 8000,
@@ -617,16 +627,6 @@
     "diff": 0,
     "avatar": "avatars/sas47.jpg",
     "profile": "https://remanga.org/user/2044615/about",
-    "guild": "Eternal Demonic"
-  },
-  {
-    "norm": "akiram",
-    "display": "Aki_Ram",
-    "initial": 6000,
-    "current": 6000,
-    "diff": 0,
-    "avatar": "avatars/akiram.jpg",
-    "profile": "https://remanga.org/user/3307870/about",
     "guild": "Eternal Demonic"
   },
   {
