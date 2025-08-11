@@ -50,6 +50,16 @@
     "guild": "Eternal Watchers"
   },
   {
+    "norm": "feelwhatlifeis",
+    "display": "Feel_what_life_is",
+    "initial": 26710,
+    "current": 33370,
+    "diff": 6660,
+    "avatar": "avatars/feelwhatlifeis.jpg",
+    "profile": "https://remanga.org/user/2105597/about",
+    "guild": "Eternal Watchers"
+  },
+  {
     "norm": "festashka",
     "display": "_festashka_",
     "initial": 56250,
@@ -290,6 +300,16 @@
     "guild": "Eternal Watchers"
   },
   {
+    "norm": "darkangei",
+    "display": "Dark_AngeI",
+    "initial": 10080,
+    "current": 11490,
+    "diff": 1410,
+    "avatar": "avatars/darkangei.jpg",
+    "profile": "https://remanga.org/user/458815/about",
+    "guild": "Eternal Watchers"
+  },
+  {
     "norm": "abigor",
     "display": "Abigor.",
     "initial": 13920,
@@ -437,16 +457,6 @@
     "diff": 500,
     "avatar": "avatars/totкtocмotpиt.jpg",
     "profile": "https://remanga.org/user/201921/about",
-    "guild": "Eternal Watchers"
-  },
-  {
-    "norm": "darkangei",
-    "display": "Dark_AngeI",
-    "initial": 10080,
-    "current": 10370,
-    "diff": 290,
-    "avatar": "avatars/darkangei.jpg",
-    "profile": "https://remanga.org/user/458815/about",
     "guild": "Eternal Watchers"
   },
   {
@@ -677,16 +687,6 @@
     "diff": 0,
     "avatar": "avatars/temƥeຮt.jpg",
     "profile": "https://remanga.org/user/349055/about",
-    "guild": "Eternal Watchers"
-  },
-  {
-    "norm": "feelwhatlifeis",
-    "display": "Feel_what_life_is",
-    "initial": 26710,
-    "current": 26710,
-    "diff": 0,
-    "avatar": "avatars/feelwhatlifeis.jpg",
-    "profile": "https://remanga.org/user/2105597/about",
     "guild": "Eternal Watchers"
   },
   {
