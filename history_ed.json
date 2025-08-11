@@ -150,6 +150,16 @@
     "guild": "Eternal Demonic"
   },
   {
+    "norm": "llikojioma",
+    "display": "LLIKoJIoma",
+    "initial": 6000,
+    "current": 8500,
+    "diff": 2500,
+    "avatar": "avatars/llikojioma.jpg",
+    "profile": "https://remanga.org/user/938430/about",
+    "guild": "Eternal Demonic"
+  },
+  {
     "norm": "stas211242",
     "display": "stas211242",
     "initial": 9130,
@@ -207,16 +217,6 @@
     "diff": 2000,
     "avatar": "avatars/overtime.jpg",
     "profile": "https://remanga.org/user/899302/about",
-    "guild": "Eternal Demonic"
-  },
-  {
-    "norm": "llikojioma",
-    "display": "LLIKoJIoma",
-    "initial": 6000,
-    "current": 7500,
-    "diff": 1500,
-    "avatar": "avatars/llikojioma.jpg",
-    "profile": "https://remanga.org/user/938430/about",
     "guild": "Eternal Demonic"
   },
   {
