@@ -250,6 +250,16 @@
     "guild": "Eternal Watchers"
   },
   {
+    "norm": "abigor",
+    "display": "Abigor.",
+    "initial": 13920,
+    "current": 16100,
+    "diff": 2180,
+    "avatar": "avatars/abigor.jpg",
+    "profile": "https://remanga.org/user/2093362/about",
+    "guild": "Eternal Watchers"
+  },
+  {
     "norm": "strayker5421",
     "display": "Strayker5421",
     "initial": 0,
@@ -337,16 +347,6 @@
     "diff": 1410,
     "avatar": "avatars/darkangei.jpg",
     "profile": "https://remanga.org/user/458815/about",
-    "guild": "Eternal Watchers"
-  },
-  {
-    "norm": "abigor",
-    "display": "Abigor.",
-    "initial": 13920,
-    "current": 15090,
-    "diff": 1170,
-    "avatar": "avatars/abigor.jpg",
-    "profile": "https://remanga.org/user/2093362/about",
     "guild": "Eternal Watchers"
   },
   {
