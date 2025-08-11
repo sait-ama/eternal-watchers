@@ -140,6 +140,16 @@
     "guild": "Eternal Watchers"
   },
   {
+    "norm": "rayze",
+    "display": "RayZe",
+    "initial": 11430,
+    "current": 12930,
+    "diff": 1500,
+    "avatar": "avatars/rayze.jpg",
+    "profile": "https://remanga.org/user/108995/about",
+    "guild": "Eternal Watchers"
+  },
+  {
     "norm": "ewtaya",
     "display": "EW_Taya_",
     "initial": 36440,
@@ -687,16 +697,6 @@
     "diff": 0,
     "avatar": "avatars/ялyчшийвмиpe.jpg",
     "profile": "https://remanga.org/user/285519/about",
-    "guild": "Eternal Watchers"
-  },
-  {
-    "norm": "rayze",
-    "display": "RayZe",
-    "initial": 11430,
-    "current": 11430,
-    "diff": 0,
-    "avatar": "avatars/rayze.jpg",
-    "profile": "https://remanga.org/user/108995/about",
     "guild": "Eternal Watchers"
   },
   {

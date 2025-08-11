@@ -300,6 +300,16 @@
     "guild": "Eternal Demonic"
   },
   {
+    "norm": "moonsh1ne",
+    "display": "moonsh1ne",
+    "initial": 8050,
+    "current": 9050,
+    "diff": 1000,
+    "avatar": "avatars/moonsh1ne.jpg",
+    "profile": "https://remanga.org/user/128587/about",
+    "guild": "Eternal Demonic"
+  },
+  {
     "norm": "takahikoo",
     "display": "Takahikoo",
     "initial": 8000,
@@ -567,16 +577,6 @@
     "diff": 0,
     "avatar": "avatars/vaenkh.jpg",
     "profile": "https://remanga.org/user/410162/about",
-    "guild": "Eternal Demonic"
-  },
-  {
-    "norm": "moonsh1ne",
-    "display": "moonsh1ne",
-    "initial": 8050,
-    "current": 8050,
-    "diff": 0,
-    "avatar": "avatars/moonsh1ne.jpg",
-    "profile": "https://remanga.org/user/128587/about",
     "guild": "Eternal Demonic"
   },
   {
