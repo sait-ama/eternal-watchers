@@ -120,6 +120,16 @@
     "guild": "Eternal Demonic"
   },
   {
+    "norm": "rwbylove",
+    "display": "RWBYLOVE",
+    "initial": 10000,
+    "current": 13540,
+    "diff": 3540,
+    "avatar": "avatars/rwbylove.jpg",
+    "profile": "https://remanga.org/user/740757/about",
+    "guild": "Eternal Demonic"
+  },
+  {
     "norm": "haisan",
     "display": "HaiSan",
     "initial": 15700,
@@ -177,16 +187,6 @@
     "diff": 2180,
     "avatar": "avatars/trololomio.jpg",
     "profile": "https://remanga.org/user/3263817/about",
-    "guild": "Eternal Demonic"
-  },
-  {
-    "norm": "rwbylove",
-    "display": "RWBYLOVE",
-    "initial": 10000,
-    "current": 12120,
-    "diff": 2120,
-    "avatar": "avatars/rwbylove.jpg",
-    "profile": "https://remanga.org/user/740757/about",
     "guild": "Eternal Demonic"
   },
   {
