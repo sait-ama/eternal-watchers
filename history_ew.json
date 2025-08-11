@@ -90,6 +90,16 @@
     "guild": "Eternal Watchers"
   },
   {
+    "norm": "abyss",
+    "display": "_Abyss_",
+    "initial": 12550,
+    "current": 16090,
+    "diff": 3540,
+    "avatar": "avatars/abyss.jpg",
+    "profile": "https://remanga.org/user/170917/about",
+    "guild": "Eternal Watchers"
+  },
+  {
     "norm": "ewnobon",
     "display": "EW_NoBoN",
     "initial": 53000,
@@ -797,16 +807,6 @@
     "diff": 0,
     "avatar": "avatars/ctapeйшинaчy.jpg",
     "profile": "https://remanga.org/user/69640/about",
-    "guild": "Eternal Watchers"
-  },
-  {
-    "norm": "abyss",
-    "display": "_Abyss_",
-    "initial": 12550,
-    "current": 12550,
-    "diff": 0,
-    "avatar": "avatars/abyss.jpg",
-    "profile": "https://remanga.org/user/170917/about",
     "guild": "Eternal Watchers"
   },
   {
