@@ -510,6 +510,16 @@
     "guild": "Eternal Demonic"
   },
   {
+    "norm": "fox94",
+    "display": "Fox94",
+    "initial": 10000,
+    "current": 10750,
+    "diff": 750,
+    "avatar": "avatars/fox94.jpg",
+    "profile": "https://remanga.org/user/158404/about",
+    "guild": "Eternal Demonic"
+  },
+  {
     "norm": "meimei",
     "display": "mei_mei",
     "initial": 9103,
@@ -727,16 +737,6 @@
     "diff": 0,
     "avatar": "avatars/luneheim.jpg",
     "profile": "https://remanga.org/user/646434/about",
-    "guild": "Eternal Demonic"
-  },
-  {
-    "norm": "fox94",
-    "display": "Fox94",
-    "initial": 10000,
-    "current": 10000,
-    "diff": 0,
-    "avatar": "avatars/fox94.jpg",
-    "profile": "https://remanga.org/user/158404/about",
     "guild": "Eternal Demonic"
   },
   {
