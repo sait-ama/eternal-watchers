@@ -80,6 +80,16 @@
     "guild": "Eternal Demonic"
   },
   {
+    "norm": "riverfreedom",
+    "display": "RiverFreedom",
+    "initial": 9000,
+    "current": 13800,
+    "diff": 4800,
+    "avatar": "avatars/riverfreedom.jpg",
+    "profile": "https://remanga.org/user/3215284/about",
+    "guild": "Eternal Demonic"
+  },
+  {
     "norm": "kaizaki",
     "display": "Kaizaki",
     "initial": 11394,
@@ -107,16 +117,6 @@
     "diff": 4000,
     "avatar": "avatars/destructiongod𒉭.jpg",
     "profile": "https://remanga.org/user/1650325/about",
-    "guild": "Eternal Demonic"
-  },
-  {
-    "norm": "riverfreedom",
-    "display": "RiverFreedom",
-    "initial": 9000,
-    "current": 12800,
-    "diff": 3800,
-    "avatar": "avatars/riverfreedom.jpg",
-    "profile": "https://remanga.org/user/3215284/about",
     "guild": "Eternal Demonic"
   },
   {
