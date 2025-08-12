@@ -50,6 +50,16 @@
     "guild": "Eternal Demonic"
   },
   {
+    "norm": "ham021",
+    "display": "Ham021",
+    "initial": 22000,
+    "current": 28500,
+    "diff": 6500,
+    "avatar": "avatars/ham021.jpg",
+    "profile": "https://remanga.org/user/27288/about",
+    "guild": "Eternal Demonic"
+  },
+  {
     "norm": "allentina",
     "display": "allentina",
     "initial": 19500,
@@ -77,16 +87,6 @@
     "diff": 4276,
     "avatar": "avatars/placeholder.jpg",
     "profile": "https://remanga.org/user/40277/about",
-    "guild": "Eternal Demonic"
-  },
-  {
-    "norm": "ham021",
-    "display": "Ham021",
-    "initial": 22000,
-    "current": 26000,
-    "diff": 4000,
-    "avatar": "avatars/ham021.jpg",
-    "profile": "https://remanga.org/user/27288/about",
     "guild": "Eternal Demonic"
   },
   {
