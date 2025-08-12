@@ -7,7 +7,9 @@
     "diff": 27550,
     "avatar": "avatars/wertyservyt.jpg",
     "profile": "https://remanga.org/user/364625/about",
-    "guild": "Eternal Watchers"
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
   },
   {
     "norm": "belashik",
@@ -17,7 +19,9 @@
     "diff": 26030,
     "avatar": "avatars/belashik.jpg",
     "profile": "https://remanga.org/user/175047/about",
-    "guild": "Eternal Watchers"
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
   },
   {
     "norm": "flammenoire",
@@ -27,7 +31,9 @@
     "diff": 17040,
     "avatar": "avatars/flammenoire.jpg",
     "profile": "https://remanga.org/user/2384260/about",
-    "guild": "Eternal Demonic"
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня"
   },
   {
     "norm": "urus",
@@ -37,7 +43,9 @@
     "diff": 16760,
     "avatar": "avatars/urus.jpg",
     "profile": "https://remanga.org/user/46754/about",
-    "guild": "Eternal Demonic"
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня"
   },
   {
     "norm": "desport",
@@ -47,7 +55,9 @@
     "diff": 15960,
     "avatar": "avatars/desport.jpg",
     "profile": "https://remanga.org/user/216019/about",
-    "guild": "Eternal Watchers"
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
   },
   {
     "norm": "кaйдeн",
@@ -57,7 +67,9 @@
     "diff": 15000,
     "avatar": "avatars/кaйдeн.jpg",
     "profile": "https://remanga.org/user/439629/about",
-    "guild": "Eternal Watchers"
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
   },
   {
     "norm": "zurichka",
@@ -67,7 +79,9 @@
     "diff": 14000,
     "avatar": "avatars/zurichka.jpg",
     "profile": "https://remanga.org/user/189990/about",
-    "guild": "Eternal Watchers"
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
   },
   {
     "norm": "pepegaronni",
@@ -77,7 +91,9 @@
     "diff": 13682,
     "avatar": "avatars/pepegaronni.jpg",
     "profile": "https://remanga.org/user/27168/about",
-    "guild": "Eternal Demonic"
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня"
   },
   {
     "norm": "tiltexist",
@@ -87,7 +103,9 @@
     "diff": 11720,
     "avatar": "avatars/tiltexist.jpg",
     "profile": "https://remanga.org/user/98565/about",
-    "guild": "Eternal Demonic"
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня"
   },
   {
     "norm": "rezordaye",
@@ -97,6 +115,8 @@
     "diff": 11300,
     "avatar": "avatars/rezordaye.jpg",
     "profile": "https://remanga.org/user/210114/about",
-    "guild": "Eternal Watchers"
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
   }
 ]
