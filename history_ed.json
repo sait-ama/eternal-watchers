@@ -90,6 +90,16 @@
     "guild": "Eternal Demonic"
   },
   {
+    "norm": "kaizaki",
+    "display": "Kaizaki",
+    "initial": 11394,
+    "current": 16170,
+    "diff": 4776,
+    "avatar": "avatars/placeholder.jpg",
+    "profile": "https://remanga.org/user/40277/about",
+    "guild": "Eternal Demonic"
+  },
+  {
     "norm": "rwbylove",
     "display": "RWBYLOVE",
     "initial": 10000,
@@ -97,16 +107,6 @@
     "diff": 4640,
     "avatar": "avatars/rwbylove.jpg",
     "profile": "https://remanga.org/user/740757/about",
-    "guild": "Eternal Demonic"
-  },
-  {
-    "norm": "kaizaki",
-    "display": "Kaizaki",
-    "initial": 11394,
-    "current": 15670,
-    "diff": 4276,
-    "avatar": "avatars/placeholder.jpg",
-    "profile": "https://remanga.org/user/40277/about",
     "guild": "Eternal Demonic"
   },
   {
