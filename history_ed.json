@@ -22,6 +22,17 @@
     "guild": "Eternal Demonic"
   },
   {
+    "norm": "pepegaronni",
+    "display": "Pepegaronni",
+    "initial": 10638,
+    "current": 24320,
+    "diff": 13682,
+    "avatar": "avatars/pepegaronni.jpg",
+    "profile": "https://remanga.org/user/27168/about",
+    "author_id": 27168,
+    "guild": "Eternal Demonic"
+  },
+  {
     "norm": "tiltexist",
     "display": "TIltExist",
     "initial": 10910,
@@ -602,17 +613,6 @@
     "avatar": "avatars/издateль.jpg",
     "profile": "https://remanga.org/user/2439923/about",
     "author_id": 2439923,
-    "guild": "Eternal Demonic"
-  },
-  {
-    "norm": "pepegaronni",
-    "display": "Pepegaronni",
-    "initial": 27168,
-    "current": 24320,
-    "diff": 0,
-    "avatar": "avatars/pepegaronni.jpg",
-    "profile": "https://remanga.org/user/27168/about",
-    "author_id": 27168,
     "guild": "Eternal Demonic"
   },
   {
