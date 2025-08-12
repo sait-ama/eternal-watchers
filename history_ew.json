@@ -520,6 +520,16 @@
     "guild": "Eternal Watchers"
   },
   {
+    "norm": "bagas",
+    "display": "Bagas",
+    "initial": 22360,
+    "current": 23210,
+    "diff": 850,
+    "avatar": "avatars/bagas.jpg",
+    "profile": "https://remanga.org/user/79904/about",
+    "guild": "Eternal Watchers"
+  },
+  {
     "norm": "cкpыtыйинtpигaн",
     "display": "Cкрытый_интриган",
     "initial": 12750,
@@ -677,16 +687,6 @@
     "diff": 0,
     "avatar": "avatars/kodokunayurei.jpg",
     "profile": "https://remanga.org/user/108546/about",
-    "guild": "Eternal Watchers"
-  },
-  {
-    "norm": "bagas",
-    "display": "Bagas",
-    "initial": 22360,
-    "current": 22360,
-    "diff": 0,
-    "avatar": "avatars/bagas.jpg",
-    "profile": "https://remanga.org/user/79904/about",
     "guild": "Eternal Watchers"
   },
   {
