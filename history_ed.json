@@ -420,6 +420,16 @@
     "guild": "Eternal Demonic"
   },
   {
+    "norm": "etoromantic",
+    "display": "etoRomantic",
+    "initial": 8000,
+    "current": 9000,
+    "diff": 1000,
+    "avatar": "avatars/etoromantic.jpg",
+    "profile": "https://remanga.org/user/90646/about",
+    "guild": "Eternal Demonic"
+  },
+  {
     "norm": "aмeн",
     "display": "Амен",
     "initial": 8000,
@@ -647,16 +657,6 @@
     "diff": 0,
     "avatar": "avatars/mefisto51.jpg",
     "profile": "https://remanga.org/user/335099/about",
-    "guild": "Eternal Demonic"
-  },
-  {
-    "norm": "etoromantic",
-    "display": "etoRomantic",
-    "initial": 8000,
-    "current": 8000,
-    "diff": 0,
-    "avatar": "avatars/etoromantic.jpg",
-    "profile": "https://remanga.org/user/90646/about",
     "guild": "Eternal Demonic"
   },
   {
