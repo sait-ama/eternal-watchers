@@ -190,6 +190,16 @@
     "guild": "Eternal Watchers"
   },
   {
+    "norm": "ялyчшийвмиpe",
+    "display": "Я_лучший_в_мире",
+    "initial": 18080,
+    "current": 22080,
+    "diff": 4000,
+    "avatar": "avatars/ялyчшийвмиpe.jpg",
+    "profile": "https://remanga.org/user/285519/about",
+    "guild": "Eternal Watchers"
+  },
+  {
     "norm": "monalize",
     "display": "MonaLize",
     "initial": 27900,
@@ -787,16 +797,6 @@
     "diff": 0,
     "avatar": "avatars/sunshi.jpg",
     "profile": "https://remanga.org/user/2317545/about",
-    "guild": "Eternal Watchers"
-  },
-  {
-    "norm": "ялyчшийвмиpe",
-    "display": "Я_лучший_в_мире",
-    "initial": 18080,
-    "current": 18080,
-    "diff": 0,
-    "avatar": "avatars/ялyчшийвмиpe.jpg",
-    "profile": "https://remanga.org/user/285519/about",
     "guild": "Eternal Watchers"
   },
   {
