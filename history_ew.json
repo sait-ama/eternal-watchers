@@ -100,6 +100,16 @@
     "guild": "Eternal Watchers"
   },
   {
+    "norm": "okiarya",
+    "display": "Okiarya",
+    "initial": 40400,
+    "current": 46720,
+    "diff": 6320,
+    "avatar": "avatars/okiarya.jpg",
+    "profile": "https://remanga.org/user/2391629/about",
+    "guild": "Eternal Watchers"
+  },
+  {
     "norm": "akiragame",
     "display": "AkiraGame",
     "initial": 47500,
@@ -137,16 +147,6 @@
     "diff": 5440,
     "avatar": "avatars/chitandael.jpg",
     "profile": "https://remanga.org/user/372102/about",
-    "guild": "Eternal Watchers"
-  },
-  {
-    "norm": "okiarya",
-    "display": "Okiarya",
-    "initial": 40400,
-    "current": 45720,
-    "diff": 5320,
-    "avatar": "avatars/okiarya.jpg",
-    "profile": "https://remanga.org/user/2391629/about",
     "guild": "Eternal Watchers"
   },
   {
