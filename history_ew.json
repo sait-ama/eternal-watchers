@@ -230,6 +230,16 @@
     "guild": "Eternal Watchers"
   },
   {
+    "norm": "osmodeuss",
+    "display": "osmodeuss",
+    "initial": 10050,
+    "current": 13110,
+    "diff": 3060,
+    "avatar": "avatars/osmodeuss.jpg",
+    "profile": "https://remanga.org/user/928524/about",
+    "guild": "Eternal Watchers"
+  },
+  {
     "norm": "satisfied",
     "display": "Satisfied",
     "initial": 38170,
@@ -727,16 +737,6 @@
     "diff": 0,
     "avatar": "avatars/spidvrassrochku.jpg",
     "profile": "https://remanga.org/user/10999/about",
-    "guild": "Eternal Watchers"
-  },
-  {
-    "norm": "osmodeuss",
-    "display": "osmodeuss",
-    "initial": 10050,
-    "current": 10050,
-    "diff": 0,
-    "avatar": "avatars/osmodeuss.jpg",
-    "profile": "https://remanga.org/user/928524/about",
     "guild": "Eternal Watchers"
   },
   {
