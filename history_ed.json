@@ -440,6 +440,16 @@
     "guild": "Eternal Demonic"
   },
   {
+    "norm": "vallynor",
+    "display": "Vallynor",
+    "initial": 9000,
+    "current": 10000,
+    "diff": 1000,
+    "avatar": "avatars/vallynor.jpg",
+    "profile": "https://remanga.org/user/876246/about",
+    "guild": "Eternal Demonic"
+  },
+  {
     "norm": "velialsalivan",
     "display": "Velial_Salivan",
     "initial": 8000,
@@ -657,16 +667,6 @@
     "diff": 0,
     "avatar": "avatars/mefisto51.jpg",
     "profile": "https://remanga.org/user/335099/about",
-    "guild": "Eternal Demonic"
-  },
-  {
-    "norm": "vallynor",
-    "display": "Vallynor",
-    "initial": 9000,
-    "current": 9000,
-    "diff": 0,
-    "avatar": "avatars/vallynor.jpg",
-    "profile": "https://remanga.org/user/876246/about",
     "guild": "Eternal Demonic"
   },
   {
