@@ -110,6 +110,16 @@
     "guild": "Eternal Watchers"
   },
   {
+    "norm": "ewnobon",
+    "display": "EW_NoBoN",
+    "initial": 53000,
+    "current": 59000,
+    "diff": 6000,
+    "avatar": "avatars/ewnobon.jpg",
+    "profile": "https://remanga.org/user/155090/about",
+    "guild": "Eternal Watchers"
+  },
+  {
     "norm": "akiragame",
     "display": "AkiraGame",
     "initial": 47500,
@@ -117,16 +127,6 @@
     "diff": 5710,
     "avatar": "avatars/akiragame.jpg",
     "profile": "https://remanga.org/user/1714962/about",
-    "guild": "Eternal Watchers"
-  },
-  {
-    "norm": "ewnobon",
-    "display": "EW_NoBoN",
-    "initial": 53000,
-    "current": 58500,
-    "diff": 5500,
-    "avatar": "avatars/ewnobon.jpg",
-    "profile": "https://remanga.org/user/155090/about",
     "guild": "Eternal Watchers"
   },
   {
