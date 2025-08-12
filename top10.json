@@ -77,17 +77,6 @@
     "guild": "Eternal Watchers"
   },
   {
-    "norm": "pepegaronni",
-    "display": "Pepegaronni",
-    "initial": 10638,
-    "current": 24320,
-    "diff": 13682,
-    "avatar": "avatars/pepegaronni.jpg",
-    "profile": "https://remanga.org/user/27168/about",
-    "author_id": 27168,
-    "guild": "Eternal Demonic"
-  },
-  {
     "norm": "tiltexist",
     "display": "TIltExist",
     "initial": 10910,
@@ -107,6 +96,17 @@
     "avatar": "avatars/rezordaye.jpg",
     "profile": "https://remanga.org/user/210114/about",
     "author_id": 210114,
+    "guild": "Eternal Watchers"
+  },
+  {
+    "norm": "festashka",
+    "display": "_festashka_",
+    "initial": 56250,
+    "current": 65750,
+    "diff": 9500,
+    "avatar": "avatars/festashka.jpg",
+    "profile": "https://remanga.org/user/199911/about",
+    "author_id": 199911,
     "guild": "Eternal Watchers"
   }
 ]

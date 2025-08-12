@@ -22,17 +22,6 @@
     "guild": "Eternal Demonic"
   },
   {
-    "norm": "pepegaronni",
-    "display": "Pepegaronni",
-    "initial": 10638,
-    "current": 24320,
-    "diff": 13682,
-    "avatar": "avatars/pepegaronni.jpg",
-    "profile": "https://remanga.org/user/27168/about",
-    "author_id": 27168,
-    "guild": "Eternal Demonic"
-  },
-  {
     "norm": "tiltexist",
     "display": "TIltExist",
     "initial": 10910,
@@ -616,6 +605,17 @@
     "guild": "Eternal Demonic"
   },
   {
+    "norm": "pepegaronni",
+    "display": "Pepegaronni",
+    "initial": 27168,
+    "current": 24320,
+    "diff": 0,
+    "avatar": "avatars/pepegaronni.jpg",
+    "profile": "https://remanga.org/user/27168/about",
+    "author_id": 27168,
+    "guild": "Eternal Demonic"
+  },
+  {
     "norm": "aggressiv",
     "display": "-AGGRESSIV-",
     "initial": 7750,
@@ -682,14 +682,14 @@
     "guild": "Eternal Demonic"
   },
   {
-    "norm": "kintowncкиy",
-    "display": "kintownскиy",
+    "norm": "kintownskiy",
+    "display": "kintownskiy",
     "initial": 10000,
     "current": 10000,
     "diff": 0,
-    "avatar": "avatars/placeholder.jpg",
-    "profile": "https://remanga.org",
-    "author_id": null,
+    "avatar": "avatars/kintownskiy.jpg",
+    "profile": "https://remanga.org/user/3983/about",
+    "author_id": 3983,
     "guild": "Eternal Demonic"
   },
   {
