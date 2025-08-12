@@ -7,6 +7,7 @@
     "diff": 27550,
     "avatar": "avatars/wertyservyt.jpg",
     "profile": "https://remanga.org/user/364625/about",
+    "author_id": 364625,
     "guild": "Eternal Watchers"
   },
   {
@@ -17,6 +18,7 @@
     "diff": 26030,
     "avatar": "avatars/belashik.jpg",
     "profile": "https://remanga.org/user/175047/about",
+    "author_id": 175047,
     "guild": "Eternal Watchers"
   },
   {
@@ -27,6 +29,7 @@
     "diff": 17040,
     "avatar": "avatars/flammenoire.jpg",
     "profile": "https://remanga.org/user/2384260/about",
+    "author_id": 2384260,
     "guild": "Eternal Demonic"
   },
   {
@@ -37,6 +40,7 @@
     "diff": 16760,
     "avatar": "avatars/urus.jpg",
     "profile": "https://remanga.org/user/46754/about",
+    "author_id": 46754,
     "guild": "Eternal Demonic"
   },
   {
@@ -47,6 +51,7 @@
     "diff": 15960,
     "avatar": "avatars/desport.jpg",
     "profile": "https://remanga.org/user/216019/about",
+    "author_id": 216019,
     "guild": "Eternal Watchers"
   },
   {
@@ -57,6 +62,7 @@
     "diff": 15000,
     "avatar": "avatars/кaйдeн.jpg",
     "profile": "https://remanga.org/user/439629/about",
+    "author_id": 439629,
     "guild": "Eternal Watchers"
   },
   {
@@ -67,6 +73,7 @@
     "diff": 14000,
     "avatar": "avatars/zurichka.jpg",
     "profile": "https://remanga.org/user/189990/about",
+    "author_id": 189990,
     "guild": "Eternal Watchers"
   },
   {
@@ -77,6 +84,7 @@
     "diff": 13682,
     "avatar": "avatars/pepegaronni.jpg",
     "profile": "https://remanga.org/user/27168/about",
+    "author_id": 27168,
     "guild": "Eternal Demonic"
   },
   {
@@ -87,16 +95,18 @@
     "diff": 11810,
     "avatar": "avatars/tiltexist.jpg",
     "profile": "https://remanga.org/user/98565/about",
+    "author_id": 98565,
     "guild": "Eternal Demonic"
   },
   {
     "norm": "rezordaye",
     "display": "rezord_aye",
     "initial": 20070,
-    "current": 31370,
-    "diff": 11300,
+    "current": 31480,
+    "diff": 11410,
     "avatar": "avatars/rezordaye.jpg",
     "profile": "https://remanga.org/user/210114/about",
+    "author_id": 210114,
     "guild": "Eternal Watchers"
   }
 ]
