@@ -450,6 +450,16 @@
     "guild": "Eternal Watchers"
   },
   {
+    "norm": "temƥeຮt",
+    "display": "TeᴍƤeຮt",
+    "initial": 10000,
+    "current": 11000,
+    "diff": 1000,
+    "avatar": "avatars/temƥeຮt.jpg",
+    "profile": "https://remanga.org/user/349055/about",
+    "guild": "Eternal Watchers"
+  },
+  {
     "norm": "talent",
     "display": "Talent",
     "initial": 7510,
@@ -707,16 +717,6 @@
     "diff": 0,
     "avatar": "avatars/кaпиtaнзaнyдa.jpg",
     "profile": "https://remanga.org/user/1323051/about",
-    "guild": "Eternal Watchers"
-  },
-  {
-    "norm": "temƥeຮt",
-    "display": "TeᴍƤeຮt",
-    "initial": 10000,
-    "current": 10000,
-    "diff": 0,
-    "avatar": "avatars/temƥeຮt.jpg",
-    "profile": "https://remanga.org/user/349055/about",
     "guild": "Eternal Watchers"
   },
   {
