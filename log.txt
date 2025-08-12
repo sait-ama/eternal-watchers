@@ -45,3 +45,42 @@ fatal: unable to auto-detect email address (got 'SenetUser@PC17.(none)')
 error: failed to push some refs to 'https://github.com/sait-ama/eternal-watchers.git'
 [2025-08-12 12:33:11] [GIT] push done
 [2025-08-12 12:33:11] === SCRIPT FINISHED ===
+[2025-08-12 12:38:18] === SCRIPT START ===
+[2025-08-12 12:38:18] [fetch_guild] Start: Eternal Watchers -> https://remanga.org/guild/eternal-watchers-5fdc5a3d/about
+[2025-08-12 12:38:19] [fetch_guild] HTTP status: 200
+[2025-08-12 12:38:19] [fetch_guild] Found cards: 95
+[2025-08-12 12:38:19] [fetch_guild] Parsed count: 89
+[2025-08-12 12:38:19] [fetch_guild] Start: Eternal Demonic -> https://remanga.org/guild/eternal-keepers-of-knowledge-06969ad9/about
+[2025-08-12 12:38:19] [fetch_guild] HTTP status: 200
+[2025-08-12 12:38:19] [fetch_guild] Found cards: 88
+[2025-08-12 12:38:19] [fetch_guild] Parsed count: 75
+[2025-08-12 12:38:19] [fetch_guild] Start: ШИЗА -> https://remanga.org/guild/bed-s-bashkoi-kohaja-6a891c56/about
+[2025-08-12 12:38:20] [fetch_guild] HTTP status: 200
+[2025-08-12 12:38:20] [fetch_guild] Found cards: 54
+[2025-08-12 12:38:20] [fetch_guild] Parsed count: 54
+[2025-08-12 12:38:20] [fetch_prizes] start, ids=[5917, 319, 318, 9596, 7478, 9597, 8253, 50363, 8252, 5916, 13758]
+[2025-08-12 12:38:20] [fetch_prizes] 5917 parsed
+[2025-08-12 12:38:20] [fetch_prizes] 319 parsed
+[2025-08-12 12:38:21] [fetch_prizes] 318 parsed
+[2025-08-12 12:38:21] [fetch_prizes] 9596 parsed
+[2025-08-12 12:38:21] [fetch_prizes] 7478 parsed
+[2025-08-12 12:38:22] [fetch_prizes] 9597 parsed
+[2025-08-12 12:38:22] [fetch_prizes] 8253 parsed
+[2025-08-12 12:38:22] [fetch_prizes] 50363 parsed
+[2025-08-12 12:38:23] [fetch_prizes] 8252 parsed
+[2025-08-12 12:38:23] [fetch_prizes] 5916 parsed
+[2025-08-12 12:38:23] [fetch_prizes] 13758 parsed
+[2025-08-12 12:38:23] [fetch_prizes] finished, parsed 11
+[2025-08-12 12:38:23] -> index.html saved
+[2025-08-12 12:38:23] -> top10.json, history_ew.json & history_ed.json saved
+[2025-08-12 12:38:23] [GIT] commit -m Auto update: 2025-08-12 12:38:23.865055 | stdout: [main 26fc166] Auto update: 2025-08-12 12:38:23.865055
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[2025-08-12 12:38:25] [GIT] push origin main | stderr: To https://github.com/sait-ama/eternal-watchers.git
+ ! [rejected]        main -> main (non-fast-forward)
+error: failed to push some refs to 'https://github.com/sait-ama/eternal-watchers.git'
+hint: Updates were rejected because the tip of your current branch is behind
+hint: its remote counterpart. If you want to integrate the remote changes,
+hint: use 'git pull' before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+[2025-08-12 12:38:25] [GIT] push done
+[2025-08-12 12:38:25] === SCRIPT FINISHED ===
