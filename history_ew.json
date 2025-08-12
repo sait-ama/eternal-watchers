@@ -420,6 +420,16 @@
     "guild": "Eternal Watchers"
   },
   {
+    "norm": "xmmxmm",
+    "display": "Xmmxmm",
+    "initial": 10000,
+    "current": 11430,
+    "diff": 1430,
+    "avatar": "avatars/xmmxmm.jpg",
+    "profile": "https://remanga.org/user/2724307/about",
+    "guild": "Eternal Watchers"
+  },
+  {
     "norm": "darkangei",
     "display": "Dark_AngeI",
     "initial": 10080,
@@ -457,16 +467,6 @@
     "diff": 1160,
     "avatar": "avatars/frozenjfx.jpg",
     "profile": "https://remanga.org/user/594356/about",
-    "guild": "Eternal Watchers"
-  },
-  {
-    "norm": "xmmxmm",
-    "display": "Xmmxmm",
-    "initial": 10000,
-    "current": 11140,
-    "diff": 1140,
-    "avatar": "avatars/xmmxmm.jpg",
-    "profile": "https://remanga.org/user/2724307/about",
     "guild": "Eternal Watchers"
   },
   {
