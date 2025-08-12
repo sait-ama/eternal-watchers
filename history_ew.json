@@ -200,6 +200,16 @@
     "guild": "Eternal Watchers"
   },
   {
+    "norm": "vladosrat",
+    "display": "vladosrat",
+    "initial": 44060,
+    "current": 47610,
+    "diff": 3550,
+    "avatar": "avatars/vladosrat.jpg",
+    "profile": "https://remanga.org/user/1037182/about",
+    "guild": "Eternal Watchers"
+  },
+  {
     "norm": "abyss",
     "display": "_Abyss_",
     "initial": 12550,
@@ -287,6 +297,16 @@
     "diff": 2310,
     "avatar": "avatars/harlequ1n.jpg",
     "profile": "https://remanga.org/user/959231/about",
+    "guild": "Eternal Watchers"
+  },
+  {
+    "norm": "thostriel",
+    "display": "Thostriel",
+    "initial": 37810,
+    "current": 39870,
+    "diff": 2060,
+    "avatar": "avatars/thostriel.jpg",
+    "profile": "https://remanga.org/user/1405392/about",
     "guild": "Eternal Watchers"
   },
   {
@@ -417,16 +437,6 @@
     "diff": 1140,
     "avatar": "avatars/xmmxmm.jpg",
     "profile": "https://remanga.org/user/2724307/about",
-    "guild": "Eternal Watchers"
-  },
-  {
-    "norm": "thostriel",
-    "display": "Thostriel",
-    "initial": 37810,
-    "current": 38870,
-    "diff": 1060,
-    "avatar": "avatars/thostriel.jpg",
-    "profile": "https://remanga.org/user/1405392/about",
     "guild": "Eternal Watchers"
   },
   {
@@ -687,16 +697,6 @@
     "diff": 0,
     "avatar": "avatars/bloodborrn.jpg",
     "profile": "https://remanga.org/user/832683/about",
-    "guild": "Eternal Watchers"
-  },
-  {
-    "norm": "vladosrat",
-    "display": "vladosrat",
-    "initial": 44060,
-    "current": 44060,
-    "diff": 0,
-    "avatar": "avatars/vladosrat.jpg",
-    "profile": "https://remanga.org/user/1037182/about",
     "guild": "Eternal Watchers"
   },
   {

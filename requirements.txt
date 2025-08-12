@@ -1,0 +1,25 @@
+# Основное для Telegram-бота
+python-telegram-bot==20.8
+
+# HTTP-запросы
+requests
+aiohttp
+
+# Парсинг HTML
+beautifulsoup4
+lxml
+
+# Работа с изображениями
+pillow
+
+# Асинхронная работа с файлами
+aiofiles
+
+# Красивый вывод в консоль
+colorama
+
+# Для случайных выборок и утилит
+numpy
+
+# Для логов в цвете (опционально)
+loguru
