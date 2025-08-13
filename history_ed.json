@@ -220,6 +220,16 @@
     "guild": "Eternal Demonic"
   },
   {
+    "norm": "oblakatt",
+    "display": "OblakaT_T",
+    "initial": 9000,
+    "current": 11000,
+    "diff": 2000,
+    "avatar": "avatars/oblakatt.jpg",
+    "profile": "https://remanga.org/user/474087/about",
+    "guild": "Eternal Demonic"
+  },
+  {
     "norm": "banshei",
     "display": "BanShei",
     "initial": 7000,
@@ -377,16 +387,6 @@
     "diff": 1000,
     "avatar": "avatars/leyley.jpg",
     "profile": "https://remanga.org/user/24708/about",
-    "guild": "Eternal Demonic"
-  },
-  {
-    "norm": "oblakatt",
-    "display": "OblakaT_T",
-    "initial": 9000,
-    "current": 10000,
-    "diff": 1000,
-    "avatar": "avatars/oblakatt.jpg",
-    "profile": "https://remanga.org/user/474087/about",
     "guild": "Eternal Demonic"
   },
   {
