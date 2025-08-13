@@ -360,6 +360,16 @@
     "guild": "Eternal Watchers"
   },
   {
+    "norm": "talent",
+    "display": "Talent",
+    "initial": 7510,
+    "current": 9800,
+    "diff": 2290,
+    "avatar": "avatars/talent.jpg",
+    "profile": "https://remanga.org/user/926473/about",
+    "guild": "Eternal Watchers"
+  },
+  {
     "norm": "thostriel",
     "display": "Thostriel",
     "initial": 37810,
@@ -437,16 +447,6 @@
     "diff": 1410,
     "avatar": "avatars/darkangei.jpg",
     "profile": "https://remanga.org/user/458815/about",
-    "guild": "Eternal Watchers"
-  },
-  {
-    "norm": "talent",
-    "display": "Talent",
-    "initial": 7510,
-    "current": 8760,
-    "diff": 1250,
-    "avatar": "avatars/talent.jpg",
-    "profile": "https://remanga.org/user/926473/about",
     "guild": "Eternal Watchers"
   },
   {
