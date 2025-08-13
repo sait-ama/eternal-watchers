@@ -108,6 +108,18 @@
     "last_active_human": "сегодня"
   },
   {
+    "norm": "akiragame",
+    "display": "AkiraGame",
+    "initial": 47500,
+    "current": 54330,
+    "diff": 6830,
+    "avatar": "avatars/akiragame.jpg",
+    "profile": "https://remanga.org/user/1714962/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "feelwhatlifeis",
     "display": "Feel_what_life_is",
     "initial": 26710,
@@ -115,18 +127,6 @@
     "diff": 6660,
     "avatar": "avatars/feelwhatlifeis.jpg",
     "profile": "https://remanga.org/user/2105597/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "сегодня"
-  },
-  {
-    "norm": "akiragame",
-    "display": "AkiraGame",
-    "initial": 47500,
-    "current": 54040,
-    "diff": 6540,
-    "avatar": "avatars/akiragame.jpg",
-    "profile": "https://remanga.org/user/1714962/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "сегодня"
@@ -156,6 +156,18 @@
     "last_active_human": "сегодня"
   },
   {
+    "norm": "chitandael",
+    "display": "Chitandael",
+    "initial": 29380,
+    "current": 35030,
+    "diff": 5650,
+    "avatar": "avatars/chitandael.jpg",
+    "profile": "https://remanga.org/user/372102/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "frostik4",
     "display": "Frostik4",
     "initial": 25700,
@@ -163,18 +175,6 @@
     "diff": 5500,
     "avatar": "avatars/frostik4.jpg",
     "profile": "https://remanga.org/user/3003544/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "сегодня"
-  },
-  {
-    "norm": "chitandael",
-    "display": "Chitandael",
-    "initial": 29380,
-    "current": 34820,
-    "diff": 5440,
-    "avatar": "avatars/chitandael.jpg",
-    "profile": "https://remanga.org/user/372102/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "сегодня"
