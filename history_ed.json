@@ -470,6 +470,16 @@
     "guild": "Eternal Demonic"
   },
   {
+    "norm": "kost9n",
+    "display": "KOST9N",
+    "initial": 8000,
+    "current": 9000,
+    "diff": 1000,
+    "avatar": "avatars/kost9n.jpg",
+    "profile": "https://remanga.org/user/48794/about",
+    "guild": "Eternal Demonic"
+  },
+  {
     "norm": "velialsalivan",
     "display": "Velial_Salivan",
     "initial": 8000,
@@ -677,16 +687,6 @@
     "diff": 0,
     "avatar": "avatars/saytoriya.jpg",
     "profile": "https://remanga.org/user/126709/about",
-    "guild": "Eternal Demonic"
-  },
-  {
-    "norm": "kost9n",
-    "display": "KOST9N",
-    "initial": 8000,
-    "current": 8000,
-    "diff": 0,
-    "avatar": "avatars/kost9n.jpg",
-    "profile": "https://remanga.org/user/48794/about",
     "guild": "Eternal Demonic"
   },
   {
