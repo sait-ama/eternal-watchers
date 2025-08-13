@@ -42,9 +42,18 @@ AVATAR_PLACEHOLDER = "avatars/placeholder.jpg"
 AVATARS_DIR = Path("avatars")
 AVATARS_DIR.mkdir(exist_ok=True)
 
+# Принудительные аватарки по нику (без нормализации)
+OVERRIDE_AVATARS = {
+    "Strayker5421": (AVATARS_DIR / "Strayker5421.jpg").as_posix()
+}
+
 # Папка для карт призов
 CARDS_DIR = Path("cards")
 CARDS_DIR.mkdir(exist_ok=True)
+
+# Файл для отслеживания активности (последнего прироста)
+ACTIVITY_FILE = Path("activity.json")
+AFK_DAYS = 7
 
 # ID карт для вкладки "Призы" — порядок = приоритет; первые 3 попадут в топ-3
 prizes_ids = [5917, 319, 318, 9596, 7478, 9597, 8253, 50363, 8252, 5916, 13758]
@@ -68,7 +77,7 @@ guild1_manual_pairs = [
     ("TeChal",10180),("Hellsait",9780),("ToKKeBi11",8940),("Чмошка-Мошка",10880),("NikesNt",10040),
     ("zarti",10080),("loli69228",26090),("Laytee",10030),("Старейшина-Чу",16550),("_Abyss_",12550),
     ("역사관",16480),("DarQee",1000),("Volcopik",82050),("Charisma",4000),("EW_МанкиДиГлупый",40000),
-    ("WhitеFlower",31000),("Wladzer",10380)
+    ("WhitеFlower",31000),("Wladzer",10380),("Strayker5421",0)
 ]
 
 guild2_manual_pairs = [
@@ -105,7 +114,7 @@ guild3_manual_pairs = [
     ("lov_dddd",0),("SuuNaDeSsu",0),("小市民",0)
 ]
 
-# ----------------- ФУНКЦИИ -----------------
+# ----------------- ВСПОМОГАТЕЛЬНОЕ -----------------
 def super_normalize(name):
     if name is None:
         return ""
@@ -118,7 +127,6 @@ def super_normalize(name):
     return ''.join(replacements.get(c, c) for c in s)
 
 def ensure_placeholder():
-    """Создаём локальный плейсхолдер без интернета."""
     ph = Path(AVATAR_PLACEHOLDER)
     if ph.exists():
         return
@@ -146,6 +154,27 @@ def parse_lightning_text(raw_text):
     except Exception:
         digits = re.sub(r"[^\d]", "", raw)
         return int(digits) if digits else 0
+
+def load_activity():
+    if ACTIVITY_FILE.exists():
+        try:
+            return json.loads(ACTIVITY_FILE.read_text(encoding="utf-8"))
+        except Exception as e:
+            log("[ACTIVITY] read error:", e)
+    return {}
+
+def save_activity(data):
+    try:
+        ACTIVITY_FILE.write_text(json.dumps(data, ensure_ascii=False, indent=2), encoding="utf-8")
+    except Exception as e:
+        log("[ACTIVITY] write error:", e)
+
+def human_ago(delta_days:int) -> str:
+    if delta_days <= 0:
+        return "сегодня"
+    if delta_days == 1:
+        return "вчера"
+    return f"{delta_days} дн. назад"
 
 def fetch_guild(guild_url, allowed_norms, guild_label):
     log(f"[fetch_guild] Start: {guild_label} -> {guild_url}")
@@ -189,17 +218,66 @@ def fetch_guild(guild_url, allowed_norms, guild_label):
     return parsed, avatars, profiles
 
 def build_participants(manual_pairs, parsed_map, avatars_map, profiles_map, guild_label):
+    activity = load_activity()
+    now = datetime.now(timezone.utc)
     out = []
+
     for display, init_val in manual_pairs:
         norm = super_normalize(display)
         current_v = parsed_map.get(norm, {}).get("lightning", init_val)
         display_label = parsed_map.get(norm, {}).get("site_nick", display)
         diff = max(current_v - init_val, 0)
+
+        # last increment tracking
+        last_iso = activity.get(norm)
+        last_dt = None
+        if diff > 0:
+            last_dt = now
+            activity[norm] = last_dt.isoformat()
+        else:
+            if last_iso:
+                try:
+                    last_dt = datetime.fromisoformat(last_iso)
+                    if last_dt.tzinfo is None:
+                        last_dt = last_dt.replace(tzinfo=timezone.utc)
+                except Exception:
+                    last_dt = None
+
+        # AFK detection
+        is_afk = False
+        last_active_human = None
+        if last_dt:
+            delta_days = (now - last_dt).days
+            last_active_human = human_ago(delta_days)
+            is_afk = delta_days >= AFK_DAYS
+        else:
+            # Никогда не было прироста — считаем AFK сразу
+            is_afk = True
+            last_active_human = "нет данных"
+
+        # avatar override (по отображаемому нику)
+        avatar_url = avatars_map.get(norm, Path(AVATAR_PLACEHOLDER).as_posix())
+        if display in OVERRIDE_AVATARS:
+            override_path = Path(OVERRIDE_AVATARS[display])
+            if override_path.exists() and override_path.stat().st_size > 0:
+                avatar_url = override_path.as_posix()
+
         out.append({
-            "norm": norm, "display": display_label, "initial": init_val, "current": current_v, "diff": diff,
-            "avatar": avatars_map.get(norm, Path(AVATAR_PLACEHOLDER).as_posix()),
-            "profile": profiles_map.get(norm, BASE_URL), "guild": guild_label
+            "norm": norm,
+            "display": display_label,
+            "initial": init_val,
+            "current": current_v,
+            "diff": diff,
+            "avatar": avatar_url,
+            "profile": profiles_map.get(norm, BASE_URL),
+            "guild": guild_label,
+            "is_afk": is_afk,
+            "last_active_human": last_active_human
         })
+
+    # сохранить activity обновлённым
+    save_activity(activity)
+
     out.sort(key=lambda x: x["diff"], reverse=True)
     return out
 
@@ -208,8 +286,16 @@ def fmt(n): return f"{n:,}".replace(",", " ")
 def render_cards(parts):
     html = ""
     for i, p in enumerate(parts, start=1):
+        afk_cls = " afk" if p.get("is_afk") else ""
+        afk_badge = "<div class='afk-badge'>AFK</div>" if p.get("is_afk") else ""
+
+        last_active_html = ""
+        if p.get("last_active_human"):
+            last_active_html = f"<div class='last-active'>Активность: {p.get('last_active_human', '—')}</div>"
+
         html += (
-            "<div class='card'>"
+            f"<div class='card{afk_cls}'>"
+            f"{afk_badge}"
             f"<div class='place'>#{i}</div>"
             f"<div class='avatar' style=\"background-image: url('{p['avatar']}');\"></div>"
             "<div class='info'>"
@@ -218,7 +304,9 @@ def render_cards(parts):
             f"<div class='stat'><span class='label'>Начальный вклад</span><span class='val'>{fmt(p['initial'])}</span></div>"
             f"<div class='stat'><span class='label'>Текущий вклад</span><span class='val'>{fmt(p['current'])}</span></div>"
             f"<div class='stat big'><span class='label'>Сумма залитых молний</span><span class='val bigval'>{fmt(p['diff'])}</span></div>"
-            "</div></div></div>\n"
+            "</div>"
+            f"{last_active_html}"
+            "</div></div>\n"
         )
     return html
 
@@ -239,7 +327,6 @@ def resize_image_15(img_bytes):
         return img_bytes
 
 def fetch_prizes():
-    """Парсинг карт: берём alt для названия, мангу и автора ищем в ближайшем wrapper блоке."""
     log(f"[fetch_prizes] start, ids={prizes_ids}")
     prizes = []
     for card_id in prizes_ids:
@@ -376,7 +463,9 @@ header{text-align:center;padding:10px}
 .panel{display:none}
 .panel.active{display:block}
 .grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(320px,1fr));gap:12px}
-.card{background:var(--card);border-radius:10px;padding:14px;display:flex;gap:14px}
+.card{background:var(--card);border-radius:10px;padding:14px;display:flex;gap:14px;position:relative}
+.card.afk{opacity:.55;filter:grayscale(.4)}
+.afk-badge{position:absolute;top:8px;right:8px;background:#8b949e;color:#111;padding:4px 8px;border-radius:8px;font-weight:800;font-size:.78rem}
 .avatar{width:96px;height:96px;border-radius:50%;background-size:cover;background-position:center}
 .place{font-weight:800;color:var(--gold);width:40px;text-align:center}
 .info{flex:1}
@@ -384,6 +473,7 @@ header{text-align:center;padding:10px}
 .row{display:flex;gap:12px;flex-wrap:wrap;margin-top:8px}
 .stat{background:rgba(255,255,255,0.05);padding:6px;border-radius:8px;min-width:100px}
 .bigval{color:var(--gold)}
+.last-active{margin-top:8px;color:var(--muted);font-size:.92em}
 
 /* Призы */
 .prizes-title{margin:12px 0 6px 6px;color:var(--muted);font-weight:700;letter-spacing:.3px}
@@ -465,9 +555,8 @@ with open("history_ed.json", "w", encoding="utf-8") as f:
     json.dump(participants_g2, f, ensure_ascii=False, indent=2)
 log("-> top10.json, history_ew.json & history_ed.json saved")
 
-# ---------- GIT PUSH (надёжный для двойного клика) ----------
+# ---------- GIT PUSH ----------
 def try_git_push():
-    """Надёжный автопуш: cwd=папка скрипта, проверка .git, поиск git.exe, лог stdout/stderr, коммит только при изменениях."""
     try:
         script_dir = Path(__file__).resolve().parent
         os.chdir(script_dir)
@@ -494,7 +583,7 @@ def try_git_push():
             noj.write_text("", encoding="utf-8")
             log("[GIT] created .nojekyll")
 
-        run(["add", "index.html", "avatars", "cards", "top10.json", "history_ew.json", "history_ed.json", ".nojekyll"])
+        run(["add", "index.html", "avatars", "cards", "top10.json", "history_ew.json", "history_ed.json", "activity.json", ".nojekyll"])
 
         rc = subprocess.run([git_path, "diff", "--cached", "--quiet"]).returncode
         if rc == 0:
