@@ -168,18 +168,6 @@
     "last_active_human": "сегодня"
   },
   {
-    "norm": "dergauss",
-    "display": "Dergauss",
-    "initial": 10000,
-    "current": 12500,
-    "diff": 2500,
-    "avatar": "avatars/dergauss.jpg",
-    "profile": "https://remanga.org/user/57091/about",
-    "guild": "Eternal Demonic",
-    "is_afk": false,
-    "last_active_human": "сегодня"
-  },
-  {
     "norm": "llikojioma",
     "display": "LLIKoJIoma",
     "initial": 6000,
@@ -676,6 +664,18 @@
     "display": "allentina",
     "initial": 19500,
     "current": 19500,
+    "diff": 0,
+    "avatar": "avatars/placeholder.jpg",
+    "profile": "https://remanga.org",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
+    "norm": "dergauss",
+    "display": "Dergauss",
+    "initial": 10000,
+    "current": 10000,
     "diff": 0,
     "avatar": "avatars/placeholder.jpg",
     "profile": "https://remanga.org",
