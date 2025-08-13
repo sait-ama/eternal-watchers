@@ -504,6 +504,18 @@
     "last_active_human": "сегодня"
   },
   {
+    "norm": "misikira",
+    "display": "Misikira",
+    "initial": 16300,
+    "current": 18300,
+    "diff": 2000,
+    "avatar": "avatars/misikira.jpg",
+    "profile": "https://remanga.org/user/2350456/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "rayze",
     "display": "RayZe",
     "initial": 11430,
@@ -631,18 +643,6 @@
     "diff": 1000,
     "avatar": "avatars/admiralsengoku.jpg",
     "profile": "https://remanga.org/user/1529739/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "сегодня"
-  },
-  {
-    "norm": "misikira",
-    "display": "Misikira",
-    "initial": 16300,
-    "current": 17300,
-    "diff": 1000,
-    "avatar": "avatars/misikira.jpg",
-    "profile": "https://remanga.org/user/2350456/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "сегодня"
