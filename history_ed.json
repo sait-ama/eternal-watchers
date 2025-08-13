@@ -340,6 +340,16 @@
     "guild": "Eternal Demonic"
   },
   {
+    "norm": "hatin",
+    "display": "Hatin",
+    "initial": 9720,
+    "current": 10720,
+    "diff": 1000,
+    "avatar": "avatars/hatin.jpg",
+    "profile": "https://remanga.org/user/2797890/about",
+    "guild": "Eternal Demonic"
+  },
+  {
     "norm": "woodss",
     "display": "Woods_s",
     "initial": 23100,
@@ -587,16 +597,6 @@
     "diff": 0,
     "avatar": "avatars/dmitryflow.jpg",
     "profile": "https://remanga.org/user/742164/about",
-    "guild": "Eternal Demonic"
-  },
-  {
-    "norm": "hatin",
-    "display": "Hatin",
-    "initial": 9720,
-    "current": 9720,
-    "diff": 0,
-    "avatar": "avatars/hatin.jpg",
-    "profile": "https://remanga.org/user/2797890/about",
     "guild": "Eternal Demonic"
   },
   {
