@@ -204,6 +204,18 @@
     "last_active_human": "сегодня"
   },
   {
+    "norm": "яшtyг",
+    "display": "Яштуг",
+    "initial": 119860,
+    "current": 125160,
+    "diff": 5300,
+    "avatar": "avatars/яшtyг.jpg",
+    "profile": "https://remanga.org/user/1317566/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "ミュージシャン",
     "display": "ミュージシャン",
     "initial": 105000,
@@ -247,18 +259,6 @@
     "diff": 4320,
     "avatar": "avatars/Strayker5421.jpg",
     "profile": "https://remanga.org/user/434820/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "сегодня"
-  },
-  {
-    "norm": "яшtyг",
-    "display": "Яштуг",
-    "initial": 119860,
-    "current": 124030,
-    "diff": 4170,
-    "avatar": "avatars/яшtyг.jpg",
-    "profile": "https://remanga.org/user/1317566/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "сегодня"
@@ -319,6 +319,18 @@
     "diff": 3800,
     "avatar": "avatars/monalize.jpg",
     "profile": "https://remanga.org/user/809195/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
+    "norm": "andrefalkonen",
+    "display": "Andre_Falkonen",
+    "initial": 32890,
+    "current": 36630,
+    "diff": 3740,
+    "avatar": "avatars/andrefalkonen.jpg",
+    "profile": "https://remanga.org/user/35664/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "сегодня"
@@ -403,18 +415,6 @@
     "diff": 2840,
     "avatar": "avatars/гocькa.jpg",
     "profile": "https://remanga.org/user/1079084/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "сегодня"
-  },
-  {
-    "norm": "andrefalkonen",
-    "display": "Andre_Falkonen",
-    "initial": 32890,
-    "current": 35690,
-    "diff": 2800,
-    "avatar": "avatars/andrefalkonen.jpg",
-    "profile": "https://remanga.org/user/35664/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "сегодня"
