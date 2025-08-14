@@ -756,6 +756,18 @@
     "last_active_human": "сегодня"
   },
   {
+    "norm": "laytee",
+    "display": "Laytee",
+    "initial": 10030,
+    "current": 10330,
+    "diff": 300,
+    "avatar": "avatars/laytee.jpg",
+    "profile": "https://remanga.org/user/2488048/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "역사관",
     "display": "역사관",
     "initial": 16480,
@@ -799,18 +811,6 @@
     "diff": 110,
     "avatar": "avatars/tavik.jpg",
     "profile": "https://remanga.org/user/72974/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "сегодня"
-  },
-  {
-    "norm": "laytee",
-    "display": "Laytee",
-    "initial": 10030,
-    "current": 10140,
-    "diff": 110,
-    "avatar": "avatars/laytee.jpg",
-    "profile": "https://remanga.org/user/2488048/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "сегодня"
