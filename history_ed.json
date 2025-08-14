@@ -27,8 +27,8 @@
     "norm": "ronin74",
     "display": "Ronin74",
     "initial": 36010,
-    "current": 45350,
-    "diff": 9340,
+    "current": 46030,
+    "diff": 10020,
     "avatar": "avatars/ronin74.jpg",
     "profile": "https://remanga.org/user/76998/about",
     "guild": "Eternal Demonic",
@@ -60,6 +60,18 @@
     "last_active_human": "сегодня"
   },
   {
+    "norm": "rwbylove",
+    "display": "RWBYLOVE",
+    "initial": 10000,
+    "current": 16280,
+    "diff": 6280,
+    "avatar": "avatars/rwbylove.jpg",
+    "profile": "https://remanga.org/user/740757/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "riverfreedom",
     "display": "RiverFreedom",
     "initial": 9000,
@@ -79,18 +91,6 @@
     "diff": 5776,
     "avatar": "avatars/placeholder.jpg",
     "profile": "https://remanga.org/user/40277/about",
-    "guild": "Eternal Demonic",
-    "is_afk": false,
-    "last_active_human": "сегодня"
-  },
-  {
-    "norm": "rwbylove",
-    "display": "RWBYLOVE",
-    "initial": 10000,
-    "current": 15770,
-    "diff": 5770,
-    "avatar": "avatars/rwbylove.jpg",
-    "profile": "https://remanga.org/user/740757/about",
     "guild": "Eternal Demonic",
     "is_afk": false,
     "last_active_human": "сегодня"
