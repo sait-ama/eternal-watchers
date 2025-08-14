@@ -540,6 +540,18 @@
     "last_active_human": "сегодня"
   },
   {
+    "norm": "bagas",
+    "display": "Bagas",
+    "initial": 22360,
+    "current": 24140,
+    "diff": 1780,
+    "avatar": "avatars/bagas.jpg",
+    "profile": "https://remanga.org/user/79904/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "darkangei",
     "display": "Dark_AngeI",
     "initial": 10080,
@@ -679,18 +691,6 @@
     "diff": 880,
     "avatar": "avatars/йopм.jpg",
     "profile": "https://remanga.org/user/208257/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "сегодня"
-  },
-  {
-    "norm": "bagas",
-    "display": "Bagas",
-    "initial": 22360,
-    "current": 23210,
-    "diff": 850,
-    "avatar": "avatars/bagas.jpg",
-    "profile": "https://remanga.org/user/79904/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "сегодня"
@@ -836,8 +836,8 @@
     "avatar": "avatars/милыйкoхaй.jpg",
     "profile": "https://remanga.org/user/45081/about",
     "guild": "Eternal Watchers",
-    "is_afk": true,
-    "last_active_human": "нет данных"
+    "is_afk": false,
+    "last_active_human": "сегодня"
   },
   {
     "norm": "markutts",
@@ -932,8 +932,8 @@
     "avatar": "avatars/efiliyens.jpg",
     "profile": "https://remanga.org/user/169153/about",
     "guild": "Eternal Watchers",
-    "is_afk": true,
-    "last_active_human": "нет данных"
+    "is_afk": false,
+    "last_active_human": "сегодня"
   },
   {
     "norm": "spidvrassrochku",
