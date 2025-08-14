@@ -168,6 +168,18 @@
     "last_active_human": "сегодня"
   },
   {
+    "norm": "яшtyг",
+    "display": "Яштуг",
+    "initial": 119860,
+    "current": 126260,
+    "diff": 6400,
+    "avatar": "avatars/яшtyг.jpg",
+    "profile": "https://remanga.org/user/1317566/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "okiarya",
     "display": "Okiarya",
     "initial": 40400,
@@ -228,18 +240,6 @@
     "last_active_human": "сегодня"
   },
   {
-    "norm": "яшtyг",
-    "display": "Яштуг",
-    "initial": 119860,
-    "current": 125160,
-    "diff": 5300,
-    "avatar": "avatars/яшtyг.jpg",
-    "profile": "https://remanga.org/user/1317566/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "сегодня"
-  },
-  {
     "norm": "arbogastr",
     "display": "Arbogastr",
     "initial": 31500,
@@ -259,6 +259,18 @@
     "diff": 5000,
     "avatar": "avatars/ミュージシャン.jpg",
     "profile": "https://remanga.org/user/938359/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
+    "norm": "andrefalkonen",
+    "display": "Andre_Falkonen",
+    "initial": 32890,
+    "current": 37830,
+    "diff": 4940,
+    "avatar": "avatars/andrefalkonen.jpg",
+    "profile": "https://remanga.org/user/35664/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "сегодня"
@@ -331,18 +343,6 @@
     "diff": 3800,
     "avatar": "avatars/monalize.jpg",
     "profile": "https://remanga.org/user/809195/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "сегодня"
-  },
-  {
-    "norm": "andrefalkonen",
-    "display": "Andre_Falkonen",
-    "initial": 32890,
-    "current": 36630,
-    "diff": 3740,
-    "avatar": "avatars/andrefalkonen.jpg",
-    "profile": "https://remanga.org/user/35664/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "сегодня"
