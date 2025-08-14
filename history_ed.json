@@ -87,8 +87,8 @@
     "norm": "rwbylove",
     "display": "RWBYLOVE",
     "initial": 10000,
-    "current": 15100,
-    "diff": 5100,
+    "current": 15190,
+    "diff": 5190,
     "avatar": "avatars/rwbylove.jpg",
     "profile": "https://remanga.org/user/740757/about",
     "guild": "Eternal Demonic",
@@ -801,7 +801,7 @@
     "profile": "https://remanga.org",
     "guild": "Eternal Demonic",
     "is_afk": false,
-    "last_active_human": "сегодня"
+    "last_active_human": "вчера"
   },
   {
     "norm": "mefisto51",
