@@ -24,6 +24,18 @@
     "last_active_human": "сегодня"
   },
   {
+    "norm": "ronin74",
+    "display": "Ronin74",
+    "initial": 36010,
+    "current": 45350,
+    "diff": 9340,
+    "avatar": "avatars/ronin74.jpg",
+    "profile": "https://remanga.org/user/76998/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "ham021",
     "display": "Ham021",
     "initial": 22000,
@@ -31,18 +43,6 @@
     "diff": 8500,
     "avatar": "avatars/ham021.jpg",
     "profile": "https://remanga.org/user/27288/about",
-    "guild": "Eternal Demonic",
-    "is_afk": false,
-    "last_active_human": "сегодня"
-  },
-  {
-    "norm": "ronin74",
-    "display": "Ronin74",
-    "initial": 36010,
-    "current": 44130,
-    "diff": 8120,
-    "avatar": "avatars/ronin74.jpg",
-    "profile": "https://remanga.org/user/76998/about",
     "guild": "Eternal Demonic",
     "is_afk": false,
     "last_active_human": "сегодня"
