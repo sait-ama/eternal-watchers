@@ -108,6 +108,18 @@
     "last_active_human": "вчера"
   },
   {
+    "norm": "trololomio",
+    "display": "Trololo_Mio",
+    "initial": 8410,
+    "current": 13750,
+    "diff": 5340,
+    "avatar": "avatars/trololomio.jpg",
+    "profile": "https://remanga.org/user/3263817/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "haisan",
     "display": "HaiSan",
     "initial": 15700,
@@ -115,18 +127,6 @@
     "diff": 4600,
     "avatar": "avatars/haisan.jpg",
     "profile": "https://remanga.org/user/2577043/about",
-    "guild": "Eternal Demonic",
-    "is_afk": false,
-    "last_active_human": "вчера"
-  },
-  {
-    "norm": "trololomio",
-    "display": "Trololo_Mio",
-    "initial": 8410,
-    "current": 12490,
-    "diff": 4080,
-    "avatar": "avatars/trololomio.jpg",
-    "profile": "https://remanga.org/user/3263817/about",
     "guild": "Eternal Demonic",
     "is_afk": false,
     "last_active_human": "вчера"

@@ -480,6 +480,18 @@
     "last_active_human": "вчера"
   },
   {
+    "norm": "rayze",
+    "display": "RayZe",
+    "initial": 11430,
+    "current": 14250,
+    "diff": 2820,
+    "avatar": "avatars/rayze.jpg",
+    "profile": "https://remanga.org/user/108995/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "merrihew",
     "display": "Merrihew",
     "initial": 27430,
@@ -586,18 +598,6 @@
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "сегодня"
-  },
-  {
-    "norm": "rayze",
-    "display": "RayZe",
-    "initial": 11430,
-    "current": 13250,
-    "diff": 1820,
-    "avatar": "avatars/rayze.jpg",
-    "profile": "https://remanga.org/user/108995/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "вчера"
   },
   {
     "norm": "tokkebi11",
