@@ -156,6 +156,18 @@
     "last_active_human": "вчера"
   },
   {
+    "norm": "谢怜",
+    "display": ".谢怜.",
+    "initial": 9000,
+    "current": 12000,
+    "diff": 3000,
+    "avatar": "avatars/谢怜.jpg",
+    "profile": "https://remanga.org/user/164257/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "samurafs",
     "display": "SamuraFs",
     "initial": 6000,
@@ -199,18 +211,6 @@
     "diff": 2390,
     "avatar": "avatars/stas211242.jpg",
     "profile": "https://remanga.org/user/269608/about",
-    "guild": "Eternal Demonic",
-    "is_afk": false,
-    "last_active_human": "вчера"
-  },
-  {
-    "norm": "谢怜",
-    "display": ".谢怜.",
-    "initial": 9000,
-    "current": 11000,
-    "diff": 2000,
-    "avatar": "avatars/谢怜.jpg",
-    "profile": "https://remanga.org/user/164257/about",
     "guild": "Eternal Demonic",
     "is_afk": false,
     "last_active_human": "вчера"
