@@ -63,8 +63,8 @@
     "norm": "zurichka",
     "display": "Zurichka",
     "initial": 36000,
-    "current": 56000,
-    "diff": 20000,
+    "current": 57000,
+    "diff": 21000,
     "avatar": "avatars/zurichka.jpg",
     "profile": "https://remanga.org/user/189990/about",
     "guild": "Eternal Watchers",
@@ -103,6 +103,18 @@
     "diff": 11730,
     "avatar": "avatars/rezordaye.jpg",
     "profile": "https://remanga.org/user/210114/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
+    "norm": "frostik4",
+    "display": "Frostik4",
+    "initial": 25700,
+    "current": 35720,
+    "diff": 10020,
+    "avatar": "avatars/frostik4.jpg",
+    "profile": "https://remanga.org/user/3003544/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "сегодня"
@@ -223,18 +235,6 @@
     "diff": 6400,
     "avatar": "avatars/яшtyг.jpg",
     "profile": "https://remanga.org/user/1317566/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "вчера"
-  },
-  {
-    "norm": "frostik4",
-    "display": "Frostik4",
-    "initial": 25700,
-    "current": 31200,
-    "diff": 5500,
-    "avatar": "avatars/frostik4.jpg",
-    "profile": "https://remanga.org/user/3003544/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "вчера"
