@@ -468,6 +468,18 @@
     "last_active_human": "вчера"
   },
   {
+    "norm": "bloodborrn",
+    "display": "Bloodborrn",
+    "initial": 13540,
+    "current": 16540,
+    "diff": 3000,
+    "avatar": "avatars/bloodborrn.jpg",
+    "profile": "https://remanga.org/user/832683/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "satisfied",
     "display": "Satisfied",
     "initial": 38170,
@@ -907,18 +919,6 @@
     "diff": 0,
     "avatar": "avatars/placeholder.jpg",
     "profile": "https://remanga.org/user/191280/about",
-    "guild": "Eternal Watchers",
-    "is_afk": true,
-    "last_active_human": "нет данных"
-  },
-  {
-    "norm": "bloodborrn",
-    "display": "Bloodborrn",
-    "initial": 13540,
-    "current": 13540,
-    "diff": 0,
-    "avatar": "avatars/bloodborrn.jpg",
-    "profile": "https://remanga.org/user/832683/about",
     "guild": "Eternal Watchers",
     "is_afk": true,
     "last_active_human": "нет данных"
