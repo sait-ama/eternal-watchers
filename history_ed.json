@@ -168,6 +168,18 @@
     "last_active_human": "сегодня"
   },
   {
+    "norm": "stas211242",
+    "display": "stas211242",
+    "initial": 9130,
+    "current": 12240,
+    "diff": 3110,
+    "avatar": "avatars/stas211242.jpg",
+    "profile": "https://remanga.org/user/269608/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "谢怜",
     "display": ".谢怜.",
     "initial": 9000,
@@ -211,18 +223,6 @@
     "diff": 2500,
     "avatar": "avatars/llikojioma.jpg",
     "profile": "https://remanga.org/user/938430/about",
-    "guild": "Eternal Demonic",
-    "is_afk": false,
-    "last_active_human": "2 дн. назад"
-  },
-  {
-    "norm": "stas211242",
-    "display": "stas211242",
-    "initial": 9130,
-    "current": 11520,
-    "diff": 2390,
-    "avatar": "avatars/stas211242.jpg",
-    "profile": "https://remanga.org/user/269608/about",
     "guild": "Eternal Demonic",
     "is_afk": false,
     "last_active_human": "2 дн. назад"
