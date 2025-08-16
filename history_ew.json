@@ -336,6 +336,18 @@
     "last_active_human": "2 дн. назад"
   },
   {
+    "norm": "satisfied",
+    "display": "Satisfied",
+    "initial": 38170,
+    "current": 42570,
+    "diff": 4400,
+    "avatar": "avatars/satisfied.jpg",
+    "profile": "https://remanga.org/user/876190/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "totкtocмotpиt",
     "display": "тот_кто_смотрит....",
     "initial": 17540,
@@ -526,18 +538,6 @@
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "вчера"
-  },
-  {
-    "norm": "satisfied",
-    "display": "Satisfied",
-    "initial": 38170,
-    "current": 41100,
-    "diff": 2930,
-    "avatar": "avatars/satisfied.jpg",
-    "profile": "https://remanga.org/user/876190/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "2 дн. назад"
   },
   {
     "norm": "rayze",
