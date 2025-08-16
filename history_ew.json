@@ -147,8 +147,8 @@
     "norm": "akiragame",
     "display": "AkiraGame",
     "initial": 47500,
-    "current": 56590,
-    "diff": 9090,
+    "current": 56680,
+    "diff": 9180,
     "avatar": "avatars/akiragame.jpg",
     "profile": "https://remanga.org/user/1714962/about",
     "guild": "Eternal Watchers",
@@ -168,6 +168,18 @@
     "last_active_human": "2 дн. назад"
   },
   {
+    "norm": "darqee",
+    "display": "DarQee",
+    "initial": 1000,
+    "current": 9750,
+    "diff": 8750,
+    "avatar": "avatars/darqee.jpg",
+    "profile": "https://remanga.org/user/2234201/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "2 дн. назад"
+  },
+  {
     "norm": "ewnobon",
     "display": "EW_NoBoN",
     "initial": 53000,
@@ -178,18 +190,6 @@
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "сегодня"
-  },
-  {
-    "norm": "darqee",
-    "display": "DarQee",
-    "initial": 1000,
-    "current": 8650,
-    "diff": 7650,
-    "avatar": "avatars/darqee.jpg",
-    "profile": "https://remanga.org/user/2234201/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "2 дн. назад"
   },
   {
     "norm": "яшtyг",
