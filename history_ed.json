@@ -276,6 +276,18 @@
     "last_active_human": "сегодня"
   },
   {
+    "norm": "tenofmoses",
+    "display": "tenofmoses",
+    "initial": 6000,
+    "current": 8000,
+    "diff": 2000,
+    "avatar": "avatars/tenofmoses.jpg",
+    "profile": "https://remanga.org/user/3176212/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "overtime",
     "display": "over-time",
     "initial": 9190,
@@ -552,18 +564,6 @@
     "last_active_human": "2 дн. назад"
   },
   {
-    "norm": "tenofmoses",
-    "display": "tenofmoses",
-    "initial": 6000,
-    "current": 7000,
-    "diff": 1000,
-    "avatar": "avatars/tenofmoses.jpg",
-    "profile": "https://remanga.org/user/3176212/about",
-    "guild": "Eternal Demonic",
-    "is_afk": false,
-    "last_active_human": "2 дн. назад"
-  },
-  {
     "norm": "bigmen07",
     "display": "BigMen07",
     "initial": 6000,
@@ -705,7 +705,7 @@
     "profile": "https://remanga.org",
     "guild": "Eternal Demonic",
     "is_afk": false,
-    "last_active_human": "2 дн. назад"
+    "last_active_human": "3 дн. назад"
   },
   {
     "norm": "aggressiv",
