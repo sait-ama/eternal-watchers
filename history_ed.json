@@ -72,6 +72,18 @@
     "last_active_human": "вчера"
   },
   {
+    "norm": "trololomio",
+    "display": "Trololo_Mio",
+    "initial": 8410,
+    "current": 15270,
+    "diff": 6860,
+    "avatar": "avatars/trololomio.jpg",
+    "profile": "https://remanga.org/user/3263817/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "riverfreedom",
     "display": "RiverFreedom",
     "initial": 9000,
@@ -94,18 +106,6 @@
     "guild": "Eternal Demonic",
     "is_afk": false,
     "last_active_human": "вчера"
-  },
-  {
-    "norm": "trololomio",
-    "display": "Trololo_Mio",
-    "initial": 8410,
-    "current": 14850,
-    "diff": 6440,
-    "avatar": "avatars/trololomio.jpg",
-    "profile": "https://remanga.org/user/3263817/about",
-    "guild": "Eternal Demonic",
-    "is_afk": false,
-    "last_active_human": "сегодня"
   },
   {
     "norm": "@toxic",
