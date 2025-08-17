@@ -456,6 +456,18 @@
     "last_active_human": "3 дн. назад"
   },
   {
+    "norm": "asura",
+    "display": "__ASURA__",
+    "initial": 10090,
+    "current": 13600,
+    "diff": 3510,
+    "avatar": "avatars/asura.jpg",
+    "profile": "https://remanga.org/user/1365587/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "bagas",
     "display": "Bagas",
     "initial": 22360,
@@ -487,18 +499,6 @@
     "diff": 3360,
     "avatar": "avatars/гocькa.jpg",
     "profile": "https://remanga.org/user/1079084/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "2 дн. назад"
-  },
-  {
-    "norm": "asura",
-    "display": "__ASURA__",
-    "initial": 10090,
-    "current": 13350,
-    "diff": 3260,
-    "avatar": "avatars/asura.jpg",
-    "profile": "https://remanga.org/user/1365587/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "2 дн. назад"
