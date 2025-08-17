@@ -372,6 +372,18 @@
     "last_active_human": "3 дн. назад"
   },
   {
+    "norm": "acediaqq",
+    "display": "Acediaqq",
+    "initial": 6000,
+    "current": 8000,
+    "diff": 2000,
+    "avatar": "avatars/acediaqq.jpg",
+    "profile": "https://remanga.org/user/102335/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "aleksan09",
     "display": "Aleksan_09",
     "initial": 6000,
@@ -655,18 +667,6 @@
     "diff": 1000,
     "avatar": "avatars/alafex.jpg",
     "profile": "https://remanga.org/user/106279/about",
-    "guild": "Eternal Demonic",
-    "is_afk": false,
-    "last_active_human": "3 дн. назад"
-  },
-  {
-    "norm": "acediaqq",
-    "display": "Acediaqq",
-    "initial": 6000,
-    "current": 7000,
-    "diff": 1000,
-    "avatar": "avatars/acediaqq.jpg",
-    "profile": "https://remanga.org/user/102335/about",
     "guild": "Eternal Demonic",
     "is_afk": false,
     "last_active_human": "3 дн. назад"
