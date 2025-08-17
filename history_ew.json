@@ -216,6 +216,18 @@
     "last_active_human": "вчера"
   },
   {
+    "norm": "arbogastr",
+    "display": "Arbogastr",
+    "initial": 31500,
+    "current": 38500,
+    "diff": 7000,
+    "avatar": "avatars/arbogastr.jpg",
+    "profile": "https://remanga.org/user/993371/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "chitandael",
     "display": "Chitandael",
     "initial": 29380,
@@ -259,18 +271,6 @@
     "diff": 6370,
     "avatar": "avatars/бeлoхвoctый.jpg",
     "profile": "https://remanga.org/user/2874672/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "вчера"
-  },
-  {
-    "norm": "arbogastr",
-    "display": "Arbogastr",
-    "initial": 31500,
-    "current": 37500,
-    "diff": 6000,
-    "avatar": "avatars/arbogastr.jpg",
-    "profile": "https://remanga.org/user/993371/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "вчера"
@@ -609,7 +609,7 @@
     "profile": "https://remanga.org/user/2505495/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "2 дн. назад"
+    "last_active_human": "3 дн. назад"
   },
   {
     "norm": "loly2810",
