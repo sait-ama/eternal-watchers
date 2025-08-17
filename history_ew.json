@@ -384,6 +384,18 @@
     "last_active_human": "3 дн. назад"
   },
   {
+    "norm": "loly2810",
+    "display": "Loly2810",
+    "initial": 14650,
+    "current": 18650,
+    "diff": 4000,
+    "avatar": "avatars/loly2810.jpg",
+    "profile": "https://remanga.org/user/732690/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "ялyчшийвмиpe",
     "display": "Я_лучший_в_мире",
     "initial": 18080,
@@ -619,18 +631,6 @@
     "diff": 2000,
     "avatar": "avatars/healot.jpg",
     "profile": "https://remanga.org/user/2505495/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "3 дн. назад"
-  },
-  {
-    "norm": "loly2810",
-    "display": "Loly2810",
-    "initial": 14650,
-    "current": 16650,
-    "diff": 2000,
-    "avatar": "avatars/loly2810.jpg",
-    "profile": "https://remanga.org/user/732690/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "3 дн. назад"
