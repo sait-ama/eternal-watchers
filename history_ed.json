@@ -348,6 +348,18 @@
     "last_active_human": "3 дн. назад"
   },
   {
+    "norm": "alanhui",
+    "display": "alan-hui",
+    "initial": 7260,
+    "current": 8660,
+    "diff": 1400,
+    "avatar": "avatars/alanhui.jpg",
+    "profile": "https://remanga.org/user/2336976/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "zatex",
     "display": "Zatex",
     "initial": 10004,
@@ -643,18 +655,6 @@
     "diff": 1000,
     "avatar": "avatars/acediaqq.jpg",
     "profile": "https://remanga.org/user/102335/about",
-    "guild": "Eternal Demonic",
-    "is_afk": false,
-    "last_active_human": "3 дн. назад"
-  },
-  {
-    "norm": "alanhui",
-    "display": "alan-hui",
-    "initial": 7260,
-    "current": 8160,
-    "diff": 900,
-    "avatar": "avatars/alanhui.jpg",
-    "profile": "https://remanga.org/user/2336976/about",
     "guild": "Eternal Demonic",
     "is_afk": false,
     "last_active_human": "3 дн. назад"
