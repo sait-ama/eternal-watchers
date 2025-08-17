@@ -108,6 +108,18 @@
     "last_active_human": "вчера"
   },
   {
+    "norm": "darqee",
+    "display": "DarQee",
+    "initial": 1000,
+    "current": 11730,
+    "diff": 10730,
+    "avatar": "avatars/darqee.jpg",
+    "profile": "https://remanga.org/user/2234201/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "2 дн. назад"
+  },
+  {
     "norm": "okiarya",
     "display": "Okiarya",
     "initial": 40400,
@@ -154,18 +166,6 @@
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "сегодня"
-  },
-  {
-    "norm": "darqee",
-    "display": "DarQee",
-    "initial": 1000,
-    "current": 9750,
-    "diff": 8750,
-    "avatar": "avatars/darqee.jpg",
-    "profile": "https://remanga.org/user/2234201/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "2 дн. назад"
   },
   {
     "norm": "яшtyг",
