@@ -528,6 +528,18 @@
     "last_active_human": "2 дн. назад"
   },
   {
+    "norm": "ctapeйшинaчy",
+    "display": "Старейшина-Чу",
+    "initial": 16550,
+    "current": 19700,
+    "diff": 3150,
+    "avatar": "avatars/ctapeйшинaчy.jpg",
+    "profile": "https://remanga.org/user/69640/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "merrihew",
     "display": "Merrihew",
     "initial": 27430,
@@ -622,18 +634,6 @@
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "сегодня"
-  },
-  {
-    "norm": "ctapeйшинaчy",
-    "display": "Старейшина-Чу",
-    "initial": 16550,
-    "current": 18700,
-    "diff": 2150,
-    "avatar": "avatars/ctapeйшинaчy.jpg",
-    "profile": "https://remanga.org/user/69640/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "2 дн. назад"
   },
   {
     "norm": "misikira",
@@ -852,6 +852,18 @@
     "last_active_human": "3 дн. назад"
   },
   {
+    "norm": "hellsait",
+    "display": "Hellsait",
+    "initial": 9780,
+    "current": 9880,
+    "diff": 100,
+    "avatar": "avatars/hellsait.jpg",
+    "profile": "https://remanga.org/user/2906080/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "calistotzy",
     "display": "CalistoTzy",
     "initial": 114000,
@@ -1015,18 +1027,6 @@
     "diff": 0,
     "avatar": "avatars/techal.jpg",
     "profile": "https://remanga.org/user/1681839/about",
-    "guild": "Eternal Watchers",
-    "is_afk": true,
-    "last_active_human": "нет данных"
-  },
-  {
-    "norm": "hellsait",
-    "display": "Hellsait",
-    "initial": 9780,
-    "current": 9780,
-    "diff": 0,
-    "avatar": "avatars/hellsait.jpg",
-    "profile": "https://remanga.org/user/2906080/about",
     "guild": "Eternal Watchers",
     "is_afk": true,
     "last_active_human": "нет данных"
