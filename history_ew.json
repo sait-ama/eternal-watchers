@@ -372,6 +372,18 @@
     "last_active_human": "3 дн. назад"
   },
   {
+    "norm": "abigor",
+    "display": "Abigor.",
+    "initial": 13920,
+    "current": 18650,
+    "diff": 4730,
+    "avatar": "avatars/abigor.jpg",
+    "profile": "https://remanga.org/user/2093362/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "thostriel",
     "display": "Thostriel",
     "initial": 37810,
@@ -502,18 +514,6 @@
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "2 дн. назад"
-  },
-  {
-    "norm": "abigor",
-    "display": "Abigor.",
-    "initial": 13920,
-    "current": 17100,
-    "diff": 3180,
-    "avatar": "avatars/abigor.jpg",
-    "profile": "https://remanga.org/user/2093362/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "3 дн. назад"
   },
   {
     "norm": "merrihew",
