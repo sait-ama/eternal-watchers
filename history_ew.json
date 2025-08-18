@@ -468,6 +468,18 @@
     "last_active_human": "3 дн. назад"
   },
   {
+    "norm": "merrihew",
+    "display": "Merrihew",
+    "initial": 27430,
+    "current": 31140,
+    "diff": 3710,
+    "avatar": "avatars/merrihew.jpg",
+    "profile": "https://remanga.org/user/1496494/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "payk",
     "display": "Payk_",
     "initial": 25000,
@@ -574,18 +586,6 @@
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "сегодня"
-  },
-  {
-    "norm": "merrihew",
-    "display": "Merrihew",
-    "initial": 27430,
-    "current": 30520,
-    "diff": 3090,
-    "avatar": "avatars/merrihew.jpg",
-    "profile": "https://remanga.org/user/1496494/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "вчера"
   },
   {
     "norm": "osmodeuss",
