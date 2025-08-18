@@ -264,6 +264,18 @@
     "last_active_human": "сегодня"
   },
   {
+    "norm": "trillo",
+    "display": "Trillo",
+    "initial": 7210,
+    "current": 9320,
+    "diff": 2110,
+    "avatar": "avatars/trillo.jpg",
+    "profile": "https://remanga.org/user/207200/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "издateль",
     "display": "Издатель",
     "initial": 11030,
@@ -550,18 +562,6 @@
     "guild": "Eternal Demonic",
     "is_afk": false,
     "last_active_human": "вчера"
-  },
-  {
-    "norm": "trillo",
-    "display": "Trillo",
-    "initial": 7210,
-    "current": 8320,
-    "diff": 1110,
-    "avatar": "avatars/trillo.jpg",
-    "profile": "https://remanga.org/user/207200/about",
-    "guild": "Eternal Demonic",
-    "is_afk": false,
-    "last_active_human": "4 дн. назад"
   },
   {
     "norm": "akihiko",
