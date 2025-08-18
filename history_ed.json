@@ -348,6 +348,18 @@
     "last_active_human": "сегодня"
   },
   {
+    "norm": "leyley",
+    "display": "Ley-Ley",
+    "initial": 7100,
+    "current": 9100,
+    "diff": 2000,
+    "avatar": "avatars/leyley.jpg",
+    "profile": "https://remanga.org/user/24708/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "sas47",
     "display": "Sas47",
     "initial": 11010,
@@ -595,18 +607,6 @@
     "diff": 1000,
     "avatar": "avatars/hatin.jpg",
     "profile": "https://remanga.org/user/2797890/about",
-    "guild": "Eternal Demonic",
-    "is_afk": false,
-    "last_active_human": "4 дн. назад"
-  },
-  {
-    "norm": "leyley",
-    "display": "Ley-Ley",
-    "initial": 7100,
-    "current": 8100,
-    "diff": 1000,
-    "avatar": "avatars/leyley.jpg",
-    "profile": "https://remanga.org/user/24708/about",
     "guild": "Eternal Demonic",
     "is_afk": false,
     "last_active_human": "4 дн. назад"
