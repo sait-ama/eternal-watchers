@@ -720,30 +720,6 @@
     "last_active_human": "4 дн. назад"
   },
   {
-    "norm": "allentina",
-    "display": "allentina",
-    "initial": 19500,
-    "current": 19500,
-    "diff": 0,
-    "avatar": "avatars/placeholder.jpg",
-    "profile": "https://remanga.org",
-    "guild": "Eternal Demonic",
-    "is_afk": false,
-    "last_active_human": "4 дн. назад"
-  },
-  {
-    "norm": "dergauss",
-    "display": "Dergauss",
-    "initial": 10000,
-    "current": 10000,
-    "diff": 0,
-    "avatar": "avatars/placeholder.jpg",
-    "profile": "https://remanga.org",
-    "guild": "Eternal Demonic",
-    "is_afk": false,
-    "last_active_human": "4 дн. назад"
-  },
-  {
     "norm": "aggressiv",
     "display": "-AGGRESSIV-",
     "initial": 7750,
