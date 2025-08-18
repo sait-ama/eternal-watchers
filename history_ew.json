@@ -504,6 +504,18 @@
     "last_active_human": "сегодня"
   },
   {
+    "norm": "overcooling",
+    "display": "Overcooling",
+    "initial": 35500,
+    "current": 39000,
+    "diff": 3500,
+    "avatar": "avatars/overcooling.jpg",
+    "profile": "https://remanga.org/user/52079/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "bagas",
     "display": "Bagas",
     "initial": 22360,
@@ -670,18 +682,6 @@
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "сегодня"
-  },
-  {
-    "norm": "overcooling",
-    "display": "Overcooling",
-    "initial": 35500,
-    "current": 37000,
-    "diff": 1500,
-    "avatar": "avatars/overcooling.jpg",
-    "profile": "https://remanga.org/user/52079/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "3 дн. назад"
   },
   {
     "norm": "nowarries",
