@@ -84,6 +84,18 @@
     "last_active_human": "сегодня"
   },
   {
+    "norm": "kaizaki",
+    "display": "Kaizaki",
+    "initial": 11394,
+    "current": 19170,
+    "diff": 7776,
+    "avatar": "avatars/placeholder.jpg",
+    "profile": "https://remanga.org/user/40277/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "riverfreedom",
     "display": "RiverFreedom",
     "initial": 9000,
@@ -91,18 +103,6 @@
     "diff": 6800,
     "avatar": "avatars/riverfreedom.jpg",
     "profile": "https://remanga.org/user/3215284/about",
-    "guild": "Eternal Demonic",
-    "is_afk": false,
-    "last_active_human": "2 дн. назад"
-  },
-  {
-    "norm": "kaizaki",
-    "display": "Kaizaki",
-    "initial": 11394,
-    "current": 18170,
-    "diff": 6776,
-    "avatar": "avatars/placeholder.jpg",
-    "profile": "https://remanga.org/user/40277/about",
     "guild": "Eternal Demonic",
     "is_afk": false,
     "last_active_human": "2 дн. назад"
