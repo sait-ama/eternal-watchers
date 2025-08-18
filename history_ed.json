@@ -264,6 +264,18 @@
     "last_active_human": "вчера"
   },
   {
+    "norm": "sckatman",
+    "display": "Sckat_Man",
+    "initial": 4000,
+    "current": 6220,
+    "diff": 2220,
+    "avatar": "avatars/sckatman.jpg",
+    "profile": "https://remanga.org/user/136935/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "trillo",
     "display": "Trillo",
     "initial": 7210,
@@ -547,18 +559,6 @@
     "diff": 1376,
     "avatar": "avatars/zatex.jpg",
     "profile": "https://remanga.org/user/246605/about",
-    "guild": "Eternal Demonic",
-    "is_afk": false,
-    "last_active_human": "4 дн. назад"
-  },
-  {
-    "norm": "sckatman",
-    "display": "Sckat_Man",
-    "initial": 4000,
-    "current": 5220,
-    "diff": 1220,
-    "avatar": "avatars/sckatman.jpg",
-    "profile": "https://remanga.org/user/136935/about",
     "guild": "Eternal Demonic",
     "is_afk": false,
     "last_active_human": "4 дн. назад"
