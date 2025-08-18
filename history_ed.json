@@ -48,6 +48,18 @@
     "last_active_human": "4 дн. назад"
   },
   {
+    "norm": "motherofdragons",
+    "display": "Mother_of_dragons",
+    "initial": 8410,
+    "current": 17950,
+    "diff": 9540,
+    "avatar": "avatars/motherofdragons.jpg",
+    "profile": "https://remanga.org/user/3263817/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "rwbylove",
     "display": "RWBYLOVE",
     "initial": 10000,
@@ -70,18 +82,6 @@
     "guild": "Eternal Demonic",
     "is_afk": false,
     "last_active_human": "4 дн. назад"
-  },
-  {
-    "norm": "motherofdragons",
-    "display": "Mother_of_dragons",
-    "initial": 8410,
-    "current": 16490,
-    "diff": 8080,
-    "avatar": "avatars/motherofdragons.jpg",
-    "profile": "https://remanga.org/user/3263817/about",
-    "guild": "Eternal Demonic",
-    "is_afk": false,
-    "last_active_human": "сегодня"
   },
   {
     "norm": "kaizaki",
