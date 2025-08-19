@@ -492,6 +492,18 @@
     "last_active_human": "2 дн. назад"
   },
   {
+    "norm": "bigmen07",
+    "display": "BigMen07",
+    "initial": 6000,
+    "current": 8000,
+    "diff": 2000,
+    "avatar": "avatars/bigmen07.jpg",
+    "profile": "https://remanga.org/user/486583/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "lucifiel",
     "display": "--Lucifiel--",
     "initial": 10500,
@@ -667,18 +679,6 @@
     "diff": 1000,
     "avatar": "avatars/drrи.jpg",
     "profile": "https://remanga.org/user/823934/about",
-    "guild": "Eternal Demonic",
-    "is_afk": false,
-    "last_active_human": "5 дн. назад"
-  },
-  {
-    "norm": "bigmen07",
-    "display": "BigMen07",
-    "initial": 6000,
-    "current": 7000,
-    "diff": 1000,
-    "avatar": "avatars/bigmen07.jpg",
-    "profile": "https://remanga.org/user/486583/about",
     "guild": "Eternal Demonic",
     "is_afk": false,
     "last_active_human": "5 дн. назад"
