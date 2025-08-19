@@ -480,6 +480,18 @@
     "last_active_human": "вчера"
   },
   {
+    "norm": "drrи",
+    "display": "Dr.Rи",
+    "initial": 8000,
+    "current": 10000,
+    "diff": 2000,
+    "avatar": "avatars/drrи.jpg",
+    "profile": "https://remanga.org/user/823934/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "tenofmoses",
     "display": "tenofmoses",
     "initial": 6000,
@@ -679,18 +691,6 @@
     "diff": 1000,
     "avatar": "avatars/velialsalivan.jpg",
     "profile": "https://remanga.org/user/220375/about",
-    "guild": "Eternal Demonic",
-    "is_afk": false,
-    "last_active_human": "5 дн. назад"
-  },
-  {
-    "norm": "drrи",
-    "display": "Dr.Rи",
-    "initial": 8000,
-    "current": 9000,
-    "diff": 1000,
-    "avatar": "avatars/drrи.jpg",
-    "profile": "https://remanga.org/user/823934/about",
     "guild": "Eternal Demonic",
     "is_afk": false,
     "last_active_human": "5 дн. назад"
