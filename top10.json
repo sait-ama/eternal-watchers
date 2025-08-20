@@ -48,6 +48,18 @@
     "last_active_human": "6 дн. назад"
   },
   {
+    "norm": "rezordaye",
+    "display": "rezord_aye",
+    "initial": 20070,
+    "current": 44390,
+    "diff": 24320,
+    "avatar": "avatars/rezordaye.jpg",
+    "profile": "https://remanga.org/user/210114/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "zurichka",
     "display": "Zurichka",
     "initial": 36000,
@@ -106,17 +118,5 @@
     "guild": "Eternal Demonic",
     "is_afk": false,
     "last_active_human": "2 дн. назад"
-  },
-  {
-    "norm": "tiltexist",
-    "display": "TIltExist",
-    "initial": 10910,
-    "current": 28030,
-    "diff": 17120,
-    "avatar": "avatars/tiltexist.jpg",
-    "profile": "https://remanga.org/user/98565/about",
-    "guild": "Eternal Demonic",
-    "is_afk": false,
-    "last_active_human": "вчера"
   }
 ]
