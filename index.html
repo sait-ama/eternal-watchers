@@ -72,7 +72,7 @@ header{text-align:center;padding:10px}
 <body>
 <header>
 <h1>Eternal guilds — статистика</h1>
-<div>Последнее обновление: 20.08.2025 10:42 (МСК)</div>
+<div>Последнее обновление: 20.08.2025 10:50 (МСК)</div>
 </header>
 <div class="tabs">
 <button class="tab-btn active" data-target="tab1">Eternal Watchers</button>
@@ -707,13 +707,22 @@ document.querySelectorAll('.tab-btn').forEach(btn=>{
   }
 
   function cardHTML(card, idx){
-  const cover = esc(card.cover||'');
-  const url = esc(card.url||'#');
-  const num = idx + 1;
-  let media;
-  if (cover.endsWith('.webm')) {
-    media = `<video class="fluid-media" playsinline muted autoplay loop preload="metadata">`
-          + `<source src="${cover}" type="video/webm">`
+    const cover = esc(card.cover||'');
+    const url = esc(card.url||'#');
+    const num = idx + 1;
+    let media;
+    if (cover.endsWith('.webm')) {
+      media = `<video class="fluid-media" playsinline muted autoplay loop preload="metadata">`
+            + `<source src="${cover}" type="video/webm">`
+            + `</video>`;
+    } else {
+      media = `<img class="fluid-media" loading="lazy" src="${cover}" alt="card ${num}">`;
+    }
+    return `<a class="author-card" href="${url}" target="_blank">`
+         + `  <div class="imgwrap">${media}</div>`
+         + `  <div class="author-card-num">№${num}</div>`
+         + `</a>`;
+  }" type="video/webm">`
           + `</video>`;
   } else {
     media = `<img class="fluid-media" loading="lazy" src="${cover}" alt="card ${num}">`;
@@ -722,13 +731,7 @@ document.querySelectorAll('.tab-btn').forEach(btn=>{
        + `  <div class="imgwrap">${media}</div>`
        + `  <div class="author-card-num">№${num}</div>`
        + `</a>`;
-}" target="_blank">
-              <div class="imgwrap">
-                <img loading="lazy" src="${cover}" alt="card ${num}">
-              </div>
-              <div class="author-card-num">№${num}</div>
-            </a>`;
-  }
+}
 
   function showAuthor(norm){
     const info = byNorm[norm];
