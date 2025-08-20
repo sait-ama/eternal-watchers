@@ -192,6 +192,18 @@
     "last_active_human": "6 дн. назад"
   },
   {
+    "norm": "banshei",
+    "display": "BanShei",
+    "initial": 7000,
+    "current": 11000,
+    "diff": 4000,
+    "avatar": "avatars/banshei.jpg",
+    "profile": "https://remanga.org/user/204988/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "samurafs",
     "display": "SamuraFs",
     "initial": 6000,
@@ -250,18 +262,6 @@
     "guild": "Eternal Demonic",
     "is_afk": false,
     "last_active_human": "2 дн. назад"
-  },
-  {
-    "norm": "banshei",
-    "display": "BanShei",
-    "initial": 7000,
-    "current": 10000,
-    "diff": 3000,
-    "avatar": "avatars/banshei.jpg",
-    "profile": "https://remanga.org/user/204988/about",
-    "guild": "Eternal Demonic",
-    "is_afk": false,
-    "last_active_human": "4 дн. назад"
   },
   {
     "norm": "sas47",
@@ -693,7 +693,7 @@
     "profile": "https://remanga.org/user/126709/about",
     "guild": "Eternal Demonic",
     "is_afk": false,
-    "last_active_human": "сегодня"
+    "last_active_human": "вчера"
   },
   {
     "norm": "velialsalivan",
