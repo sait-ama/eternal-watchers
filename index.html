@@ -28,13 +28,13 @@ header{text-align:center;padding:10px}
 /* Призы */
 .prizes-title{margin:12px 0 6px 6px;color:var(--muted);font-weight:700;letter-spacing:.3px}
 .grid-prizes-top{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:16px;justify-items:center}
-.prize-card{background:var(--card);border-radius:12px;padding:12px;text-align:center;position:relative;transition:transform .15s ease}
+.prize-card{background:var(--card);border-radius:12px;padding:12px;text-align:center;position:relative;transition:transform .15s ease;overflow:hidden}
 .prize-card:hover{transform:translateY(-2px)}
-.prize-card--top{width:280px;box-shadow:0 6px 22px rgba(0,0,0,.35), 0 0 0 1px rgba(255,210,77,.15)}
+.prize-card--top{width:100%;max-width:320px;box-shadow:0 6px 22px rgba(0,0,0,.35), 0 0 0 1px rgba(255,210,77,.15)}
 .prize-num{position:absolute;top:8px;left:8px;background:linear-gradient(180deg, rgba(255,210,77,.95), rgba(255,180,0,.95));color:#181a1d;font-weight:900;padding:6px 10px;border-radius:8px}
-.grid-prizes-rest{display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:12px;justify-items:center}
-.prize-card--rest{width:210px;border:1px solid #2b2f33}
-.prize-img img,.prize-img video{width:100%;border-radius:6%;object-fit:cover;display:block}
+.grid-prizes-rest{display:grid;grid-template-columns:repeat(auto-fill,minmax(200px,1fr));gap:12px;justify-items:stretch}
+.prize-card--rest{width:100%;border:1px solid #2b2f33}
+.prize-img img,.prize-img video{width:100%;height:auto;border-radius:6%;object-fit:cover;display:block;max-width:100%}
 .prize-media{width:100%;height:auto;border-radius:6%}
 .prize-title{font-size:1.06em;font-weight:800;margin-top:8px;color:var(--text)}
 .prize-manga{display:inline-block;margin-top:4px;color:var(--accent);text-decoration:none;font-weight:600}
@@ -60,7 +60,7 @@ header{text-align:center;padding:10px}
 .author-cards-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(184px,1fr));gap:14px}
 .author-card{display:flex;flex-direction:column;gap:8px;background:rgba(255,255,255,0.04);border:1px solid #2b2f33;border-radius:12px;padding:12px;text-decoration:none}
 .author-card .imgwrap{width:100%;aspect-ratio:3/4;border-radius:10px;overflow:hidden;background:#0f1114;display:flex;align-items:center;justify-content:center}
-.author-card img,.author-card video{width:100%;height:100%;object-fit:cover;border-radius:10px;display:block}
+.author-card img,.author-card video{width:100%;height:100%;object-fit:contain;border-radius:10px;display:block;background:#0f1114}
 .author-card-num{font-size:0.98em;color:var(--text);font-weight:800;text-align:center}
 .author-cards-empty{color:var(--muted);font-style:italic}
 @media (max-width: 880px){
@@ -72,7 +72,7 @@ header{text-align:center;padding:10px}
 <body>
 <header>
 <h1>Eternal guilds — статистика</h1>
-<div>Последнее обновление: 20.08.2025 14:26 (МСК)</div>
+<div>Последнее обновление: 20.08.2025 14:40 (МСК)</div>
 </header>
 <div class="tabs">
 <button class="tab-btn active" data-target="tab1">Eternal Watchers</button>
@@ -199,7 +199,7 @@ header{text-align:center;padding:10px}
 <div class='card'><div class='place'>#19</div><div class='avatar' style="background-image: url('avatars/谢怜.jpg');"></div><div class='info'><div class='nickname'><a href='https://remanga.org/user/164257/about' target='_blank'>.谢怜.</a></div><div class='row'><div class='stat'><span class='label'>Начальный вклад</span><span class='val'>9 000</span></div><div class='stat'><span class='label'>Текущий вклад</span><span class='val'>12 000</span></div><div class='stat big'><span class='label'>Сумма залитых молний</span><span class='val bigval'>3 000</span></div></div><div class='last-active'>Активность: 4 дн. назад</div></div></div>
 <div class='card'><div class='place'>#20</div><div class='avatar' style="background-image: url('avatars/oblakatt.jpg');"></div><div class='info'><div class='nickname'><a href='https://remanga.org/user/474087/about' target='_blank'>OblakaT_T</a></div><div class='row'><div class='stat'><span class='label'>Начальный вклад</span><span class='val'>9 000</span></div><div class='stat'><span class='label'>Текущий вклад</span><span class='val'>12 000</span></div><div class='stat big'><span class='label'>Сумма залитых молний</span><span class='val bigval'>3 000</span></div></div><div class='last-active'>Активность: 2 дн. назад</div></div></div>
 <div class='card'><div class='place'>#21</div><div class='avatar' style="background-image: url('avatars/banshei.jpg');"></div><div class='info'><div class='nickname'><a href='https://remanga.org/user/204988/about' target='_blank'>BanShei</a></div><div class='row'><div class='stat'><span class='label'>Начальный вклад</span><span class='val'>7 000</span></div><div class='stat'><span class='label'>Текущий вклад</span><span class='val'>10 000</span></div><div class='stat big'><span class='label'>Сумма залитых молний</span><span class='val bigval'>3 000</span></div></div><div class='last-active'>Активность: 4 дн. назад</div></div></div>
-<div class='card'><div class='place'>#22</div><div class='avatar' style="background-image: url('avatars/sas47.jpg');"></div><div class='info'><div class='nickname'><a href='https://remanga.org/user/2044615/about' target='_blank'>Sas47</a></div><div class='row'><div class='stat'><span class='label'>Начальный вклад</span><span class='val'>11 010</span></div><div class='stat'><span class='label'>Текущий вклад</span><span class='val'>14 010</span></div><div class='stat big'><span class='label'>Сумма залитых молний</span><span class='val bigval'>3 000</span></div></div><div class='last-active'>Активность: сегодня</div></div></div>
+<div class='card'><div class='place'>#22</div><div class='avatar' style="background-image: url('avatars/sas47.jpg');"></div><div class='info'><div class='nickname'><a href='https://remanga.org/user/2044615/about' target='_blank'>Sas47</a></div><div class='row'><div class='stat'><span class='label'>Начальный вклад</span><span class='val'>11 010</span></div><div class='stat'><span class='label'>Текущий вклад</span><span class='val'>14 010</span></div><div class='stat big'><span class='label'>Сумма залитых молний</span><span class='val bigval'>3 000</span></div></div><div class='last-active'>Активность: вчера</div></div></div>
 <div class='card'><div class='place'>#23</div><div class='avatar' style="background-image: url('avatars/cracker7.jpg');"></div><div class='info'><div class='nickname'><a href='https://remanga.org/user/197380/about' target='_blank'>Cracker_7</a></div><div class='row'><div class='stat'><span class='label'>Начальный вклад</span><span class='val'>8 500</span></div><div class='stat'><span class='label'>Текущий вклад</span><span class='val'>11 000</span></div><div class='stat big'><span class='label'>Сумма залитых молний</span><span class='val bigval'>2 500</span></div></div><div class='last-active'>Активность: 2 дн. назад</div></div></div>
 <div class='card'><div class='place'>#24</div><div class='avatar' style="background-image: url('avatars/sckatman.jpg');"></div><div class='info'><div class='nickname'><a href='https://remanga.org/user/136935/about' target='_blank'>Sckat_Man</a></div><div class='row'><div class='stat'><span class='label'>Начальный вклад</span><span class='val'>4 000</span></div><div class='stat'><span class='label'>Текущий вклад</span><span class='val'>6 220</span></div><div class='stat big'><span class='label'>Сумма залитых молний</span><span class='val bigval'>2 220</span></div></div><div class='last-active'>Активность: вчера</div></div></div>
 <div class='card'><div class='place'>#25</div><div class='avatar' style="background-image: url('avatars/hatin.jpg');"></div><div class='info'><div class='nickname'><a href='https://remanga.org/user/2797890/about' target='_blank'>Hatin</a></div><div class='row'><div class='stat'><span class='label'>Начальный вклад</span><span class='val'>9 720</span></div><div class='stat'><span class='label'>Текущий вклад</span><span class='val'>11 900</span></div><div class='stat big'><span class='label'>Сумма залитых молний</span><span class='val bigval'>2 180</span></div></div><div class='last-active'>Активность: вчера</div></div></div>
@@ -349,7 +349,7 @@ header{text-align:center;padding:10px}
             <p class="prize-author">Автор: <a href="https://remanga.org/user/1305685/about" target="_blank">Reader-</a></p>
         </div>
         </div>
-  <div class="призы-title">Карта фонда</div>
+  <div class="prizes-title">Карта фонда</div>
   <div class="grid-prizes-rest">
         <div class="prize-card prize-card--rest">
             <div class="prize-img"><img src="cards/112293.webp" alt="Коллекционная карточка"></div>
