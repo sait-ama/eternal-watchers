@@ -96,6 +96,18 @@
     "last_active_human": "сегодня"
   },
   {
+    "norm": "okiarya",
+    "display": "Okiarya",
+    "initial": 40400,
+    "current": 55720,
+    "diff": 15320,
+    "avatar": "avatars/okiarya.jpg",
+    "profile": "https://remanga.org/user/2391629/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "akiram",
     "display": "Aki_Ram",
     "initial": -1000,
@@ -127,18 +139,6 @@
     "diff": 13770,
     "avatar": "avatars/rezordaye.jpg",
     "profile": "https://remanga.org/user/210114/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "сегодня"
-  },
-  {
-    "norm": "okiarya",
-    "display": "Okiarya",
-    "initial": 40400,
-    "current": 54120,
-    "diff": 13720,
-    "avatar": "avatars/okiarya.jpg",
-    "profile": "https://remanga.org/user/2391629/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "сегодня"
