@@ -1,5 +1,5 @@
 # SaytEW.py
-# Требуется: requests, beautifulsoup4
+# Требуется: requests, beautifulsoup4, pillow
 # Рекомендуемый запуск без консоли: pythonw.exe SaytEW.py
 # Логи: log.txt (append)
 
@@ -12,9 +12,10 @@ from datetime import datetime, timezone, timedelta
 import subprocess
 import os
 import json
-import time
-import random
-from typing import Optional, Dict, List, Any, Tuple
+from PIL import Image
+from io import BytesIO
+import base64
+import shutil  # для поиска git.exe
 
 # ----------------- ЛОГ -----------------
 LOG_PATH = Path(__file__).parent / "log.txt"
@@ -37,24 +38,88 @@ GUILD2_URL = 'https://remanga.org/guild/eternal-keepers-of-knowledge-06969ad9/ab
 GUILD3_URL = 'https://remanga.org/guild/bed-s-bashkoi-kohaja-6a891c56/about'  # ШИЗА
 
 BASE_URL = 'https://remanga.org'
-MEDIA_BASE = 'https://remanga.org'
-API_URL = 'https://api.remanga.org'
-
 AVATAR_PLACEHOLDER = "avatars/placeholder.jpg"
 AVATARS_DIR = Path("avatars")
 AVATARS_DIR.mkdir(exist_ok=True)
 
+# Принудительные аватарки по нику (без нормализации)
+OVERRIDE_AVATARS = {
+    "Strayker5421": (AVATARS_DIR / "Strayker5421.jpg").as_posix()
+}
+
+# Папка для карт призов
+CARDS_DIR = Path("cards")
+CARDS_DIR.mkdir(exist_ok=True)
+
+# Файл для отслеживания активности (последнего прироста)
+ACTIVITY_FILE = Path("activity.json")
+AFK_DAYS = 7
+
+# ID карт для вкладки "Призы"
+prizes_ids = [40645, 20696, 46776, 112293, 86913, 84245, 84628, 84629, 56841, 60378, 88552, 108030, 111617, 114410, 60596, 38881, 8619, 6218, 25186, 33665, 1518, 23832, 6315, 9409, 3398, 14712, 50755, 5512, 7981, 79592, 15387, 23501, 9459, 16736, 9461, 33022, 7803, 46306, 23008, 2412, 36849, 116594, 1288]
+
+# ---- 6-я вкладка: Карты участников ----
+PARTICIPANTS_CARDS_FILE = Path("participants_cards.json")
+
+def load_participants_cards():
+    try:
+        if PARTICIPANTS_CARDS_FILE.exists():
+            return json.loads(PARTICIPANTS_CARDS_FILE.read_text(encoding="utf-8"))
+    except Exception as e:
+        log("[AUTHORS_CARDS] read error:", e)
+    return {}
+
+def build_authors_data(cards_by_norm: dict, participants_all: list) -> dict:
+    meta = {}
+    order = []
+    for p in participants_all:
+        norm = p["norm"]
+        entry = {
+            "norm": norm,
+            "display": p["display"],
+            "avatar": p.get("avatar") or AVATAR_PLACEHOLDER,
+            "profile": p.get("profile") or "#"
+        }
+        meta[norm] = entry
+        order.append(entry)
+
+    by_norm = {}
+    for norm, basic in meta.items():
+        src = cards_by_norm.get(norm, {})
+        cards = []
+        for c in (src.get("cards") or []):
+            cards.append({
+                "id": c.get("id"),
+                "title": c.get("title") or "",
+                "cover": c.get("cover") or "",
+                "url": c.get("url") or "#",
+                "rarity": c.get("rarity") or "",
+                "manga": c.get("manga") or "",
+                "manga_url": c.get("manga_url") or "#",
+                "author": c.get("author") or "",
+                "author_url": c.get("author_url") or "#"
+            })
+        by_norm[norm] = {
+            "display": basic["display"],
+            "avatar": basic["avatar"],
+            "profile": basic["profile"],
+            "cards": cards
+        }
+
+    order.sort(key=lambda x: x["display"].lower())
+    return {"list": order, "byNorm": by_norm}
+
 # ----------------- MANUAL СПИСКИ -----------------
 guild1_manual_pairs = [
     ("CalistoTzy",114000),("МилыйКохай",109320),("Casepona",157780),("Zurichka",36000),("Яштуг",119860),
-    ("Belashik",104070),("Werty-Servyt",95790),("MARKUTTs",44500),("AkiraGame",47500),("EW_NoBoN",53000),
+    ("Belashik",104070),("Werty-Servyt",70490),("MARKUTTs",44500),("AkiraGame",47500),("EW_NoBoN",53000),
     ("healot",16500),("_festashka_",56250),("rezord_aye",20070),("Chitandael",29380),("Okiarya",40400),
     ("Tavik",48770),("Satisfied",38170),("MeeQ_Q",39750),("Thostriel",37810),("Overcooling",35500),
     ("ADMIRAL_SENGOKU",28000),("Arbogastr",31500),("KodokunaYurei",54990),("HARLEQU1N",21790),("Andre_Falkonen",32890),
-    ("Bagas",22360),("Йорм",13160),("EW_Taya_",36440),("Clf",24190),("Кайден",37610),("𝕹𝖎𝖐𝖎𝖙𝖆⁹",44630),
+    ("Bagas",22360),("Йорм",13160),("EW_Taya_",36440),("Clf",24190),("Кайден",37610),("𝕹𝖝𝖎𝖙𝖆⁹".replace("x","к"),44630),
     ("Loly2810",14650),("Xmmxmm",10000),("гдемойстояк",10000),("Frostik4",25700),("desport",24730),
     ("Merrihew",27430),("Misikira",16300),("CreamWhite",21000),("тот_кто_смотрит....",17540),("Payk_",25000),
-    ("ミュージシャン",105000),("Р03А",23260),("Dark_AngeI",10080),("Bloodborrn",13540),("vladosrat",44060),
+    ("ミュージシャン",105000),("TeMHa9l",23260),("Dark_AngeI",10080),("Bloodborrn",13540),("vladosrat",44060),
     ("MonaLize",27900),("Abigor.",13920),("Госька",26040),("PupsTv",11200),("Gree.in",10010),
     ("Капитан-зануда",12000),("TeᴍƤeຮt",10000),("Feel_what_life_is",26710),("mangalev",11760),("Chiru-san",10050),
     ("Efiliyens",13310),("spidvrassrochku",10860),("Cкрытый_интриган",12750),("osmodeuss",10050),("Talent",7510),
@@ -63,26 +128,27 @@ guild1_manual_pairs = [
     ("TeChal",10180),("Hellsait",9780),("ToKKeBi11",8940),("Чмошка-Мошка",10880),("NikesNt",10040),
     ("zarti",10080),("loli69228",26090),("Laytee",10030),("Старейшина-Чу",16550),("_Abyss_",12550),
     ("역사관",16480),("DarQee",1000),("Volcopik",82050),("Charisma",4000),("EW_МанкиДиГлупый",40000),
-    ("WhitеFlower",31000),("Wladzer",10380)
+    ("WhitеFlower",31000),("Wladzer",10380),("Strayker5421",0),("URUS",-16760),("Pepegaronni",-20864),("Белохвостый",43630),
+    ("Aki_Ram",-1000),("allentina",-6400),("Dergauss",-2500),
 ]
 
 guild2_manual_pairs = [
-    ("URUS",8000),("Pepegaronni",10638),("allentina",19500),("@𝑻𝑶𝑿𝑰𝑪",11880),
+    ("@𝑻𝑶𝑿𝑰𝑪",11880),
     ("Ronin74",36010),("Ham021",22000),("mmarti",8000),("FlammeNoire",21640),("Kaizaki",11394),
-    ("Dergauss",10000),("Trololo_Mio",8410),("Beast_",37930),("DestructionGod𒉭",40000),("Zatex",10004),
+    ("Mother_of_dragons",8410),("Beast_",37930),("DestructionGod𒉭",40000),("Zatex",10004),
     ("Trillo",7210),("RiverFreedom",9000),(".谢怜.",9000),("Akashi550",8000),("Kim_5+",7000),
     ("Cracker_7",8500),("-AGGRESSIV-",7750),("mei_mei",9103),("SilentHill",23100),("HaiSan",15700),
     ("WebRU",14290),("DmitryFlow",22000),("AllD-995",14000),("Hatin",9720),("Рил_сучк@.",9280),
-    ("Издатель",11030),("GidiK",9700),("Woods_s",23100),("RWBYLOVE",10000),("kintownskiy",10000),
+    ("Издатель",11030),("GidiK",9700),("Woods_s",23100),("RWBYLOVE",10000),("kintownский",10000),
     ("Sw1ty",8000),("Ley-Ley",7100),("OblakaT_T",9000),("BanShei",7000),("Читатель+друг",8000),
-    ("Jdhdbx",11110),("Vaenkh",8500),("moonsh1ne",8050),("Sas47",11010),("Takahikoo",8000),("Aki_Ram",6000),
+    ("Jdhdbx",11110),("Vaenkh",8500),("moonsh1ne",8050),("Sas47",11010),("Takahikoo",8000),
     ("Mefisto51",26000),("S.a.m.u.r.a.i.",8000),("So1oMooN",7000),("etoRomantic",8000),("Амен",8000),
     ("Vallynor",9000),("Saytoriya",9000),("KOST9N",8000),("feazxch",8000),("Velial_Salivan",8000),
     ("Dr.Rи",8000),("tenofmoses",6000),("BigMen07",6000),("Hazenberg",6000),("--Lucifiel--",10500),
     ("Akihiko",7900),("TiltExist",10910),("stas211242",9130),("CKCKCK",8000),("ДолинаРекиСетунь",20570),
-    ("over-time",9190),("Alafex",7000),("Luneheim",6000),("Fox94",10000),("SamuraFs",6000),("Sanctuary_",10000),
+    ("over-time",9190),("Alafex",7000),("Fox94",10000),("SamuraFs",6000),("Sanctuary_",10000),
     ("Sunburst",9000),("Sckat_Man",4000),("LLIKoJIoma",6000),("Acediaqq",6000),("necromant",6020),
-    ("Henati",6000),("oportew",5000),("Aleksan_09",6000),("alan-hui",7260)
+    ("oportew",5000),("Aleksan_09",6000),("alan-hui",7260)
 ]
 
 guild3_manual_pairs = [
@@ -107,22 +173,25 @@ def super_normalize(name):
     s = unicodedata.normalize('NFKC', str(name)).strip().lower()
     s = re.sub(r'\s+', '', s)
     s = re.sub(r'[_\-.]', '', s)
-    replacements = {
-        'ᴍ': 'm', 'ᴛ': 't', 'ᴇ': 'e', 'ᴘ': 'p', 'ᴅ': 'd', 'ᴄ': 'c', 'ᴋ': 'k',
-        'а': 'a', 'А': 'a', 'с': 'c', 'С': 'c', 'е': 'e', 'Е': 'e', 'о': 'o', 'О': 'o',
-        'р': 'p', 'Р': 'p', 'т': 't', 'Т': 't', 'у': 'y', 'У': 'y'
-    }
+    replacements = {'ᴍ':'m','ᴛ':'t','ᴇ':'e','ᴘ':'p','ᴅ':'d','ᴄ':'c','ᴋ':'k',
+        'а':'a','А':'a','с':'c','С':'c','е':'e','Е':'e','о':'o','О':'o',
+        'р':'p','Р':'p','т':'t','Т':'t','у':'y','У':'y'}
     return ''.join(replacements.get(c, c) for c in s)
 
 def ensure_placeholder():
     ph = Path(AVATAR_PLACEHOLDER)
-    if not ph.exists():
-        try:
-            ph.parent.mkdir(parents=True, exist_ok=True)
-            ph.write_bytes(requests.get("https://via.placeholder.com/96").content)
-            log("-> placeholder avatar created")
-        except Exception as e:
-            log("-> placeholder download failed:", e)
+    if ph.exists():
+        return
+    try:
+        ph.parent.mkdir(parents=True, exist_ok=True)
+        png_b64 = (
+            "iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGMAAQAABQAB"
+            "DQottAAAAABJRU5ErkJggg=="
+        )
+        ph.write_bytes(base64.b64decode(png_b64))
+        log("-> placeholder avatar created (local)")
+    except Exception as e:
+        log("-> placeholder create failed:", e)
 
 def parse_lightning_text(raw_text):
     if not raw_text:
@@ -138,105 +207,64 @@ def parse_lightning_text(raw_text):
         digits = re.sub(r"[^\d]", "", raw)
         return int(digits) if digits else 0
 
-def _abs_media(url: str) -> str:
-    if not url:
-        return ""
-    if url.startswith("http"):
-        return url
-    if url.startswith("/"):
-        return MEDIA_BASE + url
-    if url.startswith("media/") or url.startswith("static/"):
-        return f"{MEDIA_BASE}/{url}"
-    return url
+def load_activity():
+    """
+    Формат activity.json (новый):
+    {
+      "<norm>": {
+        "last_current": <int>,                     # последнее зафиксированное "текущее"
+        "last_at": "2025-08-13T12:34:56+00:00"     # когда последний РЕАЛЬНЫЙ прирост
+      },
+      ...
+    }
+    Поддерживается миграция со старого формата: "<norm>": "ISO-строка"
+    """
+    if ACTIVITY_FILE.exists():
+        try:
+            raw = json.loads(ACTIVITY_FILE.read_text(encoding="utf-8"))
+            migrated = {}
+            changed = False
+            for norm, v in (raw or {}).items():
+                if isinstance(v, dict):
+                    last_current = v.get("last_current")
+                    last_at = v.get("last_at")
+                    # на всякий случай поддержим старые ключи
+                    if last_at is None and isinstance(v.get("last_dt") or v.get("ts"), str):
+                        last_at = v.get("last_dt") or v.get("ts")
+                        changed = True
+                    migrated[norm] = {
+                        "last_current": last_current if isinstance(last_current, int) else None,
+                        "last_at": last_at if isinstance(last_at, str) else None
+                    }
+                elif isinstance(v, str):
+                    migrated[norm] = {"last_current": None, "last_at": v}
+                    changed = True
+                else:
+                    migrated[norm] = {"last_current": None, "last_at": None}
+                    changed = True
+            if changed:
+                save_activity(migrated)
+            return migrated
+        except Exception as e:
+            log("[ACTIVITY] read error:", e)
+    return {}
 
-def _extract_user_id_from_href(href: str) -> Optional[int]:
-    m = re.search(r"/user/(\d+)/about", href or "")
-    return int(m.group(1)) if m else None
-
-# --- helpers для вытаскивания строк/картинок из разнородного JSON ---
-def first_str(*vals: Any) -> str:
-    for v in vals:
-        if isinstance(v, str) and v.strip():
-            return v.strip()
-        if isinstance(v, dict):
-            for k in ("name","title","label","value","ru","en","text"):
-                x = v.get(k)
-                if isinstance(x, str) and x.strip():
-                    return x.strip()
-    return ""
-
-def first_cover(*vals: Any) -> str:
-    stack: List[Any] = list(vals)
-    seen = set()
-    while stack:
-        v = stack.pop(0)
-        if id(v) in seen:
-            continue
-        seen.add(id(v))
-        if isinstance(v, str) and v:
-            u = v.strip()
-            if u:
-                return _abs_media(u)
-        if isinstance(v, dict):
-            for k in ("cover","image","img","url","path","cover_url","image_url","poster","poster_url"):
-                if k in v:
-                    vv = v[k]
-                    if isinstance(vv, str) and vv.strip():
-                        return _abs_media(vv.strip())
-                    if isinstance(vv, dict):
-                        stack.append(vv)
-            for k in ("item","media","images","data","attributes"):
-                if k in v and isinstance(v[k], (dict,list)):
-                    stack.append(v[k])
-        if isinstance(v, list):
-            stack.extend(v)
-    return ""
-
-def fetch_og_image(page_url: str) -> str:
+def save_activity(data):
     try:
-        r = requests.get(page_url, timeout=20)
-        if r.status_code != 200:
-            return ""
-        soup = BeautifulSoup(r.text, "html.parser")
-        m = soup.find("meta", property="og:image") or soup.find("meta", attrs={"name":"og:image"})
-        if m and m.get("content"):
-            return _abs_media(m["content"].strip())
-        # запасной путь: первый <img> с media/card-item
-        img = soup.find("img", src=re.compile(r"(media/|/media/)"))
-        if img and img.get("src"):
-            return _abs_media(img["src"])
+        ACTIVITY_FILE.write_text(json.dumps(data, ensure_ascii=False, indent=2), encoding="utf-8")
     except Exception as e:
-        log("[fetch_og_image] fail", page_url, e)
-    return ""
+        log("[ACTIVITY] write error:", e)
 
-# ----------------- СЕССИЯ ДЛЯ API -----------------
-_session_api: Optional[requests.Session] = None
-def make_session() -> requests.Session:
-    global _session_api
-    if _session_api:
-        return _session_api
-    s = requests.Session()
-    s.headers.update({
-        "User-Agent": ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
-                       "AppleWebKit/537.36 (KHTML, like Gecko) "
-                       "Chrome/126.0.0.0 Safari/537.36"),
-        "Accept": "application/json, text/plain, */*",
-        "Accept-Language": "ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7",
-        "Origin": MEDIA_BASE,
-    })
-    _session_api = s
-    return s
+def human_ago(delta_days:int) -> str:
+    if delta_days <= 0:
+        return "сегодня"
+    if delta_days == 1:
+        return "вчера"
+    return f"{delta_days} дн. назад"
 
-def _sleep_jitter(base: float = 0.55, spread: float = 0.45):
-    time.sleep(base + random.random() * spread)
-
-# ----------------- СБОР ГИЛЬДИЙ -----------------
 def fetch_guild(guild_url, allowed_norms, guild_label):
     log(f"[fetch_guild] Start: {guild_label} -> {guild_url}")
-    parsed: Dict[str, Dict] = {}
-    avatars: Dict[str, str] = {}
-    profiles: Dict[str, str] = {}
-    author_ids: Dict[str, int] = {}
+    parsed, avatars, profiles = {}, {}, {}
     try:
         resp = requests.get(guild_url, timeout=20)
         log(f"[fetch_guild] HTTP status: {resp.status_code}")
@@ -254,9 +282,6 @@ def fetch_guild(guild_url, allowed_norms, guild_label):
                 continue
             href = card.get("href") or ""
             profiles[norm] = BASE_URL + href if href else BASE_URL
-            uid = _extract_user_id_from_href(href)
-            if uid is not None:
-                author_ids[norm] = uid
             img = card.find("img")
             avatar_path = Path(AVATAR_PLACEHOLDER)
             if img:
@@ -265,7 +290,7 @@ def fetch_guild(guild_url, allowed_norms, guild_label):
                     avatar_path = AVATARS_DIR / f"{norm}.jpg"
                     if not avatar_path.exists():
                         try:
-                            r = requests.get(_abs_media(avatar_url), timeout=20)
+                            r = requests.get(avatar_url, timeout=20)
                             avatar_path.write_bytes(r.content)
                         except:
                             avatar_path = Path(AVATAR_PLACEHOLDER)
@@ -276,37 +301,105 @@ def fetch_guild(guild_url, allowed_norms, guild_label):
         log(f"[fetch_guild] Parsed count: {len(parsed)}")
     except Exception as e:
         log("[fetch_guild] ERROR:", e)
-    return parsed, avatars, profiles, author_ids
+    return parsed, avatars, profiles
 
-def build_participants(manual_pairs, parsed_map, avatars_map, profiles_map, author_ids_map, guild_label):
+def build_participants(manual_pairs, parsed_map, avatars_map, profiles_map, guild_label):
+    """
+    Новая логика активности:
+    - Сверяем текущий 'current_v' с сохранённым 'last_current'.
+    - Если current_v > last_current -> это РЕАЛЬНЫЙ прирост: last_at = сейчас, last_current = current_v.
+    - Если нет прироста -> last_at НЕ трогаем, чтобы «вчера» не превращалось в «сегодня».
+    - AFK = если last_at пустой или прошло >= AFK_DAYS дней.
+    """
+    activity = load_activity()
+    now = datetime.now(timezone.utc)
     out = []
+
     for display, init_val in manual_pairs:
         norm = super_normalize(display)
+
         current_v = parsed_map.get(norm, {}).get("lightning", init_val)
         display_label = parsed_map.get(norm, {}).get("site_nick", display)
         diff = max(current_v - init_val, 0)
+
+        prev = activity.get(norm) or {}
+        prev_last_current = prev.get("last_current")
+        prev_last_at = prev.get("last_at")
+
+        # в первый раз берём baseline = init_val
+        baseline = prev_last_current if isinstance(prev_last_current, int) else init_val
+
+        last_dt = None
+        if isinstance(prev_last_at, str) and prev_last_at:
+            try:
+                last_dt = datetime.fromisoformat(prev_last_at)
+                if last_dt.tzinfo is None:
+                    last_dt = last_dt.replace(tzinfo=timezone.utc)
+            except Exception:
+                last_dt = None
+
+        if current_v > baseline:
+            # прирост сегодня
+            last_dt = now
+            activity[norm] = {
+                "last_current": current_v,
+                "last_at": last_dt.isoformat()
+            }
+        else:
+            # прироста нет — не переписываем last_at; baseline/last_current зафиксируем,
+            # чтобы в следующий раз сравнение было корректнее
+            activity[norm] = {
+                "last_current": current_v if prev_last_current is None else prev_last_current,
+                "last_at": last_dt.isoformat() if last_dt else None
+            }
+
+        is_afk = False
+        last_active_human = "нет данных"
+        if last_dt:
+            delta_days = (now - last_dt).days
+            last_active_human = human_ago(delta_days)
+            is_afk = delta_days >= AFK_DAYS
+        else:
+            is_afk = True
+
+        avatar_url = avatars_map.get(norm, Path(AVATAR_PLACEHOLDER).as_posix())
+        if display in OVERRIDE_AVATARS:
+            override_path = Path(OVERRIDE_AVATARS[display])
+            if override_path.exists() and override_path.stat().st_size > 0:
+                avatar_url = override_path.as_posix()
+
         out.append({
             "norm": norm,
             "display": display_label,
             "initial": init_val,
             "current": current_v,
             "diff": diff,
-            "avatar": avatars_map.get(norm, Path(AVATAR_PLACEHOLDER).as_posix()),
+            "avatar": avatar_url,
             "profile": profiles_map.get(norm, BASE_URL),
-            "author_id": author_ids_map.get(norm),
-            "guild": guild_label
+            "guild": guild_label,
+            "is_afk": is_afk,
+            "last_active_human": last_active_human
         })
+
+    save_activity(activity)
     out.sort(key=lambda x: x["diff"], reverse=True)
     return out
 
-def fmt(n):
-    return f"{n:,}".replace(",", " ")
+def fmt(n): return f"{n:,}".replace(",", " ")
 
 def render_cards(parts):
     html = ""
     for i, p in enumerate(parts, start=1):
+        afk_cls = " afk" if p.get("is_afk") else ""
+        afk_badge = "<div class='afk-badge'>AFK</div>" if p.get("is_afk") else ""
+
+        last_active_html = ""
+        if p.get("last_active_human"):
+            last_active_html = f"<div class='last-active'>Активность: {p.get('last_active_human', '—')}</div>"
+
         html += (
-            "<div class='card'>"
+            f"<div class='card{afk_cls}'>"
+            f"{afk_badge}"
             f"<div class='place'>#{i}</div>"
             f"<div class='avatar' style=\"background-image: url('{p['avatar']}');\"></div>"
             "<div class='info'>"
@@ -315,167 +408,160 @@ def render_cards(parts):
             f"<div class='stat'><span class='label'>Начальный вклад</span><span class='val'>{fmt(p['initial'])}</span></div>"
             f"<div class='stat'><span class='label'>Текущий вклад</span><span class='val'>{fmt(p['current'])}</span></div>"
             f"<div class='stat big'><span class='label'>Сумма залитых молний</span><span class='val bigval'>{fmt(p['diff'])}</span></div>"
-            "</div></div></div>\n"
+            "</div>"
+            f"{last_active_html}"
+            "</div></div>\n"
         )
     return html
 
 # ----------------- ПРИЗЫ -----------------
-def fetch_prizes(prize_ids: List[int]):
-    log(f"[fetch_prizes] start, ids={prize_ids}")
-    prizes = {}
-    for pid in prize_ids:
+def resize_image_15(img_bytes):
+    try:
+        img = Image.open(BytesIO(img_bytes))
+        w, h = img.size
+        new_size = (max(1, int(w * 0.85)), max(1, int(h * 0.85)))
+        if img.mode not in ("RGB", "RGBA"):
+            img = img.convert("RGBA")
+        img = img.resize(new_size, Image.LANCZOS)
+        out = BytesIO()
+        img.save(out, format="WEBP", quality=85)
+        return out.getvalue()
+    except Exception as e:
+        log("resize_image_15 error:", e)
+        return img_bytes
+
+def fetch_prizes():
+    prizes = []
+    for card_id in prizes_ids:
+        url = f"{BASE_URL}/card/{card_id}"
         try:
-            url = f"{MEDIA_BASE}/prize/{pid}"
-            title = f"Приз #{pid}"
-            img = ""
-            # пробуем вытащить по og:image
-            img = fetch_og_image(url)
-            # если не нашли, пробуем /card-item/<id>
-            if not img:
-                alt_url = f"{MEDIA_BASE}/card-item/{pid}"
-                img = fetch_og_image(alt_url)
-                if img:
-                    url = alt_url
-            prizes[pid] = {"id": pid, "title": title, "img": img, "url": url}
-            log(f"[fetch_prizes] {pid} parsed")
+            resp = requests.get(url, timeout=20)
+            if resp.status_code != 200:
+                log(f"[fetch_prizes] {card_id} -> HTTP {resp.status_code}")
+                continue
+            soup = BeautifulSoup(resp.text, "html.parser")
+
+            card_img_wrap = soup.select_one(".cs-card-item")
+            if not card_img_wrap:
+                log(f"[fetch_prizes] {card_id} -> .cs-card-item not found")
+                continue
+
+            # NEW: ищем WebM-анимацию
+            video_src = None
+            video_tag = card_img_wrap.select_one("video")
+            if video_tag:
+                src_tag = video_tag.find("source", attrs={"type": "video/webm"}) or video_tag.find("source")
+                if src_tag and src_tag.get("src"):
+                    video_src = src_tag.get("src")
+
+            wrapper = card_img_wrap.parent
+            img_tag = card_img_wrap.select_one("img")
+            if not img_tag:
+                log(f"[fetch_prizes] {card_id} -> img not found")
+                continue
+            img_url = img_tag.get("src") or img_tag.get("data-src") or img_tag.get("data-original")
+            if not img_url:
+                log(f"[fetch_prizes] {card_id} -> img src empty")
+                continue
+            card_title = (img_tag.get("alt") or "").strip() or f"Card {card_id}"
+
+            manga_tag = wrapper.select_one('a[href^="/manga/"]')
+            manga_title = manga_tag.get_text(strip=True) if manga_tag else "—"
+            manga_url = BASE_URL + manga_tag["href"] if manga_tag and manga_tag.get("href") else "#"
+
+            author_tag = wrapper.select_one('a[href^="/user/"]')
+            author_text = author_tag.get_text(strip=True) if author_tag else "—"
+            author_name = re.sub(r'^\s*Автор:\s*', '', author_text, flags=re.I) if author_text else "—"
+            author_url = BASE_URL + author_tag["href"] if author_tag and author_tag.get("href") else "#"
+
+            img_name = f"{card_id}.webp"
+            img_path = CARDS_DIR / img_name
+            if not img_path.exists():
+                try:
+                    img_bytes = requests.get(img_url, timeout=20).content
+                    resized = resize_image_15(img_bytes)
+                    img_path.write_bytes(resized)
+                except Exception as e:
+                    log(f"[fetch_prizes] {card_id} image save error: {e}")
+                    continue
+
+            prizes.append({
+                "id": card_id, "title": card_title,
+                "manga": manga_title, "manga_url": manga_url,
+                "author": author_name, "author_url": author_url,
+                "image": img_path.as_posix(),
+                "video": video_src
+            })
         except Exception as e:
-            log(f"[fetch_prizes] {pid} error {e}")
-    log(f"[fetch_prizes] finished, parsed {len(prizes)}")
+            log(f"[fetch_prizes] ERROR {card_id}: {e}")
     return prizes
 
-# ----------------- КАРТОЧКИ ЧЕРЕЗ API -----------------
-def fetch_author_cards_api(author_id: int, ordering: str = "-rank", count: int = 30, max_pages: int = 100):
-    s = make_session()
-    results: List[Dict[str, Any]] = []
-    page = 1
-    max_retries = 3
+def render_prize_cards_top3(parts):
+    html = ""
+    top3 = parts[:3]
+    for i, p in enumerate(top3, start=1):
+        media_html = (f'<video class="fluid-media" playsinline muted autoplay loop preload="metadata" poster="{p["image"]}"><source src="{p.get("video")}" type="video/webm"></video>')
+        if not p.get("video"):
+            media_html = f'<img class="fluid-media" src="{p["image"]}" alt="{p["title"]}">'
+        html += f"""
+        <div class="prize-card prize-card--top">
+            <div class="prize-num">№{i}</div>
+            <div class="prize-img">{media_html}</div>
+            <p class="prize-title">{p['title']}</p>
+            <a class="prize-manga" href="{p['manga_url']}" target="_blank">{p['manga']}</a>
+            <p class="prize-author">Автор: <a href="{p['author_url']}" target="_blank">{p['author']}</a></p>
+        </div>
+        """
+    return html
 
-    while page <= max_pages:
-        url = f"{API_URL}/api/inventory/catalog/?author={author_id}&count={count}&ordering={ordering}&page={page}"
-        per_req_headers = {"Referer": f"{MEDIA_BASE}/card?author={author_id}&ordering={ordering}"}
-
-        data = None
-        last_status = None
-        for attempt in range(1, max_retries + 1):
-            try:
-                resp = s.get(url, headers=per_req_headers, timeout=20)
-                last_status = resp.status_code
-                if resp.status_code in (403, 429):
-                    wait = 2.0 * attempt + random.random() * 1.5
-                    log(f"[author-cards-api] {author_id} page {page}: HTTP {resp.status_code}, retry in {wait:.1f}s")
-                    time.sleep(wait)
-                    continue
-                if resp.status_code != 200:
-                    log(f"[author-cards-api] {author_id} page {page}: HTTP {resp.status_code}, stop")
-                    break
-                data = resp.json()
-                break
-            except Exception as e:
-                log(f"[author-cards-api] {author_id} page {page}: error {e}, attempt {attempt}/{max_retries}")
-                time.sleep(1.2 * attempt)
-
-        if data is None:
-            if results and last_status in (403, 429):
-                log(f"[author-cards-api] {author_id} page {page}: {last_status}, keep partial ({len(results)})")
-                break
-            break
-
-        items = None
-        if isinstance(data, dict):
-            items = data.get("results") or data.get("items") or data.get("data") or data.get("results_list")
-        if items is None and isinstance(data, list):
-            items = data
-
-        if not items:
-            log(f"[author-cards-api] {author_id} page {page}: empty, stop")
-            break
-
-        for it in items:
-            title = first_str(
-                it.get("title"), it.get("name"), it.get("label"),
-                (it.get("item") or {}).get("title"),
-                (it.get("item") or {}).get("name"),
-            )
-            rarity = first_str(
-                it.get("rarity"), it.get("rarity_name"),
-                (it.get("item") or {}).get("rarity"),
-            )
-            cover_url = first_cover(
-                it.get("cover"), it.get("image"), it.get("img"), it.get("cover_url"),
-                (it.get("media") or {}).get("cover"),
-                (it.get("item") or {}).get("cover"),
-                (it.get("images") or {}).get("cover"),
-                (it.get("attributes") or {}).get("cover"),
-                it
-            )
-            card_id = it.get("id") or it.get("card_id") or it.get("pk")
-            card_url = f"{MEDIA_BASE}/card/{card_id}" if card_id else "#"
-
-            # если обложка не нашлась — дергаем страницу карты и достаём og:image
-            if not cover_url and card_id:
-                cover_url = fetch_og_image(card_url)
-
-            results.append({
-                "id": card_id,
-                "title": title or f"Card {card_id or ''}".strip(),
-                "cover": cover_url,
-                "rarity": rarity or "",
-                "url": card_url
-            })
-
-        _sleep_jitter()
-        next_url = data.get("next") if isinstance(data, dict) else None
-        if next_url:
-            page += 1
-            continue
-        page += 1
-
-    log(f"[author-cards-api] {author_id}: collected {len(results)} cards")
-    return results
+def render_prize_cards_rest(parts):
+    html = ""
+    for p in parts[3:]:
+        media_html = (f'<video class="fluid-media" playsinline muted autoplay loop preload="metadata" poster="{p["image"]}"><source src="{p.get("video")}" type="video/webm"></video>')
+        if not p.get("video"):
+            media_html = f'<img class="fluid-media" src="{p["image"]}" alt="{p["title"]}">'
+        html += f"""
+        <div class="prize-card prize-card--rest">
+            <div class="prize-img">{media_html}</div>
+            <p class="prize-title">{p['title']}</p>
+            <a class="prize-manga" href="{p['manga_url']}" target="_blank">{p['manga']}</a>
+            <p class="prize-author">Автор: <a href="{p['author_url']}" target="_blank">{p['author']}</a></p>
+        </div>
+        """
+    return html
 
 # ----------------- MAIN -----------------
 log("=== SCRIPT START ===")
 ensure_placeholder()
 
-# 1) гильдии
-g1_parsed, g1_avatars, g1_profiles, g1_ids = fetch_guild(GUILD1_URL, {super_normalize(d) for d,_ in guild1_manual_pairs}, "Eternal Watchers")
-g2_parsed, g2_avatars, g2_profiles, g2_ids = fetch_guild(GUILD2_URL, {super_normalize(d) for d,_ in guild2_manual_pairs}, "Eternal Demonic")
-g3_parsed, g3_avatars, g3_profiles, g3_ids = fetch_guild(GUILD3_URL, {super_normalize(d) for d,_ in guild3_manual_pairs}, "ШИЗА")
+g1_parsed, g1_avatars, g1_profiles = fetch_guild(GUILD1_URL, {super_normalize(d) for d,_ in guild1_manual_pairs}, "Eternal Watchers")
+g2_parsed, g2_avatars, g2_profiles = fetch_guild(GUILD2_URL, {super_normalize(d) for d,_ in guild2_manual_pairs}, "Eternal Demonic")
+g3_parsed, g3_avatars, g3_profiles = fetch_guild(GUILD3_URL, {super_normalize(d) for d,_ in guild3_manual_pairs}, "ШИЗА")
 
-participants_g1 = build_participants(guild1_manual_pairs, g1_parsed, g1_avatars, g1_profiles, g1_ids, "Eternal Watchers")
-participants_g2 = build_participants(guild2_manual_pairs, g2_parsed, g2_avatars, g2_profiles, g2_ids, "Eternal Demonic")
-participants_g3 = build_participants(guild3_manual_pairs, g3_parsed, g3_avatars, g3_profiles, g3_ids, "ШИЗА")
+participants_g1 = build_participants(guild1_manual_pairs, g1_parsed, g1_avatars, g1_profiles, "Eternal Watchers")
+participants_g2 = build_participants(guild2_manual_pairs, g2_parsed, g2_avatars, g2_profiles, "Eternal Demonic")
+participants_g3 = build_participants(guild3_manual_pairs, g3_parsed, g3_avatars, g3_profiles, "ШИЗА")
+
+# для вкладки "Карты участников" — берём из готового файла
+participants_all = participants_g1 + participants_g2
+authors_cards_src = load_participants_cards()  # <-- файл делает build_participants_cards.py
+authors_data = build_authors_data(authors_cards_src, participants_all)
+authors_json = json.dumps(authors_data, ensure_ascii=False)
 
 top10 = sorted(participants_g1 + participants_g2, key=lambda x: x["diff"], reverse=True)[:10]
 
-# 2) призы (реальные обложки через og:image)
-prize_ids = [5917, 319, 318, 9596, 7478, 9597, 8253, 50363, 8252, 5916, 13758]
-prizes = fetch_prizes(prize_ids)
-
-# 3) карточки (EW+ED)
-participants_cards: Dict[str, Dict] = {}
-for p in (participants_g1 + participants_g2):
-    norm = p["norm"]
-    display = p["display"]
-    author_id = p.get("author_id")
-    if not author_id:
-        continue
-    log(f"[author-cards-api] fetching for {display} ({author_id})")
-    cards = fetch_author_cards_api(author_id, ordering="-rank", count=30, max_pages=100)
-    participants_cards[norm] = {
-        "display": display,
-        "author_id": author_id,
-        "cards": cards
-    }
-
-# 4) HTML — старый дизайн + вкладки
 cards_g1 = render_cards(participants_g1)
 cards_g2 = render_cards(participants_g2)
-cards_g3 = render_cards(participants_g3)
 cards_t10 = render_cards(top10)
+
+# призы
+prizes_list = fetch_prizes()
+cards_prizes_top = render_prize_cards_top3(prizes_list)
+cards_prizes_rest = render_prize_cards_rest(prizes_list)
 
 now_msk = datetime.now(timezone(timedelta(hours=3))).strftime("%d.%m.%Y %H:%M (МСК)")
 
+# ----------------- HTML -----------------
 html_template = """<!doctype html>
 <html lang="ru">
 <head>
@@ -483,7 +569,6 @@ html_template = """<!doctype html>
 <title>Eternal guilds — статистика</title>
 <style>
 :root{--bg:#0f1114;--card:#141618;--muted:#9aa4ad;--accent:#4aa3ff;--accent2:#82b5f7;--gold:#ffd24d;--text:#e6eef6}
-*{box-sizing:border-box}
 body{margin:0;background:var(--bg);color:var(--text);font-family:sans-serif}
 header{text-align:center;padding:10px}
 .tabs{display:flex;gap:6px;justify-content:center;margin-bottom:12px;flex-wrap:wrap}
@@ -491,8 +576,10 @@ header{text-align:center;padding:10px}
 .tab-btn.active{background:#444}
 .panel{display:none}
 .panel.active{display:block}
-.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(320px,1fr));gap:12px;padding:0 10px 12px}
-.card{background:var(--card);border-radius:10px;padding:14px;display:flex;gap:14px}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(320px,1fr));gap:12px}
+.card{background:var(--card);border-radius:10px;padding:14px;display:flex;gap:14px;position:relative}
+.card.afk{opacity:.55;filter:grayscale(.4)}
+.afk-badge{position:absolute;top:8px;right:8px;background:#8b949e;color:#111;padding:4px 8px;border-radius:8px;font-weight:800;font-size:.78rem}
 .avatar{width:96px;height:96px;border-radius:50%;background-size:cover;background-position:center}
 .place{font-weight:800;color:var(--gold);width:40px;text-align:center}
 .info{flex:1}
@@ -500,248 +587,217 @@ header{text-align:center;padding:10px}
 .row{display:flex;gap:12px;flex-wrap:wrap;margin-top:8px}
 .stat{background:rgba(255,255,255,0.05);padding:6px;border-radius:8px;min-width:100px}
 .bigval{color:var(--gold)}
+.last-active{margin-top:8px;color:var(--muted);font-size:.92em}
+
 /* Призы */
-.prizegrid{display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:10px;padding:0 10px 12px}
-.prize{background:#141618;border:1px solid #2a2e32;border-radius:10px;overflow:hidden}
-.pcover{width:100%;aspect-ratio:2/3;background:#111;background-size:cover;background-position:center}
-.pcnt{padding:8px 10px}
-.ptitle{font-size:14px;margin:0 0 6px}
-.ptitle a{color:#e6eef6;text-decoration:none}
-/* Карты участников */
-.toolbar{display:flex;gap:8px;align-items:center;flex-wrap:wrap;padding:0 10px 12px}
-.search{flex:1;min-width:220px}
-.search input{width:100%;padding:10px 12px;border-radius:8px;border:1px solid #2e3338;background:#171a1d;color:var(--text)}
-.select{min-width:220px}
-.select select{width:100%;padding:10px 12px;border-radius:8px;border:1px solid #2e3338;background:#171a1d;color:var(--text)}
-.cardgrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(180px,1fr));gap:10px;padding:0 10px 12px}
-.ccard{background:#141618;border:1px solid #2a2e32;border-radius:10px;overflow:hidden}
-.ccover{width:100%;aspect-ratio:2/3;background:#111;background-size:cover;background-position:center}
-.ccnt{padding:8px 10px}
-.ctitle{font-size:14px;line-height:1.25;margin:0 0 6px}
-.ctitle a{color:#e6eef6;text-decoration:none}
-.cmeta{font-size:12px;color:#a8b0b7}
-.badge{display:none} /* ранги выключены */
-.empty{opacity:.7;padding:12px}
-.lastupd{opacity:.8;font-size:13px;margin-top:6px}
-/* Активность */
-.actgrid{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:10px;padding:0 10px 12px}
-.act{background:#141618;border:1px solid #2a2e32;border-radius:10px;padding:10px}
-.act h4{margin:0 0 6px;font-size:15px}
-.act .muted{font-size:12px;color:#9aa4ad}
+.prizes-title{margin:12px 0 6px 6px;color:var(--muted);font-weight:700;letter-spacing:.3px}
+.grid-prizes-top{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:16px;justify-items:center}
+.prize-card{background:var(--card);border-radius:12px;padding:12px;text-align:center;position:relative;transition:transform .15s ease}
+.prize-card:hover{transform:translateY(-2px)}
+.prize-card--top{width:280px;box-shadow:0 6px 22px rgba(0,0,0,.35), 0 0 0 1px rgba(255,210,77,.15)}
+.prize-num{position:absolute;top:8px;left:8px;background:linear-gradient(180deg, rgba(255,210,77,.95), rgba(255,180,0,.95));color:#181a1d;font-weight:900;padding:6px 10px;border-radius:8px}
+.grid-prizes-rest{display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:12px;justify-items:center}
+.prize-card--rest{width:210px;border:1px solid #2b2f33}
+.prize-img{width:100%;aspect-ratio:3/4;border-radius:10px;overflow:hidden;background:#0f1114;display:flex;align-items:center;justify-content:center}
+.fluid-media{width:100%;height:100%;object-fit:cover;display:block;border-radius:10px}
+.prize-title{font-size:1.06em;font-weight:800;margin-top:8px;color:var(--text)}
+.prize-manga{display:inline-block;margin-top:4px;color:var(--accent);text-decoration:none;font-weight:600}
+.prize-manga:hover{text-decoration:underline}
+.prize-author{font-size:.92em;color:var(--muted);margin-top:2px}
+.prize-author a{color:var(--accent);text-decoration:none}
+.prize-author a:hover{text-decoration:underline}
+
+/* ---- 6-я вкладка: Карты участников (sidebar + детали) ---- */
+.authors-layout{display:grid;grid-template-columns:300px 1fr;gap:14px;min-height:60vh;padding:6px}
+.authors-sidebar{background:var(--card);border-radius:12px;padding:10px;display:flex;flex-direction:column}
+.authors-search{width:100%;padding:10px;border-radius:8px;border:1px solid #2b2f33;background:#0f1114;color:var(--text);outline:none}
+.authors-ul{list-style:none;margin:10px 0 0;padding:0;overflow:auto;max-height:calc(100vh - 260px)}
+.author-li{padding:8px 10px;border-radius:8px;cursor:pointer;display:flex;align-items:center;gap:10px}
+.author-li:hover{background:#202327}
+.author-li.active{background:#2b2f33}
+.author-li .ava{width:28px;height:28px;border-radius:50%;background-size:cover;background-position:center;flex:0 0 28px}
+.authors-main{background:var(--card);border-radius:12px;padding:12px}
+.author-head2{display:flex;align-items:center;gap:12px;margin-bottom:12px}
+.author-ava2{width:48px;height:48px;border-radius:50%;background-size:cover;background-position:center}
+.author-name2 a{color:var(--accent);text-decoration:none;font-weight:800;font-size:1.15em}
+.author-name2 a:hover{text-decoration:underline}
+.author-cards-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(184px,1fr));gap:14px}
+.author-card{display:flex;flex-direction:column;gap:8px;background:rgba(255,255,255,0.04);border:1px solid #2b2f33;border-radius:12px;padding:12px;text-decoration:none}
+.author-card .imgwrap{width:100%;aspect-ratio:3/4;border-radius:10px;overflow:hidden;background:#0f1114;display:flex;align-items:center;justify-content:center}
+.author-card img,.author-card video{width:100%;height:100%;object-fit:cover;border-radius:10px}
+.author-card-num{font-size:0.98em;color:var(--text);font-weight:800;text-align:center}
+.author-cards-empty{color:var(--muted);font-style:italic}
+@media (max-width: 880px){
+  .authors-layout{grid-template-columns:1fr}
+  .authors-ul{max-height:240px}
+}
 </style>
 </head>
 <body>
 <header>
-  <h1>Eternal guilds — статистика</h1>
-  <div class="lastupd">Последнее обновление: __NOW__</div>
+<h1>Eternal guilds — статистика</h1>
+<div>Последнее обновление: __NOW__</div>
 </header>
 <div class="tabs">
-  <button class="tab-btn active" data-target="tab1">Eternal Watchers</button>
-  <button class="tab-btn" data-target="tab2">Eternal Demonic</button>
-  <button class="tab-btn" data-target="tab3">ШИЗА</button>
-  <button class="tab-btn" data-target="tab4">Общий TOP-10</button>
-  <button class="tab-btn" data-target="tab5">Призы</button>
-  <button class="tab-btn" data-target="tab6">Карты участников</button>
-  <button class="tab-btn" data-target="tab7">Активность</button>
+<button class="tab-btn active" data-target="tab1">Eternal Watchers</button>
+<button class="tab-btn" data-target="tab2">Eternal Demonic</button>
+<button class="tab-btn" data-target="tab3">ШИЗА</button>
+<button class="tab-btn" data-target="tab4">Общий TOP-10</button>
+<button class="tab-btn" data-target="tab5">Призы</button>
+<button class="tab-btn" data-target="tab6">Карты участников</button>
 </div>
-
 <section id="tab1" class="panel active"><div class="grid">__CARDS_G1__</div></section>
 <section id="tab2" class="panel"><div class="grid">__CARDS_G2__</div></section>
 <section id="tab3" class="panel"><div class="grid">__CARDS_G3__</div></section>
 <section id="tab4" class="panel"><div class="grid">__CARDS_T10__</div></section>
-
 <section id="tab5" class="panel">
-  <div class="prizegrid" id="prize-grid"></div>
+  <div class="prizes-title">Топ-3</div>
+  <div class="grid-prizes-top">__CARDS_PRIZES_TOP__</div>
+  <div class="prizes-title">Карта фонда</div>
+  <div class="grid-prizes-rest">__CARDS_PRIZES_REST__</div>
 </section>
-
 <section id="tab6" class="panel">
-  <div class="toolbar">
-    <div class="search"><input id="pc-search" placeholder="Поиск ника..."></div>
-    <div class="select">
-      <select id="pc-select">
-        <option value="">— выбрать участника —</option>
-      </select>
-    </div>
+  <div class="prizes-title">Все карты участников</div>
+  <div class="authors-layout">
+    <aside class="authors-sidebar">
+      <input id="authorSearch" class="authors-search" type="text" placeholder="Поиск ника...">
+      <ul id="authorList" class="authors-ul"></ul>
+    </aside>
+    <main class="authors-main">
+      <div id="authorHeader" class="author-head2" style="display:none">
+        <div id="authorAva" class="author-ava2"></div>
+        <div class="author-name2"><a id="authorLink" href="#" target="_blank"></a></div>
+      </div>
+      <div id="authorCards" class="author-cards-grid"></div>
+      <div id="authorEmpty" class="author-cards-empty" style="display:none">Выберите ник слева</div>
+    </main>
   </div>
-  <div id="pc-result" class="cardgrid"></div>
+  <script id="authorsData" type="application/json">__CARDS_AUTHORS_JSON__</script>
 </section>
-
-<section id="tab7" class="panel">
-  <div class="actgrid" id="act-grid"></div>
-</section>
-
 <script>
-const PARTICIPANT_CARDS = __PARTICIPANTS_CARDS_JSON__;
-const DISPLAY_BY_NORM = __DISPLAY_BY_NORM__;
-const PRIZES = __PRIZES_JSON__;
-const ORDER_LINK = (authorId) => `https://remanga.org/card?author=${authorId}&ordering=-rank`;
-
 document.querySelectorAll('.tab-btn').forEach(btn=>{
-  btn.onclick=()=>{
-    document.querySelectorAll('.tab-btn').forEach(b=>b.classList.remove('active'));
-    document.querySelectorAll('.panel').forEach(p=>p.classList.remove('active'));
-    btn.classList.add('active');
-    document.getElementById(btn.dataset.target).classList.add('active');
-  }
+ btn.onclick=()=>{
+  document.querySelectorAll('.tab-btn').forEach(b=>b.classList.remove('active'));
+  document.querySelectorAll('.panel').forEach(p=>p.classList.remove('active'));
+  btn.classList.add('active');
+  document.getElementById(btn.dataset.target).classList.add('active');
+ }
 });
 
-// ===== Призы =====
-(function renderPrizes(){
-  const grid = document.getElementById('prize-grid');
-  const list = Object.values(PRIZES);
-  if(!list.length){ grid.innerHTML = '<div class="empty">Список призов пуст.</div>'; return; }
-  for(const p of list){
-    const cover = typeof p.img === 'string' && p.img ? p.img : '';
-    const el = document.createElement('div');
-    el.className = 'prize';
-    el.innerHTML = `
-      <a href="${p.url || '#'}" target="_blank" rel="noopener">
-        <div class="pcover" style="${cover ? `background-image:url('${cover.replace(/'/g,"&#39;")}')` : ''}"></div>
-      </a>
-      <div class="pcnt">
-        <div class="ptitle"><a href="${p.url || '#'}" target="_blank" rel="noopener">${escapeHtml(String(p.title||('Приз '+(p.id||''))))}</a></div>
-      </div>
-    `;
-    grid.appendChild(el);
+// ---- Логика 6-й вкладки ----
+(function(){
+  const dataEl = document.getElementById('authorsData');
+  if(!dataEl) return;
+  const DATA = JSON.parse(dataEl.textContent || '{}');
+  const list = DATA.list || [];
+  const byNorm = DATA.byNorm || {};
+
+  const ul = document.getElementById('authorList');
+  const search = document.getElementById('authorSearch');
+  const head = document.getElementById('authorHeader');
+  const ava = document.getElementById('authorAva');
+  const link = document.getElementById('authorLink');
+  const grid = document.getElementById('authorCards');
+  const empty = document.getElementById('authorEmpty');
+
+  function liHTML(item){
+    const a = item.avatar || '';
+    const d = item.display || '';
+    return `<li class="author-li" data-norm="${item.norm}">
+              <div class="ava" style="background-image:url('${a}')"></div>
+              <div class="name">${d}</div>
+            </li>`;
   }
+
+  function renderList(filter=''){
+    const f = filter.trim().toLowerCase();
+    const items = f ? list.filter(x=> (x.display||'').toLowerCase().includes(f)) : list;
+    ul.innerHTML = items.map(liHTML).join('');
+    bindClicks();
+  }
+
+  function bindClicks(){
+    ul.querySelectorAll('.author-li').forEach(li=>{
+      li.onclick=()=>{
+        ul.querySelectorAll('.author-li').forEach(x=>x.classList.remove('active'));
+        li.classList.add('active');
+        showAuthor(li.getAttribute('data-norm'));
+      };
+    });
+  }
+
+  function esc(s){
+    return (s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+  }
+
+  function cardHTML(card, idx){
+    const cover = esc(card.cover||'');
+    const url = esc(card.url||'#');
+    const num = idx + 1;
+    return `<a class="author-card" href="${url}" target="_blank">
+              <div class="imgwrap">
+                ${cover.endsWith(".webm") ? `<video class="fluid-media" playsinline muted autoplay loop preload="metadata"><source src="${cover}" type="video/webm"></video>` : `<img class="fluid-media" loading="lazy" src="${cover}" alt="card ${num}">` }
+              </div>
+              <div class="author-card-num">№${num}</div>
+            </a>`;
+  }
+
+  function showAuthor(norm){
+    const info = byNorm[norm];
+    if(!info){
+      head.style.display='none';
+      grid.innerHTML='';
+      empty.style.display='';
+      return;
+    }
+    head.style.display='';
+    ava.style.backgroundImage = `url('${info.avatar||''}')`;
+    link.href = info.profile || '#';
+    link.textContent = info.display || '';
+
+    const cards = info.cards || [];
+    if(!cards.length){
+      grid.innerHTML='';
+      empty.style.display='';
+      empty.textContent = 'У этого участника нет карт';
+    }else{
+      empty.style.display='none';
+      grid.innerHTML = cards.map((c,i)=>cardHTML(c,i)).join('');
+    }
+  }
+
+  search.addEventListener('input', ()=>{
+    renderList(search.value || '');
+  });
+
+  renderList('');
+  empty.style.display='';
 })();
-
-// ===== Карты участников =====
-
-// селект участников
-(function fillSelect(){
-  const sel = document.getElementById('pc-select');
-  const entries = Object.entries(PARTICIPANT_CARDS).map(([norm, data])=>[norm, data.display]);
-  entries.sort((a,b)=>a[1].localeCompare(b[1], 'ru'));
-  for(const [norm, disp] of entries){
-    const opt = document.createElement('option');
-    opt.value = norm;
-    opt.textContent = disp;
-    sel.appendChild(opt);
-  }
-})();
-
-// поиск по нику
-document.getElementById('pc-search').addEventListener('input', function(){
-  const q = this.value.trim().toLowerCase();
-  const sel = document.getElementById('pc-select');
-  if(!q){
-    sel.value = '';
-    renderCards(null);
-    return;
-  }
-  const entries = Object.entries(PARTICIPANT_CARDS).map(([norm, data])=>[norm, data.display]);
-  const found = entries.find(([norm, disp])=> (disp||'').toLowerCase().includes(q));
-  if(found){
-    sel.value = found[0];
-    sel.dispatchEvent(new Event('change'));
-  }
-});
-
-document.getElementById('pc-select').addEventListener('change', function(){
-  const norm = this.value || null;
-  renderCards(norm);
-});
-
-function renderCards(norm){
-  const wrap = document.getElementById('pc-result');
-  wrap.innerHTML = '';
-  if(!norm){
-    wrap.innerHTML = '<div class="empty">Выберите участника слева, либо начните вводить ник в поиске.</div>';
-    return;
-  }
-  const data = PARTICIPANT_CARDS[norm];
-  if(!data || !Array.isArray(data.cards) || !data.cards.length){
-    wrap.innerHTML = '<div class="empty">Для этого участника карточек не найдено.</div>';
-    return;
-  }
-
-  const linkTop = document.createElement('div');
-  linkTop.className = 'empty';
-  linkTop.innerHTML = `<a href="${ORDER_LINK(data.author_id)}" target="_blank">Все карты автора на Remanga</a>`;
-  wrap.appendChild(linkTop);
-
-  for(const c of data.cards){
-    const el = document.createElement('div');
-    el.className = 'ccard';
-    const cover = typeof c.cover === 'string' ? c.cover : '';
-    const title = typeof c.title === 'string' ? c.title : '';
-    const rarity = typeof c.rarity === 'string' ? c.rarity : '';
-    el.innerHTML = `
-      <a href="${c.url || '#'}" target="_blank" rel="noopener">
-        <div class="ccover" style="${cover ? `background-image:url('${cover.replace(/'/g,"&#39;")}')` : ''}"></div>
-      </a>
-      <div class="ccnt">
-        <div class="ctitle">
-          <a href="${c.url || '#'}" target="_blank" rel="noopener">${escapeHtml(title || 'Без названия')}</a>
-        </div>
-        <div class="cmeta">
-          ${rarity ? 'Редкость: '+escapeHtml(rarity) : ''}
-          ${data.author_id ? ` • <a href="${ORDER_LINK(data.author_id)}" target="_blank" rel="noopener">Все карты автора</a>` : ''}
-        </div>
-      </div>
-    `;
-    wrap.appendChild(el);
-  }
-}
-
-function escapeHtml(s){
-  return String(s).replace(/[&<>"']/g, ch => (
-    {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[ch]
-  ));
-}
-
-// ===== Активность =====
-(function renderActivity(){
-  const grid = document.getElementById('act-grid');
-  const src = __ACTIVITY_JSON__;
-  if(!src.length){ grid.innerHTML = '<div class="empty">Пока нет активности.</div>'; return; }
-  for(const a of src){
-    const el = document.createElement('div');
-    el.className = 'act';
-    el.innerHTML = `
-      <h4><a href="${a.profile}" target="_blank">${escapeHtml(a.display)}</a></h4>
-      <div class="muted">${escapeHtml(a.guild)} • Залито: ${a.diff.toLocaleString('ru-RU')} ⚡ • Карточек: ${a.cards}</div>
-    `;
-    grid.appendChild(el);
-  }
-})();
-
-// стартовый рендер
-renderCards(null);
 </script>
 </body>
 </html>
 """
 
-# Активность: участники EW+ED с diff>0
-activity = []
-for p in (participants_g1 + participants_g2):
-    if p["diff"] > 0:
-        cards_count = len((participants_cards.get(p["norm"]) or {}).get("cards") or [])
-        activity.append({
-            "display": p["display"],
-            "profile": p["profile"],
-            "guild": p["guild"],
-            "diff": p["diff"],
-            "cards": cards_count
-        })
-# самые активные сверху
-activity.sort(key=lambda x: (x["diff"], x["cards"]), reverse=True)
+now_msk = datetime.now(timezone(timedelta(hours=3))).strftime("%d.%m.%Y %H:%M (МСК)")
+cards_g1 = render_cards(participants_g1)
+cards_g2 = render_cards(participants_g2)
+cards_g3 = render_cards(participants_g3)
+cards_t10 = render_cards(top10)
 
-display_by_norm = {k: v["display"] for k,v in participants_cards.items()}
+authors_json = json.dumps(authors_data, ensure_ascii=False)
+prizes_list = fetch_prizes()
+cards_prizes_top = render_prize_cards_top3(prizes_list)
+cards_prizes_rest = render_prize_cards_rest(prizes_list)
 
-html = (
-    html_template
+html = (html_template
     .replace("__NOW__", now_msk)
     .replace("__CARDS_G1__", cards_g1)
     .replace("__CARDS_G2__", cards_g2)
     .replace("__CARDS_G3__", cards_g3)
     .replace("__CARDS_T10__", cards_t10)
-    .replace("__PARTICIPANTS_CARDS_JSON__", json.dumps(participants_cards, ensure_ascii=False))
-    .replace("__DISPLAY_BY_NORM__", json.dumps(display_by_norm, ensure_ascii=False))
-    .replace("__PRIZES_JSON__", json.dumps(prizes, ensure_ascii=False))
-    .replace("__ACTIVITY_JSON__", json.dumps(activity, ensure_ascii=False))
+    .replace("__CARDS_PRIZES_TOP__", cards_prizes_top)
+    .replace("__CARDS_PRIZES_REST__", cards_prizes_rest)
+    .replace("__CARDS_AUTHORS_JSON__", authors_json)
 )
 
 Path("index.html").write_text(html, encoding="utf-8")
@@ -750,39 +806,56 @@ log("-> index.html saved")
 # ---------- SAVE JSON ----------
 with open("top10.json", "w", encoding="utf-8") as f:
     json.dump(top10, f, ensure_ascii=False, indent=2)
-
 with open("history_ew.json", "w", encoding="utf-8") as f:
     json.dump(participants_g1, f, ensure_ascii=False, indent=2)
-
 with open("history_ed.json", "w", encoding="utf-8") as f:
     json.dump(participants_g2, f, ensure_ascii=False, indent=2)
-
-with open("participants_cards.json", "w", encoding="utf-8") as f:
-    json.dump(participants_cards, f, ensure_ascii=False, indent=2)
-
-with open("activity.json", "w", encoding="utf-8") as f:
-    json.dump(activity, f, ensure_ascii=False, indent=2)
-
-log("-> top10.json, history_ew.json, history_ed.json, participants_cards.json, activity.json saved")
+log("-> top10.json, history_ew.json & history_ed.json saved")
 
 # ---------- GIT PUSH ----------
 def try_git_push():
-    log("[GIT] Pushing...")
-    env = os.environ.copy()
-    env["GIT_TERMINAL_PROMPT"] = "0"
-    creationflags = subprocess.CREATE_NO_WINDOW if os.name == "nt" else 0
+    try:
+        script_dir = Path(__file__).resolve().parent
+        os.chdir(script_dir)
 
-    def run(cmd):
-        r = subprocess.run(cmd, capture_output=True, text=True, env=env, creationflags=creationflags)
-        if "commit" in cmd:
-            log(f"[GIT] {' '.join(cmd[:3])} | stdout: {r.stdout.strip()[:200]}")
-        if "push" in cmd:
-            log(f"[GIT] {' '.join(cmd[:3])} | stderr: {r.stderr.strip()[:200]}")
-        return r
+        if not (script_dir / ".git").exists():
+            log("[GIT] skipped: .git не найден (запуск не из репозитория)")
+            return
 
-    run(["git", "add", "index.html", "avatars", "top10.json", "history_ew.json", "history_ed.json", "participants_cards.json", "activity.json"])
-    run(["git", "commit", "-m", f"Auto update: {datetime.now()}"])
-    run(["git", "push", "origin", "main"])
+        git_path = shutil.which("git")
+        if not git_path:
+            log("[GIT] skipped: git не найден в PATH")
+            return
+
+        def run(cmd):
+            p = subprocess.run([git_path] + cmd, capture_output=True, text=True)
+            if p.stdout:
+                log(f"[GIT] {' '.join(cmd)} | stdout:", p.stdout.strip())
+            if p.stderr:
+                log(f"[GIT] {' '.join(cmd)} | stderr:", p.stderr.strip())
+            return p.returncode
+
+        noj = script_dir / ".nojekyll"
+        if not noj.exists():
+            noj.write_text("", encoding="utf-8")
+            log("[GIT] created .nojekyll")
+
+        # Добавляем participants_cards.json, если он уже создан сборщиком
+        run(["add", "index.html", "avatars", "cards", "top10.json",
+             "history_ew.json", "history_ed.json", "activity.json",
+             "participants_cards.json", ".nojekyll"])
+
+        rc = subprocess.run([git_path, "diff", "--cached", "--quiet"]).returncode
+        if rc == 0:
+            log("[GIT] нет изменений — коммит/пуш пропущены")
+            return
+
+        msg = f"Auto update: {datetime.now()}"
+        run(["commit", "-m", msg])
+        run(["push", "origin", "main"])
+        log("[GIT] push done")
+    except Exception as e:
+        log("[GIT] ERROR:", e)
 
 try_git_push()
 log("=== SCRIPT FINISHED ===")
