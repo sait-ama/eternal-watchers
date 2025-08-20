@@ -34,8 +34,7 @@ header{text-align:center;padding:10px}
 .prize-num{position:absolute;top:8px;left:8px;background:linear-gradient(180deg, rgba(255,210,77,.95), rgba(255,180,0,.95));color:#181a1d;font-weight:900;padding:6px 10px;border-radius:8px}
 .grid-prizes-rest{display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:12px;justify-items:center}
 .prize-card--rest{width:210px;border:1px solid #2b2f33}
-.prize-img{width:100%;aspect-ratio:3/4;border-radius:10px;overflow:hidden;background:#0f1114;display:flex;align-items:center;justify-content:center}
-.fluid-media{width:100%;height:100%;object-fit:cover;display:block;border-radius:10px}
+.prize-img img{width:100%;border-radius:6%;object-fit:cover}
 .prize-title{font-size:1.06em;font-weight:800;margin-top:8px;color:var(--text)}
 .prize-manga{display:inline-block;margin-top:4px;color:var(--accent);text-decoration:none;font-weight:600}
 .prize-manga:hover{text-decoration:underline}
@@ -60,7 +59,7 @@ header{text-align:center;padding:10px}
 .author-cards-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(184px,1fr));gap:14px}
 .author-card{display:flex;flex-direction:column;gap:8px;background:rgba(255,255,255,0.04);border:1px solid #2b2f33;border-radius:12px;padding:12px;text-decoration:none}
 .author-card .imgwrap{width:100%;aspect-ratio:3/4;border-radius:10px;overflow:hidden;background:#0f1114;display:flex;align-items:center;justify-content:center}
-.author-card img,.author-card video{width:100%;height:100%;object-fit:cover;border-radius:10px}
+.author-card img{width:100%;height:100%;object-fit:contain;border-radius:10px}
 .author-card-num{font-size:0.98em;color:var(--text);font-weight:800;text-align:center}
 .author-cards-empty{color:var(--muted);font-style:italic}
 @media (max-width: 880px){
@@ -72,7 +71,7 @@ header{text-align:center;padding:10px}
 <body>
 <header>
 <h1>Eternal guilds — статистика</h1>
-<div>Последнее обновление: 20.08.2025 10:14 (МСК)</div>
+<div>Последнее обновление: 20.08.2025 10:16 (МСК)</div>
 </header>
 <div class="tabs">
 <button class="tab-btn active" data-target="tab1">Eternal Watchers</button>
@@ -327,7 +326,7 @@ header{text-align:center;padding:10px}
   <div class="grid-prizes-top">
         <div class="prize-card prize-card--top">
             <div class="prize-num">№1</div>
-            <div class="prize-img"><img class="fluid-media" src="cards/40645.webp" alt="Коллекционная карточка"></div>
+            <div class="prize-img"><img src="cards/40645.webp" alt="Коллекционная карточка"></div>
             <p class="prize-title">Коллекционная карточка</p>
             <a class="prize-manga" href="#" target="_blank">—</a>
             <p class="prize-author">Автор: <a href="https://remanga.org/user/2218843/about" target="_blank">._CrystalCat_.</a></p>
@@ -335,7 +334,7 @@ header{text-align:center;padding:10px}
         
         <div class="prize-card prize-card--top">
             <div class="prize-num">№2</div>
-            <div class="prize-img"><img class="fluid-media" src="cards/20696.webp" alt="Коллекционная карточка"></div>
+            <div class="prize-img"><img src="cards/20696.webp" alt="Коллекционная карточка"></div>
             <p class="prize-title">Коллекционная карточка</p>
             <a class="prize-manga" href="#" target="_blank">—</a>
             <p class="prize-author">Автор: <a href="https://remanga.org/user/1404258/about" target="_blank">VikycaGreeny</a></p>
@@ -343,7 +342,7 @@ header{text-align:center;padding:10px}
         
         <div class="prize-card prize-card--top">
             <div class="prize-num">№3</div>
-            <div class="prize-img"><img class="fluid-media" src="cards/46776.webp" alt="Коллекционная карточка"></div>
+            <div class="prize-img"><img src="cards/46776.webp" alt="Коллекционная карточка"></div>
             <p class="prize-title">Коллекционная карточка</p>
             <a class="prize-manga" href="#" target="_blank">—</a>
             <p class="prize-author">Автор: <a href="https://remanga.org/user/1305685/about" target="_blank">Reader-</a></p>
@@ -352,259 +351,259 @@ header{text-align:center;padding:10px}
   <div class="prizes-title">Карта фонда</div>
   <div class="grid-prizes-rest">
         <div class="prize-card prize-card--rest">
-            <div class="prize-img"><img class="fluid-media" src="cards/112293.webp" alt="Коллекционная карточка"></div>
+            <div class="prize-img"><img src="cards/112293.webp" alt="Коллекционная карточка"></div>
             <p class="prize-title">Коллекционная карточка</p>
             <a class="prize-manga" href="#" target="_blank">—</a>
             <p class="prize-author">Автор: <a href="https://remanga.org/user/662772/about" target="_blank">.Årcãnã.</a></p>
         </div>
         
         <div class="prize-card prize-card--rest">
-            <div class="prize-img"><img class="fluid-media" src="cards/86913.webp" alt="Коллекционная карточка"></div>
+            <div class="prize-img"><img src="cards/86913.webp" alt="Коллекционная карточка"></div>
             <p class="prize-title">Коллекционная карточка</p>
             <a class="prize-manga" href="#" target="_blank">—</a>
             <p class="prize-author">Автор: <a href="https://remanga.org/user/210631/about" target="_blank">SuuNaDeSsu</a></p>
         </div>
         
         <div class="prize-card prize-card--rest">
-            <div class="prize-img"><img class="fluid-media" src="cards/84245.webp" alt="Коллекционная карточка"></div>
+            <div class="prize-img"><img src="cards/84245.webp" alt="Коллекционная карточка"></div>
             <p class="prize-title">Коллекционная карточка</p>
             <a class="prize-manga" href="#" target="_blank">—</a>
             <p class="prize-author">Автор: <a href="https://remanga.org/user/3201588/about" target="_blank">кацузавр</a></p>
         </div>
         
         <div class="prize-card prize-card--rest">
-            <div class="prize-img"><img class="fluid-media" src="cards/84628.webp" alt="Коллекционная карточка"></div>
+            <div class="prize-img"><img src="cards/84628.webp" alt="Коллекционная карточка"></div>
             <p class="prize-title">Коллекционная карточка</p>
             <a class="prize-manga" href="#" target="_blank">—</a>
             <p class="prize-author">Автор: <a href="https://remanga.org/user/3201588/about" target="_blank">кацузавр</a></p>
         </div>
         
         <div class="prize-card prize-card--rest">
-            <div class="prize-img"><img class="fluid-media" src="cards/84629.webp" alt="Коллекционная карточка"></div>
+            <div class="prize-img"><img src="cards/84629.webp" alt="Коллекционная карточка"></div>
             <p class="prize-title">Коллекционная карточка</p>
             <a class="prize-manga" href="#" target="_blank">—</a>
             <p class="prize-author">Автор: <a href="https://remanga.org/user/3201588/about" target="_blank">кацузавр</a></p>
         </div>
         
         <div class="prize-card prize-card--rest">
-            <div class="prize-img"><img class="fluid-media" src="cards/108030.webp" alt="Чэён"></div>
+            <div class="prize-img"><img src="cards/108030.webp" alt="Чэён"></div>
             <p class="prize-title">Чэён</p>
             <a class="prize-manga" href="https://remanga.org/manga/runners-high/main" target="_blank">Эйфория бегуна</a>
             <p class="prize-author">Автор: <a href="https://remanga.org/user/40277/about" target="_blank">Kaizaki</a></p>
         </div>
         
         <div class="prize-card prize-card--rest">
-            <div class="prize-img"><img class="fluid-media" src="cards/111617.webp" alt="Мисон"></div>
+            <div class="prize-img"><img src="cards/111617.webp" alt="Мисон"></div>
             <p class="prize-title">Мисон</p>
             <a class="prize-manga" href="https://remanga.org/manga/cleaning-services/main" target="_blank">Служба клининга</a>
             <p class="prize-author">Автор: <a href="https://remanga.org/user/40277/about" target="_blank">Kaizaki</a></p>
         </div>
         
         <div class="prize-card prize-card--rest">
-            <div class="prize-img"><img class="fluid-media" src="cards/114410.webp" alt="Чхве Сиын"></div>
+            <div class="prize-img"><img src="cards/114410.webp" alt="Чхве Сиын"></div>
             <p class="prize-title">Чхве Сиын</p>
             <a class="prize-manga" href="https://remanga.org/manga/she-recommends-a-harem/main" target="_blank">Она предлагает завести гарем</a>
             <p class="prize-author">Автор: <a href="https://remanga.org/user/40277/about" target="_blank">Kaizaki</a></p>
         </div>
         
         <div class="prize-card prize-card--rest">
-            <div class="prize-img"><img class="fluid-media" src="cards/60596.webp" alt="Формидебл"></div>
+            <div class="prize-img"><img src="cards/60596.webp" alt="Формидебл"></div>
             <p class="prize-title">Формидебл</p>
             <a class="prize-manga" href="https://remanga.org/manga/azur-lane-start-building/main" target="_blank">Azur Lane: Start Building!</a>
             <p class="prize-author">Автор: <a href="https://remanga.org/user/2477949/about" target="_blank">Kiriloid09</a></p>
         </div>
         
         <div class="prize-card prize-card--rest">
-            <div class="prize-img"><img class="fluid-media" src="cards/38881.webp" alt="Кабанэ Кусака"></div>
+            <div class="prize-img"><img src="cards/38881.webp" alt="Кабанэ Кусака"></div>
             <p class="prize-title">Кабанэ Кусака</p>
             <a class="prize-manga" href="https://remanga.org/manga/demon-incidents/main" target="_blank">Инцидент Кэмоно</a>
             <p class="prize-author">Автор: <a href="https://remanga.org/user/63083/about" target="_blank">𝕭𝖆𝖗𝖔𝖓𝖆</a></p>
         </div>
         
         <div class="prize-card prize-card--rest">
-            <div class="prize-img"><img class="fluid-media" src="cards/8619.webp" alt="Бер"></div>
+            <div class="prize-img"><img src="cards/8619.webp" alt="Бер"></div>
             <p class="prize-title">Бер</p>
             <a class="prize-manga" href="https://remanga.org/manga/solo-leveling/main" target="_blank">Поднятие уровня в одиночку</a>
             <p class="prize-author">Автор: <a href="https://remanga.org/user/1404258/about" target="_blank">VikycaGreeny</a></p>
         </div>
         
         <div class="prize-card prize-card--rest">
-            <div class="prize-img"><img class="fluid-media" src="cards/6218.webp" alt="Игрис"></div>
+            <div class="prize-img"><img src="cards/6218.webp" alt="Игрис"></div>
             <p class="prize-title">Игрис</p>
             <a class="prize-manga" href="https://remanga.org/manga/solo-leveling/main" target="_blank">Поднятие уровня в одиночку</a>
             <p class="prize-author">Автор: <a href="https://remanga.org/user/1404258/about" target="_blank">VikycaGreeny</a></p>
         </div>
         
         <div class="prize-card prize-card--rest">
-            <div class="prize-img"><img class="fluid-media" src="cards/25186.webp" alt="Айрон"></div>
+            <div class="prize-img"><img src="cards/25186.webp" alt="Айрон"></div>
             <p class="prize-title">Айрон</p>
             <a class="prize-manga" href="https://remanga.org/manga/solo-leveling/main" target="_blank">Поднятие уровня в одиночку</a>
             <p class="prize-author">Автор: <a href="https://remanga.org/user/678291/about" target="_blank">x𐋄x</a></p>
         </div>
         
         <div class="prize-card prize-card--rest">
-            <div class="prize-img"><img class="fluid-media" src="cards/33665.webp" alt="Викир Ван Баскервиль"></div>
+            <div class="prize-img"><img src="cards/33665.webp" alt="Викир Ван Баскервиль"></div>
             <p class="prize-title">Викир Ван Баскервиль</p>
             <a class="prize-manga" href="https://remanga.org/manga/the-return-of-the-a-ironblooded-hound/main" target="_blank">Месть железнокровной Гончей Меча</a>
             <p class="prize-author">Автор: <a href="https://remanga.org/user/506019/about" target="_blank">Пользователей.бывший</a></p>
         </div>
         
         <div class="prize-card prize-card--rest">
-            <div class="prize-img"><img class="fluid-media" src="cards/1518.webp" alt="Киллуа Золдик"></div>
+            <div class="prize-img"><img src="cards/1518.webp" alt="Киллуа Золдик"></div>
             <p class="prize-title">Киллуа Золдик</p>
             <a class="prize-manga" href="https://remanga.org/manga/hunter_x_hunter/main" target="_blank">Охотник X Охотник</a>
             <p class="prize-author">Автор: <a href="https://remanga.org/user/60202/about" target="_blank">I_will_return_tо_luv</a></p>
         </div>
         
         <div class="prize-card prize-card--rest">
-            <div class="prize-img"><img class="fluid-media" src="cards/23832.webp" alt="Сирена"></div>
+            <div class="prize-img"><img src="cards/23832.webp" alt="Сирена"></div>
             <p class="prize-title">Сирена</p>
             <a class="prize-manga" href="https://remanga.org/manga/world-after-destrucion/main" target="_blank">Мир после разрушения</a>
             <p class="prize-author">Автор: <a href="https://remanga.org/user/1305685/about" target="_blank">Reader-</a></p>
         </div>
         
         <div class="prize-card prize-card--rest">
-            <div class="prize-img"><img class="fluid-media" src="cards/6315.webp" alt="Кан Хан Нам"></div>
+            <div class="prize-img"><img src="cards/6315.webp" alt="Кан Хан Нам"></div>
             <p class="prize-title">Кан Хан Нам</p>
             <a class="prize-manga" href="https://remanga.org/manga/wind_breaker/main" target="_blank">Ветролом</a>
             <p class="prize-author">Автор: <a href="https://remanga.org/user/1404258/about" target="_blank">VikycaGreeny</a></p>
         </div>
         
         <div class="prize-card prize-card--rest">
-            <div class="prize-img"><img class="fluid-media" src="cards/9409.webp" alt="Ю Вин"></div>
+            <div class="prize-img"><img src="cards/9409.webp" alt="Ю Вин"></div>
             <p class="prize-title">Ю Вин</p>
             <a class="prize-manga" href="https://remanga.org/manga/wind_breaker/main" target="_blank">Ветролом</a>
             <p class="prize-author">Автор: <a href="https://remanga.org/user/360465/about" target="_blank">Zllsabu</a></p>
         </div>
         
         <div class="prize-card prize-card--rest">
-            <div class="prize-img"><img class="fluid-media" src="cards/3398.webp" alt="Изуку Мидория"></div>
+            <div class="prize-img"><img src="cards/3398.webp" alt="Изуку Мидория"></div>
             <p class="prize-title">Изуку Мидория</p>
             <a class="prize-manga" href="https://remanga.org/manga/my_hero_academia/main" target="_blank">Моя геройская академия</a>
             <p class="prize-author">Автор: <a href="https://remanga.org/user/1163097/about" target="_blank">TradMark</a></p>
         </div>
         
         <div class="prize-card prize-card--rest">
-            <div class="prize-img"><img class="fluid-media" src="cards/14712.webp" alt="Фламе"></div>
+            <div class="prize-img"><img src="cards/14712.webp" alt="Фламе"></div>
             <p class="prize-title">Фламе</p>
             <a class="prize-manga" href="https://remanga.org/manga/farming-in-the-tower-alone/main" target="_blank">Фермерство в башне в одиночку</a>
             <p class="prize-author">Автор: <a href="https://remanga.org/user/473684/about" target="_blank">Пpоповедник</a></p>
         </div>
         
         <div class="prize-card prize-card--rest">
-            <div class="prize-img"><img class="fluid-media" src="cards/50755.webp" alt="Чхон Ё Ун"></div>
+            <div class="prize-img"><img src="cards/50755.webp" alt="Чхон Ё Ун"></div>
             <p class="prize-title">Чхон Ё Ун</p>
             <a class="prize-manga" href="https://remanga.org/manga/machines/main" target="_blank">Наномашины</a>
             <p class="prize-author">Автор: <a href="https://remanga.org/user/1404258/about" target="_blank">VikycaGreeny</a></p>
         </div>
         
         <div class="prize-card prize-card--rest">
-            <div class="prize-img"><img class="fluid-media" src="cards/5512.webp" alt="Таня Дегуршаф"></div>
+            <div class="prize-img"><img src="cards/5512.webp" alt="Таня Дегуршаф"></div>
             <p class="prize-title">Таня Дегуршаф</p>
             <a class="prize-manga" href="https://remanga.org/manga/a_little_girls_military_record/main" target="_blank">Военная хроника маленькой девочки</a>
             <p class="prize-author">Автор: <a href="https://remanga.org/user/21780/about" target="_blank">Clopherine</a></p>
         </div>
         
         <div class="prize-card prize-card--rest">
-            <div class="prize-img"><img class="fluid-media" src="cards/7981.webp" alt="Чо Джа Хён"></div>
+            <div class="prize-img"><img src="cards/7981.webp" alt="Чо Джа Хён"></div>
             <p class="prize-title">Чо Джа Хён</p>
             <a class="prize-manga" href="https://remanga.org/manga/wind_breaker/main" target="_blank">Ветролом</a>
             <p class="prize-author">Автор: <a href="https://remanga.org/user/360465/about" target="_blank">Zllsabu</a></p>
         </div>
         
         <div class="prize-card prize-card--rest">
-            <div class="prize-img"><img class="fluid-media" src="cards/79592.webp" alt="Чон Хи Вон"></div>
+            <div class="prize-img"><img src="cards/79592.webp" alt="Чон Хи Вон"></div>
             <p class="prize-title">Чон Хи Вон</p>
             <a class="prize-manga" href="https://remanga.org/manga/omniscient-reader/main" target="_blank">Всеведущий читатель</a>
             <p class="prize-author">Автор: <a href="https://remanga.org/user/522866/about" target="_blank">positivе</a></p>
         </div>
         
         <div class="prize-card prize-card--rest">
-            <div class="prize-img"><img class="fluid-media" src="cards/15387.webp" alt="Ким Сухён"></div>
+            <div class="prize-img"><img src="cards/15387.webp" alt="Ким Сухён"></div>
             <p class="prize-title">Ким Сухён</p>
             <a class="prize-manga" href="https://remanga.org/manga/qust-suprmcy/main" target="_blank">Квестовое Превосходство</a>
             <p class="prize-author">Автор: <a href="https://remanga.org/user/2231654/about" target="_blank">-DANIEL-</a></p>
         </div>
         
         <div class="prize-card prize-card--rest">
-            <div class="prize-img"><img class="fluid-media" src="cards/23501.webp" alt="Юно Гасай"></div>
+            <div class="prize-img"><img src="cards/23501.webp" alt="Юно Гасай"></div>
             <p class="prize-title">Юно Гасай</p>
             <a class="prize-manga" href="https://remanga.org/manga/future_diary/main" target="_blank">Дневник будущего</a>
             <p class="prize-author">Автор: <a href="https://remanga.org/user/678291/about" target="_blank">x𐋄x</a></p>
         </div>
         
         <div class="prize-card prize-card--rest">
-            <div class="prize-img"><img class="fluid-media" src="cards/9459.webp" alt="Шаллтир Бладфоллен"></div>
+            <div class="prize-img"><img src="cards/9459.webp" alt="Шаллтир Бладфоллен"></div>
             <p class="prize-title">Шаллтир Бладфоллен</p>
             <a class="prize-manga" href="https://remanga.org/manga/overlord/main" target="_blank">Повелитель</a>
             <p class="prize-author">Автор: <a href="https://remanga.org/user/63916/about" target="_blank">lekss</a></p>
         </div>
         
         <div class="prize-card prize-card--rest">
-            <div class="prize-img"><img class="fluid-media" src="cards/16736.webp" alt="Энтома Василисса Дзета"></div>
+            <div class="prize-img"><img src="cards/16736.webp" alt="Энтома Василисса Дзета"></div>
             <p class="prize-title">Энтома Василисса Дзета</p>
             <a class="prize-manga" href="https://remanga.org/manga/overlord/main" target="_blank">Повелитель</a>
             <p class="prize-author">Автор: <a href="https://remanga.org/user/312612/about" target="_blank">PlatzWart</a></p>
         </div>
         
         <div class="prize-card prize-card--rest">
-            <div class="prize-img"><img class="fluid-media" src="cards/9461.webp" alt="Сок Гён Вон"></div>
+            <div class="prize-img"><img src="cards/9461.webp" alt="Сок Гён Вон"></div>
             <p class="prize-title">Сок Гён Вон</p>
             <a class="prize-manga" href="https://remanga.org/manga/im-going-crazy/main" target="_blank">Наномашины: Бог Хаоса</a>
             <p class="prize-author">Автор: <a href="https://remanga.org/user/522866/about" target="_blank">positivе</a></p>
         </div>
         
         <div class="prize-card prize-card--rest">
-            <div class="prize-img"><img class="fluid-media" src="cards/33022.webp" alt="Соуэй"></div>
+            <div class="prize-img"><img src="cards/33022.webp" alt="Соуэй"></div>
             <p class="prize-title">Соуэй</p>
             <a class="prize-manga" href="https://remanga.org/manga/regarding_reincarnated_to_slime/main" target="_blank">О моём перерождении в слизь</a>
             <p class="prize-author">Автор: <a href="https://remanga.org/user/585958/about" target="_blank">Дорогой_я_в_Муриме</a></p>
         </div>
         
         <div class="prize-card prize-card--rest">
-            <div class="prize-img"><img class="fluid-media" src="cards/7803.webp" alt="Аластор"></div>
+            <div class="prize-img"><img src="cards/7803.webp" alt="Аластор"></div>
             <p class="prize-title">Аластор</p>
             <a class="prize-manga" href="https://remanga.org/manga/otel-hazbin--ohotnik/main" target="_blank">Отель Хазбин  Охотник</a>
             <p class="prize-author">Автор: <a href="https://remanga.org/user/1684882/about" target="_blank">Androm</a></p>
         </div>
         
         <div class="prize-card prize-card--rest">
-            <div class="prize-img"><img class="fluid-media" src="cards/46306.webp" alt="Сабито"></div>
+            <div class="prize-img"><img src="cards/46306.webp" alt="Сабито"></div>
             <p class="prize-title">Сабито</p>
             <a class="prize-manga" href="https://remanga.org/manga/blade_of_demon_destruction/main" target="_blank">Клинок, рассекающий демонов</a>
             <p class="prize-author">Автор: <a href="https://remanga.org/user/2477949/about" target="_blank">Kiriloid09</a></p>
         </div>
         
         <div class="prize-card prize-card--rest">
-            <div class="prize-img"><img class="fluid-media" src="cards/23008.webp" alt="Ракан"></div>
+            <div class="prize-img"><img src="cards/23008.webp" alt="Ракан"></div>
             <p class="prize-title">Ракан</p>
             <a class="prize-manga" href="https://remanga.org/manga/solo-leveling/main" target="_blank">Поднятие уровня в одиночку</a>
             <p class="prize-author">Автор: <a href="https://remanga.org/user/1305685/about" target="_blank">Reader-</a></p>
         </div>
         
         <div class="prize-card prize-card--rest">
-            <div class="prize-img"><img class="fluid-media" src="cards/2412.webp" alt="Ся Нин Чан"></div>
+            <div class="prize-img"><img src="cards/2412.webp" alt="Ся Нин Чан"></div>
             <p class="prize-title">Ся Нин Чан</p>
             <a class="prize-manga" href="https://remanga.org/manga/martial_peak/main" target="_blank">Пик боевых искусств</a>
             <p class="prize-author">Автор: <a href="https://remanga.org/user/959119/about" target="_blank">ximerа</a></p>
         </div>
         
         <div class="prize-card prize-card--rest">
-            <div class="prize-img"><img class="fluid-media" src="cards/36849.webp" alt="Иноске Хашибира"></div>
+            <div class="prize-img"><img src="cards/36849.webp" alt="Иноске Хашибира"></div>
             <p class="prize-title">Иноске Хашибира</p>
             <a class="prize-manga" href="https://remanga.org/manga/blade_of_demon_destruction/main" target="_blank">Клинок, рассекающий демонов</a>
             <p class="prize-author">Автор: <a href="https://remanga.org/user/1060935/about" target="_blank">GoatRou</a></p>
         </div>
         
         <div class="prize-card prize-card--rest">
-            <div class="prize-img"><img class="fluid-media" src="cards/116594.webp" alt="Ронова"></div>
+            <div class="prize-img"><img src="cards/116594.webp" alt="Ронова"></div>
             <p class="prize-title">Ронова</p>
             <a class="prize-manga" href="https://remanga.org/manga/genshin-impact--/main" target="_blank">Геншинский удар</a>
             <p class="prize-author">Автор: <a href="https://remanga.org/user/2982204/about" target="_blank">whoisforever</a></p>
         </div>
         
         <div class="prize-card prize-card--rest">
-            <div class="prize-img"><img class="fluid-media" src="cards/1288.webp" alt="Ху Мэй Эр"></div>
+            <div class="prize-img"><img src="cards/1288.webp" alt="Ху Мэй Эр"></div>
             <p class="prize-title">Ху Мэй Эр</p>
             <a class="prize-manga" href="https://remanga.org/manga/martial_peak/main" target="_blank">Пик боевых искусств</a>
             <p class="prize-author">Автор: <a href="https://remanga.org/user/959119/about" target="_blank">ximerа</a></p>
@@ -691,7 +690,7 @@ document.querySelectorAll('.tab-btn').forEach(btn=>{
     const num = idx + 1;
     return `<a class="author-card" href="${url}" target="_blank">
               <div class="imgwrap">
-                ${cover.endsWith(".webm") ? `<video class="fluid-media" playsinline muted autoplay loop preload="metadata"><source src="${cover}" type="video/webm"></video>` : `<img class="fluid-media" loading="lazy" src="${cover}" alt="card ${num}">` }
+                <img loading="lazy" src="${cover}" alt="card ${num}">
               </div>
               <div class="author-card-num">№${num}</div>
             </a>`;
