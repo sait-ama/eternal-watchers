@@ -60,6 +60,18 @@
     "last_active_human": "сегодня"
   },
   {
+    "norm": "markutts",
+    "display": "MARKUTTs",
+    "initial": 44500,
+    "current": 69500,
+    "diff": 25000,
+    "avatar": "avatars/markutts.jpg",
+    "profile": "https://remanga.org/user/660145/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "zurichka",
     "display": "Zurichka",
     "initial": 36000,
@@ -934,18 +946,6 @@
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "4 дн. назад"
-  },
-  {
-    "norm": "markutts",
-    "display": "MARKUTTs",
-    "initial": 44500,
-    "current": 44500,
-    "diff": 0,
-    "avatar": "avatars/markutts.jpg",
-    "profile": "https://remanga.org/user/660145/about",
-    "guild": "Eternal Watchers",
-    "is_afk": true,
-    "last_active_human": "нет данных"
   },
   {
     "norm": "kodokunayurei",
