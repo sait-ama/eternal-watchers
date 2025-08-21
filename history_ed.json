@@ -144,6 +144,18 @@
     "last_active_human": "вчера"
   },
   {
+    "norm": "meimei",
+    "display": "mei_mei",
+    "initial": 9103,
+    "current": 14310,
+    "diff": 5207,
+    "avatar": "avatars/meimei.jpg",
+    "profile": "https://remanga.org/user/52975/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "moonsh1ne",
     "display": "moonsh1ne",
     "initial": 8050,
@@ -151,18 +163,6 @@
     "diff": 5160,
     "avatar": "avatars/moonsh1ne.jpg",
     "profile": "https://remanga.org/user/128587/about",
-    "guild": "Eternal Demonic",
-    "is_afk": false,
-    "last_active_human": "сегодня"
-  },
-  {
-    "norm": "meimei",
-    "display": "mei_mei",
-    "initial": 9103,
-    "current": 13760,
-    "diff": 4657,
-    "avatar": "avatars/meimei.jpg",
-    "profile": "https://remanga.org/user/52975/about",
     "guild": "Eternal Demonic",
     "is_afk": false,
     "last_active_human": "сегодня"
