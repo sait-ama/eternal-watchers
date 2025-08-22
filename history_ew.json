@@ -576,6 +576,18 @@
     "last_active_human": "4 дн. назад"
   },
   {
+    "norm": "ctapeйшинaчy",
+    "display": "Старейшина-Чу",
+    "initial": 16550,
+    "current": 20700,
+    "diff": 4150,
+    "avatar": "avatars/ctapeйшинaчy.jpg",
+    "profile": "https://remanga.org/user/69640/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "thostriel",
     "display": "Thostriel",
     "initial": 37810,
@@ -622,18 +634,6 @@
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "2 дн. назад"
-  },
-  {
-    "norm": "ctapeйшинaчy",
-    "display": "Старейшина-Чу",
-    "initial": 16550,
-    "current": 20200,
-    "diff": 3650,
-    "avatar": "avatars/ctapeйшинaчy.jpg",
-    "profile": "https://remanga.org/user/69640/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "вчера"
   },
   {
     "norm": "vladosrat",
