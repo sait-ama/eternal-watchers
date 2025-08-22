@@ -948,6 +948,30 @@
     "last_active_human": "4 дн. назад"
   },
   {
+    "norm": "suba7u",
+    "display": "Suba7u",
+    "initial": 48807,
+    "current": 48810,
+    "diff": 3,
+    "avatar": "avatars/suba7u.jpg",
+    "profile": "https://remanga.org/user/1602594/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
+    "norm": "caйtaмa",
+    "display": "Сайтама",
+    "initial": 120749,
+    "current": 120750,
+    "diff": 1,
+    "avatar": "avatars/caйtaмa.jpg",
+    "profile": "https://remanga.org/user/12762/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "kodokunayurei",
     "display": "KodokunaYurei",
     "initial": 54990,
@@ -1138,5 +1162,29 @@
     "guild": "Eternal Watchers",
     "is_afk": true,
     "last_active_human": "нет данных"
+  },
+  {
+    "norm": "ewobserver",
+    "display": "EW_OBSERVER",
+    "initial": 264331,
+    "current": 264330,
+    "diff": 0,
+    "avatar": "avatars/ewobserver.jpg",
+    "profile": "https://remanga.org/user/141395/about",
+    "guild": "Eternal Watchers",
+    "is_afk": true,
+    "last_active_human": "нет данных"
+  },
+  {
+    "norm": "elduck",
+    "display": "El_Duck",
+    "initial": 109123,
+    "current": 109120,
+    "diff": 0,
+    "avatar": "avatars/elduck.jpg",
+    "profile": "https://remanga.org/user/1125410/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
   }
 ]
