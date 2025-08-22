@@ -120,6 +120,18 @@
     "last_active_human": "6 дн. назад"
   },
   {
+    "norm": "beast",
+    "display": "Beast_",
+    "initial": 37930,
+    "current": 44210,
+    "diff": 6280,
+    "avatar": "avatars/beast.jpg",
+    "profile": "https://remanga.org/user/1935045/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "haisan",
     "display": "HaiSan",
     "initial": 15700,
@@ -178,18 +190,6 @@
     "guild": "Eternal Demonic",
     "is_afk": false,
     "last_active_human": "вчера"
-  },
-  {
-    "norm": "beast",
-    "display": "Beast_",
-    "initial": 37930,
-    "current": 42050,
-    "diff": 4120,
-    "avatar": "avatars/beast.jpg",
-    "profile": "https://remanga.org/user/1935045/about",
-    "guild": "Eternal Demonic",
-    "is_afk": false,
-    "last_active_human": "6 дн. назад"
   },
   {
     "norm": "mmarti",
