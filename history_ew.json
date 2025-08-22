@@ -549,6 +549,18 @@
     "profile": "https://remanga.org/user/1496494/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
+    "last_active_human": "вчера"
+  },
+  {
+    "norm": "bagas",
+    "display": "Bagas",
+    "initial": 22360,
+    "current": 27110,
+    "diff": 4750,
+    "avatar": "avatars/bagas.jpg",
+    "profile": "https://remanga.org/user/79904/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
     "last_active_human": "сегодня"
   },
   {
@@ -660,18 +672,6 @@
     "last_active_human": "4 дн. назад"
   },
   {
-    "norm": "bagas",
-    "display": "Bagas",
-    "initial": 22360,
-    "current": 25810,
-    "diff": 3450,
-    "avatar": "avatars/bagas.jpg",
-    "profile": "https://remanga.org/user/79904/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "4 дн. назад"
-  },
-  {
     "norm": "osmodeuss",
     "display": "osmodeuss",
     "initial": 10050,
@@ -777,7 +777,7 @@
     "profile": "https://remanga.org/user/1529739/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "сегодня"
+    "last_active_human": "вчера"
   },
   {
     "norm": "misikira",
