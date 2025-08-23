@@ -792,6 +792,18 @@
     "last_active_human": "вчера"
   },
   {
+    "norm": "caйtaмa",
+    "display": "Сайтама",
+    "initial": 120749,
+    "current": 122950,
+    "diff": 2201,
+    "avatar": "avatars/caйtaмa.jpg",
+    "profile": "https://remanga.org/user/12762/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "admiralsengoku",
     "display": "ADMIRAL_SENGOKU",
     "initial": 28000,
@@ -826,18 +838,6 @@
     "guild": "Eternal Watchers",
     "is_afk": true,
     "last_active_human": "9 дн. назад"
-  },
-  {
-    "norm": "caйtaмa",
-    "display": "Сайтама",
-    "initial": 120749,
-    "current": 121950,
-    "diff": 1201,
-    "avatar": "avatars/caйtaмa.jpg",
-    "profile": "https://remanga.org/user/12762/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "сегодня"
   },
   {
     "norm": "frozenjfx",
