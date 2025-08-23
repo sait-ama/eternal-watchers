@@ -876,6 +876,18 @@
     "last_active_human": "9 дн. назад"
   },
   {
+    "norm": "kodokunayurei",
+    "display": "KodokunaYurei",
+    "initial": 54990,
+    "current": 55590,
+    "diff": 600,
+    "avatar": "avatars/kodokunayurei.jpg",
+    "profile": "https://remanga.org/user/108546/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "pupstv",
     "display": "PupsTv",
     "initial": 11200,
@@ -898,18 +910,6 @@
     "guild": "Eternal Watchers",
     "is_afk": true,
     "last_active_human": "9 дн. назад"
-  },
-  {
-    "norm": "kodokunayurei",
-    "display": "KodokunaYurei",
-    "initial": 54990,
-    "current": 55290,
-    "diff": 300,
-    "avatar": "avatars/kodokunayurei.jpg",
-    "profile": "https://remanga.org/user/108546/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "сегодня"
   },
   {
     "norm": "laytee",
