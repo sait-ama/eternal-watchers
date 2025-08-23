@@ -63,13 +63,13 @@
     "norm": "zurichka",
     "display": "Zurichka",
     "initial": 36000,
-    "current": 61000,
-    "diff": 25000,
+    "current": 61500,
+    "diff": 25500,
     "avatar": "avatars/zurichka.jpg",
     "profile": "https://remanga.org/user/189990/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "вчера"
+    "last_active_human": "сегодня"
   },
   {
     "norm": "markutts",
