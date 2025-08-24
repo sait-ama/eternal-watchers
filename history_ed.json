@@ -171,13 +171,13 @@
     "norm": "meimei",
     "display": "mei_mei",
     "initial": 9103,
-    "current": 14310,
-    "diff": 5207,
+    "current": 14560,
+    "diff": 5457,
     "avatar": "avatars/meimei.jpg",
     "profile": "https://remanga.org/user/52975/about",
     "guild": "Eternal Demonic",
     "is_afk": false,
-    "last_active_human": "2 дн. назад"
+    "last_active_human": "сегодня"
   },
   {
     "norm": "zatex",
@@ -343,6 +343,18 @@
     "diff": 3000,
     "avatar": "avatars/samurai.jpg",
     "profile": "https://remanga.org/user/396925/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
+    "norm": "acediaqq",
+    "display": "Acediaqq",
+    "initial": 6000,
+    "current": 9000,
+    "diff": 3000,
+    "avatar": "avatars/acediaqq.jpg",
+    "profile": "https://remanga.org/user/102335/about",
     "guild": "Eternal Demonic",
     "is_afk": false,
     "last_active_human": "сегодня"
@@ -598,18 +610,6 @@
     "guild": "Eternal Demonic",
     "is_afk": false,
     "last_active_human": "5 дн. назад"
-  },
-  {
-    "norm": "acediaqq",
-    "display": "Acediaqq",
-    "initial": 6000,
-    "current": 8000,
-    "diff": 2000,
-    "avatar": "avatars/acediaqq.jpg",
-    "profile": "https://remanga.org/user/102335/about",
-    "guild": "Eternal Demonic",
-    "is_afk": false,
-    "last_active_human": "6 дн. назад"
   },
   {
     "norm": "aleksan09",
