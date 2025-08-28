@@ -894,5 +894,13 @@
   "小市民": {
     "last_current": 6,
     "last_at": "2025-08-27T15:22:06.805699+00:00"
+  },
+  "merrihew": {
+    "last_current": 27430,
+    "last_at": null
+  },
+  "역사관": {
+    "last_current": 16480,
+    "last_at": null
   }
 }
