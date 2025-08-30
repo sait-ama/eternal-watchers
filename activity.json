@@ -520,8 +520,8 @@
     "last_at": null
   },
   "hatin": {
-    "last_current": 13900,
-    "last_at": "2025-08-29T18:04:10.637674+00:00"
+    "last_current": 14940,
+    "last_at": "2025-08-30T10:04:10.655032+00:00"
   },
   "谢怜": {
     "last_current": 12000,
@@ -894,5 +894,9 @@
   "小市民": {
     "last_current": 6,
     "last_at": "2025-08-28T05:19:43.516840+00:00"
+  },
+  "nikita9": {
+    "last_current": 44630,
+    "last_at": null
   }
 }
