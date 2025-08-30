@@ -644,8 +644,8 @@
     "last_at": null
   },
   "alanhui": {
-    "last_current": 9560,
-    "last_at": "2025-08-28T12:54:10.955011+00:00"
+    "last_current": 10260,
+    "last_at": "2025-08-30T12:04:10.697049+00:00"
   },
   "дoлинapeкиcetyнь": {
     "last_current": 22600,
@@ -901,6 +901,10 @@
   },
   "oporlew": {
     "last_current": 5000,
+    "last_at": null
+  },
+  "kintownskiy": {
+    "last_current": 15000,
     "last_at": null
   }
 }
