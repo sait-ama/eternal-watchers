@@ -906,5 +906,9 @@
   "kintownskiy": {
     "last_current": 15000,
     "last_at": null
+  },
+  "aggressive": {
+    "last_current": 10750,
+    "last_at": "2025-08-30T12:19:10.529936+00:00"
   }
 }
