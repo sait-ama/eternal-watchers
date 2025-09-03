@@ -56,8 +56,8 @@
     "last_at": "2025-08-31T17:09:10.456961+00:00"
   },
   "darqee": {
-    "last_current": 50500,
-    "last_at": "2025-09-02T19:04:10.998080+00:00"
+    "last_current": 51000,
+    "last_at": "2025-09-03T13:19:11.245408+00:00"
   },
   "festashka": {
     "last_current": 81950,
@@ -908,8 +908,8 @@
     "last_at": null
   },
   "aggressive": {
-    "last_current": 10750,
-    "last_at": "2025-08-30T12:19:10.529936+00:00"
+    "last_current": 11500,
+    "last_at": "2025-09-03T13:19:11.269569+00:00"
   },
   "ፚꮼꮢꭵ૮ꮒꮶꮧ": {
     "last_current": 85500,
@@ -918,5 +918,13 @@
   "midwey": {
     "last_current": 15800,
     "last_at": "2025-09-03T05:04:11.337208+00:00"
+  },
+  "katsuusa": {
+    "last_current": 5000,
+    "last_at": null
+  },
+  "sergeysh": {
+    "last_current": 5000,
+    "last_at": null
   }
 }
