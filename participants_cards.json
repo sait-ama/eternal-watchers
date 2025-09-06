@@ -10967,20 +10967,481 @@
       }
     ]
   },
-  "ewnobon": {
-    "display": "EW_NoBoN",
-    "author_id": 155090,
-    "cards": []
-  },
   "кaйдeн": {
     "display": "Кайден",
     "author_id": 439629,
+    "cards": []
+  },
+  "ewnobon": {
+    "display": "EW_NoBoN",
+    "author_id": 155090,
     "cards": []
   },
   "markutts": {
     "display": "MARKUTTs",
     "author_id": 660145,
     "cards": []
+  },
+  "pepegaronni": {
+    "display": "Pepegaronni",
+    "author_id": 27168,
+    "cards": [
+      {
+        "id": 118290,
+        "title": "Card 118290",
+        "cover": "https://remanga.org/media/card-item/cover_8ddb00e4.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/118290"
+      },
+      {
+        "id": 108758,
+        "title": "Card 108758",
+        "cover": "https://remanga.org/media/card-item/cover_2794f530.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/108758"
+      },
+      {
+        "id": 107678,
+        "title": "Card 107678",
+        "cover": "https://remanga.org/media/card-item/cover_fcb30a1b.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/107678"
+      },
+      {
+        "id": 107668,
+        "title": "Card 107668",
+        "cover": "https://remanga.org/media/card-item/cover_54b8cdc3.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/107668"
+      },
+      {
+        "id": 106924,
+        "title": "Card 106924",
+        "cover": "https://remanga.org/media/card-item/cover_464af17d.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/106924"
+      },
+      {
+        "id": 106920,
+        "title": "Card 106920",
+        "cover": "https://remanga.org/media/card-item/cover_a060e9e4.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/106920"
+      },
+      {
+        "id": 103946,
+        "title": "Card 103946",
+        "cover": "https://remanga.org/media/card-item/cover_b3725159.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/103946"
+      },
+      {
+        "id": 102952,
+        "title": "Card 102952",
+        "cover": "https://remanga.org/media/card-item/cover_5617f97e.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/102952"
+      },
+      {
+        "id": 101057,
+        "title": "Card 101057",
+        "cover": "https://remanga.org/media/card-item/cover_1d9d10a8.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/101057"
+      },
+      {
+        "id": 101054,
+        "title": "Card 101054",
+        "cover": "https://remanga.org/media/card-item/cover_d82d4dba.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/101054"
+      },
+      {
+        "id": 101023,
+        "title": "Card 101023",
+        "cover": "https://remanga.org/media/card-item/cover_3007ba0a.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/101023"
+      },
+      {
+        "id": 118289,
+        "title": "Card 118289",
+        "cover": "https://remanga.org/media/card-item/cover_933f3ccf.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/118289"
+      },
+      {
+        "id": 108756,
+        "title": "Card 108756",
+        "cover": "https://remanga.org/media/card-item/cover_9c1e0b40.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/108756"
+      },
+      {
+        "id": 107667,
+        "title": "Card 107667",
+        "cover": "https://remanga.org/media/card-item/cover_6a5cac9f.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/107667"
+      },
+      {
+        "id": 107658,
+        "title": "Card 107658",
+        "cover": "https://remanga.org/media/card-item/cover_21e767e3.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/107658"
+      },
+      {
+        "id": 106919,
+        "title": "Card 106919",
+        "cover": "https://remanga.org/media/card-item/cover_0b45447f.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/106919"
+      },
+      {
+        "id": 105434,
+        "title": "Card 105434",
+        "cover": "https://remanga.org/media/card-item/cover_83dd29d9.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/105434"
+      },
+      {
+        "id": 103943,
+        "title": "Card 103943",
+        "cover": "https://remanga.org/media/card-item/cover_ec54df82.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/103943"
+      },
+      {
+        "id": 102951,
+        "title": "Card 102951",
+        "cover": "https://remanga.org/media/card-item/cover_1f238420.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/102951"
+      },
+      {
+        "id": 101056,
+        "title": "Card 101056",
+        "cover": "https://remanga.org/media/card-item/cover_a4a5b7e5.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/101056"
+      },
+      {
+        "id": 101051,
+        "title": "Card 101051",
+        "cover": "https://remanga.org/media/card-item/cover_df7be556.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/101051"
+      },
+      {
+        "id": 101022,
+        "title": "Card 101022",
+        "cover": "https://remanga.org/media/card-item/cover_6c1bba69.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/101022"
+      },
+      {
+        "id": 98677,
+        "title": "Card 98677",
+        "cover": "https://remanga.org/media/card-item/cover_6de0dbbd.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/98677"
+      },
+      {
+        "id": 117233,
+        "title": "Card 117233",
+        "cover": "https://remanga.org/media/card-item/cover_30e05632.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/117233"
+      },
+      {
+        "id": 108755,
+        "title": "Card 108755",
+        "cover": "https://remanga.org/media/card-item/cover_0dc7a532.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/108755"
+      },
+      {
+        "id": 107666,
+        "title": "Card 107666",
+        "cover": "https://remanga.org/media/card-item/cover_af11f52c.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/107666"
+      },
+      {
+        "id": 107657,
+        "title": "Card 107657",
+        "cover": "https://remanga.org/media/card-item/cover_2c192ea6.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/107657"
+      },
+      {
+        "id": 106915,
+        "title": "Card 106915",
+        "cover": "https://remanga.org/media/card-item/cover_556201e7.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/106915"
+      },
+      {
+        "id": 105433,
+        "title": "Card 105433",
+        "cover": "https://remanga.org/media/card-item/cover_b5f43acb.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/105433"
+      },
+      {
+        "id": 103942,
+        "title": "Card 103942",
+        "cover": "https://remanga.org/media/card-item/cover_2e323a10.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/103942"
+      },
+      {
+        "id": 102950,
+        "title": "Card 102950",
+        "cover": "https://remanga.org/media/card-item/cover_d31f97a7.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/102950"
+      },
+      {
+        "id": 101055,
+        "title": "Card 101055",
+        "cover": "https://remanga.org/media/card-item/cover_54a65e30.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/101055"
+      },
+      {
+        "id": 101050,
+        "title": "Card 101050",
+        "cover": "https://remanga.org/media/card-item/cover_5d982010.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/101050"
+      },
+      {
+        "id": 99748,
+        "title": "Card 99748",
+        "cover": "https://remanga.org/media/card-item/cover_4f8c4ac7.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/99748"
+      },
+      {
+        "id": 98676,
+        "title": "Card 98676",
+        "cover": "https://remanga.org/media/card-item/cover_69ece859.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/98676"
+      },
+      {
+        "id": 117232,
+        "title": "Card 117232",
+        "cover": "https://remanga.org/media/card-item/cover_01ef8924.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/117232"
+      },
+      {
+        "id": 108754,
+        "title": "Card 108754",
+        "cover": "https://remanga.org/media/card-item/cover_86948a10.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/108754"
+      },
+      {
+        "id": 107664,
+        "title": "Card 107664",
+        "cover": "https://remanga.org/media/card-item/cover_048c7512.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/107664"
+      },
+      {
+        "id": 107655,
+        "title": "Card 107655",
+        "cover": "https://remanga.org/media/card-item/cover_98952202.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/107655"
+      },
+      {
+        "id": 105741,
+        "title": "Card 105741",
+        "cover": "https://remanga.org/media/card-item/cover_f07b6c8d.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/105741"
+      },
+      {
+        "id": 105432,
+        "title": "Card 105432",
+        "cover": "https://remanga.org/media/card-item/cover_39cc2797.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/105432"
+      },
+      {
+        "id": 104139,
+        "title": "Card 104139",
+        "cover": "https://remanga.org/media/card-item/cover_06e18f54.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/104139"
+      },
+      {
+        "id": 102949,
+        "title": "Card 102949",
+        "cover": "https://remanga.org/media/card-item/cover_9f004a57.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/102949"
+      },
+      {
+        "id": 102137,
+        "title": "Card 102137",
+        "cover": "https://remanga.org/media/card-item/cover_ce23da94.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/102137"
+      },
+      {
+        "id": 102103,
+        "title": "Card 102103",
+        "cover": "https://remanga.org/media/card-item/cover_bb1d4395.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/102103"
+      },
+      {
+        "id": 101049,
+        "title": "Card 101049",
+        "cover": "https://remanga.org/media/card-item/cover_1928c7a2.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/101049"
+      },
+      {
+        "id": 100091,
+        "title": "Card 100091",
+        "cover": "https://remanga.org/media/card-item/cover_c0720d19.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/100091"
+      },
+      {
+        "id": 99747,
+        "title": "Card 99747",
+        "cover": "https://remanga.org/media/card-item/cover_f4806d7d.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/99747"
+      },
+      {
+        "id": 98675,
+        "title": "Card 98675",
+        "cover": "https://remanga.org/media/card-item/cover_272ccfde.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/98675"
+      },
+      {
+        "id": 118295,
+        "title": "Card 118295",
+        "cover": "https://remanga.org/media/card-item/cover_f7141910.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/118295"
+      },
+      {
+        "id": 117231,
+        "title": "Card 117231",
+        "cover": "https://remanga.org/media/card-item/cover_762a814f.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/117231"
+      },
+      {
+        "id": 108753,
+        "title": "Card 108753",
+        "cover": "https://remanga.org/media/card-item/cover_8ac9932a.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/108753"
+      },
+      {
+        "id": 107654,
+        "title": "Card 107654",
+        "cover": "https://remanga.org/media/card-item/cover_1cb3d691.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/107654"
+      },
+      {
+        "id": 106959,
+        "title": "Card 106959",
+        "cover": "https://remanga.org/media/card-item/cover_d18d0619.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/106959"
+      },
+      {
+        "id": 105431,
+        "title": "Card 105431",
+        "cover": "https://remanga.org/media/card-item/cover_46feafa4.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/105431"
+      },
+      {
+        "id": 104138,
+        "title": "Card 104138",
+        "cover": "https://remanga.org/media/card-item/cover_1385cd54.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/104138"
+      },
+      {
+        "id": 103016,
+        "title": "Card 103016",
+        "cover": "https://remanga.org/media/card-item/cover_e04c35c4.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/103016"
+      },
+      {
+        "id": 103005,
+        "title": "Card 103005",
+        "cover": "https://remanga.org/media/card-item/cover_e425d838.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/103005"
+      },
+      {
+        "id": 102948,
+        "title": "Card 102948",
+        "cover": "https://remanga.org/media/card-item/cover_3afa929d.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/102948"
+      },
+      {
+        "id": 102134,
+        "title": "Card 102134",
+        "cover": "https://remanga.org/media/card-item/cover_16513cc3.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/102134"
+      },
+      {
+        "id": 102101,
+        "title": "Card 102101",
+        "cover": "https://remanga.org/media/card-item/cover_d1f8d631.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/102101"
+      },
+      {
+        "id": 101047,
+        "title": "Card 101047",
+        "cover": "https://remanga.org/media/card-item/cover_30c85e61.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/101047"
+      },
+      {
+        "id": 100090,
+        "title": "Card 100090",
+        "cover": "https://remanga.org/media/card-item/cover_f6a06d9b.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/100090"
+      },
+      {
+        "id": 98671,
+        "title": "Card 98671",
+        "cover": "https://remanga.org/media/card-item/cover_d1c9ba42.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/98671"
+      },
+      {
+        "id": 97709,
+        "title": "Card 97709",
+        "cover": "https://remanga.org/media/card-item/cover_036c8b78.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/97709"
+      }
+    ]
   },
   "okiarya": {
     "display": "Okiarya",
@@ -10996,6 +11457,96 @@
     "display": "desport",
     "author_id": 216019,
     "cards": []
+  },
+  "suba7u": {
+    "display": "Suba7u",
+    "author_id": 1602594,
+    "cards": [
+      {
+        "id": 94380,
+        "title": "Card 94380",
+        "cover": "https://remanga.org/media/card-item/cover_80968fde.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/94380"
+      },
+      {
+        "id": 70303,
+        "title": "Card 70303",
+        "cover": "https://remanga.org/media/card-item/cover_7545fd3b.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/70303"
+      },
+      {
+        "id": 94377,
+        "title": "Card 94377",
+        "cover": "https://remanga.org/media/card-item/cover_2d6f8daf.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/94377"
+      },
+      {
+        "id": 70302,
+        "title": "Card 70302",
+        "cover": "https://remanga.org/media/card-item/cover_19e2818b.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/70302"
+      },
+      {
+        "id": 94374,
+        "title": "Card 94374",
+        "cover": "https://remanga.org/media/card-item/cover_0f4bc20c.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/94374"
+      },
+      {
+        "id": 67234,
+        "title": "Card 67234",
+        "cover": "https://remanga.org/media/card-item/cover_f631a7b5.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/67234"
+      },
+      {
+        "id": 94371,
+        "title": "Card 94371",
+        "cover": "https://remanga.org/media/card-item/cover_21bdaaf7.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/94371"
+      },
+      {
+        "id": 78224,
+        "title": "Card 78224",
+        "cover": "https://remanga.org/media/card-item/cover_e3ac0e36.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/78224"
+      },
+      {
+        "id": 67233,
+        "title": "Card 67233",
+        "cover": "https://remanga.org/media/card-item/cover_f3bdd033.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/67233"
+      },
+      {
+        "id": 94369,
+        "title": "Card 94369",
+        "cover": "https://remanga.org/media/card-item/cover_0d65de32.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/94369"
+      },
+      {
+        "id": 75444,
+        "title": "Card 75444",
+        "cover": "https://remanga.org/media/card-item/cover_f42f9b41.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/75444"
+      },
+      {
+        "id": 65941,
+        "title": "Card 65941",
+        "cover": "https://remanga.org/media/card-item/cover_9f95ffe4.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/65941"
+      }
+    ]
   },
   "darqee": {
     "display": "DarQee",
@@ -11171,101 +11722,6 @@
       }
     ]
   },
-  "suba7u": {
-    "display": "Suba7u",
-    "author_id": 1602594,
-    "cards": [
-      {
-        "id": 94380,
-        "title": "Card 94380",
-        "cover": "https://remanga.org/media/card-item/cover_80968fde.webp",
-        "rarity": "",
-        "url": "https://remanga.org/card/94380"
-      },
-      {
-        "id": 70303,
-        "title": "Card 70303",
-        "cover": "https://remanga.org/media/card-item/cover_7545fd3b.webp",
-        "rarity": "",
-        "url": "https://remanga.org/card/70303"
-      },
-      {
-        "id": 94377,
-        "title": "Card 94377",
-        "cover": "https://remanga.org/media/card-item/cover_2d6f8daf.webp",
-        "rarity": "",
-        "url": "https://remanga.org/card/94377"
-      },
-      {
-        "id": 70302,
-        "title": "Card 70302",
-        "cover": "https://remanga.org/media/card-item/cover_19e2818b.webp",
-        "rarity": "",
-        "url": "https://remanga.org/card/70302"
-      },
-      {
-        "id": 94374,
-        "title": "Card 94374",
-        "cover": "https://remanga.org/media/card-item/cover_0f4bc20c.webp",
-        "rarity": "",
-        "url": "https://remanga.org/card/94374"
-      },
-      {
-        "id": 67234,
-        "title": "Card 67234",
-        "cover": "https://remanga.org/media/card-item/cover_f631a7b5.webp",
-        "rarity": "",
-        "url": "https://remanga.org/card/67234"
-      },
-      {
-        "id": 94371,
-        "title": "Card 94371",
-        "cover": "https://remanga.org/media/card-item/cover_21bdaaf7.webp",
-        "rarity": "",
-        "url": "https://remanga.org/card/94371"
-      },
-      {
-        "id": 78224,
-        "title": "Card 78224",
-        "cover": "https://remanga.org/media/card-item/cover_e3ac0e36.webp",
-        "rarity": "",
-        "url": "https://remanga.org/card/78224"
-      },
-      {
-        "id": 67233,
-        "title": "Card 67233",
-        "cover": "https://remanga.org/media/card-item/cover_f3bdd033.webp",
-        "rarity": "",
-        "url": "https://remanga.org/card/67233"
-      },
-      {
-        "id": 94369,
-        "title": "Card 94369",
-        "cover": "https://remanga.org/media/card-item/cover_0d65de32.webp",
-        "rarity": "",
-        "url": "https://remanga.org/card/94369"
-      },
-      {
-        "id": 75444,
-        "title": "Card 75444",
-        "cover": "https://remanga.org/media/card-item/cover_f42f9b41.webp",
-        "rarity": "",
-        "url": "https://remanga.org/card/75444"
-      },
-      {
-        "id": 65941,
-        "title": "Card 65941",
-        "cover": "https://remanga.org/media/card-item/cover_9f95ffe4.webp",
-        "rarity": "",
-        "url": "https://remanga.org/card/65941"
-      }
-    ]
-  },
-  "rezordaye": {
-    "display": "rezord_aye",
-    "author_id": 210114,
-    "cards": []
-  },
   "ewtaya": {
     "display": "EW_Taya_",
     "author_id": 2325061,
@@ -11412,10 +11868,29 @@
       }
     ]
   },
+  "rezordaye": {
+    "display": "rezord_aye",
+    "author_id": 210114,
+    "cards": []
+  },
   "arbogastr": {
     "display": "Arbogastr",
     "author_id": 993371,
     "cards": [
+      {
+        "id": 122129,
+        "title": "Card 122129",
+        "cover": "https://remanga.org/media/card-item/cover_f20b0610.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/122129"
+      },
+      {
+        "id": 122128,
+        "title": "Card 122128",
+        "cover": "https://remanga.org/media/card-item/cover_6b05b9e9.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/122128"
+      },
       {
         "id": 121264,
         "title": "Card 121264",
@@ -11797,7 +12272,7 @@
       {
         "id": 76016,
         "title": "Card 76016",
-        "cover": "https://remanga.org/media/card-item/cover_8fe5b0a1.webp",
+        "cover": "https://remanga.org/media/card-item/cover_9bddc8a2.webp",
         "rarity": "",
         "url": "https://remanga.org/card/76016"
       },
@@ -11821,6 +12296,20 @@
         "cover": "https://remanga.org/media/card-item/cover_0c15763d.webp",
         "rarity": "",
         "url": "https://remanga.org/card/73653"
+      },
+      {
+        "id": 122127,
+        "title": "Card 122127",
+        "cover": "https://remanga.org/media/card-item/cover_c0462954.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/122127"
+      },
+      {
+        "id": 122126,
+        "title": "Card 122126",
+        "cover": "https://remanga.org/media/card-item/cover_c992b951.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/122126"
       },
       {
         "id": 120027,
@@ -12229,6 +12718,20 @@
         "url": "https://remanga.org/card/73652"
       },
       {
+        "id": 122125,
+        "title": "Card 122125",
+        "cover": "https://remanga.org/media/card-item/cover_0a616bcb.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/122125"
+      },
+      {
+        "id": 122123,
+        "title": "Card 122123",
+        "cover": "https://remanga.org/media/card-item/cover_b46fcedd.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/122123"
+      },
+      {
         "id": 120026,
         "title": "Card 120026",
         "cover": "https://remanga.org/media/card-item/cover_9dc4f862.webp",
@@ -12619,6 +13122,20 @@
         "cover": "https://remanga.org/media/card-item/cover_9ebf394b.webp",
         "rarity": "",
         "url": "https://remanga.org/card/2123"
+      },
+      {
+        "id": 122122,
+        "title": "Card 122122",
+        "cover": "https://remanga.org/media/card-item/cover_47f2bff2.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/122122"
+      },
+      {
+        "id": 122121,
+        "title": "Card 122121",
+        "cover": "https://remanga.org/media/card-item/cover_d84dcdf7.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/122121"
       },
       {
         "id": 120023,
@@ -13025,6 +13542,20 @@
         "cover": "https://remanga.org/media/card-item/cover_9c5d4de0.webp",
         "rarity": "",
         "url": "https://remanga.org/card/30086"
+      },
+      {
+        "id": 122120,
+        "title": "Card 122120",
+        "cover": "https://remanga.org/media/card-item/cover_1195b159.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/122120"
+      },
+      {
+        "id": 122119,
+        "title": "Card 122119",
+        "cover": "https://remanga.org/media/card-item/cover_973354dd.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/122119"
       },
       {
         "id": 120020,
@@ -13462,6 +13993,11 @@
       }
     ]
   },
+  "andrefalkonen": {
+    "display": "Andre_Falkonen",
+    "author_id": 35664,
+    "cards": []
+  },
   "vladosrat": {
     "display": "vladosrat",
     "author_id": 1037182,
@@ -13470,11 +14006,6 @@
   "tavik": {
     "display": "Tavik",
     "author_id": 72974,
-    "cards": []
-  },
-  "andrefalkonen": {
-    "display": "Andre_Falkonen",
-    "author_id": 35664,
     "cards": []
   },
   "thostriel": {
@@ -15349,6 +15880,13 @@
         "url": "https://remanga.org/card/110356"
       },
       {
+        "id": 122201,
+        "title": "Card 122201",
+        "cover": "https://remanga.org/media/card-item/cover_dac0e265.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/122201"
+      },
+      {
         "id": 120839,
         "title": "Card 120839",
         "cover": "https://remanga.org/media/card-item/cover_9610b782.webp",
@@ -16027,467 +16565,6 @@
     "author_id": 3003544,
     "cards": []
   },
-  "pepegaronni": {
-    "display": "Pepegaronni",
-    "author_id": 27168,
-    "cards": [
-      {
-        "id": 118290,
-        "title": "Card 118290",
-        "cover": "https://remanga.org/media/card-item/cover_8ddb00e4.webp",
-        "rarity": "",
-        "url": "https://remanga.org/card/118290"
-      },
-      {
-        "id": 108758,
-        "title": "Card 108758",
-        "cover": "https://remanga.org/media/card-item/cover_2794f530.webp",
-        "rarity": "",
-        "url": "https://remanga.org/card/108758"
-      },
-      {
-        "id": 107678,
-        "title": "Card 107678",
-        "cover": "https://remanga.org/media/card-item/cover_fcb30a1b.webp",
-        "rarity": "",
-        "url": "https://remanga.org/card/107678"
-      },
-      {
-        "id": 107668,
-        "title": "Card 107668",
-        "cover": "https://remanga.org/media/card-item/cover_54b8cdc3.webp",
-        "rarity": "",
-        "url": "https://remanga.org/card/107668"
-      },
-      {
-        "id": 106924,
-        "title": "Card 106924",
-        "cover": "https://remanga.org/media/card-item/cover_464af17d.webp",
-        "rarity": "",
-        "url": "https://remanga.org/card/106924"
-      },
-      {
-        "id": 106920,
-        "title": "Card 106920",
-        "cover": "https://remanga.org/media/card-item/cover_a060e9e4.webp",
-        "rarity": "",
-        "url": "https://remanga.org/card/106920"
-      },
-      {
-        "id": 103946,
-        "title": "Card 103946",
-        "cover": "https://remanga.org/media/card-item/cover_b3725159.webp",
-        "rarity": "",
-        "url": "https://remanga.org/card/103946"
-      },
-      {
-        "id": 102952,
-        "title": "Card 102952",
-        "cover": "https://remanga.org/media/card-item/cover_5617f97e.webp",
-        "rarity": "",
-        "url": "https://remanga.org/card/102952"
-      },
-      {
-        "id": 101057,
-        "title": "Card 101057",
-        "cover": "https://remanga.org/media/card-item/cover_1d9d10a8.webp",
-        "rarity": "",
-        "url": "https://remanga.org/card/101057"
-      },
-      {
-        "id": 101054,
-        "title": "Card 101054",
-        "cover": "https://remanga.org/media/card-item/cover_d82d4dba.webp",
-        "rarity": "",
-        "url": "https://remanga.org/card/101054"
-      },
-      {
-        "id": 101023,
-        "title": "Card 101023",
-        "cover": "https://remanga.org/media/card-item/cover_3007ba0a.webp",
-        "rarity": "",
-        "url": "https://remanga.org/card/101023"
-      },
-      {
-        "id": 118289,
-        "title": "Card 118289",
-        "cover": "https://remanga.org/media/card-item/cover_933f3ccf.webp",
-        "rarity": "",
-        "url": "https://remanga.org/card/118289"
-      },
-      {
-        "id": 108756,
-        "title": "Card 108756",
-        "cover": "https://remanga.org/media/card-item/cover_9c1e0b40.webp",
-        "rarity": "",
-        "url": "https://remanga.org/card/108756"
-      },
-      {
-        "id": 107667,
-        "title": "Card 107667",
-        "cover": "https://remanga.org/media/card-item/cover_6a5cac9f.webp",
-        "rarity": "",
-        "url": "https://remanga.org/card/107667"
-      },
-      {
-        "id": 107658,
-        "title": "Card 107658",
-        "cover": "https://remanga.org/media/card-item/cover_21e767e3.webp",
-        "rarity": "",
-        "url": "https://remanga.org/card/107658"
-      },
-      {
-        "id": 106919,
-        "title": "Card 106919",
-        "cover": "https://remanga.org/media/card-item/cover_0b45447f.webp",
-        "rarity": "",
-        "url": "https://remanga.org/card/106919"
-      },
-      {
-        "id": 105434,
-        "title": "Card 105434",
-        "cover": "https://remanga.org/media/card-item/cover_83dd29d9.webp",
-        "rarity": "",
-        "url": "https://remanga.org/card/105434"
-      },
-      {
-        "id": 103943,
-        "title": "Card 103943",
-        "cover": "https://remanga.org/media/card-item/cover_ec54df82.webp",
-        "rarity": "",
-        "url": "https://remanga.org/card/103943"
-      },
-      {
-        "id": 102951,
-        "title": "Card 102951",
-        "cover": "https://remanga.org/media/card-item/cover_1f238420.webp",
-        "rarity": "",
-        "url": "https://remanga.org/card/102951"
-      },
-      {
-        "id": 101056,
-        "title": "Card 101056",
-        "cover": "https://remanga.org/media/card-item/cover_a4a5b7e5.webp",
-        "rarity": "",
-        "url": "https://remanga.org/card/101056"
-      },
-      {
-        "id": 101051,
-        "title": "Card 101051",
-        "cover": "https://remanga.org/media/card-item/cover_df7be556.webp",
-        "rarity": "",
-        "url": "https://remanga.org/card/101051"
-      },
-      {
-        "id": 101022,
-        "title": "Card 101022",
-        "cover": "https://remanga.org/media/card-item/cover_6c1bba69.webp",
-        "rarity": "",
-        "url": "https://remanga.org/card/101022"
-      },
-      {
-        "id": 98677,
-        "title": "Card 98677",
-        "cover": "https://remanga.org/media/card-item/cover_6de0dbbd.webp",
-        "rarity": "",
-        "url": "https://remanga.org/card/98677"
-      },
-      {
-        "id": 117233,
-        "title": "Card 117233",
-        "cover": "https://remanga.org/media/card-item/cover_30e05632.webp",
-        "rarity": "",
-        "url": "https://remanga.org/card/117233"
-      },
-      {
-        "id": 108755,
-        "title": "Card 108755",
-        "cover": "https://remanga.org/media/card-item/cover_0dc7a532.webp",
-        "rarity": "",
-        "url": "https://remanga.org/card/108755"
-      },
-      {
-        "id": 107666,
-        "title": "Card 107666",
-        "cover": "https://remanga.org/media/card-item/cover_af11f52c.webp",
-        "rarity": "",
-        "url": "https://remanga.org/card/107666"
-      },
-      {
-        "id": 107657,
-        "title": "Card 107657",
-        "cover": "https://remanga.org/media/card-item/cover_2c192ea6.webp",
-        "rarity": "",
-        "url": "https://remanga.org/card/107657"
-      },
-      {
-        "id": 106915,
-        "title": "Card 106915",
-        "cover": "https://remanga.org/media/card-item/cover_556201e7.webp",
-        "rarity": "",
-        "url": "https://remanga.org/card/106915"
-      },
-      {
-        "id": 105433,
-        "title": "Card 105433",
-        "cover": "https://remanga.org/media/card-item/cover_b5f43acb.webp",
-        "rarity": "",
-        "url": "https://remanga.org/card/105433"
-      },
-      {
-        "id": 103942,
-        "title": "Card 103942",
-        "cover": "https://remanga.org/media/card-item/cover_2e323a10.webp",
-        "rarity": "",
-        "url": "https://remanga.org/card/103942"
-      },
-      {
-        "id": 102950,
-        "title": "Card 102950",
-        "cover": "https://remanga.org/media/card-item/cover_d31f97a7.webp",
-        "rarity": "",
-        "url": "https://remanga.org/card/102950"
-      },
-      {
-        "id": 101055,
-        "title": "Card 101055",
-        "cover": "https://remanga.org/media/card-item/cover_54a65e30.webp",
-        "rarity": "",
-        "url": "https://remanga.org/card/101055"
-      },
-      {
-        "id": 101050,
-        "title": "Card 101050",
-        "cover": "https://remanga.org/media/card-item/cover_5d982010.webp",
-        "rarity": "",
-        "url": "https://remanga.org/card/101050"
-      },
-      {
-        "id": 99748,
-        "title": "Card 99748",
-        "cover": "https://remanga.org/media/card-item/cover_4f8c4ac7.webp",
-        "rarity": "",
-        "url": "https://remanga.org/card/99748"
-      },
-      {
-        "id": 98676,
-        "title": "Card 98676",
-        "cover": "https://remanga.org/media/card-item/cover_69ece859.webp",
-        "rarity": "",
-        "url": "https://remanga.org/card/98676"
-      },
-      {
-        "id": 117232,
-        "title": "Card 117232",
-        "cover": "https://remanga.org/media/card-item/cover_01ef8924.webp",
-        "rarity": "",
-        "url": "https://remanga.org/card/117232"
-      },
-      {
-        "id": 108754,
-        "title": "Card 108754",
-        "cover": "https://remanga.org/media/card-item/cover_86948a10.webp",
-        "rarity": "",
-        "url": "https://remanga.org/card/108754"
-      },
-      {
-        "id": 107664,
-        "title": "Card 107664",
-        "cover": "https://remanga.org/media/card-item/cover_048c7512.webp",
-        "rarity": "",
-        "url": "https://remanga.org/card/107664"
-      },
-      {
-        "id": 107655,
-        "title": "Card 107655",
-        "cover": "https://remanga.org/media/card-item/cover_98952202.webp",
-        "rarity": "",
-        "url": "https://remanga.org/card/107655"
-      },
-      {
-        "id": 105741,
-        "title": "Card 105741",
-        "cover": "https://remanga.org/media/card-item/cover_f07b6c8d.webp",
-        "rarity": "",
-        "url": "https://remanga.org/card/105741"
-      },
-      {
-        "id": 105432,
-        "title": "Card 105432",
-        "cover": "https://remanga.org/media/card-item/cover_39cc2797.webp",
-        "rarity": "",
-        "url": "https://remanga.org/card/105432"
-      },
-      {
-        "id": 104139,
-        "title": "Card 104139",
-        "cover": "https://remanga.org/media/card-item/cover_06e18f54.webp",
-        "rarity": "",
-        "url": "https://remanga.org/card/104139"
-      },
-      {
-        "id": 102949,
-        "title": "Card 102949",
-        "cover": "https://remanga.org/media/card-item/cover_9f004a57.webp",
-        "rarity": "",
-        "url": "https://remanga.org/card/102949"
-      },
-      {
-        "id": 102137,
-        "title": "Card 102137",
-        "cover": "https://remanga.org/media/card-item/cover_ce23da94.webp",
-        "rarity": "",
-        "url": "https://remanga.org/card/102137"
-      },
-      {
-        "id": 102103,
-        "title": "Card 102103",
-        "cover": "https://remanga.org/media/card-item/cover_bb1d4395.webp",
-        "rarity": "",
-        "url": "https://remanga.org/card/102103"
-      },
-      {
-        "id": 101049,
-        "title": "Card 101049",
-        "cover": "https://remanga.org/media/card-item/cover_1928c7a2.webp",
-        "rarity": "",
-        "url": "https://remanga.org/card/101049"
-      },
-      {
-        "id": 100091,
-        "title": "Card 100091",
-        "cover": "https://remanga.org/media/card-item/cover_c0720d19.webp",
-        "rarity": "",
-        "url": "https://remanga.org/card/100091"
-      },
-      {
-        "id": 99747,
-        "title": "Card 99747",
-        "cover": "https://remanga.org/media/card-item/cover_f4806d7d.webp",
-        "rarity": "",
-        "url": "https://remanga.org/card/99747"
-      },
-      {
-        "id": 98675,
-        "title": "Card 98675",
-        "cover": "https://remanga.org/media/card-item/cover_272ccfde.webp",
-        "rarity": "",
-        "url": "https://remanga.org/card/98675"
-      },
-      {
-        "id": 118295,
-        "title": "Card 118295",
-        "cover": "https://remanga.org/media/card-item/cover_f7141910.webp",
-        "rarity": "",
-        "url": "https://remanga.org/card/118295"
-      },
-      {
-        "id": 117231,
-        "title": "Card 117231",
-        "cover": "https://remanga.org/media/card-item/cover_762a814f.webp",
-        "rarity": "",
-        "url": "https://remanga.org/card/117231"
-      },
-      {
-        "id": 108753,
-        "title": "Card 108753",
-        "cover": "https://remanga.org/media/card-item/cover_8ac9932a.webp",
-        "rarity": "",
-        "url": "https://remanga.org/card/108753"
-      },
-      {
-        "id": 107654,
-        "title": "Card 107654",
-        "cover": "https://remanga.org/media/card-item/cover_1cb3d691.webp",
-        "rarity": "",
-        "url": "https://remanga.org/card/107654"
-      },
-      {
-        "id": 106959,
-        "title": "Card 106959",
-        "cover": "https://remanga.org/media/card-item/cover_d18d0619.webp",
-        "rarity": "",
-        "url": "https://remanga.org/card/106959"
-      },
-      {
-        "id": 105431,
-        "title": "Card 105431",
-        "cover": "https://remanga.org/media/card-item/cover_46feafa4.webp",
-        "rarity": "",
-        "url": "https://remanga.org/card/105431"
-      },
-      {
-        "id": 104138,
-        "title": "Card 104138",
-        "cover": "https://remanga.org/media/card-item/cover_1385cd54.webp",
-        "rarity": "",
-        "url": "https://remanga.org/card/104138"
-      },
-      {
-        "id": 103016,
-        "title": "Card 103016",
-        "cover": "https://remanga.org/media/card-item/cover_e04c35c4.webp",
-        "rarity": "",
-        "url": "https://remanga.org/card/103016"
-      },
-      {
-        "id": 103005,
-        "title": "Card 103005",
-        "cover": "https://remanga.org/media/card-item/cover_e425d838.webp",
-        "rarity": "",
-        "url": "https://remanga.org/card/103005"
-      },
-      {
-        "id": 102948,
-        "title": "Card 102948",
-        "cover": "https://remanga.org/media/card-item/cover_3afa929d.webp",
-        "rarity": "",
-        "url": "https://remanga.org/card/102948"
-      },
-      {
-        "id": 102134,
-        "title": "Card 102134",
-        "cover": "https://remanga.org/media/card-item/cover_16513cc3.webp",
-        "rarity": "",
-        "url": "https://remanga.org/card/102134"
-      },
-      {
-        "id": 102101,
-        "title": "Card 102101",
-        "cover": "https://remanga.org/media/card-item/cover_d1f8d631.webp",
-        "rarity": "",
-        "url": "https://remanga.org/card/102101"
-      },
-      {
-        "id": 101047,
-        "title": "Card 101047",
-        "cover": "https://remanga.org/media/card-item/cover_30c85e61.webp",
-        "rarity": "",
-        "url": "https://remanga.org/card/101047"
-      },
-      {
-        "id": 100090,
-        "title": "Card 100090",
-        "cover": "https://remanga.org/media/card-item/cover_f6a06d9b.webp",
-        "rarity": "",
-        "url": "https://remanga.org/card/100090"
-      },
-      {
-        "id": 98671,
-        "title": "Card 98671",
-        "cover": "https://remanga.org/media/card-item/cover_d1c9ba42.webp",
-        "rarity": "",
-        "url": "https://remanga.org/card/98671"
-      },
-      {
-        "id": 97709,
-        "title": "Card 97709",
-        "cover": "https://remanga.org/media/card-item/cover_036c8b78.webp",
-        "rarity": "",
-        "url": "https://remanga.org/card/97709"
-      }
-    ]
-  },
   "overcooling": {
     "display": "Overcooling",
     "author_id": 52079,
@@ -16511,11 +16588,6 @@
   "meeqq": {
     "display": "MeeQ_Q",
     "author_id": 2360369,
-    "cards": []
-  },
-  "ewмaнкидиглyпый": {
-    "display": "EW_МанкиДиГлупый",
-    "author_id": 155435,
     "cards": []
   },
   "лoхoбыкнoвeнный": {
@@ -16556,6 +16628,13 @@
         "cover": "https://remanga.org/media/card-item/cover_47c3a95f.webp",
         "rarity": "",
         "url": "https://remanga.org/card/74496"
+      },
+      {
+        "id": 122020,
+        "title": "Card 122020",
+        "cover": "https://remanga.org/media/card-item/cover_fe6054c8.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/122020"
       },
       {
         "id": 121067,
@@ -16927,6 +17006,13 @@
         "cover": "https://remanga.org/media/card-item/cover_5b389d72.webp",
         "rarity": "",
         "url": "https://remanga.org/card/65786"
+      },
+      {
+        "id": 122019,
+        "title": "Card 122019",
+        "cover": "https://remanga.org/media/card-item/cover_23563d44.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/122019"
       },
       {
         "id": 121066,
@@ -17314,6 +17400,13 @@
         "url": "https://remanga.org/card/65035"
       },
       {
+        "id": 122018,
+        "title": "Card 122018",
+        "cover": "https://remanga.org/media/card-item/cover_e29a6c27.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/122018"
+      },
+      {
         "id": 121065,
         "title": "Card 121065",
         "cover": "https://remanga.org/media/card-item/cover_a2a6c864.webp",
@@ -17685,6 +17778,13 @@
         "url": "https://remanga.org/card/65034"
       },
       {
+        "id": 122017,
+        "title": "Card 122017",
+        "cover": "https://remanga.org/media/card-item/cover_a6170b46.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/122017"
+      },
+      {
         "id": 121064,
         "title": "Card 121064",
         "cover": "https://remanga.org/media/card-item/cover_f86fe2c9.webp",
@@ -18047,6 +18147,20 @@
         "cover": "https://remanga.org/media/card-item/cover_10111125.webp",
         "rarity": "",
         "url": "https://remanga.org/card/65033"
+      },
+      {
+        "id": 122001,
+        "title": "Card 122001",
+        "cover": "https://remanga.org/media/card-item/cover_d639c355.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/122001"
+      },
+      {
+        "id": 121999,
+        "title": "Card 121999",
+        "cover": "https://remanga.org/media/card-item/cover_87d7d668.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/121999"
       },
       {
         "id": 121063,
@@ -18421,6 +18535,11 @@
       }
     ]
   },
+  "ewмaнкидиглyпый": {
+    "display": "EW_МанкиДиГлупый",
+    "author_id": 155435,
+    "cards": []
+  },
   "monalize": {
     "display": "MonaLize",
     "author_id": 809195,
@@ -18616,9 +18735,9 @@
     "author_id": 1529739,
     "cards": []
   },
-  "whiteflower": {
-    "display": "WhitеFlower",
-    "author_id": 767041,
+  "akiram": {
+    "display": "Aki_Ram",
+    "author_id": 3307870,
     "cards": []
   },
   "creamwhite": {
@@ -18690,9 +18809,9 @@
       }
     ]
   },
-  "akiram": {
-    "display": "Aki_Ram",
-    "author_id": 3307870,
+  "whiteflower": {
+    "display": "WhitеFlower",
+    "author_id": 767041,
     "cards": []
   },
   "darkangei": {
@@ -19989,6 +20108,11 @@
     "author_id": 208257,
     "cards": []
   },
+  "healot": {
+    "display": "healot",
+    "author_id": 2505495,
+    "cards": []
+  },
   "frozenjfx": {
     "display": "FrozenJFX",
     "author_id": 594356,
@@ -19999,14 +20123,14 @@
     "author_id": 832683,
     "cards": []
   },
-  "healot": {
-    "display": "healot",
-    "author_id": 2505495,
-    "cards": []
-  },
   "ялyчшийвмиpe": {
     "display": "Я_лучший_в_мире",
     "author_id": 285519,
+    "cards": []
+  },
+  "loly2810": {
+    "display": "Loly2810",
+    "author_id": 732690,
     "cards": []
   },
   "abyss": {
@@ -21628,15 +21752,17 @@
     "author_id": 69640,
     "cards": []
   },
-  "loly2810": {
-    "display": "Loly2810",
-    "author_id": 732690,
-    "cards": []
-  },
   "misikira": {
     "display": "Misikira",
     "author_id": 2350456,
     "cards": [
+      {
+        "id": 122006,
+        "title": "Card 122006",
+        "cover": "https://remanga.org/media/card-item/cover_7d3a133c.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/122006"
+      },
       {
         "id": 121050,
         "title": "Card 121050",
@@ -22765,6 +22891,27 @@
         "url": "https://remanga.org/card/71262"
       },
       {
+        "id": 122015,
+        "title": "Card 122015",
+        "cover": "https://remanga.org/media/card-item/cover_0e056db4.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/122015"
+      },
+      {
+        "id": 122014,
+        "title": "Card 122014",
+        "cover": "https://remanga.org/media/card-item/cover_1bacdea8.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/122014"
+      },
+      {
+        "id": 122013,
+        "title": "Card 122013",
+        "cover": "https://remanga.org/media/card-item/cover_ab676de5.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/122013"
+      },
+      {
         "id": 121047,
         "title": "Card 121047",
         "cover": "https://remanga.org/media/card-item/cover_d8ad1344.webp",
@@ -23330,6 +23477,27 @@
         "cover": "https://remanga.org/media/card-item/cover_2011337e.webp",
         "rarity": "",
         "url": "https://remanga.org/card/70555"
+      },
+      {
+        "id": 122012,
+        "title": "Card 122012",
+        "cover": "https://remanga.org/media/card-item/cover_50104ef3.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/122012"
+      },
+      {
+        "id": 122011,
+        "title": "Card 122011",
+        "cover": "https://remanga.org/media/card-item/cover_dc34763c.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/122011"
+      },
+      {
+        "id": 122010,
+        "title": "Card 122010",
+        "cover": "https://remanga.org/media/card-item/cover_f3970b49.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/122010"
       },
       {
         "id": 121045,
@@ -23904,6 +24072,27 @@
         "cover": "https://remanga.org/media/card-item/cover_58bcba1d.webp",
         "rarity": "",
         "url": "https://remanga.org/card/70554"
+      },
+      {
+        "id": 122009,
+        "title": "Card 122009",
+        "cover": "https://remanga.org/media/card-item/cover_db603f4f.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/122009"
+      },
+      {
+        "id": 122008,
+        "title": "Card 122008",
+        "cover": "https://remanga.org/media/card-item/cover_b5818c2a.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/122008"
+      },
+      {
+        "id": 122007,
+        "title": "Card 122007",
+        "cover": "https://remanga.org/media/card-item/cover_7b50d643.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/122007"
       },
       {
         "id": 121043,
@@ -26341,15 +26530,24 @@
       }
     ]
   },
-  "talent": {
-    "display": "Talent",
-    "author_id": 926473,
-    "cards": []
-  },
   "urus": {
     "display": "URUS",
     "author_id": 46754,
     "cards": [
+      {
+        "id": 122104,
+        "title": "Card 122104",
+        "cover": "https://remanga.org/media/card-item/cover_a72ea984.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/122104"
+      },
+      {
+        "id": 122103,
+        "title": "Card 122103",
+        "cover": "https://remanga.org/media/card-item/cover_dd113feb.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/122103"
+      },
       {
         "id": 121582,
         "title": "Card 121582",
@@ -26643,6 +26841,13 @@
         "cover": "https://remanga.org/media/card-item/cover_98897371.webp",
         "rarity": "",
         "url": "https://remanga.org/card/96203"
+      },
+      {
+        "id": 122100,
+        "title": "Card 122100",
+        "cover": "https://remanga.org/media/card-item/cover_b1df8bc4.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/122100"
       },
       {
         "id": 121580,
@@ -26953,6 +27158,13 @@
         "url": "https://remanga.org/card/96201"
       },
       {
+        "id": 122098,
+        "title": "Card 122098",
+        "cover": "https://remanga.org/media/card-item/cover_11981ed8.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/122098"
+      },
+      {
         "id": 121578,
         "title": "Card 121578",
         "cover": "https://remanga.org/media/card-item/cover_87cef0a2.webp",
@@ -27238,6 +27450,13 @@
         "cover": "https://remanga.org/media/card-item/cover_5cd855b2.webp",
         "rarity": "",
         "url": "https://remanga.org/card/95185"
+      },
+      {
+        "id": 122096,
+        "title": "Card 122096",
+        "cover": "https://remanga.org/media/card-item/cover_90c90818.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/122096"
       },
       {
         "id": 120506,
@@ -27800,6 +28019,11 @@
         "url": "https://remanga.org/card/95346"
       }
     ]
+  },
+  "talent": {
+    "display": "Talent",
+    "author_id": 926473,
+    "cards": []
   },
   "кaпиtaнзaнyдa": {
     "display": "Капитан-зануда",
@@ -33063,6 +33287,11 @@
     "author_id": 410852,
     "cards": []
   },
+  "xmmxmm": {
+    "display": "Xmmxmm",
+    "author_id": 2724307,
+    "cards": []
+  },
   "osmodeuss": {
     "display": "osmodeuss",
     "author_id": 928524,
@@ -33073,9 +33302,9 @@
     "author_id": 1365587,
     "cards": []
   },
-  "xmmxmm": {
-    "display": "Xmmxmm",
-    "author_id": 2724307,
+  "nikesnt": {
+    "display": "NikesNt",
+    "author_id": 1227659,
     "cards": []
   },
   "chirusan": {
@@ -33829,9 +34058,9 @@
     "author_id": 2488048,
     "cards": []
   },
-  "nikesnt": {
-    "display": "NikesNt",
-    "author_id": 1227659,
+  "greein": {
+    "display": "Gree.in",
+    "author_id": 1089770,
     "cards": []
   },
   "techal": {
@@ -36369,11 +36598,6 @@
       }
     ]
   },
-  "greein": {
-    "display": "Gree.in",
-    "author_id": 1089770,
-    "cards": []
-  },
   "hellsait": {
     "display": "Hellsait",
     "author_id": 2906080,
@@ -36389,6 +36613,11 @@
     "author_id": 1003671,
     "cards": []
   },
+  "katsuusa": {
+    "display": "katsu_usa",
+    "author_id": 3332888,
+    "cards": []
+  },
   "sunshi": {
     "display": "Sunshi",
     "author_id": 2317545,
@@ -36397,11 +36626,6 @@
   "sergeysh": {
     "display": "Sergey-Sh",
     "author_id": 605765,
-    "cards": []
-  },
-  "katsuusa": {
-    "display": "katsu_usa",
-    "author_id": 3332888,
     "cards": []
   },
   "charisma": {
@@ -37339,6 +37563,13 @@
     "author_id": 890414,
     "cards": [
       {
+        "id": 121933,
+        "title": "Card 121933",
+        "cover": "https://remanga.org/media/card-item/cover_c5336133.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/121933"
+      },
+      {
         "id": 121490,
         "title": "Card 121490",
         "cover": "https://remanga.org/media/card-item/cover_e0b4013f.webp",
@@ -37703,6 +37934,20 @@
         "url": "https://remanga.org/card/102832"
       },
       {
+        "id": 121930,
+        "title": "Card 121930",
+        "cover": "https://remanga.org/media/card-item/cover_ccc5870f.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/121930"
+      },
+      {
+        "id": 121929,
+        "title": "Card 121929",
+        "cover": "https://remanga.org/media/card-item/cover_9392d3f2.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/121929"
+      },
+      {
         "id": 118753,
         "title": "Card 118753",
         "cover": "https://remanga.org/media/card-item/cover_0bafb84b.webp",
@@ -37855,6 +38100,13 @@
         "cover": "https://remanga.org/media/card-item/cover_fe02d331.webp",
         "rarity": "",
         "url": "https://remanga.org/card/102831"
+      },
+      {
+        "id": 122181,
+        "title": "Card 122181",
+        "cover": "https://remanga.org/media/card-item/cover_96221d00.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/122181"
       },
       {
         "id": 121523,
@@ -39161,6 +39413,20 @@
         "url": "https://remanga.org/card/91146"
       },
       {
+        "id": 121872,
+        "title": "Card 121872",
+        "cover": "https://remanga.org/media/card-item/cover_edcd8983.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/121872"
+      },
+      {
+        "id": 121798,
+        "title": "Card 121798",
+        "cover": "https://remanga.org/media/card-item/cover_2d16bf9f.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/121798"
+      },
+      {
         "id": 120842,
         "title": "Card 120842",
         "cover": "https://remanga.org/media/card-item/cover_e273b987.webp",
@@ -39565,6 +39831,27 @@
         "cover": "https://remanga.org/media/card-item/cover_82fbb770.webp",
         "rarity": "",
         "url": "https://remanga.org/card/90173"
+      },
+      {
+        "id": 121871,
+        "title": "Card 121871",
+        "cover": "https://remanga.org/media/card-item/cover_81dd9832.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/121871"
+      },
+      {
+        "id": 121869,
+        "title": "Card 121869",
+        "cover": "https://remanga.org/media/card-item/cover_ba8f5371.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/121869"
+      },
+      {
+        "id": 121797,
+        "title": "Card 121797",
+        "cover": "https://remanga.org/media/card-item/cover_c5b8acc6.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/121797"
       },
       {
         "id": 121795,
@@ -40006,6 +40293,20 @@
         "cover": "https://remanga.org/media/card-item/cover_b3d4adfc.webp",
         "rarity": "",
         "url": "https://remanga.org/card/90172"
+      },
+      {
+        "id": 121870,
+        "title": "Card 121870",
+        "cover": "https://remanga.org/media/card-item/cover_82aa065a.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/121870"
+      },
+      {
+        "id": 121867,
+        "title": "Card 121867",
+        "cover": "https://remanga.org/media/card-item/cover_c148db9e.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/121867"
       },
       {
         "id": 121796,
@@ -40502,325 +40803,6 @@
     "author_id": 2439923,
     "cards": []
   },
-  "sas47": {
-    "display": "Sas47",
-    "author_id": 2044615,
-    "cards": []
-  },
-  "riverfreedom": {
-    "display": "RiverFreedom",
-    "author_id": 3215284,
-    "cards": [
-      {
-        "id": 103494,
-        "title": "Card 103494",
-        "cover": "https://remanga.org/media/card-item/cover_22a45e48.webp",
-        "rarity": "",
-        "url": "https://remanga.org/card/103494"
-      },
-      {
-        "id": 94184,
-        "title": "Card 94184",
-        "cover": "https://remanga.org/media/card-item/cover_8dcaec7a.webp",
-        "rarity": "",
-        "url": "https://remanga.org/card/94184"
-      },
-      {
-        "id": 94084,
-        "title": "Card 94084",
-        "cover": "https://remanga.org/media/card-item/cover_e757db22.webp",
-        "rarity": "",
-        "url": "https://remanga.org/card/94084"
-      },
-      {
-        "id": 93453,
-        "title": "Card 93453",
-        "cover": "https://remanga.org/media/card-item/cover_6e02b173.webp",
-        "rarity": "",
-        "url": "https://remanga.org/card/93453"
-      },
-      {
-        "id": 92743,
-        "title": "Card 92743",
-        "cover": "https://remanga.org/media/card-item/cover_f824db4f.webp",
-        "rarity": "",
-        "url": "https://remanga.org/card/92743"
-      },
-      {
-        "id": 92742,
-        "title": "Card 92742",
-        "cover": "https://remanga.org/media/card-item/cover_4d457d16.webp",
-        "rarity": "",
-        "url": "https://remanga.org/card/92742"
-      },
-      {
-        "id": 92049,
-        "title": "Card 92049",
-        "cover": "https://remanga.org/media/card-item/cover_613d0ca0.webp",
-        "rarity": "",
-        "url": "https://remanga.org/card/92049"
-      },
-      {
-        "id": 90356,
-        "title": "Card 90356",
-        "cover": "https://remanga.org/media/card-item/cover_3cda7d76.webp",
-        "rarity": "",
-        "url": "https://remanga.org/card/90356"
-      },
-      {
-        "id": 94183,
-        "title": "Card 94183",
-        "cover": "https://remanga.org/media/card-item/cover_1d66e756.webp",
-        "rarity": "",
-        "url": "https://remanga.org/card/94183"
-      },
-      {
-        "id": 93459,
-        "title": "Card 93459",
-        "cover": "https://remanga.org/media/card-item/cover_aeaf6eee.webp",
-        "rarity": "",
-        "url": "https://remanga.org/card/93459"
-      },
-      {
-        "id": 92956,
-        "title": "Card 92956",
-        "cover": "https://remanga.org/media/card-item/cover_2476c1eb.webp",
-        "rarity": "",
-        "url": "https://remanga.org/card/92956"
-      },
-      {
-        "id": 92724,
-        "title": "Card 92724",
-        "cover": "https://remanga.org/media/card-item/cover_97eea927.webp",
-        "rarity": "",
-        "url": "https://remanga.org/card/92724"
-      },
-      {
-        "id": 92132,
-        "title": "Card 92132",
-        "cover": "https://remanga.org/media/card-item/cover_1607919f.webp",
-        "rarity": "",
-        "url": "https://remanga.org/card/92132"
-      },
-      {
-        "id": 92048,
-        "title": "Card 92048",
-        "cover": "https://remanga.org/media/card-item/cover_c6b854a2.webp",
-        "rarity": "",
-        "url": "https://remanga.org/card/92048"
-      },
-      {
-        "id": 90355,
-        "title": "Card 90355",
-        "cover": "https://remanga.org/media/card-item/cover_ec0f5650.webp",
-        "rarity": "",
-        "url": "https://remanga.org/card/90355"
-      },
-      {
-        "id": 94182,
-        "title": "Card 94182",
-        "cover": "https://remanga.org/media/card-item/cover_696e9fec.webp",
-        "rarity": "",
-        "url": "https://remanga.org/card/94182"
-      },
-      {
-        "id": 93670,
-        "title": "Card 93670",
-        "cover": "https://remanga.org/media/card-item/cover_d15d5562.webp",
-        "rarity": "",
-        "url": "https://remanga.org/card/93670"
-      },
-      {
-        "id": 93458,
-        "title": "Card 93458",
-        "cover": "https://remanga.org/media/card-item/cover_c112d7ed.webp",
-        "rarity": "",
-        "url": "https://remanga.org/card/93458"
-      },
-      {
-        "id": 92955,
-        "title": "Card 92955",
-        "cover": "https://remanga.org/media/card-item/cover_db013677.webp",
-        "rarity": "",
-        "url": "https://remanga.org/card/92955"
-      },
-      {
-        "id": 92723,
-        "title": "Card 92723",
-        "cover": "https://remanga.org/media/card-item/cover_eb69888a.webp",
-        "rarity": "",
-        "url": "https://remanga.org/card/92723"
-      },
-      {
-        "id": 92131,
-        "title": "Card 92131",
-        "cover": "https://remanga.org/media/card-item/cover_8f241163.webp",
-        "rarity": "",
-        "url": "https://remanga.org/card/92131"
-      },
-      {
-        "id": 92047,
-        "title": "Card 92047",
-        "cover": "https://remanga.org/media/card-item/cover_d062e325.webp",
-        "rarity": "",
-        "url": "https://remanga.org/card/92047"
-      },
-      {
-        "id": 91152,
-        "title": "Card 91152",
-        "cover": "https://remanga.org/media/card-item/cover_139a5a91.webp",
-        "rarity": "",
-        "url": "https://remanga.org/card/91152"
-      },
-      {
-        "id": 90351,
-        "title": "Card 90351",
-        "cover": "https://remanga.org/media/card-item/cover_7409da53.webp",
-        "rarity": "",
-        "url": "https://remanga.org/card/90351"
-      },
-      {
-        "id": 93674,
-        "title": "Card 93674",
-        "cover": "https://remanga.org/media/card-item/cover_31246ca4.webp",
-        "rarity": "",
-        "url": "https://remanga.org/card/93674"
-      },
-      {
-        "id": 93669,
-        "title": "Card 93669",
-        "cover": "https://remanga.org/media/card-item/cover_5ddfbb08.webp",
-        "rarity": "",
-        "url": "https://remanga.org/card/93669"
-      },
-      {
-        "id": 93455,
-        "title": "Card 93455",
-        "cover": "https://remanga.org/media/card-item/cover_e3d5e90c.webp",
-        "rarity": "",
-        "url": "https://remanga.org/card/93455"
-      },
-      {
-        "id": 92954,
-        "title": "Card 92954",
-        "cover": "https://remanga.org/media/card-item/cover_2bea79a1.webp",
-        "rarity": "",
-        "url": "https://remanga.org/card/92954"
-      },
-      {
-        "id": 92722,
-        "title": "Card 92722",
-        "cover": "https://remanga.org/media/card-item/cover_0e40cd68.webp",
-        "rarity": "",
-        "url": "https://remanga.org/card/92722"
-      },
-      {
-        "id": 92130,
-        "title": "Card 92130",
-        "cover": "https://remanga.org/media/card-item/cover_1873a9a2.webp",
-        "rarity": "",
-        "url": "https://remanga.org/card/92130"
-      },
-      {
-        "id": 92046,
-        "title": "Card 92046",
-        "cover": "https://remanga.org/media/card-item/cover_e26d49cc.webp",
-        "rarity": "",
-        "url": "https://remanga.org/card/92046"
-      },
-      {
-        "id": 90477,
-        "title": "Card 90477",
-        "cover": "https://remanga.org/media/card-item/cover_c663931b.webp",
-        "rarity": "",
-        "url": "https://remanga.org/card/90477"
-      },
-      {
-        "id": 90472,
-        "title": "Card 90472",
-        "cover": "https://remanga.org/media/card-item/cover_ae49d31a.webp",
-        "rarity": "",
-        "url": "https://remanga.org/card/90472"
-      },
-      {
-        "id": 90360,
-        "title": "Card 90360",
-        "cover": "https://remanga.org/media/card-item/cover_9dc9d9c6.webp",
-        "rarity": "",
-        "url": "https://remanga.org/card/90360"
-      },
-      {
-        "id": 90350,
-        "title": "Card 90350",
-        "cover": "https://remanga.org/media/card-item/cover_9dd32c81.webp",
-        "rarity": "",
-        "url": "https://remanga.org/card/90350"
-      },
-      {
-        "id": 93673,
-        "title": "Card 93673",
-        "cover": "https://remanga.org/media/card-item/cover_3cc8aec2.webp",
-        "rarity": "",
-        "url": "https://remanga.org/card/93673"
-      },
-      {
-        "id": 93454,
-        "title": "Card 93454",
-        "cover": "https://remanga.org/media/card-item/cover_1edaf708.webp",
-        "rarity": "",
-        "url": "https://remanga.org/card/93454"
-      },
-      {
-        "id": 92953,
-        "title": "Card 92953",
-        "cover": "https://remanga.org/media/card-item/cover_1ac9dca5.webp",
-        "rarity": "",
-        "url": "https://remanga.org/card/92953"
-      },
-      {
-        "id": 92721,
-        "title": "Card 92721",
-        "cover": "https://remanga.org/media/card-item/cover_0dbc89b7.webp",
-        "rarity": "",
-        "url": "https://remanga.org/card/92721"
-      },
-      {
-        "id": 92129,
-        "title": "Card 92129",
-        "cover": "https://remanga.org/media/card-item/cover_37ca587a.webp",
-        "rarity": "",
-        "url": "https://remanga.org/card/92129"
-      },
-      {
-        "id": 92045,
-        "title": "Card 92045",
-        "cover": "https://remanga.org/media/card-item/cover_2987e897.webp",
-        "rarity": "",
-        "url": "https://remanga.org/card/92045"
-      },
-      {
-        "id": 92044,
-        "title": "Card 92044",
-        "cover": "https://remanga.org/media/card-item/cover_ab186ccf.webp",
-        "rarity": "",
-        "url": "https://remanga.org/card/92044"
-      },
-      {
-        "id": 90398,
-        "title": "Card 90398",
-        "cover": "https://remanga.org/media/card-item/cover_8128706e.webp",
-        "rarity": "",
-        "url": "https://remanga.org/card/90398"
-      },
-      {
-        "id": 90358,
-        "title": "Card 90358",
-        "cover": "https://remanga.org/media/card-item/cover_4e256945.webp",
-        "rarity": "",
-        "url": "https://remanga.org/card/90358"
-      }
-    ]
-  },
   "meimei": {
     "display": "mei_mei",
     "author_id": 52975,
@@ -41198,6 +41180,325 @@
       }
     ]
   },
+  "sas47": {
+    "display": "Sas47",
+    "author_id": 2044615,
+    "cards": []
+  },
+  "riverfreedom": {
+    "display": "RiverFreedom",
+    "author_id": 3215284,
+    "cards": [
+      {
+        "id": 103494,
+        "title": "Card 103494",
+        "cover": "https://remanga.org/media/card-item/cover_22a45e48.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/103494"
+      },
+      {
+        "id": 94184,
+        "title": "Card 94184",
+        "cover": "https://remanga.org/media/card-item/cover_8dcaec7a.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/94184"
+      },
+      {
+        "id": 94084,
+        "title": "Card 94084",
+        "cover": "https://remanga.org/media/card-item/cover_e757db22.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/94084"
+      },
+      {
+        "id": 93453,
+        "title": "Card 93453",
+        "cover": "https://remanga.org/media/card-item/cover_6e02b173.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/93453"
+      },
+      {
+        "id": 92743,
+        "title": "Card 92743",
+        "cover": "https://remanga.org/media/card-item/cover_f824db4f.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/92743"
+      },
+      {
+        "id": 92742,
+        "title": "Card 92742",
+        "cover": "https://remanga.org/media/card-item/cover_4d457d16.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/92742"
+      },
+      {
+        "id": 92049,
+        "title": "Card 92049",
+        "cover": "https://remanga.org/media/card-item/cover_613d0ca0.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/92049"
+      },
+      {
+        "id": 90356,
+        "title": "Card 90356",
+        "cover": "https://remanga.org/media/card-item/cover_3cda7d76.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/90356"
+      },
+      {
+        "id": 94183,
+        "title": "Card 94183",
+        "cover": "https://remanga.org/media/card-item/cover_1d66e756.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/94183"
+      },
+      {
+        "id": 93459,
+        "title": "Card 93459",
+        "cover": "https://remanga.org/media/card-item/cover_aeaf6eee.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/93459"
+      },
+      {
+        "id": 92956,
+        "title": "Card 92956",
+        "cover": "https://remanga.org/media/card-item/cover_2476c1eb.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/92956"
+      },
+      {
+        "id": 92724,
+        "title": "Card 92724",
+        "cover": "https://remanga.org/media/card-item/cover_97eea927.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/92724"
+      },
+      {
+        "id": 92132,
+        "title": "Card 92132",
+        "cover": "https://remanga.org/media/card-item/cover_1607919f.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/92132"
+      },
+      {
+        "id": 92048,
+        "title": "Card 92048",
+        "cover": "https://remanga.org/media/card-item/cover_c6b854a2.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/92048"
+      },
+      {
+        "id": 90355,
+        "title": "Card 90355",
+        "cover": "https://remanga.org/media/card-item/cover_ec0f5650.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/90355"
+      },
+      {
+        "id": 94182,
+        "title": "Card 94182",
+        "cover": "https://remanga.org/media/card-item/cover_696e9fec.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/94182"
+      },
+      {
+        "id": 93670,
+        "title": "Card 93670",
+        "cover": "https://remanga.org/media/card-item/cover_d15d5562.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/93670"
+      },
+      {
+        "id": 93458,
+        "title": "Card 93458",
+        "cover": "https://remanga.org/media/card-item/cover_c112d7ed.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/93458"
+      },
+      {
+        "id": 92955,
+        "title": "Card 92955",
+        "cover": "https://remanga.org/media/card-item/cover_db013677.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/92955"
+      },
+      {
+        "id": 92723,
+        "title": "Card 92723",
+        "cover": "https://remanga.org/media/card-item/cover_eb69888a.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/92723"
+      },
+      {
+        "id": 92131,
+        "title": "Card 92131",
+        "cover": "https://remanga.org/media/card-item/cover_8f241163.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/92131"
+      },
+      {
+        "id": 92047,
+        "title": "Card 92047",
+        "cover": "https://remanga.org/media/card-item/cover_d062e325.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/92047"
+      },
+      {
+        "id": 91152,
+        "title": "Card 91152",
+        "cover": "https://remanga.org/media/card-item/cover_139a5a91.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/91152"
+      },
+      {
+        "id": 90351,
+        "title": "Card 90351",
+        "cover": "https://remanga.org/media/card-item/cover_7409da53.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/90351"
+      },
+      {
+        "id": 93674,
+        "title": "Card 93674",
+        "cover": "https://remanga.org/media/card-item/cover_31246ca4.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/93674"
+      },
+      {
+        "id": 93669,
+        "title": "Card 93669",
+        "cover": "https://remanga.org/media/card-item/cover_5ddfbb08.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/93669"
+      },
+      {
+        "id": 93455,
+        "title": "Card 93455",
+        "cover": "https://remanga.org/media/card-item/cover_e3d5e90c.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/93455"
+      },
+      {
+        "id": 92954,
+        "title": "Card 92954",
+        "cover": "https://remanga.org/media/card-item/cover_2bea79a1.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/92954"
+      },
+      {
+        "id": 92722,
+        "title": "Card 92722",
+        "cover": "https://remanga.org/media/card-item/cover_0e40cd68.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/92722"
+      },
+      {
+        "id": 92130,
+        "title": "Card 92130",
+        "cover": "https://remanga.org/media/card-item/cover_1873a9a2.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/92130"
+      },
+      {
+        "id": 92046,
+        "title": "Card 92046",
+        "cover": "https://remanga.org/media/card-item/cover_e26d49cc.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/92046"
+      },
+      {
+        "id": 90477,
+        "title": "Card 90477",
+        "cover": "https://remanga.org/media/card-item/cover_c663931b.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/90477"
+      },
+      {
+        "id": 90472,
+        "title": "Card 90472",
+        "cover": "https://remanga.org/media/card-item/cover_ae49d31a.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/90472"
+      },
+      {
+        "id": 90360,
+        "title": "Card 90360",
+        "cover": "https://remanga.org/media/card-item/cover_9dc9d9c6.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/90360"
+      },
+      {
+        "id": 90350,
+        "title": "Card 90350",
+        "cover": "https://remanga.org/media/card-item/cover_9dd32c81.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/90350"
+      },
+      {
+        "id": 93673,
+        "title": "Card 93673",
+        "cover": "https://remanga.org/media/card-item/cover_3cc8aec2.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/93673"
+      },
+      {
+        "id": 93454,
+        "title": "Card 93454",
+        "cover": "https://remanga.org/media/card-item/cover_1edaf708.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/93454"
+      },
+      {
+        "id": 92953,
+        "title": "Card 92953",
+        "cover": "https://remanga.org/media/card-item/cover_1ac9dca5.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/92953"
+      },
+      {
+        "id": 92721,
+        "title": "Card 92721",
+        "cover": "https://remanga.org/media/card-item/cover_0dbc89b7.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/92721"
+      },
+      {
+        "id": 92129,
+        "title": "Card 92129",
+        "cover": "https://remanga.org/media/card-item/cover_37ca587a.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/92129"
+      },
+      {
+        "id": 92045,
+        "title": "Card 92045",
+        "cover": "https://remanga.org/media/card-item/cover_2987e897.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/92045"
+      },
+      {
+        "id": 92044,
+        "title": "Card 92044",
+        "cover": "https://remanga.org/media/card-item/cover_ab186ccf.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/92044"
+      },
+      {
+        "id": 90398,
+        "title": "Card 90398",
+        "cover": "https://remanga.org/media/card-item/cover_8128706e.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/90398"
+      },
+      {
+        "id": 90358,
+        "title": "Card 90358",
+        "cover": "https://remanga.org/media/card-item/cover_4e256945.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/90358"
+      }
+    ]
+  },
   "moonsh1ne": {
     "display": "moonsh1ne",
     "author_id": 128587,
@@ -41245,6 +41546,166 @@
     "display": "mmarti",
     "author_id": 184784,
     "cards": []
+  },
+  "overtime": {
+    "display": "over-time",
+    "author_id": 899302,
+    "cards": [
+      {
+        "id": 104185,
+        "title": "Card 104185",
+        "cover": "https://remanga.org/media/card-item/cover_3df1b879.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/104185"
+      },
+      {
+        "id": 100077,
+        "title": "Card 100077",
+        "cover": "https://remanga.org/media/card-item/cover_a1674619.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/100077"
+      },
+      {
+        "id": 100072,
+        "title": "Card 100072",
+        "cover": "https://remanga.org/media/card-item/cover_6ea0b445.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/100072"
+      },
+      {
+        "id": 98260,
+        "title": "Card 98260",
+        "cover": "https://remanga.org/media/card-item/cover_df0502fd.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/98260"
+      },
+      {
+        "id": 100076,
+        "title": "Card 100076",
+        "cover": "https://remanga.org/media/card-item/cover_04731cf2.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/100076"
+      },
+      {
+        "id": 100071,
+        "title": "Card 100071",
+        "cover": "https://remanga.org/media/card-item/cover_53a33922.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/100071"
+      },
+      {
+        "id": 98259,
+        "title": "Card 98259",
+        "cover": "https://remanga.org/media/card-item/cover_270d7623.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/98259"
+      },
+      {
+        "id": 104184,
+        "title": "Card 104184",
+        "cover": "https://remanga.org/media/card-item/cover_82177537.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/104184"
+      },
+      {
+        "id": 100075,
+        "title": "Card 100075",
+        "cover": "https://remanga.org/media/card-item/cover_59e48b73.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/100075"
+      },
+      {
+        "id": 100070,
+        "title": "Card 100070",
+        "cover": "https://remanga.org/media/card-item/cover_cb0b9f8c.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/100070"
+      },
+      {
+        "id": 98258,
+        "title": "Card 98258",
+        "cover": "https://remanga.org/media/card-item/cover_c1218772.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/98258"
+      },
+      {
+        "id": 104183,
+        "title": "Card 104183",
+        "cover": "https://remanga.org/media/card-item/cover_906bc97c.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/104183"
+      },
+      {
+        "id": 100074,
+        "title": "Card 100074",
+        "cover": "https://remanga.org/media/card-item/cover_e8778ed4.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/100074"
+      },
+      {
+        "id": 100069,
+        "title": "Card 100069",
+        "cover": "https://remanga.org/media/card-item/cover_4e7baa1e.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/100069"
+      },
+      {
+        "id": 98257,
+        "title": "Card 98257",
+        "cover": "https://remanga.org/media/card-item/cover_a108103c.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/98257"
+      },
+      {
+        "id": 98182,
+        "title": "Card 98182",
+        "cover": "https://remanga.org/media/card-item/cover_74e05d9d.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/98182"
+      },
+      {
+        "id": 104182,
+        "title": "Card 104182",
+        "cover": "https://remanga.org/media/card-item/cover_dd1456a3.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/104182"
+      },
+      {
+        "id": 104162,
+        "title": "Card 104162",
+        "cover": "https://remanga.org/media/card-item/cover_40cc76e9.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/104162"
+      },
+      {
+        "id": 100073,
+        "title": "Card 100073",
+        "cover": "https://remanga.org/media/card-item/cover_5e3def4e.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/100073"
+      },
+      {
+        "id": 100068,
+        "title": "Card 100068",
+        "cover": "https://remanga.org/media/card-item/cover_c913dfde.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/100068"
+      },
+      {
+        "id": 98255,
+        "title": "Card 98255",
+        "cover": "https://remanga.org/media/card-item/cover_695b0f2e.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/98255"
+      },
+      {
+        "id": 98181,
+        "title": "Card 98181",
+        "cover": "https://remanga.org/media/card-item/cover_9b3c6e30.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/98181"
+      }
+    ]
   },
   "lucifiel": {
     "display": "--Lucifiel--",
@@ -41719,209 +42180,9 @@
       }
     ]
   },
-  "overtime": {
-    "display": "over-time",
-    "author_id": 899302,
-    "cards": [
-      {
-        "id": 104185,
-        "title": "Card 104185",
-        "cover": "https://remanga.org/media/card-item/cover_3df1b879.webp",
-        "rarity": "",
-        "url": "https://remanga.org/card/104185"
-      },
-      {
-        "id": 100077,
-        "title": "Card 100077",
-        "cover": "https://remanga.org/media/card-item/cover_a1674619.webp",
-        "rarity": "",
-        "url": "https://remanga.org/card/100077"
-      },
-      {
-        "id": 100072,
-        "title": "Card 100072",
-        "cover": "https://remanga.org/media/card-item/cover_6ea0b445.webp",
-        "rarity": "",
-        "url": "https://remanga.org/card/100072"
-      },
-      {
-        "id": 98260,
-        "title": "Card 98260",
-        "cover": "https://remanga.org/media/card-item/cover_df0502fd.webp",
-        "rarity": "",
-        "url": "https://remanga.org/card/98260"
-      },
-      {
-        "id": 100076,
-        "title": "Card 100076",
-        "cover": "https://remanga.org/media/card-item/cover_04731cf2.webp",
-        "rarity": "",
-        "url": "https://remanga.org/card/100076"
-      },
-      {
-        "id": 100071,
-        "title": "Card 100071",
-        "cover": "https://remanga.org/media/card-item/cover_53a33922.webp",
-        "rarity": "",
-        "url": "https://remanga.org/card/100071"
-      },
-      {
-        "id": 98259,
-        "title": "Card 98259",
-        "cover": "https://remanga.org/media/card-item/cover_270d7623.webp",
-        "rarity": "",
-        "url": "https://remanga.org/card/98259"
-      },
-      {
-        "id": 104184,
-        "title": "Card 104184",
-        "cover": "https://remanga.org/media/card-item/cover_82177537.webp",
-        "rarity": "",
-        "url": "https://remanga.org/card/104184"
-      },
-      {
-        "id": 100075,
-        "title": "Card 100075",
-        "cover": "https://remanga.org/media/card-item/cover_59e48b73.webp",
-        "rarity": "",
-        "url": "https://remanga.org/card/100075"
-      },
-      {
-        "id": 100070,
-        "title": "Card 100070",
-        "cover": "https://remanga.org/media/card-item/cover_cb0b9f8c.webp",
-        "rarity": "",
-        "url": "https://remanga.org/card/100070"
-      },
-      {
-        "id": 98258,
-        "title": "Card 98258",
-        "cover": "https://remanga.org/media/card-item/cover_c1218772.webp",
-        "rarity": "",
-        "url": "https://remanga.org/card/98258"
-      },
-      {
-        "id": 104183,
-        "title": "Card 104183",
-        "cover": "https://remanga.org/media/card-item/cover_906bc97c.webp",
-        "rarity": "",
-        "url": "https://remanga.org/card/104183"
-      },
-      {
-        "id": 100074,
-        "title": "Card 100074",
-        "cover": "https://remanga.org/media/card-item/cover_e8778ed4.webp",
-        "rarity": "",
-        "url": "https://remanga.org/card/100074"
-      },
-      {
-        "id": 100069,
-        "title": "Card 100069",
-        "cover": "https://remanga.org/media/card-item/cover_4e7baa1e.webp",
-        "rarity": "",
-        "url": "https://remanga.org/card/100069"
-      },
-      {
-        "id": 98257,
-        "title": "Card 98257",
-        "cover": "https://remanga.org/media/card-item/cover_a108103c.webp",
-        "rarity": "",
-        "url": "https://remanga.org/card/98257"
-      },
-      {
-        "id": 98182,
-        "title": "Card 98182",
-        "cover": "https://remanga.org/media/card-item/cover_74e05d9d.webp",
-        "rarity": "",
-        "url": "https://remanga.org/card/98182"
-      },
-      {
-        "id": 104182,
-        "title": "Card 104182",
-        "cover": "https://remanga.org/media/card-item/cover_dd1456a3.webp",
-        "rarity": "",
-        "url": "https://remanga.org/card/104182"
-      },
-      {
-        "id": 104162,
-        "title": "Card 104162",
-        "cover": "https://remanga.org/media/card-item/cover_40cc76e9.webp",
-        "rarity": "",
-        "url": "https://remanga.org/card/104162"
-      },
-      {
-        "id": 100073,
-        "title": "Card 100073",
-        "cover": "https://remanga.org/media/card-item/cover_5e3def4e.webp",
-        "rarity": "",
-        "url": "https://remanga.org/card/100073"
-      },
-      {
-        "id": 100068,
-        "title": "Card 100068",
-        "cover": "https://remanga.org/media/card-item/cover_c913dfde.webp",
-        "rarity": "",
-        "url": "https://remanga.org/card/100068"
-      },
-      {
-        "id": 98255,
-        "title": "Card 98255",
-        "cover": "https://remanga.org/media/card-item/cover_695b0f2e.webp",
-        "rarity": "",
-        "url": "https://remanga.org/card/98255"
-      },
-      {
-        "id": 98181,
-        "title": "Card 98181",
-        "cover": "https://remanga.org/media/card-item/cover_9b3c6e30.webp",
-        "rarity": "",
-        "url": "https://remanga.org/card/98181"
-      }
-    ]
-  },
   "saytoriya": {
     "display": "Saytoriya",
     "author_id": 126709,
-    "cards": []
-  },
-  "kost9n": {
-    "display": "KOST9N",
-    "author_id": 48794,
-    "cards": []
-  },
-  "banshei": {
-    "display": "BanShei",
-    "author_id": 204988,
-    "cards": []
-  },
-  "谢怜": {
-    "display": ".谢怜.",
-    "author_id": 164257,
-    "cards": []
-  },
-  "pилcyчк@": {
-    "display": "Рил_сучк@.",
-    "author_id": 1245568,
-    "cards": []
-  },
-  "fox94": {
-    "display": "Fox94",
-    "author_id": 158404,
-    "cards": []
-  },
-  "aмeн": {
-    "display": "Амен",
-    "author_id": 993301,
-    "cards": []
-  },
-  "llikojioma": {
-    "display": "LLIKoJIoma",
-    "author_id": 938430,
-    "cards": []
-  },
-  "kim5+": {
-    "display": "Kim_5+",
-    "author_id": 880531,
     "cards": []
   },
   "drrи": {
@@ -41976,6 +42237,46 @@
         "url": "https://remanga.org/card/114548"
       }
     ]
+  },
+  "kost9n": {
+    "display": "KOST9N",
+    "author_id": 48794,
+    "cards": []
+  },
+  "banshei": {
+    "display": "BanShei",
+    "author_id": 204988,
+    "cards": []
+  },
+  "谢怜": {
+    "display": ".谢怜.",
+    "author_id": 164257,
+    "cards": []
+  },
+  "pилcyчк@": {
+    "display": "Рил_сучк@.",
+    "author_id": 1245568,
+    "cards": []
+  },
+  "fox94": {
+    "display": "Fox94",
+    "author_id": 158404,
+    "cards": []
+  },
+  "aмeн": {
+    "display": "Амен",
+    "author_id": 993301,
+    "cards": []
+  },
+  "llikojioma": {
+    "display": "LLIKoJIoma",
+    "author_id": 938430,
+    "cards": []
+  },
+  "kim5+": {
+    "display": "Kim_5+",
+    "author_id": 880531,
+    "cards": []
   },
   "sw1ty": {
     "display": "Sw1ty",
