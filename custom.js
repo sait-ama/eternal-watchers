@@ -81,10 +81,11 @@
     return `<img src="${url}" class="${extraClass}" style="${extraStyle}" onerror="this.src='https://remanga.org/images/default-avatar.webp'">`;
   };
 
+  const getSection = () => document.getElementById('tab8') || document;
+
   // --- MAIN ENTRYPOINT ---
   function initDashboard() {
-    const tab8Section = document.getElementById('tab8');
-    if (!tab8Section) return;
+    const tab8Section = getSection();
 
     // Sub-tab Navigation inside Top 30
     tab8Section.querySelectorAll('.nav-item').forEach(item => {
@@ -155,8 +156,7 @@
 
   // --- CORE LOGIC ---
   async function fetchGuilds() {
-    const tab8Section = document.getElementById('tab8');
-    if (!tab8Section) return;
+    const tab8Section = getSection();
 
     try {
       const res = await fetch('db.json');
@@ -314,8 +314,8 @@
   }
 
   function updateOverviewStats() {
-    const tab8Section = document.getElementById('tab8');
-    if (!tab8Section || allGuilds.length === 0) return;
+    const tab8Section = getSection();
+    if (allGuilds.length === 0) return;
 
     // Top Guild
     const topGuild = [...allGuilds].sort((a, b) => a.rank - b.rank)[0];
@@ -347,8 +347,7 @@
   }
 
   function renderGuildsGrid() {
-    const tab8Section = document.getElementById('tab8');
-    if (!tab8Section) return;
+    const tab8Section = getSection();
 
     const container = tab8Section.querySelector('#guilds-cards-container');
     if (!container) return;
@@ -445,8 +444,7 @@
   }
 
   function filterGuildsGrid(query) {
-    const tab8Section = document.getElementById('tab8');
-    if (!tab8Section) return;
+    const tab8Section = getSection();
 
     tab8Section.querySelectorAll('.guild-card').forEach(card => {
       const name = card.querySelector('.guild-card-name').textContent.toLowerCase();
@@ -455,8 +453,7 @@
   }
 
   function updateCompareBadge() {
-    const tab8Section = document.getElementById('tab8');
-    if (!tab8Section) return;
+    const tab8Section = getSection();
 
     const badge = tab8Section.querySelector('#compare-count');
     if (badge) {
@@ -467,8 +464,8 @@
 
   // --- DETAIL VIEW ---
   function showGuildDetail(dir) {
-    const tab8Section = document.getElementById('tab8');
-    if (!tab8Section || !dbCachedData) return;
+    const tab8Section = getSection();
+    if (!dbCachedData) return;
 
     const guild = dbCachedData.guilds[dir];
     if (!guild) return;
@@ -637,8 +634,7 @@
   }
 
   function renderActivityTimeline(log) {
-    const tab8Section = document.getElementById('tab8');
-    if (!tab8Section) return;
+    const tab8Section = getSection();
 
     const container = tab8Section.querySelector('#gd-activity-log');
     if (!container) return;
@@ -684,8 +680,7 @@
   }
 
   function renderMembersTable(members) {
-    const tab8Section = document.getElementById('tab8');
-    if (!tab8Section) return;
+    const tab8Section = getSection();
 
     tab8Section.querySelector('#gd-members-count').textContent = members.length;
     const tbody = tab8Section.querySelector('#gd-members-tbody');
@@ -735,8 +730,7 @@
   }
 
   function filterMembersTable(query) {
-    const tab8Section = document.getElementById('tab8');
-    if (!tab8Section) return;
+    const tab8Section = getSection();
 
     tab8Section.querySelectorAll('.member-row').forEach(row => {
       const name = row.querySelector('.member-name').textContent.toLowerCase();
@@ -817,8 +811,8 @@
 
   // --- COMPARE VIEW ---
   function renderCompareView() {
-    const tab8Section = document.getElementById('tab8');
-    if (!tab8Section || !dbCachedData) return;
+    const tab8Section = getSection();
+    if (!dbCachedData) return;
 
     const container = tab8Section.querySelector('#compare-content-area');
     if (!container) return;
