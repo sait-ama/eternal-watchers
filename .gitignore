@@ -1,0 +1,37 @@
+# Игнор по умолчанию
+*
+
+# Разрешённые файлы (корень)
+!.gitignore
+!.nojekyll
+!index.html
+!top10.json
+!history_ew.json
+!history_ed.json
+!history_ea.json
+!activity.json
+!participants_cards.json
+!db.json
+!likes.js
+
+# Разрешаем папки с контентом
+!avatars/
+!avatars/**
+!cards/
+!cards/**
+!фон/
+!фон/**
+!Неделя/
+!Неделя/**
+!custom.css
+!custom.js
+!assets/
+!assets/**
+!supabase/
+!supabase/**
+!supabase_setup.sql
+
+# Явно исключаем тяжёлые каталоги, если внезапно появятся
+Аук/
+Аук/**
+        

@@ -1,0 +1,61 @@
+{
+  "norm": "xeitepdoka",
+  "history": [
+    {
+      "start_key": "2025-10-06_0030",
+      "end_key": "2025-10-13_0025",
+      "baseline": 55660,
+      "min_seen": 55660,
+      "current": 55660,
+      "weekly": 0,
+      "period_ru": "с 06.10 по 13.10",
+      "guild": "Eternal Watchers",
+      "display": "Хейтер_Дока",
+      "profile": "https://remanga.org/user/2105597/about",
+      "avatar": "avatars/xeitepdoka.jpg",
+      "ts": "2025-10-13T00:19:11.407296+03:00"
+    },
+    {
+      "start_key": "2025-10-13_0030",
+      "end_key": "2025-10-20_0025",
+      "baseline": 55660,
+      "min_seen": 55660,
+      "current": 56790,
+      "weekly": 1130,
+      "period_ru": "с 13.10 по 20.10",
+      "guild": "Eternal Watchers",
+      "display": "Хейтер_Дока",
+      "profile": "https://remanga.org/user/2105597/about",
+      "avatar": "avatars/xeitepdoka.jpg",
+      "ts": "2025-10-20T00:19:13.108104+03:00"
+    },
+    {
+      "start_key": "2025-10-20_0030",
+      "end_key": "2025-10-27_0025",
+      "baseline": 56790,
+      "min_seen": 56790,
+      "current": 56790,
+      "weekly": 0,
+      "period_ru": "с 20.10 по 27.10",
+      "guild": "Eternal Watchers",
+      "display": "Хейтер_Дока",
+      "profile": "https://remanga.org/user/2105597/about",
+      "avatar": "avatars/xeitepdoka.jpg",
+      "ts": "2025-10-27T00:19:12.540881+03:00"
+    },
+    {
+      "start_key": "2025-10-27_0030",
+      "end_key": "2025-11-03_0025",
+      "baseline": 56790,
+      "min_seen": 56790,
+      "current": 45880,
+      "weekly": 0,
+      "period_ru": "с 27.10 по 03.11",
+      "guild": "Eternal Watchers",
+      "display": "Хейтер_Дока",
+      "profile": "https://remanga.org",
+      "avatar": "avatars/placeholder.jpg",
+      "ts": "2025-10-30T11:04:13.213202+03:00"
+    }
+  ]
+}

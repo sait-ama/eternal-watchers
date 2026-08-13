@@ -1,0 +1,61 @@
+{
+  "norm": "lorden",
+  "history": [
+    {
+      "start_key": "2025-10-13_0030",
+      "end_key": "2025-10-20_0025",
+      "baseline": 0,
+      "min_seen": 200,
+      "current": 1300,
+      "weekly": 1100,
+      "period_ru": "с 13.10 по 20.10",
+      "guild": "Eternal Demonic",
+      "display": "Lorden",
+      "profile": "https://remanga.org/user/2937842/about",
+      "avatar": "avatars/lorden.jpg",
+      "ts": "2025-10-20T00:19:13.713957+03:00"
+    },
+    {
+      "start_key": "2025-10-20_0030",
+      "end_key": "2025-10-27_0025",
+      "baseline": 1300,
+      "min_seen": 1300,
+      "current": 1400,
+      "weekly": 100,
+      "period_ru": "с 20.10 по 27.10",
+      "guild": "Eternal Demonic",
+      "display": "Lorden",
+      "profile": "https://remanga.org/user/2937842/about",
+      "avatar": "avatars/lorden.jpg",
+      "ts": "2025-10-27T00:19:14.088603+03:00"
+    },
+    {
+      "start_key": "2025-10-27_0030",
+      "end_key": "2025-11-03_0025",
+      "baseline": 1400,
+      "min_seen": 1400,
+      "current": 1400,
+      "weekly": 0,
+      "period_ru": "с 27.10 по 03.11",
+      "guild": "Eternal Demonic",
+      "display": "Lorden",
+      "profile": "https://remanga.org/user/2937842/about",
+      "avatar": "avatars/lorden.jpg",
+      "ts": "2025-11-03T00:19:14.165047+03:00"
+    },
+    {
+      "start_key": "2025-11-03_0030",
+      "end_key": "2025-11-10_0025",
+      "baseline": 1400,
+      "min_seen": 1400,
+      "current": 0,
+      "weekly": 0,
+      "period_ru": "с 03.11 по 10.11",
+      "guild": "Eternal Demonic",
+      "display": "Lorden",
+      "profile": "https://remanga.org",
+      "avatar": "avatars/placeholder.jpg",
+      "ts": "2025-11-07T10:34:13.390685+03:00"
+    }
+  ]
+}

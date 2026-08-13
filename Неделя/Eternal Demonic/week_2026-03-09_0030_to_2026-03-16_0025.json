@@ -1,0 +1,957 @@
+{
+  "meta": {
+    "guild": "Eternal Demonic",
+    "start_key": "2026-03-09_0030",
+    "end_key": "2026-03-16_0025",
+    "start_msk": "2026-03-09 00:30 (MSK)",
+    "end_msk": "2026-03-16 00:25 (MSK)",
+    "period_ru": "с 09.03 по 16.03"
+  },
+  "participants": {
+    "яшtyg": {
+      "display": "Яштуг",
+      "profile": "https://remanga.org/user/1317566/about",
+      "avatar": "avatars/яшtyg.jpg",
+      "initial": 0,
+      "current": 145459,
+      "weekly": 9550,
+      "baseline": 135909
+    },
+    "maksimbybnov": {
+      "display": "МаксимБубнов",
+      "profile": "https://remanga.org/user/3503844/about",
+      "avatar": "avatars/maksimbybnov.jpg",
+      "initial": 0,
+      "current": 139260,
+      "weekly": 6560,
+      "baseline": 132700
+    },
+    "flammenoire": {
+      "display": "FlammeNoire",
+      "profile": "https://remanga.org/user/2384260/about",
+      "avatar": "avatars/flammenoire.jpg",
+      "initial": 42130,
+      "current": 157069,
+      "weekly": 11822,
+      "baseline": 145247
+    },
+    "destructiongod𒉭": {
+      "display": "DestructionGod𒉭",
+      "profile": "https://remanga.org/user/1650325/about",
+      "avatar": "avatars/destructiongod𒉭.jpg",
+      "initial": 60000,
+      "current": 146684,
+      "weekly": 0,
+      "baseline": 146684
+    },
+    "akashi550": {
+      "display": "Akashi550",
+      "profile": "https://remanga.org/user/617426/about",
+      "avatar": "avatars/akashi550.jpg",
+      "initial": 12000,
+      "current": 88995,
+      "weekly": 14000,
+      "baseline": 74995
+    },
+    "ewdgham021": {
+      "display": "EW.DG_Ham021",
+      "profile": "https://remanga.org/user/27288/about",
+      "avatar": "avatars/ewdgham021.jpg",
+      "initial": 30500,
+      "current": 100000,
+      "weekly": 0,
+      "baseline": 100000
+    },
+    "nix": {
+      "display": "-Nix-",
+      "profile": "https://remanga.org/user/46754/about",
+      "avatar": "avatars/nix.jpg",
+      "initial": 6950,
+      "current": 75945,
+      "weekly": 0,
+      "baseline": 75945
+    },
+    "trillo": {
+      "display": "Trillo",
+      "profile": "https://remanga.org/user/207200/about",
+      "avatar": "avatars/trillo.jpg",
+      "initial": 9320,
+      "current": 76262,
+      "weekly": 5047,
+      "baseline": 71215
+    },
+    "sunburst": {
+      "display": "Sunburst",
+      "profile": "https://remanga.org/user/34154/about",
+      "avatar": "avatars/sunburst.jpg",
+      "initial": 9000,
+      "current": 72000,
+      "weekly": 25000,
+      "baseline": 47000
+    },
+    "lucifiel": {
+      "display": "--Lucifiel--",
+      "profile": "https://remanga.org/user/1207689/about",
+      "avatar": "avatars/lucifiel.jpg",
+      "initial": 12500,
+      "current": 72500,
+      "weekly": 4000,
+      "baseline": 68500
+    },
+    "sas47": {
+      "display": "Sas47",
+      "profile": "https://remanga.org/user/2044615/about",
+      "avatar": "avatars/sas47.jpg",
+      "initial": 14010,
+      "current": 72761,
+      "weekly": 0,
+      "baseline": 72761
+    },
+    "amen": {
+      "display": "Амен",
+      "profile": "https://remanga.org/user/993301/about",
+      "avatar": "avatars/amen.jpg",
+      "initial": 11000,
+      "current": 68673,
+      "weekly": 4000,
+      "baseline": 64673
+    },
+    "ckckck": {
+      "display": "CKCKCK",
+      "profile": "https://remanga.org/user/172319/about",
+      "avatar": "avatars/ckckck.jpg",
+      "initial": 11000,
+      "current": 67981,
+      "weekly": 1100,
+      "baseline": 66881
+    },
+    "wertyservyt": {
+      "display": "Werty-Servyt",
+      "profile": "https://remanga.org/user/364625/about",
+      "avatar": "avatars/wertyservyt.jpg",
+      "initial": 233430,
+      "current": 284287,
+      "weekly": 0,
+      "baseline": 284287
+    },
+    "izdatelь": {
+      "display": "Издатель",
+      "profile": "https://remanga.org/user/2439923/about",
+      "avatar": "avatars/izdatelь.jpg",
+      "initial": 14780,
+      "current": 63483,
+      "weekly": 3000,
+      "baseline": 60483
+    },
+    "ronin74": {
+      "display": "Ronin74",
+      "profile": "https://remanga.org/user/76998/about",
+      "avatar": "avatars/ronin74.jpg",
+      "initial": 54200,
+      "current": 102850,
+      "weekly": 0,
+      "baseline": 102850
+    },
+    "mmarti": {
+      "display": "mmarti",
+      "profile": "https://remanga.org/user/184784/about",
+      "avatar": "avatars/mmarti.jpg",
+      "initial": 13000,
+      "current": 60000,
+      "weekly": 0,
+      "baseline": 60000
+    },
+    "cracker7": {
+      "display": "Cracker_7",
+      "profile": "https://remanga.org/user/197380/about",
+      "avatar": "avatars/cracker7.jpg",
+      "initial": 12000,
+      "current": 59000,
+      "weekly": 7500,
+      "baseline": 51500
+    },
+    "stas211242": {
+      "display": "stas211242",
+      "profile": "https://remanga.org/user/269608/about",
+      "avatar": "avatars/stas211242.jpg",
+      "initial": 12780,
+      "current": 59178,
+      "weekly": 3030,
+      "baseline": 56148
+    },
+    "festashka": {
+      "display": "_festashka_",
+      "profile": "https://remanga.org/user/199911/about",
+      "avatar": "avatars/festashka.jpg",
+      "initial": 8800,
+      "current": 54332,
+      "weekly": 6450,
+      "baseline": 47882
+    },
+    "so1omoon": {
+      "display": "So1oMooN",
+      "profile": "https://remanga.org/user/102035/about",
+      "avatar": "avatars/so1omoon.jpg",
+      "initial": 9000,
+      "current": 50600,
+      "weekly": 0,
+      "baseline": 50600
+    },
+    "belashik": {
+      "display": "Belashik",
+      "profile": "https://remanga.org/user/175047/about",
+      "avatar": "avatars/belashik.jpg",
+      "initial": 1200,
+      "current": 42103,
+      "weekly": 0,
+      "baseline": 42103
+    },
+    "alld995": {
+      "display": "AllD-995",
+      "profile": "https://remanga.org/user/453647/about",
+      "avatar": "avatars/alld995.jpg",
+      "initial": 17000,
+      "current": 56000,
+      "weekly": 2000,
+      "baseline": 54000
+    },
+    "akiragame": {
+      "display": "AkiraGame",
+      "profile": "https://remanga.org/user/1714962/about",
+      "avatar": "avatars/akiragame.jpg",
+      "initial": 9077,
+      "current": 47962,
+      "weekly": 62,
+      "baseline": 47900
+    },
+    "sckatman": {
+      "display": "Sckat_Man",
+      "profile": "https://remanga.org/user/136935/about",
+      "avatar": "avatars/sckatman.jpg",
+      "initial": 7220,
+      "current": 46001,
+      "weekly": 280,
+      "baseline": 45721
+    },
+    "samurafs": {
+      "display": "SamuraFs",
+      "profile": "https://remanga.org/user/93225/about",
+      "avatar": "avatars/samurafs.jpg",
+      "initial": 11000,
+      "current": 49500,
+      "weekly": 2000,
+      "baseline": 47500
+    },
+    "webru": {
+      "display": "WebRU",
+      "profile": "https://remanga.org/user/1727226/about",
+      "avatar": "avatars/webru.jpg",
+      "initial": 19820,
+      "current": 57161,
+      "weekly": 0,
+      "baseline": 57161
+    },
+    "jacksaifer": {
+      "display": "JackSaifer",
+      "profile": "https://remanga.org/user/349030/about",
+      "avatar": "avatars/jacksaifer.jpg",
+      "initial": 0,
+      "current": 37128,
+      "weekly": 8000,
+      "baseline": 29128
+    },
+    "beastx": {
+      "display": "Beast_x",
+      "profile": "https://remanga.org/user/1935045/about",
+      "avatar": "avatars/beastx.jpg",
+      "initial": 47130,
+      "current": 83957,
+      "weekly": 2121,
+      "baseline": 81836
+    },
+    "velialsalivan": {
+      "display": "Velial_Salivan",
+      "profile": "https://remanga.org/user/220375/about",
+      "avatar": "avatars/placeholder.jpg",
+      "initial": 10000,
+      "current": 44200,
+      "weekly": 0,
+      "baseline": 44200
+    },
+    "vallynor": {
+      "display": "Vallynor",
+      "profile": "https://remanga.org/user/876246/about",
+      "avatar": "avatars/vallynor.jpg",
+      "initial": 12000,
+      "current": 45000,
+      "weekly": 1000,
+      "baseline": 44000
+    },
+    "marlya": {
+      "display": "MarLya",
+      "profile": "https://remanga.org/user/209369/about",
+      "avatar": "avatars/marlya.jpg",
+      "initial": 0,
+      "current": 33000,
+      "weekly": 2000,
+      "baseline": 31000
+    },
+    "jdhdbx": {
+      "display": "Jdhdbx",
+      "profile": "https://remanga.org/user/1911610/about",
+      "avatar": "avatars/jdhdbx.jpg",
+      "initial": 12840,
+      "current": 45581,
+      "weekly": 0,
+      "baseline": 45581
+    },
+    "kost9n": {
+      "display": "KOST9N",
+      "profile": "https://remanga.org/user/48794/about",
+      "avatar": "avatars/kost9n.jpg",
+      "initial": 11000,
+      "current": 43660,
+      "weekly": 2000,
+      "baseline": 41660
+    },
+    "llikojioma": {
+      "display": "LLIKoJIoma",
+      "profile": "https://remanga.org/user/938430/about",
+      "avatar": "avatars/llikojioma.jpg",
+      "initial": 10500,
+      "current": 43010,
+      "weekly": 1000,
+      "baseline": 42010
+    },
+    "drri": {
+      "display": "Dr.Rи",
+      "profile": "https://remanga.org/user/823934/about",
+      "avatar": "avatars/drri.jpg",
+      "initial": 11000,
+      "current": 43000,
+      "weekly": 20000,
+      "baseline": 23000
+    },
+    "tenofmoses": {
+      "display": "tenofmoses",
+      "profile": "https://remanga.org/user/3176212/about",
+      "avatar": "avatars/tenofmoses.jpg",
+      "initial": 0,
+      "current": 31966,
+      "weekly": 0,
+      "baseline": 31966
+    },
+    "hatin": {
+      "display": "Hatin",
+      "profile": "https://remanga.org/user/2797890/about",
+      "avatar": "avatars/hatin.jpg",
+      "initial": 12900,
+      "current": 44780,
+      "weekly": 2348,
+      "baseline": 42432
+    },
+    "derwehrwolf": {
+      "display": "Der_Wehrwolf",
+      "profile": "https://remanga.org/user/2833636/about",
+      "avatar": "avatars/derwehrwolf.jpg",
+      "initial": 0,
+      "current": 31850,
+      "weekly": 3650,
+      "baseline": 28200
+    },
+    "etoromantic": {
+      "display": "etoRomantic",
+      "profile": "https://remanga.org/user/90646/about",
+      "avatar": "avatars/etoromantic.jpg",
+      "initial": 11000,
+      "current": 42716,
+      "weekly": 1273,
+      "baseline": 41443
+    },
+    "leyley": {
+      "display": "Ley-Ley",
+      "profile": "https://remanga.org/user/24708/about",
+      "avatar": "avatars/leyley.jpg",
+      "initial": 10100,
+      "current": 41500,
+      "weekly": 1000,
+      "baseline": 40500
+    },
+    "zatex": {
+      "display": "Zatex",
+      "profile": "https://remanga.org/user/246605/about",
+      "avatar": "avatars/zatex.jpg",
+      "initial": 14390,
+      "current": 44495,
+      "weekly": 0,
+      "baseline": 44495
+    },
+    "kim5+": {
+      "display": "Kim_5+",
+      "profile": "https://remanga.org/user/880531/about",
+      "avatar": "avatars/kim5+.jpg",
+      "initial": 10000,
+      "current": 40000,
+      "weekly": 0,
+      "baseline": 40000
+    },
+    "akihiko": {
+      "display": "Akihiko",
+      "profile": "https://remanga.org/user/183282/about",
+      "avatar": "avatars/akihiko.jpg",
+      "initial": 9000,
+      "current": 39000,
+      "weekly": 2000,
+      "baseline": 37000
+    },
+    "huahua": {
+      "display": "Hua-Hua",
+      "profile": "https://remanga.org/user/554143/about",
+      "avatar": "avatars/huahua.jpg",
+      "initial": 0,
+      "current": 30000,
+      "weekly": 2000,
+      "baseline": 28000
+    },
+    "ewobserver": {
+      "display": "EW_OBSERVER",
+      "profile": "https://remanga.org/user/141395/about",
+      "avatar": "avatars/ewobserver.jpg",
+      "initial": 70240,
+      "current": 100000,
+      "weekly": 0,
+      "baseline": 100000
+    },
+    "saytoriya": {
+      "display": "Saytoriya",
+      "profile": "https://remanga.org/user/126709/about",
+      "avatar": "avatars/saytoriya.jpg",
+      "initial": 11000,
+      "current": 40002,
+      "weekly": 1000,
+      "baseline": 39002
+    },
+    "sw1ty": {
+      "display": "Sw1ty",
+      "profile": "https://remanga.org/user/3154400/about",
+      "avatar": "avatars/sw1ty.jpg",
+      "initial": 11000,
+      "current": 40000,
+      "weekly": 500,
+      "baseline": 39500
+    },
+    "samurai": {
+      "display": "S.a.m.u.r.a.i.",
+      "profile": "https://remanga.org/user/396925/about",
+      "avatar": "avatars/samurai.jpg",
+      "initial": 11000,
+      "current": 40000,
+      "weekly": 1000,
+      "baseline": 39000
+    },
+    "kodokunayurei": {
+      "display": "KodokunaYurei",
+      "profile": "https://remanga.org/user/108546/about",
+      "avatar": "avatars/kodokunayurei.jpg",
+      "initial": 6750,
+      "current": 35711,
+      "weekly": 0,
+      "baseline": 35711
+    },
+    "alafex": {
+      "display": "Alafex",
+      "profile": "https://remanga.org/user/106279/about",
+      "avatar": "avatars/alafex.jpg",
+      "initial": 9000,
+      "current": 37149,
+      "weekly": 1000,
+      "baseline": 36149
+    },
+    "moonsh1ne": {
+      "display": "moonsh1ne",
+      "profile": "https://remanga.org/user/128587/about",
+      "avatar": "avatars/moonsh1ne.jpg",
+      "initial": 14890,
+      "current": 42584,
+      "weekly": 1000,
+      "baseline": 41584
+    },
+    "taпka66": {
+      "display": "Тапка66",
+      "profile": "https://remanga.org/user/1196239/about",
+      "avatar": "avatars/taпka66.jpg",
+      "initial": 0,
+      "current": 27500,
+      "weekly": 1500,
+      "baseline": 26000
+    },
+    "rubyrose": {
+      "display": "RUBYROSE",
+      "profile": "https://remanga.org/user/740757/about",
+      "avatar": "avatars/rubyrose.jpg",
+      "initial": 20450,
+      "current": 47476,
+      "weekly": 0,
+      "baseline": 47476
+    },
+    "fox94": {
+      "display": "Fox94",
+      "profile": "https://remanga.org/user/158404/about",
+      "avatar": "avatars/fox94.jpg",
+      "initial": 10750,
+      "current": 37350,
+      "weekly": 750,
+      "baseline": 36600
+    },
+    "bepmud": {
+      "display": "bepmud",
+      "profile": "https://remanga.org/user/390500/about",
+      "avatar": "avatars/bepmud.jpg",
+      "initial": 0,
+      "current": 26500,
+      "weekly": 14500,
+      "baseline": 12000
+    },
+    "nirol": {
+      "display": "Nirol",
+      "profile": "https://remanga.org/user/1450372/about",
+      "avatar": "avatars/nirol.jpg",
+      "initial": 26100,
+      "current": 52486,
+      "weekly": 1000,
+      "baseline": 51486
+    },
+    "oblakatt": {
+      "display": "OblakaT_T",
+      "profile": "https://remanga.org/user/474087/about",
+      "avatar": "avatars/oblakatt.jpg",
+      "initial": 13000,
+      "current": 39000,
+      "weekly": 0,
+      "baseline": 39000
+    },
+    "banshei": {
+      "display": "BanShei",
+      "profile": "https://remanga.org/user/204988/about",
+      "avatar": "avatars/banshei.jpg",
+      "initial": 11000,
+      "current": 37000,
+      "weekly": 2000,
+      "baseline": 35000
+    },
+    "heardand": {
+      "display": "Heardand",
+      "profile": "https://remanga.org/user/1575407/about",
+      "avatar": "avatars/heardand.jpg",
+      "initial": 0,
+      "current": 26000,
+      "weekly": 1000,
+      "baseline": 25000
+    },
+    "kintownskiy": {
+      "display": "kintownskiy",
+      "profile": "https://remanga.org/user/3983/about",
+      "avatar": "avatars/kintownskiy.jpg",
+      "initial": 15000,
+      "current": 39000,
+      "weekly": 0,
+      "baseline": 39000
+    },
+    "aggressive": {
+      "display": "-AGGRESSIVE-",
+      "profile": "https://remanga.org/user/1939125/about",
+      "avatar": "avatars/aggressive.jpg",
+      "initial": 7750,
+      "current": 31000,
+      "weekly": 750,
+      "baseline": 30250
+    },
+    "bigmen07": {
+      "display": "BigMen07",
+      "profile": "https://remanga.org/user/486583/about",
+      "avatar": "avatars/bigmen07.jpg",
+      "initial": 9000,
+      "current": 31500,
+      "weekly": 1000,
+      "baseline": 30500
+    },
+    "hazenberg": {
+      "display": "Hazenberg",
+      "profile": "https://remanga.org/user/612259/about",
+      "avatar": "avatars/hazenberg.jpg",
+      "initial": 9000,
+      "current": 31000,
+      "weekly": 4000,
+      "baseline": 27000
+    },
+    "dolinapekisetynь": {
+      "display": "ДолинаРекиСетунь",
+      "profile": "https://remanga.org/user/24432/about",
+      "avatar": "avatars/dolinapekisetynь.jpg",
+      "initial": 21750,
+      "current": 42730,
+      "weekly": 500,
+      "baseline": 42230
+    },
+    "acediaqq": {
+      "display": "Acediaqq",
+      "profile": "https://remanga.org/user/102335/about",
+      "avatar": "avatars/placeholder.jpg",
+      "initial": 9000,
+      "current": 29500,
+      "weekly": 0,
+      "baseline": 29500
+    },
+    "kaizaki": {
+      "display": "Kaizaki",
+      "profile": "https://remanga.org/user/40277/about",
+      "avatar": "avatars/kaizaki.jpg",
+      "initial": 20470,
+      "current": 40013,
+      "weekly": 0,
+      "baseline": 40013
+    },
+    "riverfreedom": {
+      "display": "RiverFreedom",
+      "profile": "https://remanga.org/user/3215284/about",
+      "avatar": "avatars/riverfreedom.jpg",
+      "initial": 15800,
+      "current": 34584,
+      "weekly": 0,
+      "baseline": 34584
+    },
+    "ミュージシャン": {
+      "display": "ミュージシャン",
+      "profile": "https://remanga.org/user/938359/about",
+      "avatar": "avatars/ミュージシャン.jpg",
+      "initial": 0,
+      "current": 18700,
+      "weekly": 0,
+      "baseline": 18700
+    },
+    "pilsyчk@": {
+      "display": "Рил_сучк@.",
+      "profile": "https://remanga.org/user/1245568/about",
+      "avatar": "avatars/pilsyчk@.jpg",
+      "initial": 10780,
+      "current": 28888,
+      "weekly": 0,
+      "baseline": 28888
+    },
+    "takahikoo": {
+      "display": "Takahikoo",
+      "profile": "https://remanga.org/user/3225144/about",
+      "avatar": "avatars/takahikoo.jpg",
+      "initial": 11000,
+      "current": 29000,
+      "weekly": 1000,
+      "baseline": 28000
+    },
+    "toktokareva": {
+      "display": "toktokareva",
+      "profile": "https://remanga.org/user/2123995/about",
+      "avatar": "avatars/placeholder.jpg",
+      "initial": 0,
+      "current": 17554,
+      "weekly": 1111,
+      "baseline": 16443
+    },
+    "petr66": {
+      "display": "Petr66",
+      "profile": "https://remanga.org/user/3210259/about",
+      "avatar": "avatars/petr66.jpg",
+      "initial": 5400,
+      "current": 22050,
+      "weekly": 1050,
+      "baseline": 21000
+    },
+    "rokywka": {
+      "display": "RokYwka",
+      "profile": "https://remanga.org/user/1339341/about",
+      "avatar": "avatars/rokywka.jpg",
+      "initial": 0,
+      "current": 16361,
+      "weekly": 2000,
+      "baseline": 14361
+    },
+    "necromant": {
+      "display": "necromant",
+      "profile": "https://remanga.org/user/1523481/about",
+      "avatar": "avatars/necromant.jpg",
+      "initial": 6020,
+      "current": 21965,
+      "weekly": 0,
+      "baseline": 21965
+    },
+    "tiltexist": {
+      "display": "TIltExist",
+      "profile": "https://remanga.org/user/98565/about",
+      "avatar": "avatars/tiltexist.jpg",
+      "initial": 28330,
+      "current": 42992,
+      "weekly": 386,
+      "baseline": 42606
+    },
+    "silenthill": {
+      "display": "SilentHill",
+      "profile": "https://remanga.org/user/54424/about",
+      "avatar": "avatars/silenthill.jpg",
+      "initial": 24000,
+      "current": 38500,
+      "weekly": 0,
+      "baseline": 38500
+    },
+    "meimei": {
+      "display": "mei_mei",
+      "profile": "https://remanga.org/user/52975/about",
+      "avatar": "avatars/meimei.jpg",
+      "initial": 15450,
+      "current": 29939,
+      "weekly": 0,
+      "baseline": 29939
+    },
+    "justea": {
+      "display": "Justea",
+      "profile": "https://remanga.org/user/911857/about",
+      "avatar": "avatars/justea.jpg",
+      "initial": 0,
+      "current": 14000,
+      "weekly": 1000,
+      "baseline": 13000
+    },
+    "dutif": {
+      "display": "Dutif",
+      "profile": "https://remanga.org/user/1896012/about",
+      "avatar": "avatars/dutif.jpg",
+      "initial": 0,
+      "current": 14000,
+      "weekly": 1000,
+      "baseline": 13000
+    },
+    "blackfoxik": {
+      "display": "Black_Foxik",
+      "profile": "https://remanga.org/user/3160150/about",
+      "avatar": "avatars/blackfoxik.jpg",
+      "initial": 0,
+      "current": 13829,
+      "weekly": 1000,
+      "baseline": 12829
+    },
+    "oniyokai": {
+      "display": "OniYokai",
+      "profile": "https://remanga.org/user/3137253/about",
+      "avatar": "avatars/oniyokai.jpg",
+      "initial": 0,
+      "current": 13131,
+      "weekly": 1000,
+      "baseline": 12131
+    },
+    "asesinadodios": {
+      "display": "asesinadoDios",
+      "profile": "https://remanga.org/user/514882/about",
+      "avatar": "avatars/asesinadodios.jpg",
+      "initial": 2500,
+      "current": 15316,
+      "weekly": 800,
+      "baseline": 14516
+    },
+    "oporlew": {
+      "display": "oporlew",
+      "profile": "https://remanga.org/user/2602/about",
+      "avatar": "avatars/oporlew.jpg",
+      "initial": 5000,
+      "current": 17264,
+      "weekly": 0,
+      "baseline": 17264
+    },
+    "谢怜": {
+      "display": ".谢怜.",
+      "profile": "https://remanga.org/user/164257/about",
+      "avatar": "avatars/谢怜.jpg",
+      "initial": 12000,
+      "current": 24000,
+      "weekly": 0,
+      "baseline": 24000
+    },
+    "kasatka": {
+      "display": "-Kasatka-",
+      "profile": "https://remanga.org/user/2439635/about",
+      "avatar": "avatars/kasatka.jpg",
+      "initial": 0,
+      "current": 11995,
+      "weekly": 1000,
+      "baseline": 10995
+    },
+    "alanhui": {
+      "display": "alan-hui",
+      "profile": "https://remanga.org/user/2336976/about",
+      "avatar": "avatars/alanhui.jpg",
+      "initial": 8660,
+      "current": 20462,
+      "weekly": 900,
+      "baseline": 19562
+    },
+    "reyrivman": {
+      "display": "-ReyRivman-",
+      "profile": "https://remanga.org/user/1967242/about",
+      "avatar": "avatars/reyrivman.jpg",
+      "initial": 0,
+      "current": 10550,
+      "weekly": 0,
+      "baseline": 10550
+    },
+    "ksinaur": {
+      "display": "KSinAur",
+      "profile": "https://remanga.org/user/3386416/about",
+      "avatar": "avatars/ksinaur.jpg",
+      "initial": 0,
+      "current": 10200,
+      "weekly": 0,
+      "baseline": 10200
+    },
+    "whitewold": {
+      "display": "WhiteWold",
+      "profile": "https://remanga.org/user/609928/about",
+      "avatar": "avatars/whitewold.jpg",
+      "initial": 0,
+      "current": 8000,
+      "weekly": 1000,
+      "baseline": 7000
+    },
+    "별팽귀": {
+      "display": "별팽귀",
+      "profile": "https://remanga.org/user/133044/about",
+      "avatar": "avatars/별팽귀.jpg",
+      "initial": 3700,
+      "current": 11557,
+      "weekly": 0,
+      "baseline": 11557
+    },
+    "loxobыknovennыi": {
+      "display": "ЛохОбыкновенный",
+      "profile": "https://remanga.org/user/1496494/about",
+      "avatar": "avatars/loxobыknovennыi.jpg",
+      "initial": 0,
+      "current": 7100,
+      "weekly": 0,
+      "baseline": 7100
+    },
+    "un1c0": {
+      "display": "un1c0",
+      "profile": "https://remanga.org/user/1045543/about",
+      "avatar": "avatars/un1c0.jpg",
+      "initial": 0,
+      "current": 7000,
+      "weekly": 0,
+      "baseline": 7000
+    },
+    "01010": {
+      "display": "01010",
+      "profile": "https://remanga.org/user/515041/about",
+      "avatar": "avatars/01010.jpg",
+      "initial": 0,
+      "current": 3000,
+      "weekly": 1000,
+      "baseline": 2000
+    },
+    "stitcha": {
+      "display": "StitchA",
+      "profile": "https://remanga.org/user/1793431/about",
+      "avatar": "avatars/stitcha.jpg",
+      "initial": 0,
+      "current": 2000,
+      "weekly": 0,
+      "baseline": 2000
+    },
+    "lisiibogyatogami": {
+      "display": "Лисий_Бог_Yatogami",
+      "profile": "https://remanga.org/user/168253/about",
+      "avatar": "avatars/lisiibogyatogami.jpg",
+      "initial": 0,
+      "current": 1500,
+      "weekly": 0,
+      "baseline": 1500
+    },
+    "suba7u": {
+      "display": "Suba7u",
+      "profile": "https://remanga.org/user/1602594/about",
+      "avatar": "avatars/suba7u.jpg",
+      "initial": 1,
+      "current": 421,
+      "weekly": 0,
+      "baseline": 421
+    },
+    "arbogastr": {
+      "display": "Arbogastr",
+      "profile": "https://remanga.org/user/993371/about",
+      "avatar": "avatars/arbogastr.jpg",
+      "initial": 17000,
+      "current": 7000,
+      "weekly": 0,
+      "baseline": 7000
+    },
+    "strangled": {
+      "display": "Strangled",
+      "profile": "https://remanga.org/user/3263817/about",
+      "avatar": "avatars/motherofdragons.jpg",
+      "initial": 20310,
+      "current": 42856,
+      "weekly": 0,
+      "baseline": 42856
+    },
+    "harutsu": {
+      "display": "Harutsu",
+      "profile": "https://remanga.org/user/415473/about",
+      "avatar": "avatars/harutsu.jpg",
+      "initial": 800,
+      "current": 25850,
+      "weekly": 0,
+      "baseline": 25850
+    },
+    "ewtaya": {
+      "display": "EW_Taya_",
+      "profile": "https://remanga.org/user/2325061/about",
+      "avatar": "avatars/ewtaya.jpg",
+      "initial": 750,
+      "current": 6482,
+      "weekly": 0,
+      "baseline": 6482
+    },
+    "axper00": {
+      "display": "𝑨𝑿𝑷𝑬𝑹_𝟎𝟎",
+      "profile": "https://remanga.org/user/3204383/about",
+      "avatar": "avatars/@toxic.jpg",
+      "initial": 23200,
+      "current": 46953,
+      "weekly": 0,
+      "baseline": 46953
+    },
+    "nichts": {
+      "display": ".𝕹𝖎𝖈𝖍𝖙𝖘.",
+      "profile": "https://remanga.org/user/3259037/about",
+      "avatar": "avatars/χάος.jpg",
+      "initial": 0,
+      "current": 7300,
+      "weekly": 0,
+      "baseline": 7300
+    },
+    "nanash": {
+      "display": "NANASH",
+      "profile": "https://remanga.org/user/742164/about",
+      "avatar": "avatars/dmitryflow.jpg",
+      "initial": 24000,
+      "current": 111003,
+      "weekly": 2000,
+      "baseline": 109003
+    },
+    "dpygчitatelei": {
+      "display": "Друг_Читателей",
+      "profile": "https://remanga.org/user/616372/about",
+      "avatar": "avatars/чitatelь+dpyg.jpg",
+      "initial": 10000,
+      "current": 36000,
+      "weekly": 1000,
+      "baseline": 35000
+    }
+  }
+}
