@@ -1849,6 +1849,15 @@
           "weekly": 729,
           "baseline": 50287
         },
+        "pilsyчk@": {
+          "display": "Рил_сучк@.",
+          "profile": "https://remanga.org/user/1245568/about",
+          "avatar": "avatars/pilsyчk@.jpg",
+          "initial": 10780,
+          "current": 32988,
+          "weekly": 1100,
+          "baseline": 31888
+        },
         "oporlew": {
           "display": "oporlew",
           "profile": "https://remanga.org/user/2602/about",
@@ -1857,15 +1866,6 @@
           "current": 26264,
           "weekly": 0,
           "baseline": 26264
-        },
-        "pilsyчk@": {
-          "display": "Рил_сучк@.",
-          "profile": "https://remanga.org/user/1245568/about",
-          "avatar": "avatars/pilsyчk@.jpg",
-          "initial": 10780,
-          "current": 31888,
-          "weekly": 0,
-          "baseline": 31888
         },
         "riverfreedom": {
           "display": "RiverFreedom",
