@@ -622,14 +622,14 @@
       "end_key": "2026-08-17_0025",
       "baseline": 111111,
       "min_seen": 111111,
-      "current": 111111,
+      "current": 111110,
       "weekly": 0,
       "period_ru": "с 10.08 по 17.08",
       "guild": "ШИЗА",
       "display": "anythingCosta",
-      "profile": "https://remanga.org/user/295434/about",
-      "avatar": "avatars/anythingcosta.jpg",
-      "ts": "2026-08-14T13:09:16.193567+03:00"
+      "profile": "https://remanga.org",
+      "avatar": "avatars/placeholder.jpg",
+      "ts": "2026-08-14T13:14:40.846557+03:00"
     }
   ]
 }
