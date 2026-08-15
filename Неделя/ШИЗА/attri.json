@@ -622,14 +622,14 @@
       "end_key": "2026-08-17_0025",
       "baseline": 60000,
       "min_seen": 60000,
-      "current": 60000,
+      "current": 50000,
       "weekly": 0,
       "period_ru": "с 10.08 по 17.08",
       "guild": "ШИЗА",
       "display": "Attri",
-      "profile": "https://remanga.org/user/46078/about",
-      "avatar": "avatars/attri.jpg",
-      "ts": "2026-08-15T15:39:16.896336+03:00"
+      "profile": "https://remanga.org",
+      "avatar": "avatars/placeholder.jpg",
+      "ts": "2026-08-15T15:44:57.950117+03:00"
     }
   ]
 }

@@ -622,14 +622,14 @@
       "end_key": "2026-08-17_0025",
       "baseline": 119600,
       "min_seen": 119600,
-      "current": 119600,
+      "current": 65000,
       "weekly": 0,
       "period_ru": "с 10.08 по 17.08",
       "guild": "Eternal Watchers",
       "display": "EW_NoBoN",
-      "profile": "https://remanga.org/user/155090/about",
-      "avatar": "avatars/ewnobon.jpg",
-      "ts": "2026-08-15T15:39:12.213175+03:00"
+      "profile": "https://remanga.org",
+      "avatar": "avatars/placeholder.jpg",
+      "ts": "2026-08-15T15:44:53.297494+03:00"
     }
   ]
 }
