@@ -450,6 +450,15 @@
           "weekly": 0,
           "baseline": 31770
         },
+        "rokywka": {
+          "display": "RokYwka",
+          "profile": "https://remanga.org/user/1339341/about",
+          "avatar": "avatars/rokywka.jpg",
+          "initial": 3000,
+          "current": 25955,
+          "weekly": 1000,
+          "baseline": 24955
+        },
         "tokkebi11": {
           "display": "ToKKeBi11",
           "profile": "https://remanga.org/user/1132063/about",
@@ -458,15 +467,6 @@
           "current": 33433,
           "weekly": 0,
           "baseline": 33433
-        },
-        "rokywka": {
-          "display": "RokYwka",
-          "profile": "https://remanga.org/user/1339341/about",
-          "avatar": "avatars/rokywka.jpg",
-          "initial": 3000,
-          "current": 24955,
-          "weekly": 0,
-          "baseline": 24955
         },
         "efiliyens": {
           "display": "Efiliyens",
