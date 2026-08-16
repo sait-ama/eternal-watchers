@@ -1228,6 +1228,15 @@
           "weekly": 0,
           "baseline": 149004
         },
+        "sckatman": {
+          "display": "Sckat_Man",
+          "profile": "https://remanga.org/user/136935/about",
+          "avatar": "avatars/sckatman.jpg",
+          "initial": 7220,
+          "current": 93631,
+          "weekly": 5133,
+          "baseline": 88498
+        },
         "izdatelь": {
           "display": "Издатель",
           "profile": "https://remanga.org/user/2439923/about",
@@ -1236,15 +1245,6 @@
           "current": 100639,
           "weekly": 0,
           "baseline": 100639
-        },
-        "sckatman": {
-          "display": "Sckat_Man",
-          "profile": "https://remanga.org/user/136935/about",
-          "avatar": "avatars/sckatman.jpg",
-          "initial": 7220,
-          "current": 92323,
-          "weekly": 3825,
-          "baseline": 88498
         },
         "alld995": {
           "display": "AllD-995",
