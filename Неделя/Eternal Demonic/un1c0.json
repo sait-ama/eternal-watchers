@@ -574,6 +574,20 @@
       "profile": "https://remanga.org/user/1045543/about",
       "avatar": "avatars/un1c0.jpg",
       "ts": "2026-08-17T00:29:14.348890+03:00"
+    },
+    {
+      "start_key": "2026-08-17_0030",
+      "end_key": "2026-08-24_0025",
+      "baseline": 11000,
+      "min_seen": 11000,
+      "current": 11000,
+      "weekly": 0,
+      "period_ru": "с 17.08 по 24.08",
+      "guild": "Eternal Demonic",
+      "display": "un1c0",
+      "profile": "https://remanga.org/user/1045543/about",
+      "avatar": "avatars/un1c0.jpg",
+      "ts": "2026-08-17T00:34:14.138618+03:00"
     }
   ]
 }

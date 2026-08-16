@@ -630,6 +630,20 @@
       "profile": "https://remanga.org/user/3225144/about",
       "avatar": "avatars/takahikoo.jpg",
       "ts": "2026-08-17T00:29:14.348890+03:00"
+    },
+    {
+      "start_key": "2026-08-17_0030",
+      "end_key": "2026-08-24_0025",
+      "baseline": 40000,
+      "min_seen": 40000,
+      "current": 40000,
+      "weekly": 0,
+      "period_ru": "с 17.08 по 24.08",
+      "guild": "Eternal Demonic",
+      "display": "Takahikoo",
+      "profile": "https://remanga.org/user/3225144/about",
+      "avatar": "avatars/takahikoo.jpg",
+      "ts": "2026-08-17T00:34:14.138618+03:00"
     }
   ]
 }
