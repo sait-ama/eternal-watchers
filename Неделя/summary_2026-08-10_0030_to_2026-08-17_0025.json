@@ -1363,6 +1363,15 @@
           "weekly": 0,
           "baseline": 67981
         },
+        "etoromantic": {
+          "display": "etoRomantic",
+          "profile": "https://remanga.org/user/90646/about",
+          "avatar": "avatars/etoromantic.jpg",
+          "initial": 11000,
+          "current": 67419,
+          "weekly": 2500,
+          "baseline": 64919
+        },
         "llikojioma": {
           "display": "LLIKoJIoma",
           "profile": "https://remanga.org/user/938430/about",
@@ -1380,15 +1389,6 @@
           "current": 69237,
           "weekly": 50,
           "baseline": 69187
-        },
-        "etoromantic": {
-          "display": "etoRomantic",
-          "profile": "https://remanga.org/user/90646/about",
-          "avatar": "avatars/etoromantic.jpg",
-          "initial": 11000,
-          "current": 64919,
-          "weekly": 0,
-          "baseline": 64919
         },
         "kost9n": {
           "display": "KOST9N",
