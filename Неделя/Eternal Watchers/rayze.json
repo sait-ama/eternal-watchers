@@ -622,14 +622,14 @@
       "end_key": "2026-08-17_0025",
       "baseline": 28307,
       "min_seen": 28307,
-      "current": 28307,
+      "current": 15730,
       "weekly": 0,
       "period_ru": "с 10.08 по 17.08",
       "guild": "Eternal Watchers",
       "display": "rayze",
-      "profile": "https://remanga.org/user/108995/about",
-      "avatar": "avatars/rayze.jpg",
-      "ts": "2026-08-16T04:14:11.518652+03:00"
+      "profile": "https://remanga.org",
+      "avatar": "avatars/placeholder.jpg",
+      "ts": "2026-08-16T04:20:08.672017+03:00"
     }
   ]
 }

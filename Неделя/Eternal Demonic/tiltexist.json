@@ -622,14 +622,14 @@
       "end_key": "2026-08-17_0025",
       "baseline": 50287,
       "min_seen": 50287,
-      "current": 51016,
-      "weekly": 729,
+      "current": 28330,
+      "weekly": 0,
       "period_ru": "с 10.08 по 17.08",
       "guild": "Eternal Demonic",
       "display": "TIltExist",
-      "profile": "https://remanga.org/user/98565/about",
-      "avatar": "avatars/tiltexist.jpg",
-      "ts": "2026-08-16T04:14:13.194789+03:00"
+      "profile": "https://remanga.org",
+      "avatar": "avatars/placeholder.jpg",
+      "ts": "2026-08-16T04:20:10.565610+03:00"
     }
   ]
 }

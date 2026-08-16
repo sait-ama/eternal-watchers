@@ -622,14 +622,14 @@
       "end_key": "2026-08-17_0025",
       "baseline": 115229,
       "min_seen": 115229,
-      "current": 115229,
+      "current": 60640,
       "weekly": 0,
       "period_ru": "с 10.08 по 17.08",
       "guild": "Eternal Watchers",
       "display": "desport",
-      "profile": "https://remanga.org/user/216019/about",
-      "avatar": "avatars/desport.jpg",
-      "ts": "2026-08-16T04:14:11.518652+03:00"
+      "profile": "https://remanga.org",
+      "avatar": "avatars/placeholder.jpg",
+      "ts": "2026-08-16T04:20:08.672017+03:00"
     }
   ]
 }

@@ -622,14 +622,14 @@
       "end_key": "2026-08-17_0025",
       "baseline": 71522,
       "min_seen": 71522,
-      "current": 71522,
+      "current": 29570,
       "weekly": 0,
       "period_ru": "с 10.08 по 17.08",
       "guild": "ШИЗА",
       "display": "DarQee",
-      "profile": "https://remanga.org/user/2234201/about",
-      "avatar": "avatars/darqee.jpg",
-      "ts": "2026-08-16T04:14:14.466081+03:00"
+      "profile": "https://remanga.org",
+      "avatar": "avatars/placeholder.jpg",
+      "ts": "2026-08-16T04:20:11.843156+03:00"
     }
   ]
 }
