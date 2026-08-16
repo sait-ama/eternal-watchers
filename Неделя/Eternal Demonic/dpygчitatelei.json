@@ -636,14 +636,14 @@
       "end_key": "2026-08-24_0025",
       "baseline": 55000,
       "min_seen": 55000,
-      "current": 55000,
-      "weekly": 0,
+      "current": 56000,
+      "weekly": 1000,
       "period_ru": "с 17.08 по 24.08",
       "guild": "Eternal Demonic",
       "display": "Друг_Читателей",
       "profile": "https://remanga.org/user/616372/about",
       "avatar": "avatars/dpygчitatelei.jpg",
-      "ts": "2026-08-17T00:54:13.105416+03:00"
+      "ts": "2026-08-17T00:59:13.146620+03:00"
     }
   ]
 }
