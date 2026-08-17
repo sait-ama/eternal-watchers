@@ -636,14 +636,14 @@
       "end_key": "2026-08-24_0025",
       "baseline": 65000,
       "min_seen": 65000,
-      "current": 65000,
-      "weekly": 0,
+      "current": 66000,
+      "weekly": 1000,
       "period_ru": "с 17.08 по 24.08",
       "guild": "Eternal Demonic",
       "display": "Vallynor",
       "profile": "https://remanga.org/user/876246/about",
       "avatar": "avatars/vallynor.jpg",
-      "ts": "2026-08-17T17:14:12.658141+03:00"
+      "ts": "2026-08-17T17:19:12.550668+03:00"
     }
   ]
 }
