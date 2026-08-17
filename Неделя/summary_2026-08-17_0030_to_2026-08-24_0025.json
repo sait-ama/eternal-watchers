@@ -486,6 +486,15 @@
           "weekly": 0,
           "baseline": 49398
         },
+        "dergauss": {
+          "display": "Dergauss",
+          "profile": "https://remanga.org/user/57091/about",
+          "avatar": "avatars/dergauss.jpg",
+          "initial": 14000,
+          "current": 35200,
+          "weekly": 700,
+          "baseline": 34500
+        },
         "vladosrat": {
           "display": "vladosrat",
           "profile": "https://remanga.org/user/1037182/about",
@@ -494,15 +503,6 @@
           "current": 68308,
           "weekly": 0,
           "baseline": 68308
-        },
-        "dergauss": {
-          "display": "Dergauss",
-          "profile": "https://remanga.org/user/57091/about",
-          "avatar": "avatars/dergauss.jpg",
-          "initial": 14000,
-          "current": 34500,
-          "weekly": 0,
-          "baseline": 34500
         },
         "rezord": {
           "display": "rezord",
