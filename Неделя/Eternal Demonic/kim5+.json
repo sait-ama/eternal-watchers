@@ -636,14 +636,14 @@
       "end_key": "2026-08-24_0025",
       "baseline": 63000,
       "min_seen": 63000,
-      "current": 63000,
-      "weekly": 0,
+      "current": 64000,
+      "weekly": 1000,
       "period_ru": "с 17.08 по 24.08",
       "guild": "Eternal Demonic",
       "display": "Kim_5+",
       "profile": "https://remanga.org/user/880531/about",
       "avatar": "avatars/kim5+.jpg",
-      "ts": "2026-08-17T11:19:13.457099+03:00"
+      "ts": "2026-08-17T11:24:13.600962+03:00"
     }
   ]
 }
