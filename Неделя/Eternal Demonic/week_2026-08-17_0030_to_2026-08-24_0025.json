@@ -521,6 +521,15 @@
       "weekly": 0,
       "baseline": 42103
     },
+    "justea": {
+      "display": "Justea",
+      "profile": "https://remanga.org/user/911857/about",
+      "avatar": "avatars/justea.jpg",
+      "initial": 0,
+      "current": 40200,
+      "weekly": 1000,
+      "baseline": 39200
+    },
     "rubyrose": {
       "display": "RUBYROSE",
       "profile": "https://remanga.org/user/740757/about",
@@ -547,15 +556,6 @@
       "current": 50200,
       "weekly": 0,
       "baseline": 50200
-    },
-    "justea": {
-      "display": "Justea",
-      "profile": "https://remanga.org/user/911857/about",
-      "avatar": "avatars/justea.jpg",
-      "initial": 0,
-      "current": 39200,
-      "weekly": 0,
-      "baseline": 39200
     },
     "toktokareva": {
       "display": "toktokareva",
