@@ -26,15 +26,6 @@
       "weekly": 0,
       "baseline": 70980
     },
-    "rubyrose": {
-      "display": "RUBYROSE",
-      "profile": "https://remanga.org/user/740757/about",
-      "avatar": "avatars/rubyrose.jpg",
-      "initial": 20450,
-      "current": 42290,
-      "weekly": 1320,
-      "baseline": 40970
-    },
     "stas211242": {
       "display": "stas211242",
       "profile": "https://remanga.org/user/269608/about",
@@ -637,6 +628,15 @@
       "current": 18000,
       "weekly": 1000,
       "baseline": 17000
+    },
+    "vampcolumbine": {
+      "display": "VampColumbine",
+      "profile": "https://remanga.org/user/740757/about",
+      "avatar": "avatars/rubyrose.jpg",
+      "initial": 20450,
+      "current": 42290,
+      "weekly": 1320,
+      "baseline": 40970
     }
   }
 }
