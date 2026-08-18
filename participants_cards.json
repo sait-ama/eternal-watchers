@@ -76305,11 +76305,6 @@
     "author_id": 117177,
     "cards": []
   },
-  "rubyrose": {
-    "display": "RUBYROSE",
-    "author_id": 740757,
-    "cards": []
-  },
   "razvratnuk": {
     "display": "RaZvRatNuk",
     "author_id": 21098,
@@ -96234,6 +96229,11 @@
   "vallynor": {
     "display": "Vallynor",
     "author_id": 876246,
+    "cards": []
+  },
+  "vampcolumbine": {
+    "display": "VampColumbine",
+    "author_id": 740757,
     "cards": []
   },
   "velialsalivan": {
@@ -126043,6 +126043,20 @@
     "author_id": 210114,
     "cards": [
       {
+        "id": 215789,
+        "title": "Card 215789",
+        "cover": "https://remanga.org/media/card-item/cover_9e150e64e19f4ebe.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/215789"
+      },
+      {
+        "id": 215787,
+        "title": "Card 215787",
+        "cover": "https://remanga.org/media/card-item/cover_5ad839a886544314.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/215787"
+      },
+      {
         "id": 194657,
         "title": "Card 194657",
         "cover": "https://remanga.org/media/card-item/cover_71a2a72ef0e44812.webp",
@@ -126498,6 +126512,13 @@
         "url": "https://remanga.org/card/135629"
       },
       {
+        "id": 215786,
+        "title": "Card 215786",
+        "cover": "https://remanga.org/media/card-item/cover_d313bda633044d5c.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/215786"
+      },
+      {
         "id": 191137,
         "title": "Card 191137",
         "cover": "https://remanga.org/media/card-item/cover_287ed27e208f4b3b.webp",
@@ -126925,6 +126946,13 @@
         "url": "https://remanga.org/card/137322"
       },
       {
+        "id": 215785,
+        "title": "Card 215785",
+        "cover": "https://remanga.org/media/card-item/cover_27bd167f476340c7.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/215785"
+      },
+      {
         "id": 191136,
         "title": "Card 191136",
         "cover": "https://remanga.org/media/card-item/cover_3c9c1e01689e44eb.webp",
@@ -127343,6 +127371,13 @@
         "cover": "https://remanga.org/media/card-item/cover_e65b81f1.webp",
         "rarity": "",
         "url": "https://remanga.org/card/129121"
+      },
+      {
+        "id": 215784,
+        "title": "Card 215784",
+        "cover": "https://remanga.org/media/card-item/cover_e94023b70c554dab.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/215784"
       },
       {
         "id": 191135,
