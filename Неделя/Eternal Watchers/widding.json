@@ -286,14 +286,14 @@
       "end_key": "2026-08-24_0025",
       "baseline": 59500,
       "min_seen": 59500,
-      "current": 59500,
+      "current": 30600,
       "weekly": 0,
       "period_ru": "с 17.08 по 24.08",
       "guild": "Eternal Watchers",
       "display": "WidDing",
-      "profile": "https://remanga.org/user/888106/about",
-      "avatar": "avatars/widding.jpg",
-      "ts": "2026-08-18T20:24:12.818149+03:00"
+      "profile": "https://remanga.org",
+      "avatar": "avatars/placeholder.jpg",
+      "ts": "2026-08-18T20:30:08.888464+03:00"
     }
   ]
 }

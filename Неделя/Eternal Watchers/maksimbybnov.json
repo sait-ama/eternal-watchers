@@ -468,14 +468,14 @@
       "end_key": "2026-08-24_0025",
       "baseline": 43300,
       "min_seen": 43300,
-      "current": 43300,
+      "current": 0,
       "weekly": 0,
       "period_ru": "с 17.08 по 24.08",
       "guild": "Eternal Watchers",
       "display": "МаксимБубнов",
-      "profile": "https://remanga.org/user/3503844/about",
-      "avatar": "avatars/maksimbybnov.jpg",
-      "ts": "2026-08-18T20:24:12.818149+03:00"
+      "profile": "https://remanga.org",
+      "avatar": "avatars/placeholder.jpg",
+      "ts": "2026-08-18T20:30:08.888464+03:00"
     }
   ]
 }

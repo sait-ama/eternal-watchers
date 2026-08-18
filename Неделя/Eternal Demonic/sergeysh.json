@@ -230,14 +230,14 @@
       "end_key": "2026-08-24_0025",
       "baseline": 5500,
       "min_seen": 5500,
-      "current": 5500,
+      "current": 700,
       "weekly": 0,
       "period_ru": "с 17.08 по 24.08",
       "guild": "Eternal Demonic",
       "display": "Sergey-Sh",
-      "profile": "https://remanga.org/user/605765/about",
-      "avatar": "avatars/sergeysh.jpg",
-      "ts": "2026-08-18T20:24:14.412887+03:00"
+      "profile": "https://remanga.org",
+      "avatar": "avatars/placeholder.jpg",
+      "ts": "2026-08-18T20:30:10.618928+03:00"
     }
   ]
 }

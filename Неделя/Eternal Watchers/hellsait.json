@@ -636,14 +636,14 @@
       "end_key": "2026-08-24_0025",
       "baseline": 10259,
       "min_seen": 10259,
-      "current": 10259,
+      "current": 9880,
       "weekly": 0,
       "period_ru": "с 17.08 по 24.08",
       "guild": "Eternal Watchers",
       "display": "Hellsait",
-      "profile": "https://remanga.org/user/2906080/about",
-      "avatar": "avatars/hellsait.jpg",
-      "ts": "2026-08-18T20:24:12.818149+03:00"
+      "profile": "https://remanga.org",
+      "avatar": "avatars/placeholder.jpg",
+      "ts": "2026-08-18T20:30:08.888464+03:00"
     }
   ]
 }

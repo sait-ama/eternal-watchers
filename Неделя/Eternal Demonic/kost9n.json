@@ -636,14 +636,14 @@
       "end_key": "2026-08-24_0025",
       "baseline": 64655,
       "min_seen": 64655,
-      "current": 65655,
-      "weekly": 1000,
+      "current": 11000,
+      "weekly": 0,
       "period_ru": "с 17.08 по 24.08",
       "guild": "Eternal Demonic",
       "display": "KOST9N",
-      "profile": "https://remanga.org/user/48794/about",
-      "avatar": "avatars/kost9n.jpg",
-      "ts": "2026-08-18T20:24:14.412887+03:00"
+      "profile": "https://remanga.org",
+      "avatar": "avatars/placeholder.jpg",
+      "ts": "2026-08-18T20:30:10.618928+03:00"
     }
   ]
 }

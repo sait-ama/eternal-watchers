@@ -636,14 +636,14 @@
       "end_key": "2026-08-24_0025",
       "baseline": 113768,
       "min_seen": 113768,
-      "current": 121068,
-      "weekly": 7300,
+      "current": 11000,
+      "weekly": 0,
       "period_ru": "с 17.08 по 24.08",
       "guild": "Eternal Demonic",
       "display": "Амен",
-      "profile": "https://remanga.org/user/993301/about",
-      "avatar": "avatars/amen.jpg",
-      "ts": "2026-08-18T20:24:14.412887+03:00"
+      "profile": "https://remanga.org",
+      "avatar": "avatars/placeholder.jpg",
+      "ts": "2026-08-18T20:30:10.618928+03:00"
     }
   ]
 }

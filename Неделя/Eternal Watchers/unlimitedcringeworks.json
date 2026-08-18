@@ -636,14 +636,14 @@
       "end_key": "2026-08-24_0025",
       "baseline": 55000,
       "min_seen": 55000,
-      "current": 55000,
+      "current": 8000,
       "weekly": 0,
       "period_ru": "с 17.08 по 24.08",
       "guild": "Eternal Watchers",
       "display": "UnlimitedCringeWorks",
-      "profile": "https://remanga.org/user/3037204/about",
-      "avatar": "avatars/unlimitedcringeworks.jpg",
-      "ts": "2026-08-18T20:24:12.818149+03:00"
+      "profile": "https://remanga.org",
+      "avatar": "avatars/placeholder.jpg",
+      "ts": "2026-08-18T20:30:08.888464+03:00"
     }
   ]
 }

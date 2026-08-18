@@ -468,14 +468,14 @@
       "end_key": "2026-08-24_0025",
       "baseline": 26995,
       "min_seen": 26995,
-      "current": 26995,
+      "current": 0,
       "weekly": 0,
       "period_ru": "с 17.08 по 24.08",
       "guild": "Eternal Demonic",
       "display": "-Kasatka-",
-      "profile": "https://remanga.org/user/2439635/about",
-      "avatar": "avatars/kasatka.jpg",
-      "ts": "2026-08-18T20:24:14.412887+03:00"
+      "profile": "https://remanga.org",
+      "avatar": "avatars/placeholder.jpg",
+      "ts": "2026-08-18T20:30:10.618928+03:00"
     }
   ]
 }
