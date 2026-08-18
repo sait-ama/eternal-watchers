@@ -1615,6 +1615,15 @@
           "weekly": 0,
           "baseline": 65241
         },
+        "banshei": {
+          "display": "BanShei",
+          "profile": "https://remanga.org/user/204988/about",
+          "avatar": "avatars/banshei.jpg",
+          "initial": 11000,
+          "current": 53000,
+          "weekly": 1000,
+          "baseline": 52000
+        },
         "heardand": {
           "display": "Heardand",
           "profile": "https://remanga.org/user/1575407/about",
@@ -1632,15 +1641,6 @@
           "current": 41500,
           "weekly": 0,
           "baseline": 41500
-        },
-        "banshei": {
-          "display": "BanShei",
-          "profile": "https://remanga.org/user/204988/about",
-          "avatar": "avatars/banshei.jpg",
-          "initial": 11000,
-          "current": 52000,
-          "weekly": 0,
-          "baseline": 52000
         },
         "belashik": {
           "display": "Belashik",
