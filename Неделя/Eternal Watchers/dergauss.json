@@ -636,14 +636,14 @@
       "end_key": "2026-08-24_0025",
       "baseline": 34500,
       "min_seen": 34500,
-      "current": 14000,
-      "weekly": 0,
+      "current": 35200,
+      "weekly": 700,
       "period_ru": "с 17.08 по 24.08",
       "guild": "Eternal Watchers",
       "display": "Dergauss",
-      "profile": "https://remanga.org",
-      "avatar": "avatars/placeholder.jpg",
-      "ts": "2026-08-20T01:59:11.179958+03:00"
+      "profile": "https://remanga.org/user/57091/about",
+      "avatar": "avatars/dergauss.jpg",
+      "ts": "2026-08-20T02:04:11.246305+03:00"
     }
   ]
 }
