@@ -636,14 +636,14 @@
       "end_key": "2026-08-24_0025",
       "baseline": 231997,
       "min_seen": 231997,
-      "current": 231997,
+      "current": 149100,
       "weekly": 0,
       "period_ru": "с 17.08 по 24.08",
       "guild": "Eternal Watchers",
       "display": "Belashik",
-      "profile": "https://remanga.org/user/175047/about",
-      "avatar": "avatars/belashik.jpg",
-      "ts": "2026-08-20T01:49:11.188338+03:00"
+      "profile": "https://remanga.org",
+      "avatar": "avatars/placeholder.jpg",
+      "ts": "2026-08-20T01:54:11.187689+03:00"
     }
   ]
 }

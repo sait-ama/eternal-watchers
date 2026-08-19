@@ -524,14 +524,14 @@
       "end_key": "2026-08-24_0025",
       "baseline": 43000,
       "min_seen": 43000,
-      "current": 43000,
+      "current": 0,
       "weekly": 0,
       "period_ru": "с 17.08 по 24.08",
       "guild": "Eternal Demonic",
       "display": "Der_Wehrwolf",
-      "profile": "https://remanga.org/user/2833636/about",
-      "avatar": "avatars/derwehrwolf.jpg",
-      "ts": "2026-08-20T01:49:12.760433+03:00"
+      "profile": "https://remanga.org",
+      "avatar": "avatars/placeholder.jpg",
+      "ts": "2026-08-20T01:54:12.772804+03:00"
     }
   ]
 }
