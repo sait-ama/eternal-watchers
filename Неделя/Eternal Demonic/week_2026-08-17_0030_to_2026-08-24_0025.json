@@ -215,6 +215,15 @@
       "weekly": 0,
       "baseline": 60500
     },
+    "etoromantic": {
+      "display": "etoRomantic",
+      "profile": "https://remanga.org/user/90646/about",
+      "avatar": "avatars/etoromantic.jpg",
+      "initial": 11000,
+      "current": 69419,
+      "weekly": 2000,
+      "baseline": 67419
+    },
     "jacksaifer": {
       "display": "JackSaifer",
       "profile": "https://remanga.org/user/349030/about",
@@ -232,15 +241,6 @@
       "current": 67981,
       "weekly": 0,
       "baseline": 67981
-    },
-    "etoromantic": {
-      "display": "etoRomantic",
-      "profile": "https://remanga.org/user/90646/about",
-      "avatar": "avatars/etoromantic.jpg",
-      "initial": 11000,
-      "current": 67419,
-      "weekly": 0,
-      "baseline": 67419
     },
     "llikojioma": {
       "display": "LLIKoJIoma",
