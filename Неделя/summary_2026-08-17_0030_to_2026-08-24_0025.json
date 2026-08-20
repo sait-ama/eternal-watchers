@@ -2078,6 +2078,15 @@
           "weekly": 0,
           "baseline": 21000
         },
+        "yepkive": {
+          "display": "yepkive",
+          "profile": "https://remanga.org/user/1709347/about",
+          "avatar": "avatars/yepkive.jpg",
+          "initial": 8000,
+          "current": 21468,
+          "weekly": 960,
+          "baseline": 20508
+        },
         "фiolkotёnok": {
           "display": "Фиолкотёнок",
           "profile": "https://remanga.org/user/1245035/about",
@@ -2086,15 +2095,6 @@
           "current": 20600,
           "weekly": 0,
           "baseline": 20600
-        },
-        "yepkive": {
-          "display": "yepkive",
-          "profile": "https://remanga.org/user/1709347/about",
-          "avatar": "avatars/yepkive.jpg",
-          "initial": 8000,
-          "current": 20508,
-          "weekly": 0,
-          "baseline": 20508
         },
         "lest": {
           "display": "Ле-Ст",
