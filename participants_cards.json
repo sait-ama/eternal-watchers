@@ -62451,6 +62451,13 @@
     "author_id": 2350456,
     "cards": [
       {
+        "id": 216302,
+        "title": "Card 216302",
+        "cover": "https://remanga.org/media/card-item/cover_cef36cbc80404383.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/216302"
+      },
+      {
         "id": 216015,
         "title": "Card 216015",
         "cover": "https://remanga.org/media/card-item/cover_b2f39ef20a674dce.webp",
@@ -63667,6 +63674,13 @@
         "cover": "https://remanga.org/media/card-item/cover_88bb5414.webp",
         "rarity": "",
         "url": "https://remanga.org/card/70557"
+      },
+      {
+        "id": 216295,
+        "title": "Card 216295",
+        "cover": "https://remanga.org/media/card-item/cover_3692021351f24cfc.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/216295"
       },
       {
         "id": 216014,
