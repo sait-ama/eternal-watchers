@@ -1876,6 +1876,15 @@
           "weekly": 0,
           "baseline": 34584
         },
+        "lexapro420": {
+          "display": "Lexapro420",
+          "profile": "https://remanga.org/user/1226860/about",
+          "avatar": "avatars/lexapro420.jpg",
+          "initial": 3000,
+          "current": 20000,
+          "weekly": 1000,
+          "baseline": 19000
+        },
         "necromant": {
           "display": "necromant",
           "profile": "https://remanga.org/user/1523481/about",
@@ -1893,15 +1902,6 @@
           "current": 31686,
           "weekly": 0,
           "baseline": 31686
-        },
-        "lexapro420": {
-          "display": "Lexapro420",
-          "profile": "https://remanga.org/user/1226860/about",
-          "avatar": "avatars/lexapro420.jpg",
-          "initial": 3000,
-          "current": 19000,
-          "weekly": 0,
-          "baseline": 19000
         },
         "silenthill": {
           "display": "SilentHill",
