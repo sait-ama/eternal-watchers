@@ -182,6 +182,20 @@
       "profile": "https://remanga.org/user/515041/about",
       "avatar": "avatars/01010.jpg",
       "ts": "2026-08-24T00:29:11.081652+03:00"
+    },
+    {
+      "start_key": "2026-08-24_0030",
+      "end_key": "2026-08-31_0025",
+      "baseline": 3000,
+      "min_seen": 3000,
+      "current": 3000,
+      "weekly": 0,
+      "period_ru": "с 24.08 по 31.08",
+      "guild": "Eternal Watchers",
+      "display": "01010",
+      "profile": "https://remanga.org/user/515041/about",
+      "avatar": "avatars/01010.jpg",
+      "ts": "2026-08-24T00:34:11.152931+03:00"
     }
   ]
 }
