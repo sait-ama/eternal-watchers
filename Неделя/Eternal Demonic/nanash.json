@@ -636,14 +636,14 @@
       "end_key": "2026-08-24_0025",
       "baseline": 157003,
       "min_seen": 157003,
-      "current": 157003,
-      "weekly": 0,
+      "current": 158003,
+      "weekly": 1000,
       "period_ru": "с 17.08 по 24.08",
       "guild": "Eternal Demonic",
       "display": "NANASH",
       "profile": "https://remanga.org/user/742164/about",
       "avatar": "avatars/nanash.jpg",
-      "ts": "2026-08-23T15:59:12.894073+03:00"
+      "ts": "2026-08-23T16:04:12.918754+03:00"
     }
   ]
 }
