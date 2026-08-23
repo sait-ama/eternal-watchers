@@ -422,6 +422,15 @@
       "weekly": 0,
       "baseline": 56200
     },
+    "saytoriya": {
+      "display": "Saytoriya",
+      "profile": "https://remanga.org/user/126709/about",
+      "avatar": "avatars/saytoriya.jpg",
+      "initial": 11000,
+      "current": 57002,
+      "weekly": 1000,
+      "baseline": 56002
+    },
     "dpygчitatelei": {
       "display": "Друг_Читателей",
       "profile": "https://remanga.org/user/616372/about",
@@ -430,15 +439,6 @@
       "current": 56000,
       "weekly": 1000,
       "baseline": 55000
-    },
-    "saytoriya": {
-      "display": "Saytoriya",
-      "profile": "https://remanga.org/user/126709/about",
-      "avatar": "avatars/saytoriya.jpg",
-      "initial": 11000,
-      "current": 56002,
-      "weekly": 0,
-      "baseline": 56002
     },
     "dolinapekisetynь": {
       "display": "ДолинаРекиСетунь",
