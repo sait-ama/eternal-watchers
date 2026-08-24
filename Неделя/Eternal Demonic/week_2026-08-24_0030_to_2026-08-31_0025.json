@@ -341,6 +341,15 @@
       "weekly": 0,
       "baseline": 50000
     },
+    "fox94": {
+      "display": "Fox94",
+      "profile": "https://remanga.org/user/158404/about",
+      "avatar": "avatars/fox94.jpg",
+      "initial": 10750,
+      "current": 59850,
+      "weekly": 750,
+      "baseline": 59100
+    },
     "ronin74": {
       "display": "Ronin74",
       "profile": "https://remanga.org/user/76998/about",
@@ -349,15 +358,6 @@
       "current": 102850,
       "weekly": 0,
       "baseline": 102850
-    },
-    "fox94": {
-      "display": "Fox94",
-      "profile": "https://remanga.org/user/158404/about",
-      "avatar": "avatars/fox94.jpg",
-      "initial": 10750,
-      "current": 59100,
-      "weekly": 0,
-      "baseline": 59100
     },
     "alafex": {
       "display": "Alafex",
