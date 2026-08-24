@@ -413,6 +413,15 @@
       "weekly": 0,
       "baseline": 55332
     },
+    "whitewold": {
+      "display": "WhiteWold",
+      "profile": "https://remanga.org/user/609928/about",
+      "avatar": "avatars/whitewold.jpg",
+      "initial": 0,
+      "current": 46500,
+      "weekly": 5000,
+      "baseline": 41500
+    },
     "akiragame": {
       "display": "AkiraGame",
       "profile": "https://remanga.org/user/1714962/about",
@@ -498,15 +507,6 @@
       "display": "Heardand",
       "profile": "https://remanga.org/user/1575407/about",
       "avatar": "avatars/heardand.jpg",
-      "initial": 0,
-      "current": 41500,
-      "weekly": 0,
-      "baseline": 41500
-    },
-    "whitewold": {
-      "display": "WhiteWold",
-      "profile": "https://remanga.org/user/609928/about",
-      "avatar": "avatars/whitewold.jpg",
       "initial": 0,
       "current": 41500,
       "weekly": 0,
