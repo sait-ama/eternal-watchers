@@ -440,14 +440,14 @@
       "end_key": "2026-08-31_0025",
       "baseline": 61000,
       "min_seen": 61000,
-      "current": 61000,
-      "weekly": 0,
+      "current": 63000,
+      "weekly": 2000,
       "period_ru": "с 24.08 по 31.08",
       "guild": "Eternal Angelic",
       "display": "МаксимБубнов",
       "profile": "https://remanga.org/user/3503844/about",
       "avatar": "avatars/maksimbybnov.jpg",
-      "ts": "2026-08-24T12:29:14.979444+03:00"
+      "ts": "2026-08-24T12:34:15.123504+03:00"
     }
   ]
 }

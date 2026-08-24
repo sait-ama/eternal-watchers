@@ -179,6 +179,15 @@
       "weekly": 0,
       "baseline": 62505
     },
+    "maksimbybnov": {
+      "display": "МаксимБубнов",
+      "profile": "https://remanga.org/user/3503844/about",
+      "avatar": "avatars/maksimbybnov.jpg",
+      "initial": 0,
+      "current": 47300,
+      "weekly": 2000,
+      "baseline": 45300
+    },
     "unlimitedcringeworks": {
       "display": "UnlimitedCringeWorks",
       "profile": "https://remanga.org/user/3037204/about",
@@ -196,15 +205,6 @@
       "current": 68343,
       "weekly": 0,
       "baseline": 68343
-    },
-    "maksimbybnov": {
-      "display": "МаксимБубнов",
-      "profile": "https://remanga.org/user/3503844/about",
-      "avatar": "avatars/maksimbybnov.jpg",
-      "initial": 0,
-      "current": 45300,
-      "weekly": 0,
-      "baseline": 45300
     },
     "okiarya": {
       "display": "Okiarya",
