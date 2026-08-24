@@ -179,6 +179,15 @@
       "weekly": 0,
       "baseline": 77852
     },
+    "cracker7": {
+      "display": "Cracker_7",
+      "profile": "https://remanga.org/user/197380/about",
+      "avatar": "avatars/cracker7.jpg",
+      "initial": 12000,
+      "current": 74500,
+      "weekly": 1500,
+      "baseline": 73000
+    },
     "sas47": {
       "display": "Sas47",
       "profile": "https://remanga.org/user/2044615/about",
@@ -205,15 +214,6 @@
       "current": 62000,
       "weekly": 0,
       "baseline": 62000
-    },
-    "cracker7": {
-      "display": "Cracker_7",
-      "profile": "https://remanga.org/user/197380/about",
-      "avatar": "avatars/cracker7.jpg",
-      "initial": 12000,
-      "current": 73000,
-      "weekly": 0,
-      "baseline": 73000
     },
     "etoromantic": {
       "display": "etoRomantic",
