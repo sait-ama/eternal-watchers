@@ -1750,6 +1750,15 @@
           "weekly": 0,
           "baseline": 31966
         },
+        "takahikoo": {
+          "display": "Takahikoo",
+          "profile": "https://remanga.org/user/3225144/about",
+          "avatar": "avatars/takahikoo.jpg",
+          "initial": 11000,
+          "current": 41000,
+          "weekly": 1000,
+          "baseline": 40000
+        },
         "ewobserver": {
           "display": "EW_OBSERVER",
           "profile": "https://remanga.org/user/141395/about",
@@ -1758,15 +1767,6 @@
           "current": 100000,
           "weekly": 0,
           "baseline": 100000
-        },
-        "takahikoo": {
-          "display": "Takahikoo",
-          "profile": "https://remanga.org/user/3225144/about",
-          "avatar": "avatars/takahikoo.jpg",
-          "initial": 11000,
-          "current": 40000,
-          "weekly": 0,
-          "baseline": 40000
         },
         "kodokunayurei": {
           "display": "KodokunaYurei",
