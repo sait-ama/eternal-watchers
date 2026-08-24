@@ -395,6 +395,15 @@
       "weekly": 0,
       "baseline": 60000
     },
+    "dpygчitatelei": {
+      "display": "Друг_Читателей",
+      "profile": "https://remanga.org/user/616372/about",
+      "avatar": "avatars/dpygчitatelei.jpg",
+      "initial": 10000,
+      "current": 57000,
+      "weekly": 1000,
+      "baseline": 56000
+    },
     "festashka": {
       "display": "_festashka_",
       "profile": "https://remanga.org/user/199911/about",
@@ -430,15 +439,6 @@
       "current": 57002,
       "weekly": 0,
       "baseline": 57002
-    },
-    "dpygчitatelei": {
-      "display": "Друг_Читателей",
-      "profile": "https://remanga.org/user/616372/about",
-      "avatar": "avatars/dpygчitatelei.jpg",
-      "initial": 10000,
-      "current": 56000,
-      "weekly": 0,
-      "baseline": 56000
     },
     "dolinapekisetynь": {
       "display": "ДолинаРекиСетунь",
