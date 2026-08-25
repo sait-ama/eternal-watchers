@@ -305,6 +305,15 @@
       "weekly": 0,
       "baseline": 63500
     },
+    "leyley": {
+      "display": "Ley-Ley",
+      "profile": "https://remanga.org/user/24708/about",
+      "avatar": "avatars/leyley.jpg",
+      "initial": 10100,
+      "current": 62500,
+      "weekly": 1000,
+      "baseline": 61500
+    },
     "webru": {
       "display": "WebRU",
       "profile": "https://remanga.org/user/1727226/about",
@@ -322,15 +331,6 @@
       "current": 63000,
       "weekly": 0,
       "baseline": 63000
-    },
-    "leyley": {
-      "display": "Ley-Ley",
-      "profile": "https://remanga.org/user/24708/about",
-      "avatar": "avatars/leyley.jpg",
-      "initial": 10100,
-      "current": 61500,
-      "weekly": 0,
-      "baseline": 61500
     },
     "huahua": {
       "display": "Hua-Hua",

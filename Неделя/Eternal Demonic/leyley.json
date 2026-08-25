@@ -650,14 +650,14 @@
       "end_key": "2026-08-31_0025",
       "baseline": 61500,
       "min_seen": 61500,
-      "current": 61500,
-      "weekly": 0,
+      "current": 62500,
+      "weekly": 1000,
       "period_ru": "с 24.08 по 31.08",
       "guild": "Eternal Demonic",
       "display": "Ley-Ley",
       "profile": "https://remanga.org/user/24708/about",
       "avatar": "avatars/leyley.jpg",
-      "ts": "2026-08-25T23:24:12.918752+03:00"
+      "ts": "2026-08-25T23:29:12.764509+03:00"
     }
   ]
 }
