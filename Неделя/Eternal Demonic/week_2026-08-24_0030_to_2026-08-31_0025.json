@@ -566,6 +566,15 @@
       "weekly": 0,
       "baseline": 38663
     },
+    "drri": {
+      "display": "Dr.Rи",
+      "profile": "https://remanga.org/user/823934/about",
+      "avatar": "avatars/drri.jpg",
+      "initial": 11000,
+      "current": 49000,
+      "weekly": 1000,
+      "baseline": 48000
+    },
     "beastx": {
       "display": "Beast_x",
       "profile": "https://remanga.org/user/1935045/about",
@@ -583,15 +592,6 @@
       "current": 52313,
       "weekly": 0,
       "baseline": 52313
-    },
-    "drri": {
-      "display": "Dr.Rи",
-      "profile": "https://remanga.org/user/823934/about",
-      "avatar": "avatars/drri.jpg",
-      "initial": 11000,
-      "current": 48000,
-      "weekly": 0,
-      "baseline": 48000
     },
     "hazenberg": {
       "display": "Hazenberg",
