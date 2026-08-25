@@ -78407,6 +78407,13 @@
     "author_id": 1339341,
     "cards": [
       {
+        "id": 217926,
+        "title": "Card 217926",
+        "cover": "https://remanga.org/media/public/footer/character.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/217926"
+      },
+      {
         "id": 217852,
         "title": "Card 217852",
         "cover": "https://remanga.org/media/public/footer/character.webp",
@@ -87428,6 +87435,13 @@
         "cover": "https://remanga.org/media/card-item/cover_3e934d27049840b7.webp",
         "rarity": "",
         "url": "https://remanga.org/card/56452"
+      },
+      {
+        "id": 217929,
+        "title": "Card 217929",
+        "cover": "https://remanga.org/media/public/footer/character.webp",
+        "rarity": "",
+        "url": "https://remanga.org/card/217929"
       },
       {
         "id": 217888,
