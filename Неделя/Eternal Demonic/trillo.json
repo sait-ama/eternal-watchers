@@ -650,14 +650,14 @@
       "end_key": "2026-08-31_0025",
       "baseline": 136001,
       "min_seen": 136001,
-      "current": 9320,
-      "weekly": 0,
+      "current": 137001,
+      "weekly": 1000,
       "period_ru": "с 24.08 по 31.08",
       "guild": "Eternal Demonic",
       "display": "Trillo",
-      "profile": "https://remanga.org",
-      "avatar": "avatars/placeholder.jpg",
-      "ts": "2026-08-27T02:19:13.369921+03:00"
+      "profile": "https://remanga.org/user/207200/about",
+      "avatar": "avatars/trillo.jpg",
+      "ts": "2026-08-27T02:24:13.530740+03:00"
     }
   ]
 }

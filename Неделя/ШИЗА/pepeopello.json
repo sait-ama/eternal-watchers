@@ -650,14 +650,14 @@
       "end_key": "2026-08-31_0025",
       "baseline": 1999,
       "min_seen": 1999,
-      "current": 2000,
-      "weekly": 1,
+      "current": 1999,
+      "weekly": 0,
       "period_ru": "с 24.08 по 31.08",
       "guild": "ШИЗА",
       "display": "Pepeopello",
-      "profile": "https://remanga.org",
-      "avatar": "avatars/placeholder.jpg",
-      "ts": "2026-08-27T02:19:15.469789+03:00"
+      "profile": "https://remanga.org/user/1111476/about",
+      "avatar": "avatars/pepeopello.jpg",
+      "ts": "2026-08-27T02:24:15.833353+03:00"
     }
   ]
 }
