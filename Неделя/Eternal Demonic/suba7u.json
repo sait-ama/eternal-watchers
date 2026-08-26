@@ -594,14 +594,14 @@
       "end_key": "2026-08-31_0025",
       "baseline": 421,
       "min_seen": 421,
-      "current": 421,
+      "current": 1,
       "weekly": 0,
       "period_ru": "с 24.08 по 31.08",
       "guild": "Eternal Demonic",
       "display": "Suba7u",
-      "profile": "https://remanga.org/user/1602594/about",
-      "avatar": "avatars/suba7u.jpg",
-      "ts": "2026-08-27T02:14:13.725266+03:00"
+      "profile": "https://remanga.org",
+      "avatar": "avatars/placeholder.jpg",
+      "ts": "2026-08-27T02:19:13.369921+03:00"
     }
   ]
 }
