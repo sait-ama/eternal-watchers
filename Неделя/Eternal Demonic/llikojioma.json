@@ -650,14 +650,14 @@
       "end_key": "2026-08-31_0025",
       "baseline": 66010,
       "min_seen": 66010,
-      "current": 66010,
-      "weekly": 0,
+      "current": 67010,
+      "weekly": 1000,
       "period_ru": "с 24.08 по 31.08",
       "guild": "Eternal Demonic",
       "display": "LLIKoJIoma",
       "profile": "https://remanga.org/user/938430/about",
       "avatar": "avatars/llikojioma.jpg",
-      "ts": "2026-08-26T19:29:13.133279+03:00"
+      "ts": "2026-08-26T19:34:12.823839+03:00"
     }
   ]
 }
