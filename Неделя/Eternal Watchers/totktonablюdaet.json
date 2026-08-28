@@ -650,14 +650,14 @@
       "end_key": "2026-08-31_0025",
       "baseline": 42695,
       "min_seen": 42695,
-      "current": 42695,
+      "current": 25780,
       "weekly": 0,
       "period_ru": "с 24.08 по 31.08",
       "guild": "Eternal Watchers",
       "display": "тот_кто_наблюдает...",
-      "profile": "https://remanga.org/user/201921/about",
-      "avatar": "avatars/totktonablюdaet.jpg",
-      "ts": "2026-08-29T01:54:10.848063+03:00"
+      "profile": "https://remanga.org",
+      "avatar": "avatars/placeholder.jpg",
+      "ts": "2026-08-29T01:59:10.744730+03:00"
     }
   ]
 }

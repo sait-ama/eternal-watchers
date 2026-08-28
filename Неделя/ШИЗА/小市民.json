@@ -650,14 +650,14 @@
       "end_key": "2026-08-31_0025",
       "baseline": 6,
       "min_seen": 6,
-      "current": 6,
+      "current": 0,
       "weekly": 0,
       "period_ru": "с 24.08 по 31.08",
       "guild": "ШИЗА",
       "display": "小市民",
-      "profile": "https://remanga.org/user/1007514/about",
-      "avatar": "avatars/小市民.jpg",
-      "ts": "2026-08-29T01:54:13.651846+03:00"
+      "profile": "https://remanga.org",
+      "avatar": "avatars/placeholder.jpg",
+      "ts": "2026-08-29T01:59:13.710745+03:00"
     }
   ]
 }
