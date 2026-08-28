@@ -71,6 +71,15 @@
       "weekly": 0,
       "baseline": 121068
     },
+    "so1omoon": {
+      "display": "So1oMooN",
+      "profile": "https://remanga.org/user/102035/about",
+      "avatar": "avatars/so1omoon.jpg",
+      "initial": 9000,
+      "current": 112843,
+      "weekly": 7000,
+      "baseline": 105843
+    },
     "lucifiel": {
       "display": "--Lucifiel--",
       "profile": "https://remanga.org/user/1207689/about",
@@ -79,15 +88,6 @@
       "current": 111996,
       "weekly": 0,
       "baseline": 111996
-    },
-    "so1omoon": {
-      "display": "So1oMooN",
-      "profile": "https://remanga.org/user/102035/about",
-      "avatar": "avatars/so1omoon.jpg",
-      "initial": 9000,
-      "current": 105843,
-      "weekly": 0,
-      "baseline": 105843
     },
     "destructiongod𒉭": {
       "display": "DestructionGod𒉭",
