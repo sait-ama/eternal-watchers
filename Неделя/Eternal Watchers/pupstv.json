@@ -650,14 +650,14 @@
       "end_key": "2026-08-31_0025",
       "baseline": 41500,
       "min_seen": 41500,
-      "current": 12000,
+      "current": 41500,
       "weekly": 0,
       "period_ru": "с 24.08 по 31.08",
       "guild": "Eternal Watchers",
       "display": "PupsTv",
-      "profile": "https://remanga.org",
-      "avatar": "avatars/placeholder.jpg",
-      "ts": "2026-08-29T02:39:10.763196+03:00"
+      "profile": "https://remanga.org/user/117177/about",
+      "avatar": "avatars/pupstv.jpg",
+      "ts": "2026-08-29T02:44:11.074695+03:00"
     }
   ]
 }

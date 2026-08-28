@@ -454,14 +454,14 @@
       "end_key": "2026-08-31_0025",
       "baseline": 41500,
       "min_seen": 41500,
-      "current": 0,
-      "weekly": 0,
+      "current": 46500,
+      "weekly": 5000,
       "period_ru": "с 24.08 по 31.08",
       "guild": "Eternal Demonic",
       "display": "WhiteWold",
-      "profile": "https://remanga.org",
-      "avatar": "avatars/placeholder.jpg",
-      "ts": "2026-08-29T02:39:12.349196+03:00"
+      "profile": "https://remanga.org/user/609928/about",
+      "avatar": "avatars/whitewold.jpg",
+      "ts": "2026-08-29T02:44:12.758910+03:00"
     }
   ]
 }
