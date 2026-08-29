@@ -180,6 +180,15 @@
           "weekly": 0,
           "baseline": 62505
         },
+        "яlyчшiivmipe": {
+          "display": "Я_лучший_в_мире",
+          "profile": "https://remanga.org/user/285519/about",
+          "avatar": "avatars/яlyчшiivmipe.jpg",
+          "initial": 22080,
+          "current": 75343,
+          "weekly": 7000,
+          "baseline": 68343
+        },
         "maksimbybnov": {
           "display": "МаксимБубнов",
           "profile": "https://remanga.org/user/3503844/about",
@@ -197,15 +206,6 @@
           "current": 55000,
           "weekly": 0,
           "baseline": 55000
-        },
-        "яlyчшiivmipe": {
-          "display": "Я_лучший_в_мире",
-          "profile": "https://remanga.org/user/285519/about",
-          "avatar": "avatars/яlyчшiivmipe.jpg",
-          "initial": 22080,
-          "current": 68343,
-          "weekly": 0,
-          "baseline": 68343
         },
         "okiarya": {
           "display": "Okiarya",
