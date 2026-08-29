@@ -467,6 +467,15 @@
       "weekly": 0,
       "baseline": 51300
     },
+    "strangled": {
+      "display": "Strangled",
+      "profile": "https://remanga.org/user/3263817/about",
+      "avatar": "avatars/strangled.jpg",
+      "initial": 20310,
+      "current": 63597,
+      "weekly": 300,
+      "baseline": 63297
+    },
     "derwehrwolf": {
       "display": "Der_Wehrwolf",
       "profile": "https://remanga.org/user/2833636/about",
@@ -475,15 +484,6 @@
       "current": 43000,
       "weekly": 0,
       "baseline": 43000
-    },
-    "strangled": {
-      "display": "Strangled",
-      "profile": "https://remanga.org/user/3263817/about",
-      "avatar": "avatars/strangled.jpg",
-      "initial": 20310,
-      "current": 63297,
-      "weekly": 0,
-      "baseline": 63297
     },
     "axper00": {
       "display": "𝑨𝑿𝑷𝑬𝑹_𝟎𝟎",
