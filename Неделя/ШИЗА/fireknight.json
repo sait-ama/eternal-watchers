@@ -658,6 +658,20 @@
       "profile": "https://remanga.org/user/1280571/about",
       "avatar": "avatars/fireknight.jpg",
       "ts": "2026-08-31T00:29:16.249247+03:00"
+    },
+    {
+      "start_key": "2026-08-31_0030",
+      "end_key": "2026-09-07_0025",
+      "baseline": 45350,
+      "min_seen": 45350,
+      "current": 45350,
+      "weekly": 0,
+      "period_ru": "с 31.08 по 07.09",
+      "guild": "ШИЗА",
+      "display": "_Fire_Knight_",
+      "profile": "https://remanga.org/user/1280571/about",
+      "avatar": "avatars/fireknight.jpg",
+      "ts": "2026-08-31T00:34:16.434542+03:00"
     }
   ]
 }

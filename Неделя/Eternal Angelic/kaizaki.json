@@ -490,6 +490,20 @@
       "profile": "https://remanga.org/user/40277/about",
       "avatar": "avatars/kaizaki.jpg",
       "ts": "2026-08-31T00:29:17.289000+03:00"
+    },
+    {
+      "start_key": "2026-08-31_0030",
+      "end_key": "2026-09-07_0025",
+      "baseline": 685,
+      "min_seen": 685,
+      "current": 685,
+      "weekly": 0,
+      "period_ru": "с 31.08 по 07.09",
+      "guild": "Eternal Angelic",
+      "display": "Kaizaki",
+      "profile": "https://remanga.org/user/40277/about",
+      "avatar": "avatars/kaizaki.jpg",
+      "ts": "2026-08-31T00:34:17.451957+03:00"
     }
   ]
 }

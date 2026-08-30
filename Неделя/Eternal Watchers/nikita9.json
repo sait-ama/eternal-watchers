@@ -658,6 +658,20 @@
       "profile": "https://remanga.org/user/3040361/about",
       "avatar": "avatars/nikita9.jpg",
       "ts": "2026-08-31T00:29:11.442943+03:00"
+    },
+    {
+      "start_key": "2026-08-31_0030",
+      "end_key": "2026-09-07_0025",
+      "baseline": 44626,
+      "min_seen": 44626,
+      "current": 44626,
+      "weekly": 0,
+      "period_ru": "с 31.08 по 07.09",
+      "guild": "Eternal Watchers",
+      "display": "𝕹𝖎𝖐𝖎𝖙𝖆⁹",
+      "profile": "https://remanga.org/user/3040361/about",
+      "avatar": "avatars/nikita9.jpg",
+      "ts": "2026-08-31T00:34:11.485109+03:00"
     }
   ]
 }

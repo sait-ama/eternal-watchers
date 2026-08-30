@@ -658,6 +658,20 @@
       "profile": "https://remanga.org/user/108546/about",
       "avatar": "avatars/kodokunayurei.jpg",
       "ts": "2026-08-31T00:29:11.442943+03:00"
+    },
+    {
+      "start_key": "2026-08-31_0030",
+      "end_key": "2026-09-07_0025",
+      "baseline": 203940,
+      "min_seen": 203940,
+      "current": 203940,
+      "weekly": 0,
+      "period_ru": "с 31.08 по 07.09",
+      "guild": "Eternal Watchers",
+      "display": "KodokunaYurei",
+      "profile": "https://remanga.org/user/108546/about",
+      "avatar": "avatars/kodokunayurei.jpg",
+      "ts": "2026-08-31T00:34:11.485109+03:00"
     }
   ]
 }

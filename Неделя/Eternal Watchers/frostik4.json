@@ -658,6 +658,20 @@
       "profile": "https://remanga.org/user/3003544/about",
       "avatar": "avatars/frostik4.jpg",
       "ts": "2026-08-31T00:29:11.442943+03:00"
+    },
+    {
+      "start_key": "2026-08-31_0030",
+      "end_key": "2026-09-07_0025",
+      "baseline": 55129,
+      "min_seen": 55129,
+      "current": 55129,
+      "weekly": 0,
+      "period_ru": "с 31.08 по 07.09",
+      "guild": "Eternal Watchers",
+      "display": "Frostik4",
+      "profile": "https://remanga.org/user/3003544/about",
+      "avatar": "avatars/frostik4.jpg",
+      "ts": "2026-08-31T00:34:11.485109+03:00"
     }
   ]
 }

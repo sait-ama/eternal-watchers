@@ -644,6 +644,20 @@
       "profile": "https://remanga.org/user/184784/about",
       "avatar": "avatars/mmarti.jpg",
       "ts": "2026-08-31T00:29:11.442943+03:00"
+    },
+    {
+      "start_key": "2026-08-31_0030",
+      "end_key": "2026-09-07_0025",
+      "baseline": 10750,
+      "min_seen": 10750,
+      "current": 10750,
+      "weekly": 0,
+      "period_ru": "с 31.08 по 07.09",
+      "guild": "Eternal Watchers",
+      "display": "mmarti",
+      "profile": "https://remanga.org/user/184784/about",
+      "avatar": "avatars/mmarti.jpg",
+      "ts": "2026-08-31T00:34:11.485109+03:00"
     }
   ]
 }

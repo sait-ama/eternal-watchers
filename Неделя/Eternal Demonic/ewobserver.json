@@ -658,6 +658,20 @@
       "profile": "https://remanga.org/user/141395/about",
       "avatar": "avatars/ewobserver.jpg",
       "ts": "2026-08-31T00:29:14.135763+03:00"
+    },
+    {
+      "start_key": "2026-08-31_0030",
+      "end_key": "2026-09-07_0025",
+      "baseline": 100000,
+      "min_seen": 100000,
+      "current": 100000,
+      "weekly": 0,
+      "period_ru": "с 31.08 по 07.09",
+      "guild": "Eternal Demonic",
+      "display": "EW_OBSERVER",
+      "profile": "https://remanga.org/user/141395/about",
+      "avatar": "avatars/ewobserver.jpg",
+      "ts": "2026-08-31T00:34:14.377634+03:00"
     }
   ]
 }
