@@ -539,6 +539,15 @@
       "weekly": 0,
       "baseline": 24010
     },
+    "nowarries": {
+      "display": "No_warries",
+      "profile": "https://remanga.org/user/1160253/about",
+      "avatar": "avatars/nowarries.jpg",
+      "initial": 16490,
+      "current": 35341,
+      "weekly": 15000,
+      "baseline": 20341
+    },
     "kaпitanzanyda": {
       "display": "Капитан-зануда",
       "profile": "https://remanga.org/user/1323051/about",
@@ -961,15 +970,6 @@
       "current": 6900,
       "weekly": 0,
       "baseline": 6900
-    },
-    "nowarries": {
-      "display": "No_warries",
-      "profile": "https://remanga.org/user/1160253/about",
-      "avatar": "avatars/nowarries.jpg",
-      "initial": 16490,
-      "current": 20341,
-      "weekly": 0,
-      "baseline": 20341
     },
     "wladzer": {
       "display": "Wladzer",
