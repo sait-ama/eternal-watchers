@@ -650,14 +650,14 @@
       "end_key": "2026-08-31_0025",
       "baseline": 51300,
       "min_seen": 51300,
-      "current": 51300,
-      "weekly": 0,
+      "current": 52300,
+      "weekly": 1000,
       "period_ru": "с 24.08 по 31.08",
       "guild": "Eternal Demonic",
       "display": "-AGGRESSIVE-",
       "profile": "https://remanga.org/user/1939125/about",
       "avatar": "avatars/aggressive.jpg",
-      "ts": "2026-08-30T18:49:12.935356+03:00"
+      "ts": "2026-08-30T18:54:13.145799+03:00"
     }
   ]
 }
