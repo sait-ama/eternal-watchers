@@ -1777,6 +1777,15 @@
           "weekly": 0,
           "baseline": 35711
         },
+        "bigmen07": {
+          "display": "BigMen07",
+          "profile": "https://remanga.org/user/486583/about",
+          "avatar": "avatars/bigmen07.jpg",
+          "initial": 9000,
+          "current": 36500,
+          "weekly": 2000,
+          "baseline": 34500
+        },
         "acediaqq": {
           "display": "Acediaqq",
           "profile": "https://remanga.org/user/102335/about",
@@ -1803,15 +1812,6 @@
           "current": 26500,
           "weekly": 0,
           "baseline": 26500
-        },
-        "bigmen07": {
-          "display": "BigMen07",
-          "profile": "https://remanga.org/user/486583/about",
-          "avatar": "avatars/bigmen07.jpg",
-          "initial": 9000,
-          "current": 34500,
-          "weekly": 0,
-          "baseline": 34500
         },
         "kaizaki": {
           "display": "Kaizaki",
