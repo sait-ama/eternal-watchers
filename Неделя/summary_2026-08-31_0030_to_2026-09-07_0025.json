@@ -1606,6 +1606,15 @@
           "weekly": 0,
           "baseline": 63597
         },
+        "banshei": {
+          "display": "BanShei",
+          "profile": "https://remanga.org/user/204988/about",
+          "avatar": "avatars/banshei.jpg",
+          "initial": 11000,
+          "current": 54000,
+          "weekly": 1000,
+          "baseline": 53000
+        },
         "derwehrwolf": {
           "display": "Der_Wehrwolf",
           "profile": "https://remanga.org/user/2833636/about",
@@ -1632,15 +1641,6 @@
           "current": 65241,
           "weekly": 0,
           "baseline": 65241
-        },
-        "banshei": {
-          "display": "BanShei",
-          "profile": "https://remanga.org/user/204988/about",
-          "avatar": "avatars/banshei.jpg",
-          "initial": 11000,
-          "current": 53000,
-          "weekly": 0,
-          "baseline": 53000
         },
         "heardand": {
           "display": "Heardand",
