@@ -278,6 +278,15 @@
       "weekly": 0,
       "baseline": 65000
     },
+    "nirol": {
+      "display": "Nirol",
+      "profile": "https://remanga.org/user/1450372/about",
+      "avatar": "avatars/nirol.jpg",
+      "initial": 26100,
+      "current": 80486,
+      "weekly": 1000,
+      "baseline": 79486
+    },
     "kintownskiy": {
       "display": "kintownskiy",
       "profile": "https://remanga.org/user/3983/about",
@@ -286,15 +295,6 @@
       "current": 69237,
       "weekly": 0,
       "baseline": 69237
-    },
-    "nirol": {
-      "display": "Nirol",
-      "profile": "https://remanga.org/user/1450372/about",
-      "avatar": "avatars/nirol.jpg",
-      "initial": 26100,
-      "current": 79486,
-      "weekly": 0,
-      "baseline": 79486
     },
     "samurai": {
       "display": "S.a.m.u.r.a.i.",
