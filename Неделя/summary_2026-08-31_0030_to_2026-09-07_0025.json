@@ -342,6 +342,15 @@
           "weekly": 0,
           "baseline": 73946
         },
+        "andrefalk": {
+          "display": "Andre_Falk",
+          "profile": "https://remanga.org/user/35664/about",
+          "avatar": "avatars/andrefalk.jpg",
+          "initial": 45580,
+          "current": 75523,
+          "weekly": 1000,
+          "baseline": 74523
+        },
         "pupstv": {
           "display": "PupsTv",
           "profile": "https://remanga.org/user/117177/about",
@@ -359,15 +368,6 @@
           "current": 81012,
           "weekly": 0,
           "baseline": 81012
-        },
-        "andrefalk": {
-          "display": "Andre_Falk",
-          "profile": "https://remanga.org/user/35664/about",
-          "avatar": "avatars/andrefalk.jpg",
-          "initial": 45580,
-          "current": 74523,
-          "weekly": 0,
-          "baseline": 74523
         },
         "widding": {
           "display": "WidDing",
