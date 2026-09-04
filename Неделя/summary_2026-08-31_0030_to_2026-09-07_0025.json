@@ -194,8 +194,8 @@
           "profile": "https://remanga.org/user/3503844/about",
           "avatar": "avatars/maksimbybnov.jpg",
           "initial": 0,
-          "current": 47300,
-          "weekly": 0,
+          "current": 49300,
+          "weekly": 2000,
           "baseline": 47300
         },
         "unlimitedcringeworks": {
@@ -1143,8 +1143,8 @@
           "profile": "https://remanga.org/user/3503844/about",
           "avatar": "avatars/maksimbybnov.jpg",
           "initial": 0,
-          "current": 192260,
-          "weekly": 0,
+          "current": 194260,
+          "weekly": 2000,
           "baseline": 192260
         },
         "flammenoire": {
@@ -2442,6 +2442,15 @@
           "weekly": 1094,
           "baseline": 100765
         },
+        "maksimbybnov": {
+          "display": "МаксимБубнов",
+          "profile": "https://remanga.org/user/3503844/about",
+          "avatar": "avatars/maksimbybnov.jpg",
+          "initial": 4000,
+          "current": 65000,
+          "weekly": 2000,
+          "baseline": 63000
+        },
         "saitama": {
           "display": "Сайтама",
           "profile": "https://remanga.org/user/12762/about",
@@ -2450,15 +2459,6 @@
           "current": 88177,
           "weekly": 0,
           "baseline": 88177
-        },
-        "maksimbybnov": {
-          "display": "МаксимБубнов",
-          "profile": "https://remanga.org/user/3503844/about",
-          "avatar": "avatars/maksimbybnov.jpg",
-          "initial": 4000,
-          "current": 63000,
-          "weekly": 0,
-          "baseline": 63000
         },
         "ewdgham021": {
           "display": "EW.DG_Ham021",
