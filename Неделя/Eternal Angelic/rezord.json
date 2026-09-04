@@ -636,14 +636,14 @@
       "end_key": "2026-09-07_0025",
       "baseline": 40851,
       "min_seen": 40851,
-      "current": 1280,
+      "current": 40851,
       "weekly": 0,
       "period_ru": "с 31.08 по 07.09",
       "guild": "Eternal Angelic",
       "display": "rezord",
-      "profile": "https://remanga.org",
-      "avatar": "avatars/placeholder.jpg",
-      "ts": "2026-09-05T00:04:59.899248+03:00"
+      "profile": "https://remanga.org/user/210114/about",
+      "avatar": "avatars/rezord.jpg",
+      "ts": "2026-09-05T00:09:13.415671+03:00"
     }
   ]
 }

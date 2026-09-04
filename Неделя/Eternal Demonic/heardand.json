@@ -594,14 +594,14 @@
       "end_key": "2026-09-07_0025",
       "baseline": 41500,
       "min_seen": 41500,
-      "current": 0,
+      "current": 41500,
       "weekly": 0,
       "period_ru": "с 31.08 по 07.09",
       "guild": "Eternal Demonic",
       "display": "Heardand",
-      "profile": "https://remanga.org",
-      "avatar": "avatars/placeholder.jpg",
-      "ts": "2026-09-05T00:04:58.181642+03:00"
+      "profile": "https://remanga.org/user/1575407/about",
+      "avatar": "avatars/heardand.jpg",
+      "ts": "2026-09-05T00:09:11.867214+03:00"
     }
   ]
 }
