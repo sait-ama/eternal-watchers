@@ -496,14 +496,14 @@
       "end_key": "2026-09-07_0025",
       "baseline": 100765,
       "min_seen": 100765,
-      "current": 101859,
-      "weekly": 1094,
+      "current": 19750,
+      "weekly": 0,
       "period_ru": "с 31.08 по 07.09",
       "guild": "Eternal Angelic",
       "display": "Chitandael",
-      "profile": "https://remanga.org/user/372102/about",
-      "avatar": "avatars/chitandael.jpg",
-      "ts": "2026-09-04T23:59:13.175753+03:00"
+      "profile": "https://remanga.org",
+      "avatar": "avatars/placeholder.jpg",
+      "ts": "2026-09-05T00:04:59.899248+03:00"
     }
   ]
 }
