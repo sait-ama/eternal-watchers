@@ -664,14 +664,14 @@
       "end_key": "2026-09-07_0025",
       "baseline": 16681,
       "min_seen": 16681,
-      "current": 16681,
+      "current": 11660,
       "weekly": 0,
       "period_ru": "с 31.08 по 07.09",
       "guild": "ШИЗА",
       "display": "Zeev",
-      "profile": "https://remanga.org/user/93443/about",
-      "avatar": "avatars/zeev.jpg",
-      "ts": "2026-09-06T22:24:25.728672+03:00"
+      "profile": "https://remanga.org",
+      "avatar": "avatars/placeholder.jpg",
+      "ts": "2026-09-06T22:29:14.200042+03:00"
     }
   ]
 }
