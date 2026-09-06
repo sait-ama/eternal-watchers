@@ -664,14 +664,14 @@
       "end_key": "2026-09-07_0025",
       "baseline": 63597,
       "min_seen": 63597,
-      "current": 63597,
+      "current": 20310,
       "weekly": 0,
       "period_ru": "с 31.08 по 07.09",
       "guild": "Eternal Demonic",
       "display": "Strangled",
-      "profile": "https://remanga.org/user/3263817/about",
-      "avatar": "avatars/strangled.jpg",
-      "ts": "2026-09-06T21:59:12.712973+03:00"
+      "profile": "https://remanga.org",
+      "avatar": "avatars/placeholder.jpg",
+      "ts": "2026-09-06T22:04:40.973195+03:00"
     }
   ]
 }

@@ -636,14 +636,14 @@
       "end_key": "2026-09-07_0025",
       "baseline": 10000,
       "min_seen": 10000,
-      "current": 10000,
+      "current": 0,
       "weekly": 0,
       "period_ru": "с 31.08 по 07.09",
       "guild": "Eternal Angelic",
       "display": "Ronin74",
-      "profile": "https://remanga.org/user/76998/about",
-      "avatar": "avatars/ronin74.jpg",
-      "ts": "2026-09-06T21:59:14.880496+03:00"
+      "profile": "https://remanga.org",
+      "avatar": "avatars/placeholder.jpg",
+      "ts": "2026-09-06T22:04:42.942837+03:00"
     }
   ]
 }

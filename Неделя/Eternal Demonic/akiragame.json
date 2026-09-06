@@ -608,14 +608,14 @@
       "end_key": "2026-09-07_0025",
       "baseline": 55426,
       "min_seen": 55426,
-      "current": 55426,
+      "current": 9077,
       "weekly": 0,
       "period_ru": "с 31.08 по 07.09",
       "guild": "Eternal Demonic",
       "display": "AkiraGame",
-      "profile": "https://remanga.org/user/1714962/about",
-      "avatar": "avatars/akiragame.jpg",
-      "ts": "2026-09-06T21:59:12.712973+03:00"
+      "profile": "https://remanga.org",
+      "avatar": "avatars/placeholder.jpg",
+      "ts": "2026-09-06T22:04:40.973195+03:00"
     }
   ]
 }
