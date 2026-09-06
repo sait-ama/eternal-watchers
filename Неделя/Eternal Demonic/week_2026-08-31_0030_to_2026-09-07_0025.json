@@ -296,6 +296,15 @@
       "weekly": 0,
       "baseline": 69237
     },
+    "samurafs": {
+      "display": "SamuraFs",
+      "profile": "https://remanga.org/user/93225/about",
+      "avatar": "avatars/samurafs.jpg",
+      "initial": 11000,
+      "current": 64500,
+      "weekly": 1000,
+      "baseline": 63500
+    },
     "samurai": {
       "display": "S.a.m.u.r.a.i.",
       "profile": "https://remanga.org/user/396925/about",
@@ -304,15 +313,6 @@
       "current": 64000,
       "weekly": 1000,
       "baseline": 63000
-    },
-    "samurafs": {
-      "display": "SamuraFs",
-      "profile": "https://remanga.org/user/93225/about",
-      "avatar": "avatars/samurafs.jpg",
-      "initial": 11000,
-      "current": 63500,
-      "weekly": 0,
-      "baseline": 63500
     },
     "leyley": {
       "display": "Ley-Ley",
