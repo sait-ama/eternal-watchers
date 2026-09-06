@@ -1867,6 +1867,15 @@
           "weekly": 0,
           "baseline": 26264
         },
+        "lexapro420": {
+          "display": "Lexapro420",
+          "profile": "https://remanga.org/user/1226860/about",
+          "avatar": "avatars/lexapro420.jpg",
+          "initial": 3000,
+          "current": 22000,
+          "weekly": 1000,
+          "baseline": 21000
+        },
         "riverfreedom": {
           "display": "RiverFreedom",
           "profile": "https://remanga.org/user/3215284/about",
@@ -1875,15 +1884,6 @@
           "current": 34584,
           "weekly": 0,
           "baseline": 34584
-        },
-        "lexapro420": {
-          "display": "Lexapro420",
-          "profile": "https://remanga.org/user/1226860/about",
-          "avatar": "avatars/lexapro420.jpg",
-          "initial": 3000,
-          "current": 21000,
-          "weekly": 0,
-          "baseline": 21000
         },
         "necromant": {
           "display": "necromant",
