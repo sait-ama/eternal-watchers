@@ -664,14 +664,14 @@
       "end_key": "2026-09-07_0025",
       "baseline": 112580,
       "min_seen": 112580,
-      "current": 112580,
+      "current": 48130,
       "weekly": 0,
       "period_ru": "с 31.08 по 07.09",
       "guild": "Eternal Watchers",
       "display": "EW_Taya_",
-      "profile": "https://remanga.org/user/2325061/about",
-      "avatar": "avatars/ewtaya.jpg",
-      "ts": "2026-09-06T12:14:12.032655+03:00"
+      "profile": "https://remanga.org",
+      "avatar": "avatars/placeholder.jpg",
+      "ts": "2026-09-06T12:19:36.049067+03:00"
     }
   ]
 }

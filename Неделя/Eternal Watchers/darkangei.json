@@ -664,14 +664,14 @@
       "end_key": "2026-09-07_0025",
       "baseline": 28573,
       "min_seen": 28573,
-      "current": 28573,
+      "current": 23140,
       "weekly": 0,
       "period_ru": "с 31.08 по 07.09",
       "guild": "Eternal Watchers",
       "display": "Dark_AngeI",
-      "profile": "https://remanga.org/user/458815/about",
-      "avatar": "avatars/darkangei.jpg",
-      "ts": "2026-09-06T12:14:12.032655+03:00"
+      "profile": "https://remanga.org",
+      "avatar": "avatars/placeholder.jpg",
+      "ts": "2026-09-06T12:19:36.049067+03:00"
     }
   ]
 }
