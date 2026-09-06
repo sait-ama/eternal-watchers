@@ -672,6 +672,20 @@
       "profile": "https://remanga.org/user/199911/about",
       "avatar": "avatars/festashka.jpg",
       "ts": "2026-09-07T00:29:11.760489+03:00"
+    },
+    {
+      "start_key": "2026-09-07_0030",
+      "end_key": "2026-09-14_0025",
+      "baseline": 218636,
+      "min_seen": 218636,
+      "current": 218636,
+      "weekly": 0,
+      "period_ru": "с 07.09 по 14.09",
+      "guild": "Eternal Watchers",
+      "display": "_festashka_",
+      "profile": "https://remanga.org/user/199911/about",
+      "avatar": "avatars/festashka.jpg",
+      "ts": "2026-09-07T00:34:11.157035+03:00"
     }
   ]
 }

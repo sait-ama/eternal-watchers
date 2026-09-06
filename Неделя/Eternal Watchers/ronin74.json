@@ -672,6 +672,20 @@
       "profile": "https://remanga.org/user/76998/about",
       "avatar": "avatars/ronin74.jpg",
       "ts": "2026-09-07T00:29:11.760489+03:00"
+    },
+    {
+      "start_key": "2026-09-07_0030",
+      "end_key": "2026-09-14_0025",
+      "baseline": 44619,
+      "min_seen": 44619,
+      "current": 44619,
+      "weekly": 0,
+      "period_ru": "с 07.09 по 14.09",
+      "guild": "Eternal Watchers",
+      "display": "Ronin74",
+      "profile": "https://remanga.org/user/76998/about",
+      "avatar": "avatars/ronin74.jpg",
+      "ts": "2026-09-07T00:34:11.157035+03:00"
     }
   ]
 }

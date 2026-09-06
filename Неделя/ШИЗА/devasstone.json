@@ -672,6 +672,20 @@
       "profile": "https://remanga.org/user/1182944/about",
       "avatar": "avatars/devasstone.jpg",
       "ts": "2026-09-07T00:29:17.737272+03:00"
+    },
+    {
+      "start_key": "2026-09-07_0030",
+      "end_key": "2026-09-14_0025",
+      "baseline": 9660,
+      "min_seen": 9660,
+      "current": 9660,
+      "weekly": 0,
+      "period_ru": "с 07.09 по 14.09",
+      "guild": "ШИЗА",
+      "display": "Devasstone",
+      "profile": "https://remanga.org/user/1182944/about",
+      "avatar": "avatars/devasstone.jpg",
+      "ts": "2026-09-07T00:34:15.548446+03:00"
     }
   ]
 }

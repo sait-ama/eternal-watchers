@@ -672,6 +672,20 @@
       "profile": "https://remanga.org/user/742164/about",
       "avatar": "avatars/nanash.jpg",
       "ts": "2026-09-07T00:29:15.712390+03:00"
+    },
+    {
+      "start_key": "2026-09-07_0030",
+      "end_key": "2026-09-14_0025",
+      "baseline": 159003,
+      "min_seen": 159003,
+      "current": 159003,
+      "weekly": 0,
+      "period_ru": "с 07.09 по 14.09",
+      "guild": "Eternal Demonic",
+      "display": "NANASH",
+      "profile": "https://remanga.org/user/742164/about",
+      "avatar": "avatars/nanash.jpg",
+      "ts": "2026-09-07T00:34:13.748706+03:00"
     }
   ]
 }

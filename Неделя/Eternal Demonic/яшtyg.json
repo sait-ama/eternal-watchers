@@ -616,6 +616,20 @@
       "profile": "https://remanga.org/user/1317566/about",
       "avatar": "avatars/яшtyg.jpg",
       "ts": "2026-09-07T00:29:15.712390+03:00"
+    },
+    {
+      "start_key": "2026-09-07_0030",
+      "end_key": "2026-09-14_0025",
+      "baseline": 145459,
+      "min_seen": 145459,
+      "current": 145459,
+      "weekly": 0,
+      "period_ru": "с 07.09 по 14.09",
+      "guild": "Eternal Demonic",
+      "display": "Яштуг",
+      "profile": "https://remanga.org/user/1317566/about",
+      "avatar": "avatars/яшtyg.jpg",
+      "ts": "2026-09-07T00:34:13.748706+03:00"
     }
   ]
 }

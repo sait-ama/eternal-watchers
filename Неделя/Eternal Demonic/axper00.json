@@ -672,6 +672,20 @@
       "profile": "https://remanga.org/user/3204383/about",
       "avatar": "avatars/axper00.jpg",
       "ts": "2026-09-07T00:29:15.712390+03:00"
+    },
+    {
+      "start_key": "2026-09-07_0030",
+      "end_key": "2026-09-14_0025",
+      "baseline": 65241,
+      "min_seen": 65241,
+      "current": 65241,
+      "weekly": 0,
+      "period_ru": "с 07.09 по 14.09",
+      "guild": "Eternal Demonic",
+      "display": "𝑨𝑿𝑷𝑬𝑹_𝟎𝟎",
+      "profile": "https://remanga.org/user/3204383/about",
+      "avatar": "avatars/axper00.jpg",
+      "ts": "2026-09-07T00:34:13.748706+03:00"
     }
   ]
 }

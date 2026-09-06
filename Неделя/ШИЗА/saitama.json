@@ -672,6 +672,20 @@
       "profile": "https://remanga.org/user/12762/about",
       "avatar": "avatars/saitama.jpg",
       "ts": "2026-09-07T00:29:17.737272+03:00"
+    },
+    {
+      "start_key": "2026-09-07_0030",
+      "end_key": "2026-09-14_0025",
+      "baseline": 19601,
+      "min_seen": 19601,
+      "current": 19601,
+      "weekly": 0,
+      "period_ru": "с 07.09 по 14.09",
+      "guild": "ШИЗА",
+      "display": "Сайтама",
+      "profile": "https://remanga.org/user/12762/about",
+      "avatar": "avatars/saitama.jpg",
+      "ts": "2026-09-07T00:34:15.548446+03:00"
     }
   ]
 }

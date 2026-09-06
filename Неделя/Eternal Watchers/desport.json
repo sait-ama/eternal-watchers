@@ -672,6 +672,20 @@
       "profile": "https://remanga.org/user/216019/about",
       "avatar": "avatars/desport.jpg",
       "ts": "2026-09-07T00:29:11.760489+03:00"
+    },
+    {
+      "start_key": "2026-09-07_0030",
+      "end_key": "2026-09-14_0025",
+      "baseline": 115229,
+      "min_seen": 115229,
+      "current": 115229,
+      "weekly": 0,
+      "period_ru": "с 07.09 по 14.09",
+      "guild": "Eternal Watchers",
+      "display": "desport",
+      "profile": "https://remanga.org/user/216019/about",
+      "avatar": "avatars/desport.jpg",
+      "ts": "2026-09-07T00:34:11.157035+03:00"
     }
   ]
 }

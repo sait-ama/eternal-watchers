@@ -266,6 +266,20 @@
       "profile": "https://remanga.org/user/1226860/about",
       "avatar": "avatars/lexapro420.jpg",
       "ts": "2026-09-07T00:29:15.712390+03:00"
+    },
+    {
+      "start_key": "2026-09-07_0030",
+      "end_key": "2026-09-14_0025",
+      "baseline": 22000,
+      "min_seen": 22000,
+      "current": 22000,
+      "weekly": 0,
+      "period_ru": "с 07.09 по 14.09",
+      "guild": "Eternal Demonic",
+      "display": "Lexapro420",
+      "profile": "https://remanga.org/user/1226860/about",
+      "avatar": "avatars/lexapro420.jpg",
+      "ts": "2026-09-07T00:34:13.748706+03:00"
     }
   ]
 }

@@ -672,6 +672,20 @@
       "profile": "https://remanga.org/user/415473/about",
       "avatar": "avatars/harutsu.jpg",
       "ts": "2026-09-07T00:29:11.760489+03:00"
+    },
+    {
+      "start_key": "2026-09-07_0030",
+      "end_key": "2026-09-14_0025",
+      "baseline": 134390,
+      "min_seen": 134390,
+      "current": 134390,
+      "weekly": 0,
+      "period_ru": "с 07.09 по 14.09",
+      "guild": "Eternal Watchers",
+      "display": "Harutsu",
+      "profile": "https://remanga.org/user/415473/about",
+      "avatar": "avatars/harutsu.jpg",
+      "ts": "2026-09-07T00:34:11.157035+03:00"
     }
   ]
 }

@@ -644,6 +644,20 @@
       "profile": "https://remanga.org/user/46754/about",
       "avatar": "avatars/nix.jpg",
       "ts": "2026-09-07T00:29:18.567960+03:00"
+    },
+    {
+      "start_key": "2026-09-07_0030",
+      "end_key": "2026-09-14_0025",
+      "baseline": 0,
+      "min_seen": 0,
+      "current": 0,
+      "weekly": 0,
+      "period_ru": "с 07.09 по 14.09",
+      "guild": "Eternal Angelic",
+      "display": "-Nix-",
+      "profile": "https://remanga.org/user/46754/about",
+      "avatar": "avatars/nix.jpg",
+      "ts": "2026-09-07T00:34:16.353559+03:00"
     }
   ]
 }
