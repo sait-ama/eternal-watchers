@@ -580,14 +580,14 @@
       "end_key": "2026-09-07_0025",
       "baseline": 26500,
       "min_seen": 26500,
-      "current": 26500,
+      "current": 0,
       "weekly": 0,
       "period_ru": "с 31.08 по 07.09",
       "guild": "Eternal Demonic",
       "display": "bepmud",
-      "profile": "https://remanga.org/user/390500/about",
-      "avatar": "avatars/bepmud.jpg",
-      "ts": "2026-09-06T22:34:36.849412+03:00"
+      "profile": "https://remanga.org",
+      "avatar": "avatars/placeholder.jpg",
+      "ts": "2026-09-06T22:40:10.235263+03:00"
     }
   ]
 }
