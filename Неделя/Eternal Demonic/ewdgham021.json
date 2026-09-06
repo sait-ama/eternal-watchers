@@ -664,14 +664,14 @@
       "end_key": "2026-09-07_0025",
       "baseline": 100000,
       "min_seen": 100000,
-      "current": 100000,
+      "current": 30500,
       "weekly": 0,
       "period_ru": "с 31.08 по 07.09",
       "guild": "Eternal Demonic",
       "display": "EW.DG_Ham021",
-      "profile": "https://remanga.org/user/27288/about",
-      "avatar": "avatars/ewdgham021.jpg",
-      "ts": "2026-09-06T15:40:01.707667+03:00"
+      "profile": "https://remanga.org",
+      "avatar": "avatars/placeholder.jpg",
+      "ts": "2026-09-06T15:44:42.641859+03:00"
     }
   ]
 }

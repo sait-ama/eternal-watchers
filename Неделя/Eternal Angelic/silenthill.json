@@ -636,14 +636,14 @@
       "end_key": "2026-09-07_0025",
       "baseline": 5559,
       "min_seen": 5559,
-      "current": 5559,
+      "current": 3500,
       "weekly": 0,
       "period_ru": "с 31.08 по 07.09",
       "guild": "Eternal Angelic",
       "display": "SilentHill",
-      "profile": "https://remanga.org/user/54424/about",
-      "avatar": "avatars/silenthill.jpg",
-      "ts": "2026-09-06T15:40:03.492752+03:00"
+      "profile": "https://remanga.org",
+      "avatar": "avatars/placeholder.jpg",
+      "ts": "2026-09-06T15:44:44.671964+03:00"
     }
   ]
 }
