@@ -756,6 +756,15 @@
           "weekly": 0,
           "baseline": 23686
         },
+        "calistotzy": {
+          "display": "CalistoTzy",
+          "profile": "https://remanga.org/user/75644/about",
+          "avatar": "avatars/calistotzy.jpg",
+          "initial": 117000,
+          "current": 127795,
+          "weekly": 100,
+          "baseline": 127695
+        },
         "mmarti": {
           "display": "mmarti",
           "profile": "https://remanga.org/user/184784/about",
@@ -764,15 +773,6 @@
           "current": 10750,
           "weekly": 0,
           "baseline": 10750
-        },
-        "calistotzy": {
-          "display": "CalistoTzy",
-          "profile": "https://remanga.org/user/75644/about",
-          "avatar": "avatars/calistotzy.jpg",
-          "initial": 117000,
-          "current": 127695,
-          "weekly": 0,
-          "baseline": 127695
         },
         "elduck": {
           "display": "El_Duck",
