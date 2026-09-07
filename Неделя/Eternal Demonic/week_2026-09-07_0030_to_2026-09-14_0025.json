@@ -755,6 +755,15 @@
       "weekly": 0,
       "baseline": 34584
     },
+    "alienate": {
+      "display": "Alienate",
+      "profile": "https://remanga.org/user/784489/about",
+      "avatar": "avatars/alienate.jpg",
+      "initial": 4000,
+      "current": 21000,
+      "weekly": 1000,
+      "baseline": 20000
+    },
     "necromant": {
       "display": "necromant",
       "profile": "https://remanga.org/user/1523481/about",
@@ -772,15 +781,6 @@
       "current": 31686,
       "weekly": 0,
       "baseline": 31686
-    },
-    "alienate": {
-      "display": "Alienate",
-      "profile": "https://remanga.org/user/784489/about",
-      "avatar": "avatars/alienate.jpg",
-      "initial": 4000,
-      "current": 20000,
-      "weekly": 0,
-      "baseline": 20000
     },
     "silenthill": {
       "display": "SilentHill",
