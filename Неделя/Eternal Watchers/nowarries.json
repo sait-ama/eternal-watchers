@@ -678,14 +678,14 @@
       "end_key": "2026-09-14_0025",
       "baseline": 35760,
       "min_seen": 35760,
-      "current": 16490,
+      "current": 35760,
       "weekly": 0,
       "period_ru": "с 07.09 по 14.09",
       "guild": "Eternal Watchers",
       "display": "No_warries",
-      "profile": "https://remanga.org",
-      "avatar": "avatars/placeholder.jpg",
-      "ts": "2026-09-08T01:19:10.932701+03:00"
+      "profile": "https://remanga.org/user/1160253/about",
+      "avatar": "avatars/nowarries.jpg",
+      "ts": "2026-09-08T01:24:11.167471+03:00"
     }
   ]
 }
