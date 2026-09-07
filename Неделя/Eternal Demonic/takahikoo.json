@@ -678,14 +678,14 @@
       "end_key": "2026-09-14_0025",
       "baseline": 41000,
       "min_seen": 41000,
-      "current": 41000,
+      "current": 11000,
       "weekly": 0,
       "period_ru": "с 07.09 по 14.09",
       "guild": "Eternal Demonic",
       "display": "Takahikoo",
-      "profile": "https://remanga.org/user/3225144/about",
-      "avatar": "avatars/takahikoo.jpg",
-      "ts": "2026-09-07T21:19:11.826704+03:00"
+      "profile": "https://remanga.org",
+      "avatar": "avatars/placeholder.jpg",
+      "ts": "2026-09-07T21:24:42.381128+03:00"
     }
   ]
 }

@@ -678,14 +678,14 @@
       "end_key": "2026-09-14_0025",
       "baseline": 75523,
       "min_seen": 75523,
-      "current": 75523,
+      "current": 45580,
       "weekly": 0,
       "period_ru": "с 07.09 по 14.09",
       "guild": "Eternal Watchers",
       "display": "Andre_Falk",
-      "profile": "https://remanga.org/user/35664/about",
-      "avatar": "avatars/andrefalk.jpg",
-      "ts": "2026-09-07T21:19:10.539105+03:00"
+      "profile": "https://remanga.org",
+      "avatar": "avatars/placeholder.jpg",
+      "ts": "2026-09-07T21:24:41.100940+03:00"
     }
   ]
 }
