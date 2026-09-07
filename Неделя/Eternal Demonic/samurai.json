@@ -678,14 +678,14 @@
       "end_key": "2026-09-14_0025",
       "baseline": 65000,
       "min_seen": 65000,
-      "current": 65000,
+      "current": 11000,
       "weekly": 0,
       "period_ru": "с 07.09 по 14.09",
       "guild": "Eternal Demonic",
       "display": "S.a.m.u.r.a.i.",
-      "profile": "https://remanga.org/user/396925/about",
-      "avatar": "avatars/samurai.jpg",
-      "ts": "2026-09-08T01:04:12.961916+03:00"
+      "profile": "https://remanga.org",
+      "avatar": "avatars/placeholder.jpg",
+      "ts": "2026-09-08T01:09:13.452875+03:00"
     }
   ]
 }

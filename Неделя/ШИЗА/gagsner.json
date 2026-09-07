@@ -678,14 +678,14 @@
       "end_key": "2026-09-14_0025",
       "baseline": 1136,
       "min_seen": 1136,
-      "current": 1136,
-      "weekly": 0,
+      "current": 1140,
+      "weekly": 4,
       "period_ru": "с 07.09 по 14.09",
       "guild": "ШИЗА",
       "display": "Gagsner",
-      "profile": "https://remanga.org/user/593737/about",
-      "avatar": "avatars/gagsner.jpg",
-      "ts": "2026-09-08T01:04:14.150513+03:00"
+      "profile": "https://remanga.org",
+      "avatar": "avatars/placeholder.jpg",
+      "ts": "2026-09-08T01:09:14.769466+03:00"
     }
   ]
 }

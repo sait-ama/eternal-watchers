@@ -678,14 +678,14 @@
       "end_key": "2026-09-14_0025",
       "baseline": 58002,
       "min_seen": 58002,
-      "current": 58002,
+      "current": 11000,
       "weekly": 0,
       "period_ru": "с 07.09 по 14.09",
       "guild": "Eternal Demonic",
       "display": "Saytoriya",
-      "profile": "https://remanga.org/user/126709/about",
-      "avatar": "avatars/saytoriya.jpg",
-      "ts": "2026-09-08T01:04:12.961916+03:00"
+      "profile": "https://remanga.org",
+      "avatar": "avatars/placeholder.jpg",
+      "ts": "2026-09-08T01:09:13.452875+03:00"
     }
   ]
 }

@@ -678,14 +678,14 @@
       "end_key": "2026-09-14_0025",
       "baseline": 52313,
       "min_seen": 52313,
-      "current": 52313,
+      "current": 14890,
       "weekly": 0,
       "period_ru": "с 07.09 по 14.09",
       "guild": "Eternal Demonic",
       "display": "moonsh1ne",
-      "profile": "https://remanga.org/user/128587/about",
-      "avatar": "avatars/moonsh1ne.jpg",
-      "ts": "2026-09-08T01:04:12.961916+03:00"
+      "profile": "https://remanga.org",
+      "avatar": "avatars/placeholder.jpg",
+      "ts": "2026-09-08T01:09:13.452875+03:00"
     }
   ]
 }

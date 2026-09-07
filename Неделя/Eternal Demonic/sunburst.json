@@ -678,14 +678,14 @@
       "end_key": "2026-09-14_0025",
       "baseline": 80000,
       "min_seen": 80000,
-      "current": 80000,
+      "current": 9000,
       "weekly": 0,
       "period_ru": "с 07.09 по 14.09",
       "guild": "Eternal Demonic",
       "display": "Sunburst",
-      "profile": "https://remanga.org/user/34154/about",
-      "avatar": "avatars/sunburst.jpg",
-      "ts": "2026-09-08T01:04:12.961916+03:00"
+      "profile": "https://remanga.org",
+      "avatar": "avatars/placeholder.jpg",
+      "ts": "2026-09-08T01:09:13.452875+03:00"
     }
   ]
 }

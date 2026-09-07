@@ -678,14 +678,14 @@
       "end_key": "2026-09-14_0025",
       "baseline": 35294,
       "min_seen": 35294,
-      "current": 35294,
+      "current": 22950,
       "weekly": 0,
       "period_ru": "с 07.09 по 14.09",
       "guild": "ШИЗА",
       "display": "Ле-Ст",
-      "profile": "https://remanga.org/user/800159/about",
-      "avatar": "avatars/lest.jpg",
-      "ts": "2026-09-08T01:04:14.150513+03:00"
+      "profile": "https://remanga.org",
+      "avatar": "avatars/placeholder.jpg",
+      "ts": "2026-09-08T01:09:14.769466+03:00"
     }
   ]
 }
