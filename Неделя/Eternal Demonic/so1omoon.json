@@ -678,14 +678,14 @@
       "end_key": "2026-09-14_0025",
       "baseline": 112843,
       "min_seen": 112843,
-      "current": 118843,
-      "weekly": 6000,
+      "current": 9000,
+      "weekly": 0,
       "period_ru": "с 07.09 по 14.09",
       "guild": "Eternal Demonic",
       "display": "So1oMooN",
-      "profile": "https://remanga.org/user/102035/about",
-      "avatar": "avatars/so1omoon.jpg",
-      "ts": "2026-09-07T21:39:11.970397+03:00"
+      "profile": "https://remanga.org",
+      "avatar": "avatars/placeholder.jpg",
+      "ts": "2026-09-07T21:44:11.669291+03:00"
     }
   ]
 }
