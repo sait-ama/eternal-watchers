@@ -678,14 +678,14 @@
       "end_key": "2026-09-14_0025",
       "baseline": 111996,
       "min_seen": 111996,
-      "current": 111996,
+      "current": 12500,
       "weekly": 0,
       "period_ru": "с 07.09 по 14.09",
       "guild": "Eternal Demonic",
       "display": "--Lucifiel--",
-      "profile": "https://remanga.org/user/1207689/about",
-      "avatar": "avatars/lucifiel.jpg",
-      "ts": "2026-09-08T11:19:13.685593+03:00"
+      "profile": "https://remanga.org",
+      "avatar": "avatars/placeholder.jpg",
+      "ts": "2026-09-08T11:25:35.836786+03:00"
     }
   ]
 }
