@@ -1525,6 +1525,15 @@
           "weekly": 1000,
           "baseline": 57000
         },
+        "axper00": {
+          "display": "𝑨𝑿𝑷𝑬𝑹_𝟎𝟎",
+          "profile": "https://remanga.org/user/3204383/about",
+          "avatar": "avatars/axper00.jpg",
+          "initial": 23200,
+          "current": 71122,
+          "weekly": 5881,
+          "baseline": 65241
+        },
         "akihiko": {
           "display": "Akihiko",
           "profile": "https://remanga.org/user/183282/about",
@@ -1641,15 +1650,6 @@
           "current": 43000,
           "weekly": 0,
           "baseline": 43000
-        },
-        "axper00": {
-          "display": "𝑨𝑿𝑷𝑬𝑹_𝟎𝟎",
-          "profile": "https://remanga.org/user/3204383/about",
-          "avatar": "avatars/axper00.jpg",
-          "initial": 23200,
-          "current": 65241,
-          "weekly": 0,
-          "baseline": 65241
         },
         "heardand": {
           "display": "Heardand",
