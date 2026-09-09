@@ -468,14 +468,14 @@
       "end_key": "2026-09-14_0025",
       "baseline": 2052,
       "min_seen": 2052,
-      "current": 2052,
+      "current": 952,
       "weekly": 0,
       "period_ru": "с 07.09 по 14.09",
       "guild": "Eternal Angelic",
       "display": "Frostik4",
-      "profile": "https://remanga.org/user/3003544/about",
-      "avatar": "avatars/frostik4.jpg",
-      "ts": "2026-09-09T09:54:14.171403+03:00"
+      "profile": "https://remanga.org",
+      "avatar": "avatars/placeholder.jpg",
+      "ts": "2026-09-09T09:59:45.541519+03:00"
     }
   ]
 }
