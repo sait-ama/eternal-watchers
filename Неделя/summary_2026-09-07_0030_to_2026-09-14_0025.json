@@ -513,6 +513,15 @@
           "weekly": 0,
           "baseline": 70108
         },
+        "nowarries": {
+          "display": "No_warries",
+          "profile": "https://remanga.org/user/1160253/about",
+          "avatar": "avatars/nowarries.jpg",
+          "initial": 16490,
+          "current": 36869,
+          "weekly": 1109,
+          "baseline": 35760
+        },
         "healot": {
           "display": "healot",
           "profile": "https://remanga.org/user/2505495/about",
@@ -521,15 +530,6 @@
           "current": 40800,
           "weekly": 0,
           "baseline": 40800
-        },
-        "nowarries": {
-          "display": "No_warries",
-          "profile": "https://remanga.org/user/1160253/about",
-          "avatar": "avatars/nowarries.jpg",
-          "initial": 16490,
-          "current": 35760,
-          "weekly": 0,
-          "baseline": 35760
         },
         "laytee": {
           "display": "Laytee",
