@@ -1471,6 +1471,15 @@
           "weekly": 5000,
           "baseline": 46500
         },
+        "dolinapekisetynь": {
+          "display": "ДолинаРекиСетунь",
+          "profile": "https://remanga.org/user/24432/about",
+          "avatar": "avatars/dolinapekisetynь.jpg",
+          "initial": 21750,
+          "current": 72981,
+          "weekly": 2300,
+          "baseline": 70681
+        },
         "fox94": {
           "display": "Fox94",
           "profile": "https://remanga.org/user/158404/about",
@@ -1479,15 +1488,6 @@
           "current": 61350,
           "weekly": 750,
           "baseline": 60600
-        },
-        "dolinapekisetynь": {
-          "display": "ДолинаРекиСетунь",
-          "profile": "https://remanga.org/user/24432/about",
-          "avatar": "avatars/dolinapekisetynь.jpg",
-          "initial": 21750,
-          "current": 72081,
-          "weekly": 1400,
-          "baseline": 70681
         },
         "huahua": {
           "display": "Hua-Hua",
