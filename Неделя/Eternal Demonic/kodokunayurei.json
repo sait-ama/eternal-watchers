@@ -616,6 +616,20 @@
       "profile": "https://remanga.org/user/108546/about",
       "avatar": "avatars/kodokunayurei.jpg",
       "ts": "2026-09-14T00:29:13.101303+03:00"
+    },
+    {
+      "start_key": "2026-09-14_0030",
+      "end_key": "2026-09-21_0025",
+      "baseline": 35711,
+      "min_seen": 35711,
+      "current": 35711,
+      "weekly": 0,
+      "period_ru": "с 14.09 по 21.09",
+      "guild": "Eternal Demonic",
+      "display": "KodokunaYurei",
+      "profile": "https://remanga.org/user/108546/about",
+      "avatar": "avatars/kodokunayurei.jpg",
+      "ts": "2026-09-14T00:34:13.096325+03:00"
     }
   ]
 }

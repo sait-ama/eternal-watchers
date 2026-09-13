@@ -616,6 +616,20 @@
       "profile": "https://remanga.org/user/209369/about",
       "avatar": "avatars/marlya.jpg",
       "ts": "2026-09-14T00:29:13.101303+03:00"
+    },
+    {
+      "start_key": "2026-09-14_0030",
+      "end_key": "2026-09-21_0025",
+      "baseline": 64000,
+      "min_seen": 64000,
+      "current": 64000,
+      "weekly": 0,
+      "period_ru": "с 14.09 по 21.09",
+      "guild": "Eternal Demonic",
+      "display": "MarLya",
+      "profile": "https://remanga.org/user/209369/about",
+      "avatar": "avatars/marlya.jpg",
+      "ts": "2026-09-14T00:34:13.096325+03:00"
     }
   ]
 }

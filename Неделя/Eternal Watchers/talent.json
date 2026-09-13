@@ -686,6 +686,20 @@
       "profile": "https://remanga.org/user/926473/about",
       "avatar": "avatars/talent.jpg",
       "ts": "2026-09-14T00:29:11.049625+03:00"
+    },
+    {
+      "start_key": "2026-09-14_0030",
+      "end_key": "2026-09-21_0025",
+      "baseline": 21011,
+      "min_seen": 21011,
+      "current": 21011,
+      "weekly": 0,
+      "period_ru": "с 14.09 по 21.09",
+      "guild": "Eternal Watchers",
+      "display": "Talent",
+      "profile": "https://remanga.org/user/926473/about",
+      "avatar": "avatars/talent.jpg",
+      "ts": "2026-09-14T00:34:10.955500+03:00"
     }
   ]
 }

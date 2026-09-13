@@ -686,6 +686,20 @@
       "profile": "https://remanga.org/user/938430/about",
       "avatar": "avatars/llikojioma.jpg",
       "ts": "2026-09-14T00:29:13.101303+03:00"
+    },
+    {
+      "start_key": "2026-09-14_0030",
+      "end_key": "2026-09-21_0025",
+      "baseline": 67010,
+      "min_seen": 67010,
+      "current": 67010,
+      "weekly": 0,
+      "period_ru": "с 14.09 по 21.09",
+      "guild": "Eternal Demonic",
+      "display": "LLIKoJIoma",
+      "profile": "https://remanga.org/user/938430/about",
+      "avatar": "avatars/llikojioma.jpg",
+      "ts": "2026-09-14T00:34:13.096325+03:00"
     }
   ]
 }

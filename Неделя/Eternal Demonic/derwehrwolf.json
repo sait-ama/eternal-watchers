@@ -574,6 +574,20 @@
       "profile": "https://remanga.org/user/2833636/about",
       "avatar": "avatars/derwehrwolf.jpg",
       "ts": "2026-09-14T00:29:13.101303+03:00"
+    },
+    {
+      "start_key": "2026-09-14_0030",
+      "end_key": "2026-09-21_0025",
+      "baseline": 43000,
+      "min_seen": 43000,
+      "current": 43000,
+      "weekly": 0,
+      "period_ru": "с 14.09 по 21.09",
+      "guild": "Eternal Demonic",
+      "display": "Der_Wehrwolf",
+      "profile": "https://remanga.org/user/2833636/about",
+      "avatar": "avatars/derwehrwolf.jpg",
+      "ts": "2026-09-14T00:34:13.096325+03:00"
     }
   ]
 }
