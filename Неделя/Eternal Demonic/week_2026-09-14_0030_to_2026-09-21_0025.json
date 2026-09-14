@@ -377,6 +377,15 @@
       "weekly": 0,
       "baseline": 58149
     },
+    "dpygчitatelei": {
+      "display": "Друг_Читателей",
+      "profile": "https://remanga.org/user/616372/about",
+      "avatar": "avatars/dpygчitatelei.jpg",
+      "initial": 10000,
+      "current": 59000,
+      "weekly": 1000,
+      "baseline": 58000
+    },
     "ronin74": {
       "display": "Ronin74",
       "profile": "https://remanga.org/user/76998/about",
@@ -385,15 +394,6 @@
       "current": 102850,
       "weekly": 0,
       "baseline": 102850
-    },
-    "dpygчitatelei": {
-      "display": "Друг_Читателей",
-      "profile": "https://remanga.org/user/616372/about",
-      "avatar": "avatars/dpygчitatelei.jpg",
-      "initial": 10000,
-      "current": 58000,
-      "weekly": 0,
-      "baseline": 58000
     },
     "axper00": {
       "display": "𝑨𝑿𝑷𝑬𝑹_𝟎𝟎",
