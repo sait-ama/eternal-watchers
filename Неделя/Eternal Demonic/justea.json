@@ -552,14 +552,14 @@
       "end_key": "2026-09-21_0025",
       "baseline": 43200,
       "min_seen": 43200,
-      "current": 43200,
-      "weekly": 0,
+      "current": 43700,
+      "weekly": 500,
       "period_ru": "с 14.09 по 21.09",
       "guild": "Eternal Demonic",
       "display": "Justea",
       "profile": "https://remanga.org/user/911857/about",
       "avatar": "avatars/justea.jpg",
-      "ts": "2026-09-14T03:34:14.740623+03:00"
+      "ts": "2026-09-14T03:39:13.649095+03:00"
     }
   ]
 }
