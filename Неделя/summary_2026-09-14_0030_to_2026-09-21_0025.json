@@ -1318,6 +1318,15 @@
           "weekly": 0,
           "baseline": 79066
         },
+        "cracker7": {
+          "display": "Cracker_7",
+          "profile": "https://remanga.org/user/197380/about",
+          "avatar": "avatars/cracker7.jpg",
+          "initial": 12000,
+          "current": 77000,
+          "weekly": 1000,
+          "baseline": 76000
+        },
         "marlya": {
           "display": "MarLya",
           "profile": "https://remanga.org/user/209369/about",
@@ -1326,15 +1335,6 @@
           "current": 65000,
           "weekly": 1000,
           "baseline": 64000
-        },
-        "cracker7": {
-          "display": "Cracker_7",
-          "profile": "https://remanga.org/user/197380/about",
-          "avatar": "avatars/cracker7.jpg",
-          "initial": 12000,
-          "current": 76000,
-          "weekly": 0,
-          "baseline": 76000
         },
         "sas47": {
           "display": "Sas47",
