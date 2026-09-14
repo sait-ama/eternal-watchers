@@ -692,14 +692,14 @@
       "end_key": "2026-09-21_0025",
       "baseline": 79066,
       "min_seen": 79066,
-      "current": 79066,
+      "current": 13000,
       "weekly": 0,
       "period_ru": "с 14.09 по 21.09",
       "guild": "Eternal Demonic",
       "display": "OblakaT_T",
-      "profile": "https://remanga.org/user/474087/about",
-      "avatar": "avatars/oblakatt.jpg",
-      "ts": "2026-09-14T23:59:14.394252+03:00"
+      "profile": "https://remanga.org",
+      "avatar": "avatars/placeholder.jpg",
+      "ts": "2026-09-15T00:04:44.186466+03:00"
     }
   ]
 }
