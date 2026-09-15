@@ -692,14 +692,14 @@
       "end_key": "2026-09-21_0025",
       "baseline": 66000,
       "min_seen": 66000,
-      "current": 67000,
-      "weekly": 1000,
+      "current": 10000,
+      "weekly": 0,
       "period_ru": "с 14.09 по 21.09",
       "guild": "Eternal Demonic",
       "display": "Kim_5+",
-      "profile": "https://remanga.org/user/880531/about",
-      "avatar": "avatars/kim5+.jpg",
-      "ts": "2026-09-16T02:09:11.910652+03:00"
+      "profile": "https://remanga.org",
+      "avatar": "avatars/placeholder.jpg",
+      "ts": "2026-09-16T02:14:11.821327+03:00"
     }
   ]
 }

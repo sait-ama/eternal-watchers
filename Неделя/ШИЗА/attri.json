@@ -692,14 +692,14 @@
       "end_key": "2026-09-21_0025",
       "baseline": 60000,
       "min_seen": 60000,
-      "current": 60000,
+      "current": 50000,
       "weekly": 0,
       "period_ru": "с 14.09 по 21.09",
       "guild": "ШИЗА",
       "display": "Attri",
-      "profile": "https://remanga.org/user/46078/about",
-      "avatar": "avatars/attri.jpg",
-      "ts": "2026-09-16T02:09:13.023623+03:00"
+      "profile": "https://remanga.org",
+      "avatar": "avatars/placeholder.jpg",
+      "ts": "2026-09-16T02:14:12.954282+03:00"
     }
   ]
 }
