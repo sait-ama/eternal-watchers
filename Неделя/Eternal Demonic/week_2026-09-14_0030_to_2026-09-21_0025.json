@@ -206,6 +206,15 @@
       "weekly": 1000,
       "baseline": 64000
     },
+    "etoromantic": {
+      "display": "etoRomantic",
+      "profile": "https://remanga.org/user/90646/about",
+      "avatar": "avatars/etoromantic.jpg",
+      "initial": 11000,
+      "current": 73469,
+      "weekly": 1500,
+      "baseline": 71969
+    },
     "sas47": {
       "display": "Sas47",
       "profile": "https://remanga.org/user/2044615/about",
@@ -223,15 +232,6 @@
       "current": 61528,
       "weekly": 0,
       "baseline": 61528
-    },
-    "etoromantic": {
-      "display": "etoRomantic",
-      "profile": "https://remanga.org/user/90646/about",
-      "avatar": "avatars/etoromantic.jpg",
-      "initial": 11000,
-      "current": 71969,
-      "weekly": 0,
-      "baseline": 71969
     },
     "kost9n": {
       "display": "KOST9N",
