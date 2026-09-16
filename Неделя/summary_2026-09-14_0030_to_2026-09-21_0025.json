@@ -1156,6 +1156,15 @@
           "weekly": 0,
           "baseline": 213500
         },
+        "nanash": {
+          "display": "NANASH",
+          "profile": "https://remanga.org/user/742164/about",
+          "avatar": "avatars/nanash.jpg",
+          "initial": 24000,
+          "current": 170003,
+          "weekly": 9000,
+          "baseline": 161003
+        },
         "яшtyg": {
           "display": "Яштуг",
           "profile": "https://remanga.org/user/1317566/about",
@@ -1164,15 +1173,6 @@
           "current": 145459,
           "weekly": 0,
           "baseline": 145459
-        },
-        "nanash": {
-          "display": "NANASH",
-          "profile": "https://remanga.org/user/742164/about",
-          "avatar": "avatars/nanash.jpg",
-          "initial": 24000,
-          "current": 161003,
-          "weekly": 0,
-          "baseline": 161003
         },
         "akashi550": {
           "display": "Akashi550",
