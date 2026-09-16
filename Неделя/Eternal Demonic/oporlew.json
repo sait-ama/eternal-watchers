@@ -692,14 +692,14 @@
       "end_key": "2026-09-21_0025",
       "baseline": 26264,
       "min_seen": 26264,
-      "current": 26264,
+      "current": 5000,
       "weekly": 0,
       "period_ru": "с 14.09 по 21.09",
       "guild": "Eternal Demonic",
       "display": "oporlew",
-      "profile": "https://remanga.org/user/2602/about",
-      "avatar": "avatars/oporlew.jpg",
-      "ts": "2026-09-16T08:54:12.686355+03:00"
+      "profile": "https://remanga.org",
+      "avatar": "avatars/placeholder.jpg",
+      "ts": "2026-09-16T08:59:23.080192+03:00"
     }
   ]
 }
