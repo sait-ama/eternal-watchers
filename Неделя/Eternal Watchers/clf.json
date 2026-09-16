@@ -692,14 +692,14 @@
       "end_key": "2026-09-21_0025",
       "baseline": 47000,
       "min_seen": 47000,
-      "current": 47000,
+      "current": 32890,
       "weekly": 0,
       "period_ru": "с 14.09 по 21.09",
       "guild": "Eternal Watchers",
       "display": "Clf",
-      "profile": "https://remanga.org/user/942689/about",
-      "avatar": "avatars/clf.jpg",
-      "ts": "2026-09-16T07:29:10.989043+03:00"
+      "profile": "https://remanga.org",
+      "avatar": "avatars/placeholder.jpg",
+      "ts": "2026-09-16T07:34:10.799080+03:00"
     }
   ]
 }
