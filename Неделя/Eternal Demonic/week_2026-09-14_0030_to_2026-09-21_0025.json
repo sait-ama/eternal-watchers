@@ -404,6 +404,15 @@
       "weekly": 0,
       "baseline": 71122
     },
+    "hatin": {
+      "display": "Hatin",
+      "profile": "https://remanga.org/user/2797890/about",
+      "avatar": "avatars/hatin.jpg",
+      "initial": 12900,
+      "current": 60822,
+      "weekly": 878,
+      "baseline": 59944
+    },
     "akihiko": {
       "display": "Akihiko",
       "profile": "https://remanga.org/user/183282/about",
@@ -412,15 +421,6 @@
       "current": 56200,
       "weekly": 0,
       "baseline": 56200
-    },
-    "hatin": {
-      "display": "Hatin",
-      "profile": "https://remanga.org/user/2797890/about",
-      "avatar": "avatars/hatin.jpg",
-      "initial": 12900,
-      "current": 59944,
-      "weekly": 0,
-      "baseline": 59944
     },
     "saytoriya": {
       "display": "Saytoriya",
