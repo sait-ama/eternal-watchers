@@ -486,6 +486,15 @@
           "weekly": 0,
           "baseline": 42445
         },
+        "nowarries": {
+          "display": "No_warries",
+          "profile": "https://remanga.org/user/1160253/about",
+          "avatar": "avatars/nowarries.jpg",
+          "initial": 16490,
+          "current": 37921,
+          "weekly": 1052,
+          "baseline": 36869
+        },
         "별팽귀": {
           "display": "별팽귀",
           "profile": "https://remanga.org/user/133044/about",
@@ -512,15 +521,6 @@
           "current": 70108,
           "weekly": 0,
           "baseline": 70108
-        },
-        "nowarries": {
-          "display": "No_warries",
-          "profile": "https://remanga.org/user/1160253/about",
-          "avatar": "avatars/nowarries.jpg",
-          "initial": 16490,
-          "current": 36869,
-          "weekly": 0,
-          "baseline": 36869
         },
         "healot": {
           "display": "healot",
