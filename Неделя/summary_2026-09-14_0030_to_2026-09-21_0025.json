@@ -1282,6 +1282,15 @@
           "weekly": 0,
           "baseline": 100000
         },
+        "oblakatt": {
+          "display": "OblakaT_T",
+          "profile": "https://remanga.org/user/474087/about",
+          "avatar": "avatars/oblakatt.jpg",
+          "initial": 13000,
+          "current": 82066,
+          "weekly": 3000,
+          "baseline": 79066
+        },
         "nix": {
           "display": "-Nix-",
           "profile": "https://remanga.org/user/46754/about",
@@ -1308,15 +1317,6 @@
           "current": 66500,
           "weekly": 0,
           "baseline": 66500
-        },
-        "oblakatt": {
-          "display": "OblakaT_T",
-          "profile": "https://remanga.org/user/474087/about",
-          "avatar": "avatars/oblakatt.jpg",
-          "initial": 13000,
-          "current": 79066,
-          "weekly": 0,
-          "baseline": 79066
         },
         "cracker7": {
           "display": "Cracker_7",
