@@ -954,6 +954,15 @@
           "weekly": 0,
           "baseline": 29050
         },
+        "asesinadodios": {
+          "display": "asesinadoDios",
+          "profile": "https://remanga.org/user/514882/about",
+          "avatar": "avatars/asesinadodios.jpg",
+          "initial": 2900,
+          "current": 7417,
+          "weekly": 300,
+          "baseline": 7117
+        },
         "gaynese": {
           "display": "Gaynese",
           "profile": "https://remanga.org/user/2253672/about",
@@ -962,15 +971,6 @@
           "current": 4332,
           "weekly": 0,
           "baseline": 4332
-        },
-        "asesinadodios": {
-          "display": "asesinadoDios",
-          "profile": "https://remanga.org/user/514882/about",
-          "avatar": "avatars/asesinadodios.jpg",
-          "initial": 2900,
-          "current": 7117,
-          "weekly": 0,
-          "baseline": 7117
         },
         "wladzer": {
           "display": "Wladzer",
