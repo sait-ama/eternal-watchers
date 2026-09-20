@@ -706,14 +706,14 @@
       "end_key": "2026-09-28_0025",
       "baseline": 74181,
       "min_seen": 74181,
-      "current": 74181,
-      "weekly": 0,
+      "current": 75181,
+      "weekly": 1000,
       "period_ru": "с 21.09 по 28.09",
       "guild": "Eternal Demonic",
       "display": "ДолинаРекиСетунь",
       "profile": "https://remanga.org/user/24432/about",
       "avatar": "avatars/dolinapekisetynь.jpg",
-      "ts": "2026-09-21T02:34:12.431595+03:00"
+      "ts": "2026-09-21T02:39:12.474951+03:00"
     }
   ]
 }
