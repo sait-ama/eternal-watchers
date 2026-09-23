@@ -664,14 +664,14 @@
       "end_key": "2026-09-28_0025",
       "baseline": 61528,
       "min_seen": 61528,
-      "current": 61528,
+      "current": 0,
       "weekly": 0,
       "period_ru": "с 21.09 по 28.09",
       "guild": "Eternal Demonic",
       "display": "JackSaifer",
-      "profile": "https://remanga.org/user/349030/about",
-      "avatar": "avatars/jacksaifer.jpg",
-      "ts": "2026-09-23T21:04:13.444005+03:00"
+      "profile": "https://remanga.org",
+      "avatar": "avatars/placeholder.jpg",
+      "ts": "2026-09-23T21:09:13.427048+03:00"
     }
   ]
 }

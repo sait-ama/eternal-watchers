@@ -496,14 +496,14 @@
       "end_key": "2026-09-28_0025",
       "baseline": 2185,
       "min_seen": 2185,
-      "current": 2185,
+      "current": 561,
       "weekly": 0,
       "period_ru": "с 21.09 по 28.09",
       "guild": "Eternal Angelic",
       "display": "Pandor",
-      "profile": "https://remanga.org/user/940898/about",
-      "avatar": "avatars/pandor.jpg",
-      "ts": "2026-09-23T21:04:15.934390+03:00"
+      "profile": "https://remanga.org",
+      "avatar": "avatars/placeholder.jpg",
+      "ts": "2026-09-23T21:09:16.257469+03:00"
     }
   ]
 }

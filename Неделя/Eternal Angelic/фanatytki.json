@@ -678,14 +678,14 @@
       "end_key": "2026-09-28_0025",
       "baseline": 35722,
       "min_seen": 35722,
-      "current": 35722,
+      "current": 35720,
       "weekly": 0,
       "period_ru": "с 21.09 по 28.09",
       "guild": "Eternal Angelic",
       "display": "Фанат_утки",
-      "profile": "https://remanga.org/user/2895554/about",
-      "avatar": "avatars/фanatytki.jpg",
-      "ts": "2026-09-23T21:04:15.934390+03:00"
+      "profile": "https://remanga.org",
+      "avatar": "avatars/placeholder.jpg",
+      "ts": "2026-09-23T21:09:16.257469+03:00"
     }
   ]
 }
