@@ -296,6 +296,15 @@
       "weekly": 0,
       "baseline": 67000
     },
+    "samurafs": {
+      "display": "SamuraFs",
+      "profile": "https://remanga.org/user/93225/about",
+      "avatar": "avatars/samurafs.jpg",
+      "initial": 11000,
+      "current": 66500,
+      "weekly": 2000,
+      "baseline": 64500
+    },
     "kintownskiy": {
       "display": "kintownskiy",
       "profile": "https://remanga.org/user/3983/about",
@@ -304,15 +313,6 @@
       "current": 69237,
       "weekly": 0,
       "baseline": 69237
-    },
-    "samurafs": {
-      "display": "SamuraFs",
-      "profile": "https://remanga.org/user/93225/about",
-      "avatar": "avatars/samurafs.jpg",
-      "initial": 11000,
-      "current": 64500,
-      "weekly": 0,
-      "baseline": 64500
     },
     "dolinapekisetynь": {
       "display": "ДолинаРекиСетунь",
