@@ -152,6 +152,15 @@
       "weekly": 0,
       "baseline": 100000
     },
+    "taпka66": {
+      "display": "Тапка66",
+      "profile": "https://remanga.org/user/1196239/about",
+      "avatar": "avatars/taпka66.jpg",
+      "initial": 0,
+      "current": 69500,
+      "weekly": 1500,
+      "baseline": 68000
+    },
     "oblakatt": {
       "display": "OblakaT_T",
       "profile": "https://remanga.org/user/474087/about",
@@ -169,15 +178,6 @@
       "current": 75945,
       "weekly": 0,
       "baseline": 75945
-    },
-    "taпka66": {
-      "display": "Тапка66",
-      "profile": "https://remanga.org/user/1196239/about",
-      "avatar": "avatars/taпka66.jpg",
-      "initial": 0,
-      "current": 68000,
-      "weekly": 0,
-      "baseline": 68000
     },
     "stas211242": {
       "display": "stas211242",
