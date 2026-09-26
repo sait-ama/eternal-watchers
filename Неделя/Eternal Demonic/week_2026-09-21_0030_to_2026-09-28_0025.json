@@ -278,6 +278,15 @@
       "weekly": 1000,
       "baseline": 67000
     },
+    "samurai": {
+      "display": "S.a.m.u.r.a.i.",
+      "profile": "https://remanga.org/user/396925/about",
+      "avatar": "avatars/samurai.jpg",
+      "initial": 11000,
+      "current": 68000,
+      "weekly": 1000,
+      "baseline": 67000
+    },
     "ckckck": {
       "display": "CKCKCK",
       "profile": "https://remanga.org/user/172319/about",
@@ -286,15 +295,6 @@
       "current": 67981,
       "weekly": 0,
       "baseline": 67981
-    },
-    "samurai": {
-      "display": "S.a.m.u.r.a.i.",
-      "profile": "https://remanga.org/user/396925/about",
-      "avatar": "avatars/samurai.jpg",
-      "initial": 11000,
-      "current": 67000,
-      "weekly": 0,
-      "baseline": 67000
     },
     "samurafs": {
       "display": "SamuraFs",
