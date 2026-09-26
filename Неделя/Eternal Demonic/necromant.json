@@ -706,14 +706,14 @@
       "end_key": "2026-09-28_0025",
       "baseline": 22602,
       "min_seen": 22602,
-      "current": 22602,
+      "current": 6020,
       "weekly": 0,
       "period_ru": "с 21.09 по 28.09",
       "guild": "Eternal Demonic",
       "display": "necromant",
-      "profile": "https://remanga.org/user/1523481/about",
-      "avatar": "avatars/necromant.jpg",
-      "ts": "2026-09-26T02:54:11.952901+03:00"
+      "profile": "https://remanga.org",
+      "avatar": "avatars/placeholder.jpg",
+      "ts": "2026-09-26T03:04:36.794599+03:00"
     }
   ]
 }
