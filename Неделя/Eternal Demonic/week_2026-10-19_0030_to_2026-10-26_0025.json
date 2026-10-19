@@ -422,6 +422,15 @@
       "weekly": 0,
       "baseline": 58149
     },
+    "saytoriya": {
+      "display": "Saytoriya",
+      "profile": "https://remanga.org/user/126709/about",
+      "avatar": "avatars/saytoriya.jpg",
+      "initial": 11000,
+      "current": 60002,
+      "weekly": 1000,
+      "baseline": 59002
+    },
     "ronin74": {
       "display": "Ronin74",
       "profile": "https://remanga.org/user/76998/about",
@@ -439,15 +448,6 @@
       "current": 58200,
       "weekly": 0,
       "baseline": 58200
-    },
-    "saytoriya": {
-      "display": "Saytoriya",
-      "profile": "https://remanga.org/user/126709/about",
-      "avatar": "avatars/saytoriya.jpg",
-      "initial": 11000,
-      "current": 59002,
-      "weekly": 0,
-      "baseline": 59002
     },
     "justea": {
       "display": "Justea",
