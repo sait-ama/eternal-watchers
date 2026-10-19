@@ -85215,6 +85215,13 @@
         "url": "https://remanga.org/card/134526"
       },
       {
+        "id": 232529,
+        "title": "Сарех",
+        "cover": "https://remanga.org/media/card-item/cover_de756f4b59d74fb6.webp",
+        "rarity": "rank_c",
+        "url": "https://remanga.org/card/232529"
+      },
+      {
         "id": 232183,
         "title": "Абаддон Разоритель",
         "cover": "https://remanga.org/media/card-item/cover_3167828d69974d16.webp",
@@ -88167,6 +88174,13 @@
         "cover": "https://remanga.org/media/card-item/cover_d92419408046496b.webp",
         "rarity": "rank_c",
         "url": "https://remanga.org/card/51589"
+      },
+      {
+        "id": 232528,
+        "title": "Сарех",
+        "cover": "https://remanga.org/media/card-item/cover_4b12021831bc4255.webp",
+        "rarity": "rank_d",
+        "url": "https://remanga.org/card/232528"
       },
       {
         "id": 232182,
@@ -91179,6 +91193,13 @@
         "url": "https://remanga.org/card/57540"
       },
       {
+        "id": 232492,
+        "title": "Сарех",
+        "cover": "https://remanga.org/media/card-item/cover_ddda14d0134845df.webp",
+        "rarity": "rank_e",
+        "url": "https://remanga.org/card/232492"
+      },
+      {
         "id": 232287,
         "title": "Форсайт",
         "cover": "https://remanga.org/media/card-item/cover_fe35454765814299.webp",
@@ -94180,6 +94201,13 @@
         "cover": "https://remanga.org/media/card-item/cover_3e934d27049840b7.webp",
         "rarity": "rank_e",
         "url": "https://remanga.org/card/56452"
+      },
+      {
+        "id": 232491,
+        "title": "Сарех",
+        "cover": "https://remanga.org/media/card-item/cover_6bad5c27bf52459a.webp",
+        "rarity": "rank_f",
+        "url": "https://remanga.org/card/232491"
       },
       {
         "id": 232286,
