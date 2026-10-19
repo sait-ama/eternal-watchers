@@ -1426,6 +1426,15 @@
           "weekly": 0,
           "baseline": 80601
         },
+        "dpygчitatelei": {
+          "display": "Друг_Читателей",
+          "profile": "https://remanga.org/user/616372/about",
+          "avatar": "avatars/dpygчitatelei.jpg",
+          "initial": 10000,
+          "current": 68000,
+          "weekly": 5000,
+          "baseline": 63000
+        },
         "ckckck": {
           "display": "CKCKCK",
           "profile": "https://remanga.org/user/172319/about",
@@ -1461,15 +1470,6 @@
           "current": 69237,
           "weekly": 0,
           "baseline": 69237
-        },
-        "dpygчitatelei": {
-          "display": "Друг_Читателей",
-          "profile": "https://remanga.org/user/616372/about",
-          "avatar": "avatars/dpygчitatelei.jpg",
-          "initial": 10000,
-          "current": 63000,
-          "weekly": 0,
-          "baseline": 63000
         },
         "hatin": {
           "display": "Hatin",
