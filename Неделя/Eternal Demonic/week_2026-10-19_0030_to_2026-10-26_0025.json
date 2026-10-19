@@ -449,6 +449,15 @@
       "weekly": 0,
       "baseline": 59002
     },
+    "justea": {
+      "display": "Justea",
+      "profile": "https://remanga.org/user/911857/about",
+      "avatar": "avatars/justea.jpg",
+      "initial": 0,
+      "current": 47500,
+      "weekly": 500,
+      "baseline": 47000
+    },
     "akihiko": {
       "display": "Akihiko",
       "profile": "https://remanga.org/user/183282/about",
@@ -466,15 +475,6 @@
       "current": 60000,
       "weekly": 0,
       "baseline": 60000
-    },
-    "justea": {
-      "display": "Justea",
-      "profile": "https://remanga.org/user/911857/about",
-      "avatar": "avatars/justea.jpg",
-      "initial": 0,
-      "current": 47000,
-      "weekly": 0,
-      "baseline": 47000
     },
     "akiragame": {
       "display": "AkiraGame",
