@@ -198,6 +198,15 @@
           "weekly": 0,
           "baseline": 115229
         },
+        "ewobserver": {
+          "display": "EW_OBSERVER",
+          "profile": "https://remanga.org/user/141395/about",
+          "avatar": "avatars/ewobserver.jpg",
+          "initial": 264330,
+          "current": 318094,
+          "weekly": 3451,
+          "baseline": 314643
+        },
         "bluefish": {
           "display": "Blue__fish",
           "profile": "https://remanga.org/user/264468/about",
@@ -206,15 +215,6 @@
           "current": 62505,
           "weekly": 0,
           "baseline": 62505
-        },
-        "ewobserver": {
-          "display": "EW_OBSERVER",
-          "profile": "https://remanga.org/user/141395/about",
-          "avatar": "avatars/ewobserver.jpg",
-          "initial": 264330,
-          "current": 317794,
-          "weekly": 3151,
-          "baseline": 314643
         },
         "unlimitedcringeworks": {
           "display": "UnlimitedCringeWorks",
