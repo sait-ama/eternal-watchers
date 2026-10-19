@@ -762,14 +762,14 @@
       "end_key": "2026-10-26_0025",
       "baseline": 88486,
       "min_seen": 88486,
-      "current": 88486,
-      "weekly": 0,
+      "current": 89486,
+      "weekly": 1000,
       "period_ru": "с 19.10 по 26.10",
       "guild": "Eternal Demonic",
       "display": "Nirol",
       "profile": "https://remanga.org/user/1450372/about",
       "avatar": "avatars/nirol.jpg",
-      "ts": "2026-10-20T00:49:12.227689+03:00"
+      "ts": "2026-10-20T00:54:12.273658+03:00"
     }
   ]
 }
