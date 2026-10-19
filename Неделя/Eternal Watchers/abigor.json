@@ -713,7 +713,63 @@
       "display": "Abigor.",
       "profile": "https://remanga.org/user/2093362/about",
       "avatar": "avatars/abigor.jpg",
-      "ts": "2026-09-26T13:09:10.857491+03:00"
+      "ts": "2026-09-28T00:29:10.987104+03:00"
+    },
+    {
+      "start_key": "2026-09-28_0030",
+      "end_key": "2026-10-05_0025",
+      "baseline": 46105,
+      "min_seen": 46105,
+      "current": 46105,
+      "weekly": 0,
+      "period_ru": "с 28.09 по 05.10",
+      "guild": "Eternal Watchers",
+      "display": "Abigor.",
+      "profile": "https://remanga.org/user/2093362/about",
+      "avatar": "avatars/abigor.jpg",
+      "ts": "2026-10-05T00:29:11.161177+03:00"
+    },
+    {
+      "start_key": "2026-10-05_0030",
+      "end_key": "2026-10-12_0025",
+      "baseline": 46105,
+      "min_seen": 46105,
+      "current": 46105,
+      "weekly": 0,
+      "period_ru": "с 05.10 по 12.10",
+      "guild": "Eternal Watchers",
+      "display": "Abigor.",
+      "profile": "https://remanga.org/user/2093362/about",
+      "avatar": "avatars/abigor.jpg",
+      "ts": "2026-10-12T00:29:11.366890+03:00"
+    },
+    {
+      "start_key": "2026-10-12_0030",
+      "end_key": "2026-10-19_0025",
+      "baseline": 46105,
+      "min_seen": 46105,
+      "current": 46105,
+      "weekly": 0,
+      "period_ru": "с 12.10 по 19.10",
+      "guild": "Eternal Watchers",
+      "display": "Abigor.",
+      "profile": "https://remanga.org/user/2093362/about",
+      "avatar": "avatars/abigor.jpg",
+      "ts": "2026-10-17T02:09:11.411019+03:00"
+    },
+    {
+      "start_key": "2026-10-19_0030",
+      "end_key": "2026-10-26_0025",
+      "baseline": 46105,
+      "min_seen": 46105,
+      "current": 46105,
+      "weekly": 0,
+      "period_ru": "с 19.10 по 26.10",
+      "guild": "Eternal Watchers",
+      "display": "Abigor.",
+      "profile": "https://remanga.org/user/2093362/about",
+      "avatar": "avatars/abigor.jpg",
+      "ts": "2026-10-19T11:49:36.413506+03:00"
     }
   ]
 }

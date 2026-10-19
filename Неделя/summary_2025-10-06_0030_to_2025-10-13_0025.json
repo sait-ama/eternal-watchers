@@ -1561,15 +1561,6 @@
           "weekly": 0,
           "baseline": 0
         },
-        "silenthill": {
-          "display": "SilentHill",
-          "profile": "https://remanga.org/user/54424/about",
-          "avatar": "avatars/silenthill.jpg",
-          "initial": 24000,
-          "current": 24000,
-          "weekly": 0,
-          "baseline": 24000
-        },
         "wertyservyt": {
           "display": "Werty-Servyt",
           "profile": "https://remanga.org/user/364625/about",
@@ -1687,8 +1678,17 @@
           "weekly": 0,
           "baseline": 16000
         },
-        "vampcolumbine": {
-          "display": "VampColumbine",
+        "7wave": {
+          "display": "7Wave",
+          "profile": "https://remanga.org/user/54424/about",
+          "avatar": "avatars/silenthill.jpg",
+          "initial": 24000,
+          "current": 24000,
+          "weekly": 0,
+          "baseline": 24000
+        },
+        "apocalypse666": {
+          "display": "APOCALYPSE666",
           "profile": "https://remanga.org/user/740757/about",
           "avatar": "avatars/rubyrose.jpg",
           "initial": 20450,

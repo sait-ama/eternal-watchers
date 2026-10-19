@@ -31,8 +31,8 @@
       "profile": "https://remanga.org/user/372102/about",
       "avatar": "avatars/chitandael.jpg",
       "initial": 19750,
-      "current": 103468,
-      "weekly": 0,
+      "current": 105530,
+      "weekly": 2062,
       "baseline": 103468
     },
     "maksimbybnov": {
@@ -40,8 +40,8 @@
       "profile": "https://remanga.org/user/3503844/about",
       "avatar": "avatars/maksimbybnov.jpg",
       "initial": 4000,
-      "current": 69000,
-      "weekly": 0,
+      "current": 71000,
+      "weekly": 2000,
       "baseline": 69000
     },
     "saitama": {
@@ -124,15 +124,6 @@
       "current": 4274,
       "weekly": 0,
       "baseline": 4274
-    },
-    "silenthill": {
-      "display": "SilentHill",
-      "profile": "https://remanga.org/user/54424/about",
-      "avatar": "avatars/silenthill.jpg",
-      "initial": 3500,
-      "current": 5559,
-      "weekly": 0,
-      "baseline": 5559
     },
     "pandor": {
       "display": "Pandor",
@@ -232,6 +223,15 @@
       "current": 19690,
       "weekly": 0,
       "baseline": 19690
+    },
+    "7wave": {
+      "display": "7Wave",
+      "profile": "https://remanga.org/user/54424/about",
+      "avatar": "avatars/silenthill.jpg",
+      "initial": 3500,
+      "current": 5559,
+      "weekly": 0,
+      "baseline": 5559
     }
   }
 }

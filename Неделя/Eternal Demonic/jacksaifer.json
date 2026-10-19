@@ -671,7 +671,63 @@
       "display": "JackSaifer",
       "profile": "https://remanga.org/user/349030/about",
       "avatar": "avatars/jacksaifer.jpg",
-      "ts": "2026-09-26T13:09:12.622178+03:00"
+      "ts": "2026-09-28T00:29:12.246030+03:00"
+    },
+    {
+      "start_key": "2026-09-28_0030",
+      "end_key": "2026-10-05_0025",
+      "baseline": 61528,
+      "min_seen": 61528,
+      "current": 61528,
+      "weekly": 0,
+      "period_ru": "с 28.09 по 05.10",
+      "guild": "Eternal Demonic",
+      "display": "JackSaifer",
+      "profile": "https://remanga.org/user/349030/about",
+      "avatar": "avatars/jacksaifer.jpg",
+      "ts": "2026-10-05T00:29:12.607395+03:00"
+    },
+    {
+      "start_key": "2026-10-05_0030",
+      "end_key": "2026-10-12_0025",
+      "baseline": 61528,
+      "min_seen": 61528,
+      "current": 61528,
+      "weekly": 0,
+      "period_ru": "с 05.10 по 12.10",
+      "guild": "Eternal Demonic",
+      "display": "JackSaifer",
+      "profile": "https://remanga.org/user/349030/about",
+      "avatar": "avatars/jacksaifer.jpg",
+      "ts": "2026-10-12T00:29:12.856631+03:00"
+    },
+    {
+      "start_key": "2026-10-12_0030",
+      "end_key": "2026-10-19_0025",
+      "baseline": 61528,
+      "min_seen": 61528,
+      "current": 61528,
+      "weekly": 0,
+      "period_ru": "с 12.10 по 19.10",
+      "guild": "Eternal Demonic",
+      "display": "JackSaifer",
+      "profile": "https://remanga.org/user/349030/about",
+      "avatar": "avatars/jacksaifer.jpg",
+      "ts": "2026-10-17T02:09:14.268025+03:00"
+    },
+    {
+      "start_key": "2026-10-19_0030",
+      "end_key": "2026-10-26_0025",
+      "baseline": 61528,
+      "min_seen": 61528,
+      "current": 61528,
+      "weekly": 0,
+      "period_ru": "с 19.10 по 26.10",
+      "guild": "Eternal Demonic",
+      "display": "JackSaifer",
+      "profile": "https://remanga.org/user/349030/about",
+      "avatar": "avatars/jacksaifer.jpg",
+      "ts": "2026-10-19T11:49:37.926553+03:00"
     }
   ]
 }

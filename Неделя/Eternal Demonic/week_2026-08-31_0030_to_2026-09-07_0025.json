@@ -548,15 +548,6 @@
       "weekly": 500,
       "baseline": 50200
     },
-    "vampcolumbine": {
-      "display": "VampColumbine",
-      "profile": "https://remanga.org/user/740757/about",
-      "avatar": "avatars/vampcolumbine.jpg",
-      "initial": 20450,
-      "current": 60127,
-      "weekly": 0,
-      "baseline": 60127
-    },
     "zatex": {
       "display": "Zatex",
       "profile": "https://remanga.org/user/246605/about",
@@ -782,15 +773,6 @@
       "weekly": 0,
       "baseline": 20000
     },
-    "silenthill": {
-      "display": "SilentHill",
-      "profile": "https://remanga.org/user/54424/about",
-      "avatar": "avatars/silenthill.jpg",
-      "initial": 24000,
-      "current": 39609,
-      "weekly": 0,
-      "baseline": 39609
-    },
     "alanhui": {
       "display": "alan-hui",
       "profile": "https://remanga.org/user/2336976/about",
@@ -871,6 +853,24 @@
       "current": 421,
       "weekly": 0,
       "baseline": 421
+    },
+    "7wave": {
+      "display": "7Wave",
+      "profile": "https://remanga.org/user/54424/about",
+      "avatar": "avatars/silenthill.jpg",
+      "initial": 24000,
+      "current": 39609,
+      "weekly": 0,
+      "baseline": 39609
+    },
+    "apocalypse666": {
+      "display": "APOCALYPSE666",
+      "profile": "https://remanga.org/user/740757/about",
+      "avatar": "avatars/vampcolumbine.jpg",
+      "initial": 20450,
+      "current": 60127,
+      "weekly": 0,
+      "baseline": 60127
     }
   }
 }

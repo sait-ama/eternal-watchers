@@ -1705,15 +1705,6 @@
           "weekly": 0,
           "baseline": 9400
         },
-        "silenthill": {
-          "display": "SilentHill",
-          "profile": "https://remanga.org/user/54424/about",
-          "avatar": "avatars/silenthill.jpg",
-          "initial": 24000,
-          "current": 29250,
-          "weekly": 0,
-          "baseline": 29250
-        },
         "alanhui": {
           "display": "alan-hui",
           "profile": "https://remanga.org/user/2336976/about",
@@ -1921,8 +1912,17 @@
           "weekly": 1000,
           "baseline": 22000
         },
-        "vampcolumbine": {
-          "display": "VampColumbine",
+        "7wave": {
+          "display": "7Wave",
+          "profile": "https://remanga.org/user/54424/about",
+          "avatar": "avatars/silenthill.jpg",
+          "initial": 24000,
+          "current": 29250,
+          "weekly": 0,
+          "baseline": 29250
+        },
+        "apocalypse666": {
+          "display": "APOCALYPSE666",
           "profile": "https://remanga.org/user/740757/about",
           "avatar": "avatars/rubyrose.jpg",
           "initial": 20450,
@@ -2532,15 +2532,6 @@
           "weekly": 0,
           "baseline": 4330
         },
-        "silenthill": {
-          "display": "SilentHill",
-          "profile": "https://remanga.org/user/54424/about",
-          "avatar": "avatars/silenthill.jpg",
-          "initial": 3500,
-          "current": 3500,
-          "weekly": 0,
-          "baseline": 3500
-        },
         "cipher++": {
           "display": "cipher+_+",
           "profile": "https://remanga.org/user/3187539/about",
@@ -2621,6 +2612,15 @@
           "current": 35720,
           "weekly": 0,
           "baseline": 35720
+        },
+        "7wave": {
+          "display": "7Wave",
+          "profile": "https://remanga.org/user/54424/about",
+          "avatar": "avatars/silenthill.jpg",
+          "initial": 3500,
+          "current": 3500,
+          "weekly": 0,
+          "baseline": 3500
         }
       }
     }

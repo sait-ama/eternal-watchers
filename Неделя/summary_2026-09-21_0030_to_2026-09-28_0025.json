@@ -162,6 +162,15 @@
           "weekly": 2500,
           "baseline": 75343
         },
+        "maksimbybnov": {
+          "display": "МаксимБубнов",
+          "profile": "https://remanga.org/user/3503844/about",
+          "avatar": "avatars/maksimbybnov.jpg",
+          "initial": 0,
+          "current": 55300,
+          "weekly": 2000,
+          "baseline": 53300
+        },
         "ewnobon": {
           "display": "EW_NoBoN",
           "profile": "https://remanga.org/user/155090/about",
@@ -188,15 +197,6 @@
           "current": 62505,
           "weekly": 0,
           "baseline": 62505
-        },
-        "maksimbybnov": {
-          "display": "МаксимБубнов",
-          "profile": "https://remanga.org/user/3503844/about",
-          "avatar": "avatars/maksimbybnov.jpg",
-          "initial": 0,
-          "current": 53300,
-          "weekly": 0,
-          "baseline": 53300
         },
         "unlimitedcringeworks": {
           "display": "UnlimitedCringeWorks",
@@ -959,8 +959,8 @@
           "profile": "https://remanga.org/user/514882/about",
           "avatar": "avatars/asesinadodios.jpg",
           "initial": 2900,
-          "current": 7417,
-          "weekly": 0,
+          "current": 7917,
+          "weekly": 500,
           "baseline": 7417
         },
         "gaynese": {
@@ -1143,8 +1143,8 @@
           "profile": "https://remanga.org/user/3503844/about",
           "avatar": "avatars/maksimbybnov.jpg",
           "initial": 0,
-          "current": 198260,
-          "weekly": 0,
+          "current": 200260,
+          "weekly": 2000,
           "baseline": 198260
         },
         "flammenoire": {
@@ -1192,6 +1192,15 @@
           "weekly": 1000,
           "baseline": 145495
         },
+        "so1omoon": {
+          "display": "So1oMooN",
+          "profile": "https://remanga.org/user/102035/about",
+          "avatar": "avatars/so1omoon.jpg",
+          "initial": 9000,
+          "current": 132211,
+          "weekly": 9382,
+          "baseline": 122829
+        },
         "amen": {
           "display": "Амен",
           "profile": "https://remanga.org/user/993301/about",
@@ -1200,15 +1209,6 @@
           "current": 129068,
           "weekly": 0,
           "baseline": 129068
-        },
-        "so1omoon": {
-          "display": "So1oMooN",
-          "profile": "https://remanga.org/user/102035/about",
-          "avatar": "avatars/so1omoon.jpg",
-          "initial": 9000,
-          "current": 122829,
-          "weekly": 0,
-          "baseline": 122829
         },
         "lucifiel": {
           "display": "--Lucifiel--",
@@ -1435,6 +1435,15 @@
           "weekly": 2000,
           "baseline": 64500
         },
+        "dolinapekisetynь": {
+          "display": "ДолинаРекиСетунь",
+          "profile": "https://remanga.org/user/24432/about",
+          "avatar": "avatars/dolinapekisetynь.jpg",
+          "initial": 21750,
+          "current": 76681,
+          "weekly": 2500,
+          "baseline": 74181
+        },
         "kintownskiy": {
           "display": "kintownskiy",
           "profile": "https://remanga.org/user/3983/about",
@@ -1443,15 +1452,6 @@
           "current": 69237,
           "weekly": 0,
           "baseline": 69237
-        },
-        "dolinapekisetynь": {
-          "display": "ДолинаРекиСетунь",
-          "profile": "https://remanga.org/user/24432/about",
-          "avatar": "avatars/dolinapekisetynь.jpg",
-          "initial": 21750,
-          "current": 75681,
-          "weekly": 1500,
-          "baseline": 74181
         },
         "leyley": {
           "display": "Ley-Ley",
@@ -1516,6 +1516,15 @@
           "weekly": 0,
           "baseline": 58149
         },
+        "hazenberg": {
+          "display": "Hazenberg",
+          "profile": "https://remanga.org/user/612259/about",
+          "avatar": "avatars/hazenberg.jpg",
+          "initial": 9000,
+          "current": 58000,
+          "weekly": 4000,
+          "baseline": 54000
+        },
         "hatin": {
           "display": "Hatin",
           "profile": "https://remanga.org/user/2797890/about",
@@ -1542,6 +1551,15 @@
           "current": 58200,
           "weekly": 2000,
           "baseline": 56200
+        },
+        "aggressive": {
+          "display": "-AGGRESSIVE-",
+          "profile": "https://remanga.org/user/1939125/about",
+          "avatar": "avatars/aggressive.jpg",
+          "initial": 7750,
+          "current": 55900,
+          "weekly": 1500,
+          "baseline": 54400
         },
         "axper00": {
           "display": "𝑨𝑿𝑷𝑬𝑹_𝟎𝟎",
@@ -1578,24 +1596,6 @@
           "current": 60000,
           "weekly": 0,
           "baseline": 60000
-        },
-        "hazenberg": {
-          "display": "Hazenberg",
-          "profile": "https://remanga.org/user/612259/about",
-          "avatar": "avatars/hazenberg.jpg",
-          "initial": 9000,
-          "current": 56000,
-          "weekly": 2000,
-          "baseline": 54000
-        },
-        "aggressive": {
-          "display": "-AGGRESSIVE-",
-          "profile": "https://remanga.org/user/1939125/about",
-          "avatar": "avatars/aggressive.jpg",
-          "initial": 7750,
-          "current": 54400,
-          "weekly": 0,
-          "baseline": 54400
         },
         "festashka": {
           "display": "_festashka_",
@@ -1677,15 +1677,6 @@
           "current": 51100,
           "weekly": 0,
           "baseline": 51100
-        },
-        "vampcolumbine": {
-          "display": "VampColumbine",
-          "profile": "https://remanga.org/user/740757/about",
-          "avatar": "avatars/vampcolumbine.jpg",
-          "initial": 20450,
-          "current": 60127,
-          "weekly": 0,
-          "baseline": 60127
         },
         "zatex": {
           "display": "Zatex",
@@ -1912,15 +1903,6 @@
           "weekly": 0,
           "baseline": 31686
         },
-        "silenthill": {
-          "display": "SilentHill",
-          "profile": "https://remanga.org/user/54424/about",
-          "avatar": "avatars/silenthill.jpg",
-          "initial": 24000,
-          "current": 39609,
-          "weekly": 0,
-          "baseline": 39609
-        },
         "alanhui": {
           "display": "alan-hui",
           "profile": "https://remanga.org/user/2336976/about",
@@ -2001,6 +1983,24 @@
           "current": 421,
           "weekly": 0,
           "baseline": 421
+        },
+        "7wave": {
+          "display": "7Wave",
+          "profile": "https://remanga.org/user/54424/about",
+          "avatar": "avatars/silenthill.jpg",
+          "initial": 24000,
+          "current": 39609,
+          "weekly": 0,
+          "baseline": 39609
+        },
+        "apocalypse666": {
+          "display": "APOCALYPSE666",
+          "profile": "https://remanga.org/user/740757/about",
+          "avatar": "avatars/vampcolumbine.jpg",
+          "initial": 20450,
+          "current": 60127,
+          "weekly": 0,
+          "baseline": 60127
         }
       }
     },
@@ -2438,8 +2438,8 @@
           "profile": "https://remanga.org/user/372102/about",
           "avatar": "avatars/chitandael.jpg",
           "initial": 19750,
-          "current": 103468,
-          "weekly": 0,
+          "current": 105530,
+          "weekly": 2062,
           "baseline": 103468
         },
         "maksimbybnov": {
@@ -2447,8 +2447,8 @@
           "profile": "https://remanga.org/user/3503844/about",
           "avatar": "avatars/maksimbybnov.jpg",
           "initial": 4000,
-          "current": 69000,
-          "weekly": 0,
+          "current": 71000,
+          "weekly": 2000,
           "baseline": 69000
         },
         "saitama": {
@@ -2531,15 +2531,6 @@
           "current": 4274,
           "weekly": 0,
           "baseline": 4274
-        },
-        "silenthill": {
-          "display": "SilentHill",
-          "profile": "https://remanga.org/user/54424/about",
-          "avatar": "avatars/silenthill.jpg",
-          "initial": 3500,
-          "current": 5559,
-          "weekly": 0,
-          "baseline": 5559
         },
         "pandor": {
           "display": "Pandor",
@@ -2639,6 +2630,15 @@
           "current": 19690,
           "weekly": 0,
           "baseline": 19690
+        },
+        "7wave": {
+          "display": "7Wave",
+          "profile": "https://remanga.org/user/54424/about",
+          "avatar": "avatars/silenthill.jpg",
+          "initial": 3500,
+          "current": 5559,
+          "weekly": 0,
+          "baseline": 5559
         }
       }
     }

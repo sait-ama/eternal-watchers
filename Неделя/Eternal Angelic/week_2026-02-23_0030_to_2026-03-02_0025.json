@@ -62,15 +62,6 @@
       "weekly": 500,
       "baseline": 10360
     },
-    "silenthill": {
-      "display": "SilentHill",
-      "profile": "https://remanga.org/user/54424/about",
-      "avatar": "avatars/silenthill.jpg",
-      "initial": 3500,
-      "current": 5560,
-      "weekly": 0,
-      "baseline": 5560
-    },
     "pandor": {
       "display": "Pandor",
       "profile": "https://remanga.org/user/940898/about",
@@ -223,6 +214,15 @@
       "current": 0,
       "weekly": 0,
       "baseline": 0
+    },
+    "7wave": {
+      "display": "7Wave",
+      "profile": "https://remanga.org/user/54424/about",
+      "avatar": "avatars/silenthill.jpg",
+      "initial": 3500,
+      "current": 5560,
+      "weekly": 0,
+      "baseline": 5560
     }
   }
 }
