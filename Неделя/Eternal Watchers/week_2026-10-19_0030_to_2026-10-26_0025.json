@@ -179,6 +179,15 @@
       "weekly": 0,
       "baseline": 77843
     },
+    "ewobserver": {
+      "display": "EW_OBSERVER",
+      "profile": "https://remanga.org/user/141395/about",
+      "avatar": "avatars/ewobserver.jpg",
+      "initial": 264330,
+      "current": 319788,
+      "weekly": 5145,
+      "baseline": 314643
+    },
     "ewnobon": {
       "display": "EW_NoBoN",
       "profile": "https://remanga.org/user/155090/about",
@@ -196,15 +205,6 @@
       "current": 115229,
       "weekly": 0,
       "baseline": 115229
-    },
-    "ewobserver": {
-      "display": "EW_OBSERVER",
-      "profile": "https://remanga.org/user/141395/about",
-      "avatar": "avatars/ewobserver.jpg",
-      "initial": 264330,
-      "current": 318223,
-      "weekly": 3580,
-      "baseline": 314643
     },
     "bluefish": {
       "display": "Blue__fish",
