@@ -79005,6 +79005,13 @@
     "author_id": 3210259,
     "cards": [
       {
+        "id": 232805,
+        "title": "Феникс Рефаэлла",
+        "cover": "https://remanga.org/media/card-item/cover_d6a3456b38054565.webp",
+        "rarity": "rank_b",
+        "url": "https://remanga.org/card/232805"
+      },
+      {
         "id": 232337,
         "title": "Рокси",
         "cover": "https://remanga.org/media/card-item/cover_d5c2e624c6974076.webp",
@@ -79537,6 +79544,13 @@
         "url": "https://remanga.org/card/3131"
       },
       {
+        "id": 232804,
+        "title": "Феникс Рефаэлла",
+        "cover": "https://remanga.org/media/card-item/cover_211bc48ff45a41d9.webp",
+        "rarity": "rank_c",
+        "url": "https://remanga.org/card/232804"
+      },
+      {
         "id": 232335,
         "title": "Рокси",
         "cover": "https://remanga.org/media/card-item/cover_6f3f6422ed5543e1.webp",
@@ -80004,6 +80018,13 @@
         "cover": "https://remanga.org/media/card-item/cover_f75d5245.webp",
         "rarity": "rank_c",
         "url": "https://remanga.org/card/112097"
+      },
+      {
+        "id": 232801,
+        "title": "Феникс Рефаэлла",
+        "cover": "https://remanga.org/media/card-item/cover_59cb960e623f41da.webp",
+        "rarity": "rank_d",
+        "url": "https://remanga.org/card/232801"
       },
       {
         "id": 232432,
@@ -80475,6 +80496,13 @@
         "url": "https://remanga.org/card/12633"
       },
       {
+        "id": 232800,
+        "title": "Феникс Рефаэлла",
+        "cover": "https://remanga.org/media/card-item/cover_cc64f169172c4c46.webp",
+        "rarity": "rank_e",
+        "url": "https://remanga.org/card/232800"
+      },
+      {
         "id": 232333,
         "title": "Рокси",
         "cover": "https://remanga.org/media/card-item/cover_83473b8087ed4bac.webp",
@@ -80886,6 +80914,13 @@
         "cover": "https://remanga.org/media/card-item/cover_2be4fbff.webp",
         "rarity": "rank_e",
         "url": "https://remanga.org/card/112095"
+      },
+      {
+        "id": 232799,
+        "title": "Феникс Рефаэлла",
+        "cover": "https://remanga.org/media/card-item/cover_394754ef7b5d4e00.webp",
+        "rarity": "rank_f",
+        "url": "https://remanga.org/card/232799"
       },
       {
         "id": 232332,
@@ -82309,6 +82344,27 @@
     "display": "RokYwka",
     "author_id": 1339341,
     "cards": [
+      {
+        "id": 232857,
+        "title": "Фокс",
+        "cover": "https://remanga.org/media/card-item/cover_eeb32d062ad141ae.webp",
+        "rarity": "rank_b",
+        "url": "https://remanga.org/card/232857"
+      },
+      {
+        "id": 232856,
+        "title": "Хонсу",
+        "cover": "https://remanga.org/media/card-item/cover_2192db97759a4c08.webp",
+        "rarity": "rank_b",
+        "url": "https://remanga.org/card/232856"
+      },
+      {
+        "id": 232834,
+        "title": "Оби-Ван Кеноби",
+        "cover": "https://remanga.org/media/card-item/cover_69fc1f44a22d44d6.webp",
+        "rarity": "rank_b",
+        "url": "https://remanga.org/card/232834"
+      },
       {
         "id": 232572,
         "title": "Сарех",
@@ -85313,6 +85369,27 @@
         "url": "https://remanga.org/card/134526"
       },
       {
+        "id": 232855,
+        "title": "Хонсу",
+        "cover": "https://remanga.org/media/card-item/cover_2d5ba8e28ac54210.webp",
+        "rarity": "rank_c",
+        "url": "https://remanga.org/card/232855"
+      },
+      {
+        "id": 232844,
+        "title": "Фокс",
+        "cover": "https://remanga.org/media/card-item/cover_1dd9ad347bf64533.webp",
+        "rarity": "rank_c",
+        "url": "https://remanga.org/card/232844"
+      },
+      {
+        "id": 232832,
+        "title": "Оби-Ван Кеноби",
+        "cover": "https://remanga.org/media/card-item/cover_53f8d643339b4724.webp",
+        "rarity": "rank_c",
+        "url": "https://remanga.org/card/232832"
+      },
+      {
         "id": 232535,
         "title": "Форсайт",
         "cover": "https://remanga.org/media/card-item/cover_21c5b5b8a14a47c3.webp",
@@ -88279,6 +88356,27 @@
         "cover": "https://remanga.org/media/card-item/cover_d92419408046496b.webp",
         "rarity": "rank_c",
         "url": "https://remanga.org/card/51589"
+      },
+      {
+        "id": 232843,
+        "title": "Фокс",
+        "cover": "https://remanga.org/media/card-item/cover_b10eda75d1004851.webp",
+        "rarity": "rank_d",
+        "url": "https://remanga.org/card/232843"
+      },
+      {
+        "id": 232836,
+        "title": "Хонсу",
+        "cover": "https://remanga.org/media/card-item/cover_af83b35e4aa84ecc.webp",
+        "rarity": "rank_d",
+        "url": "https://remanga.org/card/232836"
+      },
+      {
+        "id": 232831,
+        "title": "Оби-Ван Кеноби",
+        "cover": "https://remanga.org/media/card-item/cover_1d66182ae23345c2.webp",
+        "rarity": "rank_d",
+        "url": "https://remanga.org/card/232831"
       },
       {
         "id": 232534,
@@ -91305,6 +91403,27 @@
         "url": "https://remanga.org/card/57540"
       },
       {
+        "id": 232835,
+        "title": "Хонсу",
+        "cover": "https://remanga.org/media/card-item/cover_e795db5330ab4bf1.webp",
+        "rarity": "rank_e",
+        "url": "https://remanga.org/card/232835"
+      },
+      {
+        "id": 232774,
+        "title": "Фокс",
+        "cover": "https://remanga.org/media/card-item/cover_07876f9dbc5e4893.webp",
+        "rarity": "rank_e",
+        "url": "https://remanga.org/card/232774"
+      },
+      {
+        "id": 232763,
+        "title": "Оби-Ван Кеноби",
+        "cover": "https://remanga.org/media/card-item/cover_3c34ce0a14d74444.webp",
+        "rarity": "rank_e",
+        "url": "https://remanga.org/card/232763"
+      },
+      {
         "id": 232492,
         "title": "Сарех",
         "cover": "https://remanga.org/media/card-item/cover_ddda14d0134845df.webp",
@@ -94313,6 +94432,27 @@
         "cover": "https://remanga.org/media/card-item/cover_3e934d27049840b7.webp",
         "rarity": "rank_e",
         "url": "https://remanga.org/card/56452"
+      },
+      {
+        "id": 232773,
+        "title": "Фокс",
+        "cover": "https://remanga.org/media/card-item/cover_c1424816bfe040a2.webp",
+        "rarity": "rank_f",
+        "url": "https://remanga.org/card/232773"
+      },
+      {
+        "id": 232771,
+        "title": "Хонсу",
+        "cover": "https://remanga.org/media/card-item/cover_8b0ad8198291418c.webp",
+        "rarity": "rank_f",
+        "url": "https://remanga.org/card/232771"
+      },
+      {
+        "id": 232762,
+        "title": "Оби-Ван Кеноби",
+        "cover": "https://remanga.org/media/card-item/cover_dc4c08e210044927.webp",
+        "rarity": "rank_f",
+        "url": "https://remanga.org/card/232762"
       },
       {
         "id": 232491,
