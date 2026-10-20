@@ -1372,6 +1372,15 @@
           "weekly": 0,
           "baseline": 75000
         },
+        "llikojioma": {
+          "display": "LLIKoJIoma",
+          "profile": "https://remanga.org/user/938430/about",
+          "avatar": "avatars/llikojioma.jpg",
+          "initial": 10500,
+          "current": 73010,
+          "weekly": 1000,
+          "baseline": 72010
+        },
         "sas47": {
           "display": "Sas47",
           "profile": "https://remanga.org/user/2044615/about",
@@ -1389,15 +1398,6 @@
           "current": 61528,
           "weekly": 0,
           "baseline": 61528
-        },
-        "llikojioma": {
-          "display": "LLIKoJIoma",
-          "profile": "https://remanga.org/user/938430/about",
-          "avatar": "avatars/llikojioma.jpg",
-          "initial": 10500,
-          "current": 72010,
-          "weekly": 0,
-          "baseline": 72010
         },
         "kim5+": {
           "display": "Kim_5+",
@@ -1741,6 +1741,15 @@
           "weekly": 0,
           "baseline": 46581
         },
+        "takahikoo": {
+          "display": "Takahikoo",
+          "profile": "https://remanga.org/user/3225144/about",
+          "avatar": "avatars/takahikoo.jpg",
+          "initial": 11000,
+          "current": 43000,
+          "weekly": 1000,
+          "baseline": 42000
+        },
         "tenofmoses": {
           "display": "tenofmoses",
           "profile": "https://remanga.org/user/3176212/about",
@@ -1749,15 +1758,6 @@
           "current": 31966,
           "weekly": 0,
           "baseline": 31966
-        },
-        "takahikoo": {
-          "display": "Takahikoo",
-          "profile": "https://remanga.org/user/3225144/about",
-          "avatar": "avatars/takahikoo.jpg",
-          "initial": 11000,
-          "current": 42000,
-          "weekly": 0,
-          "baseline": 42000
         },
         "ewobserver": {
           "display": "EW_OBSERVER",
