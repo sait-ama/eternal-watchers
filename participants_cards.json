@@ -39011,6 +39011,13 @@
         "url": "https://remanga.org/card/207111"
       },
       {
+        "id": 233032,
+        "title": "Зани",
+        "cover": "https://remanga.org/media/card-item/cover_2ce287bb120f421f.webp",
+        "rarity": "rank_a",
+        "url": "https://remanga.org/card/233032"
+      },
+      {
         "id": 231650,
         "title": "Рио Цукацуки",
         "cover": "https://remanga.org/media/card-item/cover_6a4d344cf9e04258.webp",
@@ -82345,6 +82352,27 @@
     "author_id": 1339341,
     "cards": [
       {
+        "id": 233078,
+        "title": "Асока Тано",
+        "cover": "https://remanga.org/media/card-item/cover_7821dfab8192418a.webp",
+        "rarity": "rank_b",
+        "url": "https://remanga.org/card/233078"
+      },
+      {
+        "id": 233044,
+        "title": "Йода",
+        "cover": "https://remanga.org/media/card-item/cover_641a50970a774d5c.webp",
+        "rarity": "rank_b",
+        "url": "https://remanga.org/card/233044"
+      },
+      {
+        "id": 233038,
+        "title": "Асока Тано",
+        "cover": "https://remanga.org/media/card-item/cover_eb2bea8539994cd6.webp",
+        "rarity": "rank_b",
+        "url": "https://remanga.org/card/233038"
+      },
+      {
         "id": 232857,
         "title": "Фокс",
         "cover": "https://remanga.org/media/card-item/cover_eeb32d062ad141ae.webp",
@@ -85369,6 +85397,20 @@
         "url": "https://remanga.org/card/134526"
       },
       {
+        "id": 233074,
+        "title": "Асока Тано",
+        "cover": "https://remanga.org/media/card-item/cover_5b9eee4ac4124853.webp",
+        "rarity": "rank_c",
+        "url": "https://remanga.org/card/233074"
+      },
+      {
+        "id": 233043,
+        "title": "Йода",
+        "cover": "https://remanga.org/media/card-item/cover_4eff4311b70b4b6b.webp",
+        "rarity": "rank_c",
+        "url": "https://remanga.org/card/233043"
+      },
+      {
         "id": 233013,
         "title": "Асока Тано",
         "cover": "https://remanga.org/media/card-item/cover_3149cd9f13bd4e75.webp",
@@ -88363,6 +88405,13 @@
         "cover": "https://remanga.org/media/card-item/cover_d92419408046496b.webp",
         "rarity": "rank_c",
         "url": "https://remanga.org/card/51589"
+      },
+      {
+        "id": 233062,
+        "title": "Асока Тано",
+        "cover": "https://remanga.org/media/card-item/cover_1c895ea8c4514b40.webp",
+        "rarity": "rank_d",
+        "url": "https://remanga.org/card/233062"
       },
       {
         "id": 233012,
@@ -91424,6 +91473,13 @@
         "url": "https://remanga.org/card/57540"
       },
       {
+        "id": 233042,
+        "title": "Асока Тано",
+        "cover": "https://remanga.org/media/card-item/cover_bff52967d15b431d.webp",
+        "rarity": "rank_e",
+        "url": "https://remanga.org/card/233042"
+      },
+      {
         "id": 232978,
         "title": "Асока Тано",
         "cover": "https://remanga.org/media/card-item/cover_8ee727ce28004833.webp",
@@ -94467,6 +94523,13 @@
         "cover": "https://remanga.org/media/card-item/cover_3e934d27049840b7.webp",
         "rarity": "rank_e",
         "url": "https://remanga.org/card/56452"
+      },
+      {
+        "id": 233039,
+        "title": "Асока Тано",
+        "cover": "https://remanga.org/media/card-item/cover_f48abbe5189d4cdd.webp",
+        "rarity": "rank_f",
+        "url": "https://remanga.org/card/233039"
       },
       {
         "id": 233010,
