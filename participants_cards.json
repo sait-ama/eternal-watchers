@@ -85369,6 +85369,13 @@
         "url": "https://remanga.org/card/134526"
       },
       {
+        "id": 233013,
+        "title": "Асока Тано",
+        "cover": "https://remanga.org/media/card-item/cover_3149cd9f13bd4e75.webp",
+        "rarity": "rank_c",
+        "url": "https://remanga.org/card/233013"
+      },
+      {
         "id": 232855,
         "title": "Хонсу",
         "cover": "https://remanga.org/media/card-item/cover_2d5ba8e28ac54210.webp",
@@ -88356,6 +88363,20 @@
         "cover": "https://remanga.org/media/card-item/cover_d92419408046496b.webp",
         "rarity": "rank_c",
         "url": "https://remanga.org/card/51589"
+      },
+      {
+        "id": 233012,
+        "title": "Асока Тано",
+        "cover": "https://remanga.org/media/card-item/cover_22b170d8c1474d6b.webp",
+        "rarity": "rank_d",
+        "url": "https://remanga.org/card/233012"
+      },
+      {
+        "id": 233011,
+        "title": "Йода",
+        "cover": "https://remanga.org/media/card-item/cover_ebff88eb851c427b.webp",
+        "rarity": "rank_d",
+        "url": "https://remanga.org/card/233011"
       },
       {
         "id": 232843,
@@ -91403,6 +91424,20 @@
         "url": "https://remanga.org/card/57540"
       },
       {
+        "id": 232978,
+        "title": "Асока Тано",
+        "cover": "https://remanga.org/media/card-item/cover_8ee727ce28004833.webp",
+        "rarity": "rank_e",
+        "url": "https://remanga.org/card/232978"
+      },
+      {
+        "id": 232972,
+        "title": "Йода",
+        "cover": "https://remanga.org/media/card-item/cover_f823b8ad1f51410f.webp",
+        "rarity": "rank_e",
+        "url": "https://remanga.org/card/232972"
+      },
+      {
         "id": 232835,
         "title": "Хонсу",
         "cover": "https://remanga.org/media/card-item/cover_e795db5330ab4bf1.webp",
@@ -94432,6 +94467,20 @@
         "cover": "https://remanga.org/media/card-item/cover_3e934d27049840b7.webp",
         "rarity": "rank_e",
         "url": "https://remanga.org/card/56452"
+      },
+      {
+        "id": 233010,
+        "title": "Йода",
+        "cover": "https://remanga.org/media/card-item/cover_c580c527f32f4469.webp",
+        "rarity": "rank_f",
+        "url": "https://remanga.org/card/233010"
+      },
+      {
+        "id": 232977,
+        "title": "Асока Тано",
+        "cover": "https://remanga.org/media/card-item/cover_c9b78dcf4fc44058.webp",
+        "rarity": "rank_f",
+        "url": "https://remanga.org/card/232977"
       },
       {
         "id": 232773,
