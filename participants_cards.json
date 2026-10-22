@@ -32136,6 +32136,173 @@
     "author_id": 410852,
     "cards": []
   },
+  "daftphantom": {
+    "display": "DaftPhantom",
+    "author_id": 184746,
+    "cards": [
+      {
+        "id": 81928,
+        "title": "Гермес",
+        "cover": "https://remanga.org/media/card-item/cover_93269a6e.webp",
+        "rarity": "rank_b",
+        "url": "https://remanga.org/card/81928"
+      },
+      {
+        "id": 80574,
+        "title": "Гермес",
+        "cover": "https://remanga.org/media/card-item/cover_5772f9e5.webp",
+        "rarity": "rank_b",
+        "url": "https://remanga.org/card/80574"
+      },
+      {
+        "id": 79208,
+        "title": "P90",
+        "cover": "https://remanga.org/media/card-item/cover_001cf6f9.webp",
+        "rarity": "rank_b",
+        "url": "https://remanga.org/card/79208"
+      },
+      {
+        "id": 79202,
+        "title": "P90",
+        "cover": "https://remanga.org/media/card-item/cover_dd0b664d.webp",
+        "rarity": "rank_b",
+        "url": "https://remanga.org/card/79202"
+      },
+      {
+        "id": 82959,
+        "title": "Джек Потрошитель",
+        "cover": "https://remanga.org/media/card-item/cover_89f0afcf.webp",
+        "rarity": "rank_c",
+        "url": "https://remanga.org/card/82959"
+      },
+      {
+        "id": 81927,
+        "title": "Гермес",
+        "cover": "https://remanga.org/media/card-item/cover_56655c41.webp",
+        "rarity": "rank_c",
+        "url": "https://remanga.org/card/81927"
+      },
+      {
+        "id": 80573,
+        "title": "Гермес",
+        "cover": "https://remanga.org/media/card-item/cover_a587b19b.webp",
+        "rarity": "rank_c",
+        "url": "https://remanga.org/card/80573"
+      },
+      {
+        "id": 79206,
+        "title": "P90",
+        "cover": "https://remanga.org/media/card-item/cover_1567e0b2.webp",
+        "rarity": "rank_c",
+        "url": "https://remanga.org/card/79206"
+      },
+      {
+        "id": 79201,
+        "title": "P90",
+        "cover": "https://remanga.org/media/card-item/cover_178ae589.webp",
+        "rarity": "rank_c",
+        "url": "https://remanga.org/card/79201"
+      },
+      {
+        "id": 82958,
+        "title": "Джек Потрошитель",
+        "cover": "https://remanga.org/media/card-item/cover_c9043847.webp",
+        "rarity": "rank_d",
+        "url": "https://remanga.org/card/82958"
+      },
+      {
+        "id": 81926,
+        "title": "Гермес",
+        "cover": "https://remanga.org/media/card-item/cover_46492d36.webp",
+        "rarity": "rank_d",
+        "url": "https://remanga.org/card/81926"
+      },
+      {
+        "id": 80571,
+        "title": "Гермес",
+        "cover": "https://remanga.org/media/card-item/cover_b28ca8dc.webp",
+        "rarity": "rank_d",
+        "url": "https://remanga.org/card/80571"
+      },
+      {
+        "id": 79205,
+        "title": "P90",
+        "cover": "https://remanga.org/media/card-item/cover_8c9a814a.webp",
+        "rarity": "rank_d",
+        "url": "https://remanga.org/card/79205"
+      },
+      {
+        "id": 79199,
+        "title": "P90",
+        "cover": "https://remanga.org/media/card-item/cover_fb2da35a.webp",
+        "rarity": "rank_d",
+        "url": "https://remanga.org/card/79199"
+      },
+      {
+        "id": 82956,
+        "title": "Джек Потрошитель",
+        "cover": "https://remanga.org/media/card-item/cover_16c184a3.webp",
+        "rarity": "rank_e",
+        "url": "https://remanga.org/card/82956"
+      },
+      {
+        "id": 80578,
+        "title": "Гермес",
+        "cover": "https://remanga.org/media/card-item/cover_81dda8dd.webp",
+        "rarity": "rank_e",
+        "url": "https://remanga.org/card/80578"
+      },
+      {
+        "id": 80570,
+        "title": "Гермес",
+        "cover": "https://remanga.org/media/card-item/cover_a38f3f01.webp",
+        "rarity": "rank_e",
+        "url": "https://remanga.org/card/80570"
+      },
+      {
+        "id": 79204,
+        "title": "P90",
+        "cover": "https://remanga.org/media/card-item/cover_1ee2f1c0.webp",
+        "rarity": "rank_e",
+        "url": "https://remanga.org/card/79204"
+      },
+      {
+        "id": 79198,
+        "title": "P90",
+        "cover": "https://remanga.org/media/card-item/cover_55e44ec2.webp",
+        "rarity": "rank_e",
+        "url": "https://remanga.org/card/79198"
+      },
+      {
+        "id": 80577,
+        "title": "Гермес",
+        "cover": "https://remanga.org/media/card-item/cover_aa55007c.webp",
+        "rarity": "rank_f",
+        "url": "https://remanga.org/card/80577"
+      },
+      {
+        "id": 80569,
+        "title": "Гермес",
+        "cover": "https://remanga.org/media/card-item/cover_dc61d07c.webp",
+        "rarity": "rank_f",
+        "url": "https://remanga.org/card/80569"
+      },
+      {
+        "id": 79203,
+        "title": "P90",
+        "cover": "https://remanga.org/media/card-item/cover_7cddf326.webp",
+        "rarity": "rank_f",
+        "url": "https://remanga.org/card/79203"
+      },
+      {
+        "id": 79195,
+        "title": "P90",
+        "cover": "https://remanga.org/media/card-item/cover_5644c286.webp",
+        "rarity": "rank_f",
+        "url": "https://remanga.org/card/79195"
+      }
+    ]
+  },
   "darqee": {
     "display": "DarQee",
     "author_id": 2234201,
@@ -82344,6 +82511,13 @@
     "display": "RokYwka",
     "author_id": 1339341,
     "cards": [
+      {
+        "id": 233253,
+        "title": "Падме Амидала",
+        "cover": "https://remanga.org/media/card-item/cover_2b913cbe04f34d96.webp",
+        "rarity": "rank_b",
+        "url": "https://remanga.org/card/233253"
+      },
       {
         "id": 233235,
         "title": "Большая Барда",
@@ -164470,173 +164644,6 @@
     "display": "Никиторо",
     "author_id": 210351,
     "cards": []
-  },
-  "пoчyctвoвaлбoль": {
-    "display": "ПочуствовалБоль",
-    "author_id": 184746,
-    "cards": [
-      {
-        "id": 81928,
-        "title": "Гермес",
-        "cover": "https://remanga.org/media/card-item/cover_93269a6e.webp",
-        "rarity": "rank_b",
-        "url": "https://remanga.org/card/81928"
-      },
-      {
-        "id": 80574,
-        "title": "Гермес",
-        "cover": "https://remanga.org/media/card-item/cover_5772f9e5.webp",
-        "rarity": "rank_b",
-        "url": "https://remanga.org/card/80574"
-      },
-      {
-        "id": 79208,
-        "title": "P90",
-        "cover": "https://remanga.org/media/card-item/cover_001cf6f9.webp",
-        "rarity": "rank_b",
-        "url": "https://remanga.org/card/79208"
-      },
-      {
-        "id": 79202,
-        "title": "P90",
-        "cover": "https://remanga.org/media/card-item/cover_dd0b664d.webp",
-        "rarity": "rank_b",
-        "url": "https://remanga.org/card/79202"
-      },
-      {
-        "id": 82959,
-        "title": "Джек Потрошитель",
-        "cover": "https://remanga.org/media/card-item/cover_89f0afcf.webp",
-        "rarity": "rank_c",
-        "url": "https://remanga.org/card/82959"
-      },
-      {
-        "id": 81927,
-        "title": "Гермес",
-        "cover": "https://remanga.org/media/card-item/cover_56655c41.webp",
-        "rarity": "rank_c",
-        "url": "https://remanga.org/card/81927"
-      },
-      {
-        "id": 80573,
-        "title": "Гермес",
-        "cover": "https://remanga.org/media/card-item/cover_a587b19b.webp",
-        "rarity": "rank_c",
-        "url": "https://remanga.org/card/80573"
-      },
-      {
-        "id": 79206,
-        "title": "P90",
-        "cover": "https://remanga.org/media/card-item/cover_1567e0b2.webp",
-        "rarity": "rank_c",
-        "url": "https://remanga.org/card/79206"
-      },
-      {
-        "id": 79201,
-        "title": "P90",
-        "cover": "https://remanga.org/media/card-item/cover_178ae589.webp",
-        "rarity": "rank_c",
-        "url": "https://remanga.org/card/79201"
-      },
-      {
-        "id": 82958,
-        "title": "Джек Потрошитель",
-        "cover": "https://remanga.org/media/card-item/cover_c9043847.webp",
-        "rarity": "rank_d",
-        "url": "https://remanga.org/card/82958"
-      },
-      {
-        "id": 81926,
-        "title": "Гермес",
-        "cover": "https://remanga.org/media/card-item/cover_46492d36.webp",
-        "rarity": "rank_d",
-        "url": "https://remanga.org/card/81926"
-      },
-      {
-        "id": 80571,
-        "title": "Гермес",
-        "cover": "https://remanga.org/media/card-item/cover_b28ca8dc.webp",
-        "rarity": "rank_d",
-        "url": "https://remanga.org/card/80571"
-      },
-      {
-        "id": 79205,
-        "title": "P90",
-        "cover": "https://remanga.org/media/card-item/cover_8c9a814a.webp",
-        "rarity": "rank_d",
-        "url": "https://remanga.org/card/79205"
-      },
-      {
-        "id": 79199,
-        "title": "P90",
-        "cover": "https://remanga.org/media/card-item/cover_fb2da35a.webp",
-        "rarity": "rank_d",
-        "url": "https://remanga.org/card/79199"
-      },
-      {
-        "id": 82956,
-        "title": "Джек Потрошитель",
-        "cover": "https://remanga.org/media/card-item/cover_16c184a3.webp",
-        "rarity": "rank_e",
-        "url": "https://remanga.org/card/82956"
-      },
-      {
-        "id": 80578,
-        "title": "Гермес",
-        "cover": "https://remanga.org/media/card-item/cover_81dda8dd.webp",
-        "rarity": "rank_e",
-        "url": "https://remanga.org/card/80578"
-      },
-      {
-        "id": 80570,
-        "title": "Гермес",
-        "cover": "https://remanga.org/media/card-item/cover_a38f3f01.webp",
-        "rarity": "rank_e",
-        "url": "https://remanga.org/card/80570"
-      },
-      {
-        "id": 79204,
-        "title": "P90",
-        "cover": "https://remanga.org/media/card-item/cover_1ee2f1c0.webp",
-        "rarity": "rank_e",
-        "url": "https://remanga.org/card/79204"
-      },
-      {
-        "id": 79198,
-        "title": "P90",
-        "cover": "https://remanga.org/media/card-item/cover_55e44ec2.webp",
-        "rarity": "rank_e",
-        "url": "https://remanga.org/card/79198"
-      },
-      {
-        "id": 80577,
-        "title": "Гермес",
-        "cover": "https://remanga.org/media/card-item/cover_aa55007c.webp",
-        "rarity": "rank_f",
-        "url": "https://remanga.org/card/80577"
-      },
-      {
-        "id": 80569,
-        "title": "Гермес",
-        "cover": "https://remanga.org/media/card-item/cover_dc61d07c.webp",
-        "rarity": "rank_f",
-        "url": "https://remanga.org/card/80569"
-      },
-      {
-        "id": 79203,
-        "title": "P90",
-        "cover": "https://remanga.org/media/card-item/cover_7cddf326.webp",
-        "rarity": "rank_f",
-        "url": "https://remanga.org/card/79203"
-      },
-      {
-        "id": 79195,
-        "title": "P90",
-        "cover": "https://remanga.org/media/card-item/cover_5644c286.webp",
-        "rarity": "rank_f",
-        "url": "https://remanga.org/card/79195"
-      }
-    ]
   },
   "pилcyчк@": {
     "display": "Рил_сучк@.",
