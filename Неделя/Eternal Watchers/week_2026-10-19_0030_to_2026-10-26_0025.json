@@ -800,6 +800,15 @@
       "weekly": 0,
       "baseline": 20043
     },
+    "ckckck": {
+      "display": "CKCKCK",
+      "profile": "https://remanga.org/user/172319/about",
+      "avatar": "avatars/ckckck.jpg",
+      "initial": 21100,
+      "current": 30672,
+      "weekly": 2422,
+      "baseline": 28250
+    },
     "фanatytki": {
       "display": "Фанат_утки",
       "profile": "https://remanga.org/user/2895554/about",
@@ -862,15 +871,6 @@
       "current": 7634,
       "weekly": 0,
       "baseline": 7634
-    },
-    "ckckck": {
-      "display": "CKCKCK",
-      "profile": "https://remanga.org/user/172319/about",
-      "avatar": "avatars/ckckck.jpg",
-      "initial": 21100,
-      "current": 28250,
-      "weekly": 0,
-      "baseline": 28250
     },
     "satisfied": {
       "display": "Satisfied",
