@@ -2240,15 +2240,6 @@
           "weekly": 0,
           "baseline": 19601
         },
-        "пoчystvovalbolь": {
-          "display": "ПочуствовалБоль",
-          "profile": "https://remanga.org/user/184746/about",
-          "avatar": "avatars/пoчystvovalbolь.jpg",
-          "initial": 12500,
-          "current": 12510,
-          "weekly": 0,
-          "baseline": 12510
-        },
         "小市民": {
           "display": "小市民",
           "profile": "https://remanga.org/user/1007514/about",
@@ -2383,6 +2374,15 @@
           "current": 69,
           "weekly": 0,
           "baseline": 69
+        },
+        "daftphantom": {
+          "display": "DaftPhantom",
+          "profile": "https://remanga.org/user/184746/about",
+          "avatar": "avatars/пoчystvovalbolь.jpg",
+          "initial": 12500,
+          "current": 12510,
+          "weekly": 0,
+          "baseline": 12510
         }
       }
     },

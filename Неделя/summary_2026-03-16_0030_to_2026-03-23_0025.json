@@ -2384,15 +2384,6 @@
           "weekly": 0,
           "baseline": 57435
         },
-        "пoчystvovalbolь": {
-          "display": "ПочуствовалБоль",
-          "profile": "https://remanga.org/user/184746/about",
-          "avatar": "avatars/пoчystvovalbolь.jpg",
-          "initial": 12500,
-          "current": 12500,
-          "weekly": 0,
-          "baseline": 12500
-        },
         "pepeopello": {
           "display": "Pepeopello",
           "profile": "https://remanga.org/user/1111476/about",
@@ -2455,6 +2446,15 @@
           "current": 69,
           "weekly": 0,
           "baseline": 69
+        },
+        "daftphantom": {
+          "display": "DaftPhantom",
+          "profile": "https://remanga.org/user/184746/about",
+          "avatar": "avatars/пoчystvovalbolь.jpg",
+          "initial": 12500,
+          "current": 12500,
+          "weekly": 0,
+          "baseline": 12500
         }
       }
     },
