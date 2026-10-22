@@ -41167,13 +41167,6 @@
         "url": "https://remanga.org/card/18501"
       },
       {
-        "id": 16861,
-        "title": "Мисс Буран",
-        "cover": "https://remanga.org/media/card-item/cover_2a4fbfea67a84b77.webp",
-        "rarity": "rank_b",
-        "url": "https://remanga.org/card/16861"
-      },
-      {
         "id": 14781,
         "title": "Ли Джихе",
         "cover": "https://remanga.org/media/card-item/cover_1312378f77434c29.webp",
@@ -88407,6 +88400,20 @@
         "url": "https://remanga.org/card/51589"
       },
       {
+        "id": 233212,
+        "title": "Падме Амидала",
+        "cover": "https://remanga.org/media/card-item/cover_6d2736ea0caa4176.webp",
+        "rarity": "rank_d",
+        "url": "https://remanga.org/card/233212"
+      },
+      {
+        "id": 233208,
+        "title": "Большая Барда",
+        "cover": "https://remanga.org/media/card-item/cover_bfbf2c0129244e32.webp",
+        "rarity": "rank_d",
+        "url": "https://remanga.org/card/233208"
+      },
+      {
         "id": 233062,
         "title": "Асока Тано",
         "cover": "https://remanga.org/media/card-item/cover_1c895ea8c4514b40.webp",
@@ -91471,6 +91478,20 @@
         "cover": "https://remanga.org/media/card-item/cover_50608ffa14234e28.webp",
         "rarity": "rank_d",
         "url": "https://remanga.org/card/57540"
+      },
+      {
+        "id": 233207,
+        "title": "Большая Барда",
+        "cover": "https://remanga.org/media/card-item/cover_6d1d627b48274065.webp",
+        "rarity": "rank_e",
+        "url": "https://remanga.org/card/233207"
+      },
+      {
+        "id": 233201,
+        "title": "Падме Амидала",
+        "cover": "https://remanga.org/media/card-item/cover_02a7bf6c94bb4af7.webp",
+        "rarity": "rank_e",
+        "url": "https://remanga.org/card/233201"
       },
       {
         "id": 233042,
@@ -100749,13 +100770,6 @@
         "cover": "https://remanga.org/media/card-item/cover_b84e4a48.webp",
         "rarity": "rank_d",
         "url": "https://remanga.org/card/119725"
-      },
-      {
-        "id": 116868,
-        "title": "Лейла",
-        "cover": "https://remanga.org/media/card-item/cover_2bd6e677.webp",
-        "rarity": "rank_d",
-        "url": "https://remanga.org/card/116868"
       },
       {
         "id": 115925,
