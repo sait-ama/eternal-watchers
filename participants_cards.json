@@ -82345,6 +82345,13 @@
     "author_id": 1339341,
     "cards": [
       {
+        "id": 233235,
+        "title": "Большая Барда",
+        "cover": "https://remanga.org/media/card-item/cover_60ad4b3160104570.webp",
+        "rarity": "rank_b",
+        "url": "https://remanga.org/card/233235"
+      },
+      {
         "id": 233078,
         "title": "Асока Тано",
         "cover": "https://remanga.org/media/card-item/cover_7821dfab8192418a.webp",
@@ -85388,6 +85395,20 @@
         "cover": "https://remanga.org/media/card-item/cover_0c9862133a394179.webp",
         "rarity": "rank_b",
         "url": "https://remanga.org/card/134526"
+      },
+      {
+        "id": 233237,
+        "title": "Падме Амидала",
+        "cover": "https://remanga.org/media/card-item/cover_a7ab821729344dc9.webp",
+        "rarity": "rank_c",
+        "url": "https://remanga.org/card/233237"
+      },
+      {
+        "id": 233234,
+        "title": "Большая Барда",
+        "cover": "https://remanga.org/media/card-item/cover_dac7a516a43a4126.webp",
+        "rarity": "rank_c",
+        "url": "https://remanga.org/card/233234"
       },
       {
         "id": 233074,
