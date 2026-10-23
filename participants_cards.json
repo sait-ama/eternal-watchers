@@ -82519,6 +82519,20 @@
     "author_id": 1339341,
     "cards": [
       {
+        "id": 233520,
+        "title": "Хайме Рейес",
+        "cover": "https://remanga.org/media/card-item/cover_bf7a9c24aaa94007.webp",
+        "rarity": "rank_b",
+        "url": "https://remanga.org/card/233520"
+      },
+      {
+        "id": 233459,
+        "title": "Шева Аломар",
+        "cover": "https://remanga.org/media/card-item/cover_44557efca65f47f3.webp",
+        "rarity": "rank_b",
+        "url": "https://remanga.org/card/233459"
+      },
+      {
         "id": 233253,
         "title": "Падме Амидала",
         "cover": "https://remanga.org/media/card-item/cover_2b913cbe04f34d96.webp",
@@ -85578,6 +85592,13 @@
         "url": "https://remanga.org/card/134526"
       },
       {
+        "id": 233511,
+        "title": "Хайме Рейес",
+        "cover": "https://remanga.org/media/card-item/cover_56212e95a64041e3.webp",
+        "rarity": "rank_c",
+        "url": "https://remanga.org/card/233511"
+      },
+      {
         "id": 233237,
         "title": "Падме Амидала",
         "cover": "https://remanga.org/media/card-item/cover_a7ab821729344dc9.webp",
@@ -88600,6 +88621,13 @@
         "cover": "https://remanga.org/media/card-item/cover_d92419408046496b.webp",
         "rarity": "rank_c",
         "url": "https://remanga.org/card/51589"
+      },
+      {
+        "id": 233510,
+        "title": "Хайме Рейес",
+        "cover": "https://remanga.org/media/card-item/cover_a2c6f95903064ece.webp",
+        "rarity": "rank_d",
+        "url": "https://remanga.org/card/233510"
       },
       {
         "id": 233212,
@@ -91682,6 +91710,13 @@
         "url": "https://remanga.org/card/57540"
       },
       {
+        "id": 233499,
+        "title": "Хайме Рейес",
+        "cover": "https://remanga.org/media/card-item/cover_68808b8ba69648a8.webp",
+        "rarity": "rank_e",
+        "url": "https://remanga.org/card/233499"
+      },
+      {
         "id": 233207,
         "title": "Большая Барда",
         "cover": "https://remanga.org/media/card-item/cover_6d1d627b48274065.webp",
@@ -94746,6 +94781,13 @@
         "cover": "https://remanga.org/media/card-item/cover_3e934d27049840b7.webp",
         "rarity": "rank_e",
         "url": "https://remanga.org/card/56452"
+      },
+      {
+        "id": 233498,
+        "title": "Хайме Рейес",
+        "cover": "https://remanga.org/media/card-item/cover_04ac7a6d504a455e.webp",
+        "rarity": "rank_f",
+        "url": "https://remanga.org/card/233498"
       },
       {
         "id": 233200,
