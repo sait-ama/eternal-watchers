@@ -162,6 +162,15 @@
           "weekly": 0,
           "baseline": 134390
         },
+        "ewobserver": {
+          "display": "EW_OBSERVER",
+          "profile": "https://remanga.org/user/141395/about",
+          "avatar": "avatars/ewobserver.jpg",
+          "initial": 264330,
+          "current": 324180,
+          "weekly": 9537,
+          "baseline": 314643
+        },
         "nix": {
           "display": "-Nix-",
           "profile": "https://remanga.org/user/46754/about",
@@ -170,15 +179,6 @@
           "current": 71670,
           "weekly": 3000,
           "baseline": 68670
-        },
-        "ewobserver": {
-          "display": "EW_OBSERVER",
-          "profile": "https://remanga.org/user/141395/about",
-          "avatar": "avatars/ewobserver.jpg",
-          "initial": 264330,
-          "current": 322621,
-          "weekly": 7978,
-          "baseline": 314643
         },
         "яlyчшiivmipe": {
           "display": "Я_лучший_в_мире",
