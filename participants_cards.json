@@ -91724,6 +91724,27 @@
         "url": "https://remanga.org/card/57540"
       },
       {
+        "id": 233663,
+        "title": "Даниелла Мунстар",
+        "cover": "https://remanga.org/media/card-item/cover_e13217e7aafa4330.webp",
+        "rarity": "rank_e",
+        "url": "https://remanga.org/card/233663"
+      },
+      {
+        "id": 233662,
+        "title": "Абигейл Бранд",
+        "cover": "https://remanga.org/media/card-item/cover_ef499cfbca204b1f.webp",
+        "rarity": "rank_e",
+        "url": "https://remanga.org/card/233662"
+      },
+      {
+        "id": 233660,
+        "title": "Мэрроу",
+        "cover": "https://remanga.org/media/card-item/cover_05bb2c45524d4cdc.webp",
+        "rarity": "rank_e",
+        "url": "https://remanga.org/card/233660"
+      },
+      {
         "id": 233499,
         "title": "Хайме Рейес",
         "cover": "https://remanga.org/media/card-item/cover_68808b8ba69648a8.webp",
@@ -94795,6 +94816,27 @@
         "cover": "https://remanga.org/media/card-item/cover_3e934d27049840b7.webp",
         "rarity": "rank_e",
         "url": "https://remanga.org/card/56452"
+      },
+      {
+        "id": 233661,
+        "title": "Абигейл Бранд",
+        "cover": "https://remanga.org/media/card-item/cover_cc3e677ff9064e36.webp",
+        "rarity": "rank_f",
+        "url": "https://remanga.org/card/233661"
+      },
+      {
+        "id": 233659,
+        "title": "Мэрроу",
+        "cover": "https://remanga.org/media/card-item/cover_fc8265ccb2e24983.webp",
+        "rarity": "rank_f",
+        "url": "https://remanga.org/card/233659"
+      },
+      {
+        "id": 233644,
+        "title": "Даниелла Мунстар",
+        "cover": "https://remanga.org/media/card-item/cover_2489c086958f4ec8.webp",
+        "rarity": "rank_f",
+        "url": "https://remanga.org/card/233644"
       },
       {
         "id": 233498,
@@ -128390,7 +128432,7 @@
       {
         "id": 56703,
         "title": "Тао",
-        "cover": "https://remanga.org/media/card-item/cover_2caf593f.webp",
+        "cover": "https://remanga.org/media/card-item/cover_269018ef89774177.webp",
         "rarity": "rank_e",
         "url": "https://remanga.org/card/56703"
       },
