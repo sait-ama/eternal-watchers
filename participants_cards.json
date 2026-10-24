@@ -91871,6 +91871,13 @@
         "url": "https://remanga.org/card/57540"
       },
       {
+        "id": 233874,
+        "title": "Бум-Бум",
+        "cover": "https://remanga.org/media/card-item/cover_6d045ef7368e4e12.webp",
+        "rarity": "rank_e",
+        "url": "https://remanga.org/card/233874"
+      },
+      {
         "id": 233663,
         "title": "Даниелла Мунстар",
         "cover": "https://remanga.org/media/card-item/cover_e13217e7aafa4330.webp",
@@ -94963,6 +94970,20 @@
         "cover": "https://remanga.org/media/card-item/cover_3e934d27049840b7.webp",
         "rarity": "rank_e",
         "url": "https://remanga.org/card/56452"
+      },
+      {
+        "id": 233873,
+        "title": "Бум-Бум",
+        "cover": "https://remanga.org/media/card-item/cover_b6a2d617e79e400e.webp",
+        "rarity": "rank_f",
+        "url": "https://remanga.org/card/233873"
+      },
+      {
+        "id": 233871,
+        "title": "Каллисто",
+        "cover": "https://remanga.org/media/card-item/cover_6861336c3b0b45b3.webp",
+        "rarity": "rank_f",
+        "url": "https://remanga.org/card/233871"
       },
       {
         "id": 233661,
