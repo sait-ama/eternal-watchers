@@ -33181,6 +33181,13 @@
         "url": "https://remanga.org/card/76238"
       },
       {
+        "id": 233826,
+        "title": "Ли Ланьцзи",
+        "cover": "https://remanga.org/media/card-item/cover_e834391cbf2c4b9d.webp",
+        "rarity": "rank_d",
+        "url": "https://remanga.org/card/233826"
+      },
+      {
         "id": 179855,
         "title": "Бай Чэнь",
         "cover": "https://remanga.org/media/card-item/cover_b24dc263be7347f4.webp",
@@ -33396,6 +33403,13 @@
         "cover": "https://remanga.org/media/card-item/cover_dca48809.webp",
         "rarity": "rank_d",
         "url": "https://remanga.org/card/76237"
+      },
+      {
+        "id": 233794,
+        "title": "Ли Ланьцзи",
+        "cover": "https://remanga.org/media/card-item/cover_232738a61bb04e7f.webp",
+        "rarity": "rank_e",
+        "url": "https://remanga.org/card/233794"
       },
       {
         "id": 179854,
@@ -33620,6 +33634,13 @@
         "cover": "https://remanga.org/media/card-item/cover_21c89ef1.webp",
         "rarity": "rank_e",
         "url": "https://remanga.org/card/76236"
+      },
+      {
+        "id": 233793,
+        "title": "Ли Ланьцзи",
+        "cover": "https://remanga.org/media/card-item/cover_2b76b404f12b4436.webp",
+        "rarity": "rank_f",
+        "url": "https://remanga.org/card/233793"
       },
       {
         "id": 179759,
@@ -82596,6 +82617,27 @@
     "author_id": 1339341,
     "cards": [
       {
+        "id": 233827,
+        "title": "Мэрроу",
+        "cover": "https://remanga.org/media/card-item/cover_cc7399fd31cd4004.webp",
+        "rarity": "rank_b",
+        "url": "https://remanga.org/card/233827"
+      },
+      {
+        "id": 233814,
+        "title": "Даниелла Мунстар",
+        "cover": "https://remanga.org/media/card-item/cover_621d35271c254b76.webp",
+        "rarity": "rank_b",
+        "url": "https://remanga.org/card/233814"
+      },
+      {
+        "id": 233803,
+        "title": "Абигейл Бранд",
+        "cover": "https://remanga.org/media/card-item/cover_e3389e5a2dba43b4.webp",
+        "rarity": "rank_b",
+        "url": "https://remanga.org/card/233803"
+      },
+      {
         "id": 233520,
         "title": "Хайме Рейес",
         "cover": "https://remanga.org/media/card-item/cover_bf7a9c24aaa94007.webp",
@@ -85669,6 +85711,27 @@
         "url": "https://remanga.org/card/134526"
       },
       {
+        "id": 233811,
+        "title": "Мэрроу",
+        "cover": "https://remanga.org/media/card-item/cover_08cb793c91134162.webp",
+        "rarity": "rank_c",
+        "url": "https://remanga.org/card/233811"
+      },
+      {
+        "id": 233789,
+        "title": "Даниелла Мунстар",
+        "cover": "https://remanga.org/media/card-item/cover_e08baf6ece5c4a44.webp",
+        "rarity": "rank_c",
+        "url": "https://remanga.org/card/233789"
+      },
+      {
+        "id": 233786,
+        "title": "Абигейл Бранд",
+        "cover": "https://remanga.org/media/card-item/cover_a02cc51953dc4bf7.webp",
+        "rarity": "rank_c",
+        "url": "https://remanga.org/card/233786"
+      },
+      {
         "id": 233511,
         "title": "Хайме Рейес",
         "cover": "https://remanga.org/media/card-item/cover_56212e95a64041e3.webp",
@@ -88698,6 +88761,27 @@
         "cover": "https://remanga.org/media/card-item/cover_d92419408046496b.webp",
         "rarity": "rank_c",
         "url": "https://remanga.org/card/51589"
+      },
+      {
+        "id": 233806,
+        "title": "Мэрроу",
+        "cover": "https://remanga.org/media/card-item/cover_e59431a150bb4a4a.webp",
+        "rarity": "rank_d",
+        "url": "https://remanga.org/card/233806"
+      },
+      {
+        "id": 233788,
+        "title": "Даниелла Мунстар",
+        "cover": "https://remanga.org/media/card-item/cover_78d1b50fe174404b.webp",
+        "rarity": "rank_d",
+        "url": "https://remanga.org/card/233788"
+      },
+      {
+        "id": 233785,
+        "title": "Абигейл Бранд",
+        "cover": "https://remanga.org/media/card-item/cover_388d56af84aa45a0.webp",
+        "rarity": "rank_d",
+        "url": "https://remanga.org/card/233785"
       },
       {
         "id": 233510,
@@ -93096,13 +93180,6 @@
         "url": "https://remanga.org/card/208808"
       },
       {
-        "id": 208808,
-        "title": "Тиберос",
-        "cover": "https://remanga.org/media/card-item/cover_5093048c36e142b1.webp",
-        "rarity": "rank_e",
-        "url": "https://remanga.org/card/208808"
-      },
-      {
         "id": 208298,
         "title": "Чарльз Ксавье",
         "cover": "https://remanga.org/media/card-item/cover_cd171ec2b2604a64.webp",
@@ -95187,13 +95264,6 @@
         "cover": "https://remanga.org/media/card-item/cover_5338aac214b54103.webp",
         "rarity": "rank_f",
         "url": "https://remanga.org/card/227631"
-      },
-      {
-        "id": 227506,
-        "title": "Калдор Драйго",
-        "cover": "https://remanga.org/media/card-item/cover_6fc82403dcc54716.webp",
-        "rarity": "rank_f",
-        "url": "https://remanga.org/card/227506"
       },
       {
         "id": 227506,
