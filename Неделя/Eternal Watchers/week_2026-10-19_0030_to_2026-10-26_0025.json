@@ -881,6 +881,15 @@
       "weekly": 0,
       "baseline": 54466
     },
+    "asesinadodios": {
+      "display": "asesinadoDios",
+      "profile": "https://remanga.org/user/514882/about",
+      "avatar": "avatars/asesinadodios.jpg",
+      "initial": 2900,
+      "current": 8617,
+      "weekly": 200,
+      "baseline": 8417
+    },
     "sas47": {
       "display": "Sas47",
       "profile": "https://remanga.org/user/2044615/about",
@@ -907,15 +916,6 @@
       "current": 21011,
       "weekly": 0,
       "baseline": 21011
-    },
-    "asesinadodios": {
-      "display": "asesinadoDios",
-      "profile": "https://remanga.org/user/514882/about",
-      "avatar": "avatars/asesinadodios.jpg",
-      "initial": 2900,
-      "current": 8417,
-      "weekly": 0,
-      "baseline": 8417
     },
     "osmodeuss": {
       "display": "osmodeuss",
