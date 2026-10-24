@@ -251,6 +251,15 @@
       "weekly": 1000,
       "baseline": 72010
     },
+    "dolinapekisetynь": {
+      "display": "ДолинаРекиСетунь",
+      "profile": "https://remanga.org/user/24432/about",
+      "avatar": "avatars/dolinapekisetynь.jpg",
+      "initial": 21750,
+      "current": 84101,
+      "weekly": 3500,
+      "baseline": 80601
+    },
     "sas47": {
       "display": "Sas47",
       "profile": "https://remanga.org/user/2044615/about",
@@ -268,15 +277,6 @@
       "current": 61528,
       "weekly": 0,
       "baseline": 61528
-    },
-    "dolinapekisetynь": {
-      "display": "ДолинаРекиСетунь",
-      "profile": "https://remanga.org/user/24432/about",
-      "avatar": "avatars/dolinapekisetynь.jpg",
-      "initial": 21750,
-      "current": 82901,
-      "weekly": 2300,
-      "baseline": 80601
     },
     "kim5+": {
       "display": "Kim_5+",
