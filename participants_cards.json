@@ -19912,6 +19912,20 @@
         "url": "https://remanga.org/card/118513"
       },
       {
+        "id": 233759,
+        "title": "Мелисса Моретти",
+        "cover": "https://remanga.org/media/card-item/cover_65b8156adb1b452e.webp",
+        "rarity": "rank_b",
+        "url": "https://remanga.org/card/233759"
+      },
+      {
+        "id": 233758,
+        "title": "Розелль Густав",
+        "cover": "https://remanga.org/media/card-item/cover_1c8f315159ba48d7.webp",
+        "rarity": "rank_b",
+        "url": "https://remanga.org/card/233758"
+      },
+      {
         "id": 231647,
         "title": "Адам",
         "cover": "https://remanga.org/media/card-item/cover_da9a0649618d4344.webp",
@@ -20269,6 +20283,13 @@
         "url": "https://remanga.org/card/106766"
       },
       {
+        "id": 233716,
+        "title": "Адам",
+        "cover": "https://remanga.org/media/card-item/cover_1f0d1733f5834ebd.webp",
+        "rarity": "rank_c",
+        "url": "https://remanga.org/card/233716"
+      },
+      {
         "id": 229304,
         "title": "Дуэйн Дантес",
         "cover": "https://remanga.org/media/card-item/cover_afaf050bf9fd4d1e.webp",
@@ -20584,6 +20605,13 @@
         "url": "https://remanga.org/card/106765"
       },
       {
+        "id": 233715,
+        "title": "Адам",
+        "cover": "https://remanga.org/media/card-item/cover_218f33715a334fc3.webp",
+        "rarity": "rank_d",
+        "url": "https://remanga.org/card/233715"
+      },
+      {
         "id": 229303,
         "title": "Дуэйн Дантес",
         "cover": "https://remanga.org/media/card-item/cover_6e73d4ca283f41d3.webp",
@@ -20878,6 +20906,13 @@
         "url": "https://remanga.org/card/63807"
       },
       {
+        "id": 233710,
+        "title": "Адам",
+        "cover": "https://remanga.org/media/card-item/cover_1462137ac89e42bc.webp",
+        "rarity": "rank_e",
+        "url": "https://remanga.org/card/233710"
+      },
+      {
         "id": 229302,
         "title": "Дуэйн Дантес",
         "cover": "https://remanga.org/media/card-item/cover_6a1927b92d094d16.webp",
@@ -21170,6 +21205,13 @@
         "cover": "https://remanga.org/media/card-item/cover_9ee97362.webp",
         "rarity": "rank_e",
         "url": "https://remanga.org/card/63806"
+      },
+      {
+        "id": 233709,
+        "title": "Адам",
+        "cover": "https://remanga.org/media/card-item/cover_e1378751fe1e44c4.webp",
+        "rarity": "rank_f",
+        "url": "https://remanga.org/card/233709"
       },
       {
         "id": 229301,
@@ -21611,6 +21653,13 @@
     "display": "Acediaqq",
     "author_id": 102335,
     "cards": [
+      {
+        "id": 233712,
+        "title": "Асока Тано",
+        "cover": "https://remanga.org/media/card-item/cover_d841576eb6684b5c.webp",
+        "rarity": "rank_b",
+        "url": "https://remanga.org/card/233712"
+      },
       {
         "id": 232141,
         "title": "Мара Джейд",
@@ -93047,6 +93096,13 @@
         "url": "https://remanga.org/card/208808"
       },
       {
+        "id": 208808,
+        "title": "Тиберос",
+        "cover": "https://remanga.org/media/card-item/cover_5093048c36e142b1.webp",
+        "rarity": "rank_e",
+        "url": "https://remanga.org/card/208808"
+      },
+      {
         "id": 208298,
         "title": "Чарльз Ксавье",
         "cover": "https://remanga.org/media/card-item/cover_cd171ec2b2604a64.webp",
@@ -95131,6 +95187,13 @@
         "cover": "https://remanga.org/media/card-item/cover_5338aac214b54103.webp",
         "rarity": "rank_f",
         "url": "https://remanga.org/card/227631"
+      },
+      {
+        "id": 227506,
+        "title": "Калдор Драйго",
+        "cover": "https://remanga.org/media/card-item/cover_6fc82403dcc54716.webp",
+        "rarity": "rank_f",
+        "url": "https://remanga.org/card/227506"
       },
       {
         "id": 227506,
@@ -119332,7 +119395,7 @@
       {
         "id": 231288,
         "title": "Сиэль",
-        "cover": "https://remanga.org/media/card-item/cover_2f9da7f436a246ae.webp",
+        "cover": "https://remanga.org/media/card-item/cover_b4d1f204fc95485c.webp",
         "rarity": "rank_c",
         "url": "https://remanga.org/card/231288"
       },
@@ -122457,6 +122520,13 @@
         "cover": "https://remanga.org/media/card-item/cover_f36e4ad22f46480e.webp",
         "rarity": "rank_c",
         "url": "https://remanga.org/card/2104"
+      },
+      {
+        "id": 233747,
+        "title": "Сиэль",
+        "cover": "https://remanga.org/media/card-item/cover_9a4403bacee24db8.webp",
+        "rarity": "rank_d",
+        "url": "https://remanga.org/card/233747"
       },
       {
         "id": 230144,
