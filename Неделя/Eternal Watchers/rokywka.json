@@ -756,6 +756,20 @@
       "profile": "https://remanga.org/user/1339341/about",
       "avatar": "avatars/rokywka.jpg",
       "ts": "2026-10-26T00:29:10.725090+03:00"
+    },
+    {
+      "start_key": "2026-10-26_0030",
+      "end_key": "2026-11-02_0025",
+      "baseline": 26955,
+      "min_seen": 26955,
+      "current": 26955,
+      "weekly": 0,
+      "period_ru": "с 26.10 по 02.11",
+      "guild": "Eternal Watchers",
+      "display": "RokYwka",
+      "profile": "https://remanga.org/user/1339341/about",
+      "avatar": "avatars/rokywka.jpg",
+      "ts": "2026-10-26T00:34:10.708752+03:00"
     }
   ]
 }

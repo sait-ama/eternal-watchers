@@ -476,6 +476,20 @@
       "profile": "https://remanga.org/user/1967242/about",
       "avatar": "avatars/reyrivman.jpg",
       "ts": "2026-10-26T00:29:10.725090+03:00"
+    },
+    {
+      "start_key": "2026-10-26_0030",
+      "end_key": "2026-11-02_0025",
+      "baseline": 20500,
+      "min_seen": 20500,
+      "current": 20500,
+      "weekly": 0,
+      "period_ru": "с 26.10 по 02.11",
+      "guild": "Eternal Watchers",
+      "display": "-ReyRivman-",
+      "profile": "https://remanga.org/user/1967242/about",
+      "avatar": "avatars/reyrivman.jpg",
+      "ts": "2026-10-26T00:34:10.708752+03:00"
     }
   ]
 }

@@ -770,6 +770,20 @@
       "profile": "https://remanga.org/user/77899/about",
       "avatar": "avatars/01bag.jpg",
       "ts": "2026-10-26T00:29:10.725090+03:00"
+    },
+    {
+      "start_key": "2026-10-26_0030",
+      "end_key": "2026-11-02_0025",
+      "baseline": 2488,
+      "min_seen": 2488,
+      "current": 2488,
+      "weekly": 0,
+      "period_ru": "с 26.10 по 02.11",
+      "guild": "Eternal Watchers",
+      "display": "01bag",
+      "profile": "https://remanga.org/user/77899/about",
+      "avatar": "avatars/01bag.jpg",
+      "ts": "2026-10-26T00:34:10.708752+03:00"
     }
   ]
 }

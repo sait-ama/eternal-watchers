@@ -448,6 +448,20 @@
       "profile": "https://remanga.org/user/1260985/about",
       "avatar": "avatars/忘的世界魔鬼.jpg",
       "ts": "2026-10-26T00:29:12.103035+03:00"
+    },
+    {
+      "start_key": "2026-10-26_0030",
+      "end_key": "2026-11-02_0025",
+      "baseline": 11798,
+      "min_seen": 11798,
+      "current": 11798,
+      "weekly": 0,
+      "period_ru": "с 26.10 по 02.11",
+      "guild": "Eternal Demonic",
+      "display": "忘的世界魔鬼",
+      "profile": "https://remanga.org/user/1260985/about",
+      "avatar": "avatars/忘的世界魔鬼.jpg",
+      "ts": "2026-10-26T00:34:12.097785+03:00"
     }
   ]
 }

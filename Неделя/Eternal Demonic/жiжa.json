@@ -364,6 +364,20 @@
       "profile": "https://remanga.org/user/544345/about",
       "avatar": "avatars/жiжa.jpg",
       "ts": "2026-10-26T00:29:12.103035+03:00"
+    },
+    {
+      "start_key": "2026-10-26_0030",
+      "end_key": "2026-11-02_0025",
+      "baseline": 14139,
+      "min_seen": 14139,
+      "current": 14139,
+      "weekly": 0,
+      "period_ru": "с 26.10 по 02.11",
+      "guild": "Eternal Demonic",
+      "display": "Жижa",
+      "profile": "https://remanga.org/user/544345/about",
+      "avatar": "avatars/жiжa.jpg",
+      "ts": "2026-10-26T00:34:12.097785+03:00"
     }
   ]
 }

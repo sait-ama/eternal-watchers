@@ -770,6 +770,20 @@
       "profile": "https://remanga.org/user/651106/about",
       "avatar": "avatars/mыslь.jpg",
       "ts": "2026-10-26T00:29:13.150490+03:00"
+    },
+    {
+      "start_key": "2026-10-26_0030",
+      "end_key": "2026-11-02_0025",
+      "baseline": 5001,
+      "min_seen": 5001,
+      "current": 5001,
+      "weekly": 0,
+      "period_ru": "с 26.10 по 02.11",
+      "guild": "ШИЗА",
+      "display": "Мысль",
+      "profile": "https://remanga.org/user/651106/about",
+      "avatar": "avatars/mыslь.jpg",
+      "ts": "2026-10-26T00:34:13.168621+03:00"
     }
   ]
 }

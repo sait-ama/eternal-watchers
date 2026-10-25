@@ -770,6 +770,20 @@
       "profile": "https://remanga.org/user/128587/about",
       "avatar": "avatars/moonsh1ne.jpg",
       "ts": "2026-10-26T00:29:12.103035+03:00"
+    },
+    {
+      "start_key": "2026-10-26_0030",
+      "end_key": "2026-11-02_0025",
+      "baseline": 52313,
+      "min_seen": 52313,
+      "current": 52313,
+      "weekly": 0,
+      "period_ru": "с 26.10 по 02.11",
+      "guild": "Eternal Demonic",
+      "display": "moonsh1ne",
+      "profile": "https://remanga.org/user/128587/about",
+      "avatar": "avatars/moonsh1ne.jpg",
+      "ts": "2026-10-26T00:34:12.097785+03:00"
     }
   ]
 }

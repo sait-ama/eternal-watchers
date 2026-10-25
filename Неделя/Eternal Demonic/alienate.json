@@ -364,6 +364,20 @@
       "profile": "https://remanga.org/user/784489/about",
       "avatar": "avatars/alienate.jpg",
       "ts": "2026-10-26T00:29:12.103035+03:00"
+    },
+    {
+      "start_key": "2026-10-26_0030",
+      "end_key": "2026-11-02_0025",
+      "baseline": 25000,
+      "min_seen": 25000,
+      "current": 25000,
+      "weekly": 0,
+      "period_ru": "с 26.10 по 02.11",
+      "guild": "Eternal Demonic",
+      "display": "Alienate",
+      "profile": "https://remanga.org/user/784489/about",
+      "avatar": "avatars/alienate.jpg",
+      "ts": "2026-10-26T00:34:12.097785+03:00"
     }
   ]
 }

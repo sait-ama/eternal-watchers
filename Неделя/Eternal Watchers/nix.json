@@ -770,6 +770,20 @@
       "profile": "https://remanga.org/user/46754/about",
       "avatar": "avatars/nix.jpg",
       "ts": "2026-10-26T00:29:10.725090+03:00"
+    },
+    {
+      "start_key": "2026-10-26_0030",
+      "end_key": "2026-11-02_0025",
+      "baseline": 71670,
+      "min_seen": 71670,
+      "current": 71670,
+      "weekly": 0,
+      "period_ru": "с 26.10 по 02.11",
+      "guild": "Eternal Watchers",
+      "display": "-Nix-",
+      "profile": "https://remanga.org/user/46754/about",
+      "avatar": "avatars/nix.jpg",
+      "ts": "2026-10-26T00:34:10.708752+03:00"
     }
   ]
 }

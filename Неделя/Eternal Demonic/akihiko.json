@@ -770,6 +770,20 @@
       "profile": "https://remanga.org/user/183282/about",
       "avatar": "avatars/akihiko.jpg",
       "ts": "2026-10-26T00:29:12.103035+03:00"
+    },
+    {
+      "start_key": "2026-10-26_0030",
+      "end_key": "2026-11-02_0025",
+      "baseline": 56200,
+      "min_seen": 56200,
+      "current": 56200,
+      "weekly": 0,
+      "period_ru": "с 26.10 по 02.11",
+      "guild": "Eternal Demonic",
+      "display": "Akihiko",
+      "profile": "https://remanga.org/user/183282/about",
+      "avatar": "avatars/akihiko.jpg",
+      "ts": "2026-10-26T00:34:12.097785+03:00"
     }
   ]
 }

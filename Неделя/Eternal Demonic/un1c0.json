@@ -714,6 +714,20 @@
       "profile": "https://remanga.org/user/1045543/about",
       "avatar": "avatars/un1c0.jpg",
       "ts": "2026-10-26T00:29:12.103035+03:00"
+    },
+    {
+      "start_key": "2026-10-26_0030",
+      "end_key": "2026-11-02_0025",
+      "baseline": 11000,
+      "min_seen": 11000,
+      "current": 11000,
+      "weekly": 0,
+      "period_ru": "с 26.10 по 02.11",
+      "guild": "Eternal Demonic",
+      "display": "un1c0",
+      "profile": "https://remanga.org/user/1045543/about",
+      "avatar": "avatars/un1c0.jpg",
+      "ts": "2026-10-26T00:34:12.097785+03:00"
     }
   ]
 }

@@ -770,6 +770,20 @@
       "profile": "https://remanga.org/user/1529739/about",
       "avatar": "avatars/admiralsengoku.jpg",
       "ts": "2026-10-26T00:29:10.725090+03:00"
+    },
+    {
+      "start_key": "2026-10-26_0030",
+      "end_key": "2026-11-02_0025",
+      "baseline": 44560,
+      "min_seen": 44560,
+      "current": 44560,
+      "weekly": 0,
+      "period_ru": "с 26.10 по 02.11",
+      "guild": "Eternal Watchers",
+      "display": "ADMIRAL_SENGOKU",
+      "profile": "https://remanga.org/user/1529739/about",
+      "avatar": "avatars/admiralsengoku.jpg",
+      "ts": "2026-10-26T00:34:10.708752+03:00"
     }
   ]
 }

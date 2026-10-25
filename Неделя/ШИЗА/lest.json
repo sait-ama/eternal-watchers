@@ -770,6 +770,20 @@
       "profile": "https://remanga.org/user/800159/about",
       "avatar": "avatars/lest.jpg",
       "ts": "2026-10-26T00:29:13.150490+03:00"
+    },
+    {
+      "start_key": "2026-10-26_0030",
+      "end_key": "2026-11-02_0025",
+      "baseline": 35294,
+      "min_seen": 35294,
+      "current": 35294,
+      "weekly": 0,
+      "period_ru": "с 26.10 по 02.11",
+      "guild": "ШИЗА",
+      "display": "Ле-Ст",
+      "profile": "https://remanga.org/user/800159/about",
+      "avatar": "avatars/lest.jpg",
+      "ts": "2026-10-26T00:34:13.168621+03:00"
     }
   ]
 }

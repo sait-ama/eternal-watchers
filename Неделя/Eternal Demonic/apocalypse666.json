@@ -770,6 +770,20 @@
       "profile": "https://remanga.org/user/740757/about",
       "avatar": "avatars/apocalypse666.jpg",
       "ts": "2026-10-26T00:29:12.103035+03:00"
+    },
+    {
+      "start_key": "2026-10-26_0030",
+      "end_key": "2026-11-02_0025",
+      "baseline": 60127,
+      "min_seen": 60127,
+      "current": 60127,
+      "weekly": 0,
+      "period_ru": "с 26.10 по 02.11",
+      "guild": "Eternal Demonic",
+      "display": "APOCALYPSE666",
+      "profile": "https://remanga.org/user/740757/about",
+      "avatar": "avatars/apocalypse666.jpg",
+      "ts": "2026-10-26T00:34:12.097785+03:00"
     }
   ]
 }

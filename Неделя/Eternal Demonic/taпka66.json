@@ -728,6 +728,20 @@
       "profile": "https://remanga.org/user/1196239/about",
       "avatar": "avatars/taпka66.jpg",
       "ts": "2026-10-26T00:29:12.103035+03:00"
+    },
+    {
+      "start_key": "2026-10-26_0030",
+      "end_key": "2026-11-02_0025",
+      "baseline": 74000,
+      "min_seen": 74000,
+      "current": 74000,
+      "weekly": 0,
+      "period_ru": "с 26.10 по 02.11",
+      "guild": "Eternal Demonic",
+      "display": "Тапка66",
+      "profile": "https://remanga.org/user/1196239/about",
+      "avatar": "avatars/taпka66.jpg",
+      "ts": "2026-10-26T00:34:12.097785+03:00"
     }
   ]
 }

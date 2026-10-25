@@ -770,6 +770,20 @@
       "profile": "https://remanga.org/user/133044/about",
       "avatar": "avatars/별팽귀.jpg",
       "ts": "2026-10-26T00:29:10.725090+03:00"
+    },
+    {
+      "start_key": "2026-10-26_0030",
+      "end_key": "2026-11-02_0025",
+      "baseline": 49398,
+      "min_seen": 49398,
+      "current": 49398,
+      "weekly": 0,
+      "period_ru": "с 26.10 по 02.11",
+      "guild": "Eternal Watchers",
+      "display": "별팽귀",
+      "profile": "https://remanga.org/user/133044/about",
+      "avatar": "avatars/별팽귀.jpg",
+      "ts": "2026-10-26T00:34:10.708752+03:00"
     }
   ]
 }

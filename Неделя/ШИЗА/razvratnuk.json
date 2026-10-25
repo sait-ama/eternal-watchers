@@ -770,6 +770,20 @@
       "profile": "https://remanga.org/user/21098/about",
       "avatar": "avatars/razvratnuk.jpg",
       "ts": "2026-10-26T00:29:13.150490+03:00"
+    },
+    {
+      "start_key": "2026-10-26_0030",
+      "end_key": "2026-11-02_0025",
+      "baseline": 7995,
+      "min_seen": 7995,
+      "current": 7995,
+      "weekly": 0,
+      "period_ru": "с 26.10 по 02.11",
+      "guild": "ШИЗА",
+      "display": "RaZvRatNuk",
+      "profile": "https://remanga.org/user/21098/about",
+      "avatar": "avatars/razvratnuk.jpg",
+      "ts": "2026-10-26T00:34:13.168621+03:00"
     }
   ]
 }
