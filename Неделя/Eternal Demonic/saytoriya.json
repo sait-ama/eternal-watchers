@@ -776,14 +776,14 @@
       "end_key": "2026-11-02_0025",
       "baseline": 60002,
       "min_seen": 60002,
-      "current": 60002,
-      "weekly": 0,
+      "current": 61002,
+      "weekly": 1000,
       "period_ru": "с 26.10 по 02.11",
       "guild": "Eternal Demonic",
       "display": "Saytoriya",
       "profile": "https://remanga.org/user/126709/about",
       "avatar": "avatars/saytoriya.jpg",
-      "ts": "2026-10-26T01:09:12.196401+03:00"
+      "ts": "2026-10-26T01:14:12.269237+03:00"
     }
   ]
 }
