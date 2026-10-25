@@ -144,6 +144,15 @@
           "weekly": 0,
           "baseline": 114320
         },
+        "maksimbybnov": {
+          "display": "МаксимБубнов",
+          "profile": "https://remanga.org/user/3503844/about",
+          "avatar": "avatars/maksimbybnov.jpg",
+          "initial": 0,
+          "current": 63300,
+          "weekly": 2000,
+          "baseline": 61300
+        },
         "ewobserver": {
           "display": "EW_OBSERVER",
           "profile": "https://remanga.org/user/141395/about",
@@ -152,15 +161,6 @@
           "current": 327569,
           "weekly": 12926,
           "baseline": 314643
-        },
-        "maksimbybnov": {
-          "display": "МаксимБубнов",
-          "profile": "https://remanga.org/user/3503844/about",
-          "avatar": "avatars/maksimbybnov.jpg",
-          "initial": 0,
-          "current": 61300,
-          "weekly": 0,
-          "baseline": 61300
         },
         "harutsu": {
           "display": "Harutsu",
@@ -1143,8 +1143,8 @@
           "profile": "https://remanga.org/user/3503844/about",
           "avatar": "avatars/maksimbybnov.jpg",
           "initial": 0,
-          "current": 206260,
-          "weekly": 0,
+          "current": 208260,
+          "weekly": 2000,
           "baseline": 206260
         },
         "flammenoire": {
@@ -2447,8 +2447,8 @@
           "profile": "https://remanga.org/user/3503844/about",
           "avatar": "avatars/maksimbybnov.jpg",
           "initial": 4000,
-          "current": 77000,
-          "weekly": 0,
+          "current": 79000,
+          "weekly": 2000,
           "baseline": 77000
         },
         "saitama": {
