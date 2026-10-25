@@ -32803,6 +32803,13 @@
     "author_id": 141395,
     "cards": [
       {
+        "id": 233949,
+        "title": "Ли Ланьцзи",
+        "cover": "https://remanga.org/media/card-item/cover_5894bbee871d473e.webp",
+        "rarity": "rank_b",
+        "url": "https://remanga.org/card/233949"
+      },
+      {
         "id": 180269,
         "title": "Бай Чэнь",
         "cover": "https://remanga.org/media/card-item/cover_ba7d39546c944f25.webp",
@@ -32983,6 +32990,13 @@
         "cover": "https://remanga.org/media/card-item/cover_91c18844.webp",
         "rarity": "rank_b",
         "url": "https://remanga.org/card/77906"
+      },
+      {
+        "id": 233948,
+        "title": "Ли Ланьцзи",
+        "cover": "https://remanga.org/media/card-item/cover_74423b1e6f4b4fe4.webp",
+        "rarity": "rank_c",
+        "url": "https://remanga.org/card/233948"
       },
       {
         "id": 179856,
