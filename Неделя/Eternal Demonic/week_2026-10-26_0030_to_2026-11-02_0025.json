@@ -728,6 +728,15 @@
       "weekly": 0,
       "baseline": 51016
     },
+    "alienate": {
+      "display": "Alienate",
+      "profile": "https://remanga.org/user/784489/about",
+      "avatar": "avatars/alienate.jpg",
+      "initial": 4000,
+      "current": 26000,
+      "weekly": 1000,
+      "baseline": 25000
+    },
     "oporlew": {
       "display": "oporlew",
       "profile": "https://remanga.org/user/2602/about",
@@ -736,15 +745,6 @@
       "current": 26264,
       "weekly": 0,
       "baseline": 26264
-    },
-    "alienate": {
-      "display": "Alienate",
-      "profile": "https://remanga.org/user/784489/about",
-      "avatar": "avatars/alienate.jpg",
-      "initial": 4000,
-      "current": 25000,
-      "weekly": 0,
-      "baseline": 25000
     },
     "lexapro420": {
       "display": "Lexapro420",
