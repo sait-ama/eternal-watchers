@@ -776,14 +776,14 @@
       "end_key": "2026-11-02_0025",
       "baseline": 215440,
       "min_seen": 215440,
-      "current": 215440,
-      "weekly": 0,
+      "current": 218440,
+      "weekly": 3000,
       "period_ru": "с 26.10 по 02.11",
       "guild": "Eternal Demonic",
       "display": "FlammeNoire",
       "profile": "https://remanga.org/user/2384260/about",
       "avatar": "avatars/flammenoire.jpg",
-      "ts": "2026-10-26T17:39:12.792505+03:00"
+      "ts": "2026-10-26T17:44:13.396348+03:00"
     }
   ]
 }
