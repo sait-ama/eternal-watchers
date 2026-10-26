@@ -21639,11 +21639,6 @@
     "author_id": 1529739,
     "cards": []
   },
-  "apocalypse666": {
-    "display": "APOCALYPSE666",
-    "author_id": 740757,
-    "cards": []
-  },
   "abigor": {
     "display": "Abigor.",
     "author_id": 2093362,
@@ -32802,6 +32797,13 @@
     "display": "EW_OBSERVER",
     "author_id": 141395,
     "cards": [
+      {
+        "id": 234378,
+        "title": "Ли Ланьцзи",
+        "cover": "https://remanga.org/media/card-item/cover_b97683999b23416a.webp",
+        "rarity": "rank_b",
+        "url": "https://remanga.org/card/234378"
+      },
       {
         "id": 233949,
         "title": "Ли Ланьцзи",
@@ -81740,6 +81742,11 @@
     "author_id": 117177,
     "cards": []
   },
+  "rwbylove": {
+    "display": "RWBYLOVE",
+    "author_id": 740757,
+    "cards": []
+  },
   "razvratnuk": {
     "display": "RaZvRatNuk",
     "author_id": 21098,
@@ -82658,6 +82665,20 @@
     "display": "RokYwka",
     "author_id": 1339341,
     "cards": [
+      {
+        "id": 234365,
+        "title": "Энни",
+        "cover": "https://remanga.org/media/card-item/cover_0aa4d36c60604121.webp",
+        "rarity": "rank_b",
+        "url": "https://remanga.org/card/234365"
+      },
+      {
+        "id": 234342,
+        "title": "Энни",
+        "cover": "https://remanga.org/media/card-item/cover_6b668c7c86a94abc.webp",
+        "rarity": "rank_b",
+        "url": "https://remanga.org/card/234342"
+      },
       {
         "id": 234141,
         "title": "А-Бомба",
@@ -85781,6 +85802,20 @@
         "url": "https://remanga.org/card/134526"
       },
       {
+        "id": 234340,
+        "title": "Энни",
+        "cover": "https://remanga.org/media/card-item/cover_8aa575f750a7400d.webp",
+        "rarity": "rank_c",
+        "url": "https://remanga.org/card/234340"
+      },
+      {
+        "id": 234339,
+        "title": "Энни",
+        "cover": "https://remanga.org/media/card-item/cover_b691c481e3004379.webp",
+        "rarity": "rank_c",
+        "url": "https://remanga.org/card/234339"
+      },
+      {
         "id": 234140,
         "title": "А-Бомба",
         "cover": "https://remanga.org/media/card-item/cover_8205dfeb616a4a35.webp",
@@ -88852,6 +88887,27 @@
         "cover": "https://remanga.org/media/card-item/cover_d92419408046496b.webp",
         "rarity": "rank_c",
         "url": "https://remanga.org/card/51589"
+      },
+      {
+        "id": 234430,
+        "title": "Амбрелла",
+        "cover": "https://remanga.org/media/card-item/cover_577885bd63f24437.webp",
+        "rarity": "rank_d",
+        "url": "https://remanga.org/card/234430"
+      },
+      {
+        "id": 234338,
+        "title": "Энни",
+        "cover": "https://remanga.org/media/card-item/cover_c89c4faa324b4b28.webp",
+        "rarity": "rank_d",
+        "url": "https://remanga.org/card/234338"
+      },
+      {
+        "id": 234337,
+        "title": "Энни",
+        "cover": "https://remanga.org/media/card-item/cover_705b9bd7c6994e6e.webp",
+        "rarity": "rank_d",
+        "url": "https://remanga.org/card/234337"
       },
       {
         "id": 234139,
@@ -91983,6 +92039,13 @@
         "url": "https://remanga.org/card/57540"
       },
       {
+        "id": 234429,
+        "title": "Амбрелла",
+        "cover": "https://remanga.org/media/card-item/cover_69a5ca1a503e4384.webp",
+        "rarity": "rank_e",
+        "url": "https://remanga.org/card/234429"
+      },
+      {
         "id": 234275,
         "title": "Энни",
         "cover": "https://remanga.org/media/card-item/cover_7860d884d28840fa.webp",
@@ -95110,6 +95173,13 @@
         "cover": "https://remanga.org/media/card-item/cover_3e934d27049840b7.webp",
         "rarity": "rank_e",
         "url": "https://remanga.org/card/56452"
+      },
+      {
+        "id": 234428,
+        "title": "Амбрелла",
+        "cover": "https://remanga.org/media/card-item/cover_b050e0adf4a448d8.webp",
+        "rarity": "rank_f",
+        "url": "https://remanga.org/card/234428"
       },
       {
         "id": 234273,
@@ -139833,6 +139903,20 @@
     "display": "tenofmoses",
     "author_id": 3176212,
     "cards": [
+      {
+        "id": 234352,
+        "title": "Card 234352",
+        "cover": "https://remanga.org/media/card-item/cover_7fcffdbae04646e5.webp",
+        "rarity": "rank_re",
+        "url": "https://remanga.org/card/234352"
+      },
+      {
+        "id": 234351,
+        "title": "Card 234351",
+        "cover": "https://remanga.org/media/card-item/cover_b20a9964de664977.webp",
+        "rarity": "rank_re",
+        "url": "https://remanga.org/card/234351"
+      },
       {
         "id": 230448,
         "title": "Card 230448",
