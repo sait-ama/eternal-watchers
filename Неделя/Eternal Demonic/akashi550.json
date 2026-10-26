@@ -776,14 +776,14 @@
       "end_key": "2026-11-02_0025",
       "baseline": 153995,
       "min_seen": 153995,
-      "current": 153995,
-      "weekly": 0,
+      "current": 154995,
+      "weekly": 1000,
       "period_ru": "с 26.10 по 02.11",
       "guild": "Eternal Demonic",
       "display": "Akashi550",
       "profile": "https://remanga.org/user/617426/about",
       "avatar": "avatars/akashi550.jpg",
-      "ts": "2026-10-26T18:19:11.995408+03:00"
+      "ts": "2026-10-26T18:24:11.935451+03:00"
     }
   ]
 }
