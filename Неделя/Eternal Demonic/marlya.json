@@ -706,14 +706,14 @@
       "end_key": "2026-11-02_0025",
       "baseline": 70000,
       "min_seen": 70000,
-      "current": 70000,
-      "weekly": 0,
+      "current": 71000,
+      "weekly": 1000,
       "period_ru": "с 26.10 по 02.11",
       "guild": "Eternal Demonic",
       "display": "MarLya",
       "profile": "https://remanga.org/user/209369/about",
       "avatar": "avatars/marlya.jpg",
-      "ts": "2026-10-26T11:24:12.583772+03:00"
+      "ts": "2026-10-26T11:29:13.012852+03:00"
     }
   ]
 }
