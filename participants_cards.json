@@ -32992,6 +32992,13 @@
         "url": "https://remanga.org/card/77906"
       },
       {
+        "id": 234298,
+        "title": "Ли Ланьцзи",
+        "cover": "https://remanga.org/media/card-item/cover_a558724e76dc49ac.webp",
+        "rarity": "rank_c",
+        "url": "https://remanga.org/card/234298"
+      },
+      {
         "id": 233948,
         "title": "Ли Ланьцзи",
         "cover": "https://remanga.org/media/card-item/cover_74423b1e6f4b4fe4.webp",
@@ -91976,6 +91983,20 @@
         "url": "https://remanga.org/card/57540"
       },
       {
+        "id": 234275,
+        "title": "Энни",
+        "cover": "https://remanga.org/media/card-item/cover_7860d884d28840fa.webp",
+        "rarity": "rank_e",
+        "url": "https://remanga.org/card/234275"
+      },
+      {
+        "id": 234274,
+        "title": "Энни",
+        "cover": "https://remanga.org/media/card-item/cover_8f5a75f37d3b43a2.webp",
+        "rarity": "rank_e",
+        "url": "https://remanga.org/card/234274"
+      },
+      {
         "id": 234138,
         "title": "А-Бомба",
         "cover": "https://remanga.org/media/card-item/cover_261e3ccf7a134c55.webp",
@@ -95089,6 +95110,27 @@
         "cover": "https://remanga.org/media/card-item/cover_3e934d27049840b7.webp",
         "rarity": "rank_e",
         "url": "https://remanga.org/card/56452"
+      },
+      {
+        "id": 234273,
+        "title": "Энни",
+        "cover": "https://remanga.org/media/card-item/cover_09bc1cfaf37246d2.webp",
+        "rarity": "rank_f",
+        "url": "https://remanga.org/card/234273"
+      },
+      {
+        "id": 234272,
+        "title": "Энни",
+        "cover": "https://remanga.org/media/card-item/cover_cf5cff1099084164.webp",
+        "rarity": "rank_f",
+        "url": "https://remanga.org/card/234272"
+      },
+      {
+        "id": 234235,
+        "title": "Абсолютная Барбара Гордон",
+        "cover": "https://remanga.org/media/card-item/cover_f3ff0a46e0d24486.webp",
+        "rarity": "rank_f",
+        "url": "https://remanga.org/card/234235"
       },
       {
         "id": 234137,
