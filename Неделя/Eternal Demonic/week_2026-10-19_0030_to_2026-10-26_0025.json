@@ -548,15 +548,6 @@
       "weekly": 0,
       "baseline": 51300
     },
-    "apocalypse666": {
-      "display": "APOCALYPSE666",
-      "profile": "https://remanga.org/user/740757/about",
-      "avatar": "avatars/apocalypse666.jpg",
-      "initial": 20450,
-      "current": 60127,
-      "weekly": 0,
-      "baseline": 60127
-    },
     "zatex": {
       "display": "Zatex",
       "profile": "https://remanga.org/user/246605/about",
@@ -871,6 +862,15 @@
       "current": 421,
       "weekly": 0,
       "baseline": 421
+    },
+    "rwbylove": {
+      "display": "RWBYLOVE",
+      "profile": "https://remanga.org/user/740757/about",
+      "avatar": "avatars/apocalypse666.jpg",
+      "initial": 20450,
+      "current": 60127,
+      "weekly": 0,
+      "baseline": 60127
     }
   }
 }
