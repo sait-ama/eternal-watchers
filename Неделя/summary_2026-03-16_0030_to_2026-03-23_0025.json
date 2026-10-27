@@ -1008,15 +1008,6 @@
           "weekly": 0,
           "baseline": 10377
         },
-        "reyrivman": {
-          "display": "-ReyRivman-",
-          "profile": "https://remanga.org/user/1967242/about",
-          "avatar": "avatars/reyrivman.jpg",
-          "initial": 20500,
-          "current": 20500,
-          "weekly": 0,
-          "baseline": 20500
-        },
         "01bag": {
           "display": "01bag",
           "profile": "https://remanga.org/user/77899/about",
@@ -1088,6 +1079,15 @@
           "current": 42695,
           "weekly": 0,
           "baseline": 42695
+        },
+        "gnidgnidыч": {
+          "display": "ГнидГнидыч",
+          "profile": "https://remanga.org/user/1967242/about",
+          "avatar": "avatars/reyrivman.jpg",
+          "initial": 20500,
+          "current": 20500,
+          "weekly": 0,
+          "baseline": 20500
         }
       }
     },
@@ -1867,15 +1867,6 @@
           "weekly": 0,
           "baseline": 20462
         },
-        "reyrivman": {
-          "display": "-ReyRivman-",
-          "profile": "https://remanga.org/user/1967242/about",
-          "avatar": "avatars/reyrivman.jpg",
-          "initial": 0,
-          "current": 10550,
-          "weekly": 0,
-          "baseline": 10550
-        },
         "ksinaur": {
           "display": "KSinAur",
           "profile": "https://remanga.org/user/3386416/about",
@@ -2046,6 +2037,15 @@
           "current": 47476,
           "weekly": 0,
           "baseline": 47476
+        },
+        "gnidgnidыч": {
+          "display": "ГнидГнидыч",
+          "profile": "https://remanga.org/user/1967242/about",
+          "avatar": "avatars/reyrivman.jpg",
+          "initial": 0,
+          "current": 10550,
+          "weekly": 0,
+          "baseline": 10550
         }
       }
     },

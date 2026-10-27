@@ -737,15 +737,6 @@
       "weekly": 0,
       "baseline": 38100
     },
-    "reyrivman": {
-      "display": "-ReyRivman-",
-      "profile": "https://remanga.org/user/1967242/about",
-      "avatar": "avatars/reyrivman.jpg",
-      "initial": 0,
-      "current": 10550,
-      "weekly": 0,
-      "baseline": 10550
-    },
     "strangled": {
       "display": "Strangled",
       "profile": "https://remanga.org/user/3263817/about",
@@ -826,6 +817,15 @@
       "current": 43090,
       "weekly": 0,
       "baseline": 43090
+    },
+    "gnidgnidыч": {
+      "display": "ГнидГнидыч",
+      "profile": "https://remanga.org/user/1967242/about",
+      "avatar": "avatars/reyrivman.jpg",
+      "initial": 0,
+      "current": 10550,
+      "weekly": 0,
+      "baseline": 10550
     }
   }
 }
