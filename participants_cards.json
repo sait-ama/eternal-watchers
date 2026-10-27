@@ -22034,6 +22034,13 @@
         "url": "https://remanga.org/card/101385"
       },
       {
+        "id": 234565,
+        "title": "Асажж Вентресс",
+        "cover": "https://remanga.org/media/card-item/cover_6e35833c85c64994.webp",
+        "rarity": "rank_e",
+        "url": "https://remanga.org/card/234565"
+      },
+      {
         "id": 233533,
         "title": "Асока Тано",
         "cover": "https://remanga.org/media/card-item/cover_7c7285ebe5564571.webp",
@@ -33211,6 +33218,13 @@
         "url": "https://remanga.org/card/76238"
       },
       {
+        "id": 234571,
+        "title": "Ли Ланьцзин",
+        "cover": "https://remanga.org/media/card-item/cover_448af5506c45404f.webp",
+        "rarity": "rank_d",
+        "url": "https://remanga.org/card/234571"
+      },
+      {
         "id": 234206,
         "title": "Ли Ланьцзи",
         "cover": "https://remanga.org/media/card-item/cover_13d8a9819ef34938.webp",
@@ -33440,6 +33454,13 @@
         "cover": "https://remanga.org/media/card-item/cover_dca48809.webp",
         "rarity": "rank_d",
         "url": "https://remanga.org/card/76237"
+      },
+      {
+        "id": 234569,
+        "title": "Ли Ланьцзин",
+        "cover": "https://remanga.org/media/card-item/cover_13c32b90e3364747.webp",
+        "rarity": "rank_e",
+        "url": "https://remanga.org/card/234569"
       },
       {
         "id": 234056,
@@ -82680,6 +82701,13 @@
     "author_id": 1339341,
     "cards": [
       {
+        "id": 234574,
+        "title": "Амбрелла",
+        "cover": "https://remanga.org/media/card-item/cover_ebd4521575ac4b0f.webp",
+        "rarity": "rank_b",
+        "url": "https://remanga.org/card/234574"
+      },
+      {
         "id": 234365,
         "title": "Энни",
         "cover": "https://remanga.org/media/card-item/cover_0aa4d36c60604121.webp",
@@ -92060,6 +92088,20 @@
         "url": "https://remanga.org/card/57540"
       },
       {
+        "id": 234578,
+        "title": "Абсолютная Барбара Гордон",
+        "cover": "https://remanga.org/media/card-item/cover_9147681956e4472b.webp",
+        "rarity": "rank_e",
+        "url": "https://remanga.org/card/234578"
+      },
+      {
+        "id": 234577,
+        "title": "Абсолютная Барбара Гордон",
+        "cover": "https://remanga.org/media/card-item/cover_b244e77ae51e42a7.webp",
+        "rarity": "rank_e",
+        "url": "https://remanga.org/card/234577"
+      },
+      {
         "id": 234429,
         "title": "Амбрелла",
         "cover": "https://remanga.org/media/card-item/cover_69a5ca1a503e4384.webp",
@@ -95194,6 +95236,13 @@
         "cover": "https://remanga.org/media/card-item/cover_3e934d27049840b7.webp",
         "rarity": "rank_e",
         "url": "https://remanga.org/card/56452"
+      },
+      {
+        "id": 234576,
+        "title": "Абсолютная Барбара Гордон",
+        "cover": "https://remanga.org/media/card-item/cover_68bb88fcfccc4710.webp",
+        "rarity": "rank_f",
+        "url": "https://remanga.org/card/234576"
       },
       {
         "id": 234483,
