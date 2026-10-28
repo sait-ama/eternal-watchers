@@ -17805,6 +17805,27 @@
         "url": "https://remanga.org/card/55088"
       },
       {
+        "id": 234707,
+        "title": "Пэк Са Хён",
+        "cover": "https://remanga.org/media/card-item/cover_3c2843665404436e.webp",
+        "rarity": "rank_f",
+        "url": "https://remanga.org/card/234707"
+      },
+      {
+        "id": 234706,
+        "title": "Ли Джэ Хун",
+        "cover": "https://remanga.org/media/card-item/cover_f96d589f8f6c4678.webp",
+        "rarity": "rank_f",
+        "url": "https://remanga.org/card/234706"
+      },
+      {
+        "id": 234705,
+        "title": "Ким Соль Ым",
+        "cover": "https://remanga.org/media/card-item/cover_49e009c6d2d44d85.webp",
+        "rarity": "rank_f",
+        "url": "https://remanga.org/card/234705"
+      },
+      {
         "id": 232000,
         "title": "Джессика",
         "cover": "https://remanga.org/media/card-item/cover_b0b36a5be6df49ad.webp",
@@ -43261,6 +43282,13 @@
         "url": "https://remanga.org/card/3385"
       },
       {
+        "id": 234731,
+        "title": "Арлекино",
+        "cover": "https://remanga.org/media/card-item/cover_58075a9be83e416d.webp",
+        "rarity": "rank_d",
+        "url": "https://remanga.org/card/234731"
+      },
+      {
         "id": 232562,
         "title": "Дизель",
         "cover": "https://remanga.org/media/card-item/cover_b91314fe22b94956.webp",
@@ -44843,6 +44871,13 @@
         "url": "https://remanga.org/card/309"
       },
       {
+        "id": 234730,
+        "title": "Арлекино",
+        "cover": "https://remanga.org/media/card-item/cover_dcd5659bf31140fb.webp",
+        "rarity": "rank_e",
+        "url": "https://remanga.org/card/234730"
+      },
+      {
         "id": 232554,
         "title": "Дизель",
         "cover": "https://remanga.org/media/card-item/cover_6c06edc7ea3d4484.webp",
@@ -46304,6 +46339,27 @@
         "cover": "https://remanga.org/media/card-item/cover_e9c6c171882941d8.webp",
         "rarity": "rank_e",
         "url": "https://remanga.org/card/1090"
+      },
+      {
+        "id": 234741,
+        "title": "Гань Юй",
+        "cover": "https://remanga.org/media/card-item/cover_5aee43d7c9ad4810.webp",
+        "rarity": "rank_f",
+        "url": "https://remanga.org/card/234741"
+      },
+      {
+        "id": 234740,
+        "title": "Йор Форджер",
+        "cover": "https://remanga.org/media/card-item/cover_9149344e903141e7.webp",
+        "rarity": "rank_f",
+        "url": "https://remanga.org/card/234740"
+      },
+      {
+        "id": 234729,
+        "title": "Арлекино",
+        "cover": "https://remanga.org/media/card-item/cover_b1b788c7be4f47f0.webp",
+        "rarity": "rank_f",
+        "url": "https://remanga.org/card/234729"
       },
       {
         "id": 232580,
@@ -85856,6 +85912,13 @@
         "cover": "https://remanga.org/media/card-item/cover_0c9862133a394179.webp",
         "rarity": "rank_b",
         "url": "https://remanga.org/card/134526"
+      },
+      {
+        "id": 234723,
+        "title": "Абсолютная Барбара Гордон",
+        "cover": "https://remanga.org/media/card-item/cover_7f14d77e17fb4d53.webp",
+        "rarity": "rank_c",
+        "url": "https://remanga.org/card/234723"
       },
       {
         "id": 234656,
@@ -139503,6 +139566,13 @@
         "url": "https://remanga.org/card/127272"
       },
       {
+        "id": 234733,
+        "title": "Осаму Дазай",
+        "cover": "https://remanga.org/media/card-item/cover_e821b0ae3d584c45.webp",
+        "rarity": "rank_f",
+        "url": "https://remanga.org/card/234733"
+      },
+      {
         "id": 225015,
         "title": "Тетта Кисаки",
         "cover": "https://remanga.org/media/card-item/cover_68992b7c840d4f7d.webp",
@@ -140015,6 +140085,27 @@
     "display": "tenofmoses",
     "author_id": 3176212,
     "cards": [
+      {
+        "id": 234696,
+        "title": "Card 234696",
+        "cover": "https://remanga.org/media/card-item/cover_cba606d4e7c5465c.webp",
+        "rarity": "rank_re",
+        "url": "https://remanga.org/card/234696"
+      },
+      {
+        "id": 234695,
+        "title": "Card 234695",
+        "cover": "https://remanga.org/media/card-item/cover_0f3f8bf3afce4e6b.webp",
+        "rarity": "rank_re",
+        "url": "https://remanga.org/card/234695"
+      },
+      {
+        "id": 234694,
+        "title": "Card 234694",
+        "cover": "https://remanga.org/media/card-item/cover_c51dfa58c1f044ac.webp",
+        "rarity": "rank_re",
+        "url": "https://remanga.org/card/234694"
+      },
       {
         "id": 234352,
         "title": "Card 234352",
