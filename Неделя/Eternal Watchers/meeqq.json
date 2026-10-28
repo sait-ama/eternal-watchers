@@ -776,14 +776,14 @@
       "end_key": "2026-11-02_0025",
       "baseline": 51860,
       "min_seen": 51860,
-      "current": 51860,
+      "current": 40410,
       "weekly": 0,
       "period_ru": "с 26.10 по 02.11",
       "guild": "Eternal Watchers",
       "display": "MeeQ_Q",
-      "profile": "https://remanga.org/user/2360369/about",
-      "avatar": "avatars/meeqq.jpg",
-      "ts": "2026-10-29T00:59:10.799915+03:00"
+      "profile": "https://remanga.org",
+      "avatar": "avatars/placeholder.jpg",
+      "ts": "2026-10-29T01:04:10.537988+03:00"
     }
   ]
 }
