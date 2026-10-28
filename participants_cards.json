@@ -46341,6 +46341,69 @@
         "url": "https://remanga.org/card/1090"
       },
       {
+        "id": 234802,
+        "title": "Нахида",
+        "cover": "https://remanga.org/media/card-item/cover_42fe81dd1ede4b34.webp",
+        "rarity": "rank_f",
+        "url": "https://remanga.org/card/234802"
+      },
+      {
+        "id": 234801,
+        "title": "Кинич",
+        "cover": "https://remanga.org/media/card-item/cover_4f3bd79d6df54fac.webp",
+        "rarity": "rank_f",
+        "url": "https://remanga.org/card/234801"
+      },
+      {
+        "id": 234800,
+        "title": "Ризли",
+        "cover": "https://remanga.org/media/card-item/cover_41aca0c3768f4663.webp",
+        "rarity": "rank_f",
+        "url": "https://remanga.org/card/234800"
+      },
+      {
+        "id": 234799,
+        "title": "Ронова",
+        "cover": "https://remanga.org/media/card-item/cover_a9e7353005244d1d.webp",
+        "rarity": "rank_f",
+        "url": "https://remanga.org/card/234799"
+      },
+      {
+        "id": 234798,
+        "title": "Асуна Ичиносэ",
+        "cover": "https://remanga.org/media/card-item/cover_6b09374167884bf4.webp",
+        "rarity": "rank_f",
+        "url": "https://remanga.org/card/234798"
+      },
+      {
+        "id": 234797,
+        "title": "Марин Китагава",
+        "cover": "https://remanga.org/media/card-item/cover_fc20757a1bce4b66.webp",
+        "rarity": "rank_f",
+        "url": "https://remanga.org/card/234797"
+      },
+      {
+        "id": 234796,
+        "title": "Годжо Сатору",
+        "cover": "https://remanga.org/media/card-item/cover_8815f3dd1e454617.webp",
+        "rarity": "rank_f",
+        "url": "https://remanga.org/card/234796"
+      },
+      {
+        "id": 234795,
+        "title": "Кафка",
+        "cover": "https://remanga.org/media/card-item/cover_de8b663f48494bb7.webp",
+        "rarity": "rank_f",
+        "url": "https://remanga.org/card/234795"
+      },
+      {
+        "id": 234792,
+        "title": "Пауэр",
+        "cover": "https://remanga.org/media/card-item/cover_b23fb6bccc044211.webp",
+        "rarity": "rank_f",
+        "url": "https://remanga.org/card/234792"
+      },
+      {
         "id": 234741,
         "title": "Гань Юй",
         "cover": "https://remanga.org/media/card-item/cover_5aee43d7c9ad4810.webp",
@@ -82764,6 +82827,13 @@
     "author_id": 1339341,
     "cards": [
       {
+        "id": 234774,
+        "title": "Абсолютная Барбара Гордон",
+        "cover": "https://remanga.org/media/card-item/cover_002e1291854c4b81.webp",
+        "rarity": "rank_b",
+        "url": "https://remanga.org/card/234774"
+      },
+      {
         "id": 234670,
         "title": "Абсолютная Барбара Гордон",
         "cover": "https://remanga.org/media/card-item/cover_e9f64f2fa3b842c8.webp",
@@ -83648,7 +83718,7 @@
       {
         "id": 218065,
         "title": "Фродо",
-        "cover": "https://remanga.org/media/card-item/cover_61787842487649c7.webp",
+        "cover": "https://remanga.org/media/card-item/cover_cc6ea22d5a4b478f.webp",
         "rarity": "rank_b",
         "url": "https://remanga.org/card/218065"
       },
@@ -86777,7 +86847,7 @@
       {
         "id": 218064,
         "title": "Фродо",
-        "cover": "https://remanga.org/media/card-item/cover_31c68a95a4f14d71.webp",
+        "cover": "https://remanga.org/media/card-item/cover_c805dd45fcd844d0.webp",
         "rarity": "rank_c",
         "url": "https://remanga.org/card/218064"
       },
@@ -92186,6 +92256,13 @@
         "url": "https://remanga.org/card/57540"
       },
       {
+        "id": 234812,
+        "title": "Сомбра",
+        "cover": "https://remanga.org/media/card-item/cover_03fdbec1c18f4f7a.webp",
+        "rarity": "rank_e",
+        "url": "https://remanga.org/card/234812"
+      },
+      {
         "id": 234578,
         "title": "Абсолютная Барбара Гордон",
         "cover": "https://remanga.org/media/card-item/cover_9147681956e4472b.webp",
@@ -95334,6 +95411,13 @@
         "cover": "https://remanga.org/media/card-item/cover_3e934d27049840b7.webp",
         "rarity": "rank_e",
         "url": "https://remanga.org/card/56452"
+      },
+      {
+        "id": 234811,
+        "title": "Сомбра",
+        "cover": "https://remanga.org/media/card-item/cover_be8fc6d504244110.webp",
+        "rarity": "rank_f",
+        "url": "https://remanga.org/card/234811"
       },
       {
         "id": 234576,
@@ -140085,6 +140169,13 @@
     "display": "tenofmoses",
     "author_id": 3176212,
     "cards": [
+      {
+        "id": 234770,
+        "title": "Card 234770",
+        "cover": "https://remanga.org/media/card-item/cover_c273e5efb0eb42db.webp",
+        "rarity": "rank_re",
+        "url": "https://remanga.org/card/234770"
+      },
       {
         "id": 234696,
         "title": "Card 234696",
