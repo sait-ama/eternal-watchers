@@ -776,14 +776,14 @@
       "end_key": "2026-11-02_0025",
       "baseline": 56200,
       "min_seen": 56200,
-      "current": 9000,
+      "current": 56200,
       "weekly": 0,
       "period_ru": "с 26.10 по 02.11",
       "guild": "Eternal Demonic",
       "display": "Akihiko",
-      "profile": "https://remanga.org",
-      "avatar": "avatars/placeholder.jpg",
-      "ts": "2026-10-29T00:54:11.848796+03:00"
+      "profile": "https://remanga.org/user/183282/about",
+      "avatar": "avatars/akihiko.jpg",
+      "ts": "2026-10-29T00:59:12.143014+03:00"
     }
   ]
 }
