@@ -32840,6 +32840,13 @@
     "author_id": 141395,
     "cards": [
       {
+        "id": 234953,
+        "title": "Ли Ланьцзин",
+        "cover": "https://remanga.org/media/card-item/cover_01b0f5dabedb45a5.webp",
+        "rarity": "rank_b",
+        "url": "https://remanga.org/card/234953"
+      },
+      {
         "id": 234378,
         "title": "Ли Ланьцзи",
         "cover": "https://remanga.org/media/card-item/cover_b97683999b23416a.webp",
@@ -33664,6 +33671,13 @@
         "cover": "https://remanga.org/media/card-item/cover_b1a6c1fcaf144cf5.webp",
         "rarity": "rank_e",
         "url": "https://remanga.org/card/142562"
+      },
+      {
+        "id": 140528,
+        "title": "Бай Сяочунь",
+        "cover": "https://remanga.org/media/card-item/cover_5fc1acee66c84cc4.webp",
+        "rarity": "rank_e",
+        "url": "https://remanga.org/card/140528"
       },
       {
         "id": 140528,
@@ -138654,6 +138668,13 @@
         "cover": "https://remanga.org/media/card-item/cover_c755905b7c4443ca.webp",
         "rarity": "rank_c",
         "url": "https://remanga.org/card/137322"
+      },
+      {
+        "id": 234956,
+        "title": "Осаму Дазай",
+        "cover": "https://remanga.org/media/card-item/cover_69f000b086cf4eaa.webp",
+        "rarity": "rank_d",
+        "url": "https://remanga.org/card/234956"
       },
       {
         "id": 225066,
