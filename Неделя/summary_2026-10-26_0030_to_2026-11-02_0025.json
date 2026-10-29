@@ -315,6 +315,15 @@
           "weekly": 0,
           "baseline": 59677
         },
+        "harlequ1n": {
+          "display": "HARLEQU1N",
+          "profile": "https://remanga.org/user/959231/about",
+          "avatar": "avatars/harlequ1n.jpg",
+          "initial": 30760,
+          "current": 62925,
+          "weekly": 6301,
+          "baseline": 56624
+        },
         "markutts": {
           "display": "MARKUTTs",
           "profile": "https://remanga.org/user/660145/about",
@@ -422,15 +431,6 @@
           "current": 40200,
           "weekly": 0,
           "baseline": 40200
-        },
-        "harlequ1n": {
-          "display": "HARLEQU1N",
-          "profile": "https://remanga.org/user/959231/about",
-          "avatar": "avatars/harlequ1n.jpg",
-          "initial": 30760,
-          "current": 56624,
-          "weekly": 0,
-          "baseline": 56624
         },
         "nichts": {
           "display": ".𝕹𝖎𝖈𝖍𝖙𝖘.",
