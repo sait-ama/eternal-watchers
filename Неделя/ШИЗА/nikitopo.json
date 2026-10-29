@@ -776,14 +776,14 @@
       "end_key": "2026-11-02_0025",
       "baseline": 8000,
       "min_seen": 8000,
-      "current": 5000,
+      "current": 8000,
       "weekly": 0,
       "period_ru": "с 26.10 по 02.11",
       "guild": "ШИЗА",
       "display": "Никиторо",
-      "profile": "https://remanga.org",
-      "avatar": "avatars/placeholder.jpg",
-      "ts": "2026-10-29T22:09:21.737607+03:00"
+      "profile": "https://remanga.org/user/210351/about",
+      "avatar": "avatars/nikitopo.jpg",
+      "ts": "2026-10-29T22:14:13.279369+03:00"
     }
   ]
 }
