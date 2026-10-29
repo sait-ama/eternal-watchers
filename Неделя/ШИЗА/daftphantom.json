@@ -776,14 +776,14 @@
       "end_key": "2026-11-02_0025",
       "baseline": 12510,
       "min_seen": 12510,
-      "current": 12510,
+      "current": 12500,
       "weekly": 0,
       "period_ru": "с 26.10 по 02.11",
       "guild": "ШИЗА",
       "display": "DaftPhantom",
-      "profile": "https://remanga.org/user/184746/about",
-      "avatar": "avatars/daftphantom.jpg",
-      "ts": "2026-10-29T19:14:13.748219+03:00"
+      "profile": "https://remanga.org",
+      "avatar": "avatars/placeholder.jpg",
+      "ts": "2026-10-29T19:19:13.624262+03:00"
     }
   ]
 }
