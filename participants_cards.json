@@ -33281,6 +33281,13 @@
         "url": "https://remanga.org/card/76238"
       },
       {
+        "id": 235100,
+        "title": "Ли Ланьцзин",
+        "cover": "https://remanga.org/media/card-item/cover_be905a7156754fc2.webp",
+        "rarity": "rank_d",
+        "url": "https://remanga.org/card/235100"
+      },
+      {
         "id": 234571,
         "title": "Ли Ланьцзин",
         "cover": "https://remanga.org/media/card-item/cover_448af5506c45404f.webp",
@@ -80539,6 +80546,13 @@
         "url": "https://remanga.org/card/112097"
       },
       {
+        "id": 235085,
+        "title": "Энби Демара",
+        "cover": "https://remanga.org/media/card-item/cover_ed27ad7f9cf14aeb.webp",
+        "rarity": "rank_d",
+        "url": "https://remanga.org/card/235085"
+      },
+      {
         "id": 232801,
         "title": "Феникс Рефаэлла",
         "cover": "https://remanga.org/media/card-item/cover_a756524a4be7481c.webp",
@@ -81013,6 +81027,13 @@
         "cover": "https://remanga.org/media/card-item/cover_ffaa1b85.webp",
         "rarity": "rank_d",
         "url": "https://remanga.org/card/12633"
+      },
+      {
+        "id": 235086,
+        "title": "Билли Кид",
+        "cover": "https://remanga.org/media/card-item/cover_b4767771bc714255.webp",
+        "rarity": "rank_e",
+        "url": "https://remanga.org/card/235086"
       },
       {
         "id": 232800,
@@ -92319,6 +92340,13 @@
         "url": "https://remanga.org/card/57540"
       },
       {
+        "id": 235109,
+        "title": "Амбрелла",
+        "cover": "https://remanga.org/media/card-item/cover_5ef8ebb6f0d149c9.webp",
+        "rarity": "rank_e",
+        "url": "https://remanga.org/card/235109"
+      },
+      {
         "id": 234890,
         "title": "Мэй",
         "cover": "https://remanga.org/media/card-item/cover_58f796ddbff044c9.webp",
@@ -95481,6 +95509,20 @@
         "cover": "https://remanga.org/media/card-item/cover_3e934d27049840b7.webp",
         "rarity": "rank_e",
         "url": "https://remanga.org/card/56452"
+      },
+      {
+        "id": 235112,
+        "title": "Смауг",
+        "cover": "https://remanga.org/media/card-item/cover_271bcebe7c474039.webp",
+        "rarity": "rank_f",
+        "url": "https://remanga.org/card/235112"
+      },
+      {
+        "id": 235111,
+        "title": "Энни",
+        "cover": "https://remanga.org/media/card-item/cover_2a4375e75e134b31.webp",
+        "rarity": "rank_f",
+        "url": "https://remanga.org/card/235111"
       },
       {
         "id": 234889,
