@@ -33064,6 +33064,13 @@
         "url": "https://remanga.org/card/77906"
       },
       {
+        "id": 235126,
+        "title": "Ли Ланьцзин",
+        "cover": "https://remanga.org/media/card-item/cover_1cb0fe336a524c5f.webp",
+        "rarity": "rank_c",
+        "url": "https://remanga.org/card/235126"
+      },
+      {
         "id": 234829,
         "title": "Ли Ланьцзин",
         "cover": "https://remanga.org/media/card-item/cover_509870ac64434a33.webp",
@@ -89169,6 +89176,13 @@
         "url": "https://remanga.org/card/51589"
       },
       {
+        "id": 235133,
+        "title": "Амбрелла",
+        "cover": "https://remanga.org/media/card-item/cover_7d968c05aab1482f.webp",
+        "rarity": "rank_d",
+        "url": "https://remanga.org/card/235133"
+      },
+      {
         "id": 234854,
         "title": "Сомбра",
         "cover": "https://remanga.org/media/card-item/cover_0fbcc6ee86924435.webp",
@@ -92338,6 +92352,20 @@
         "cover": "https://remanga.org/media/card-item/cover_50608ffa14234e28.webp",
         "rarity": "rank_d",
         "url": "https://remanga.org/card/57540"
+      },
+      {
+        "id": 235135,
+        "title": "Энни",
+        "cover": "https://remanga.org/media/card-item/cover_2be938483c194e05.webp",
+        "rarity": "rank_e",
+        "url": "https://remanga.org/card/235135"
+      },
+      {
+        "id": 235134,
+        "title": "Смауг",
+        "cover": "https://remanga.org/media/card-item/cover_1f0768b265f54cf3.webp",
+        "rarity": "rank_e",
+        "url": "https://remanga.org/card/235134"
       },
       {
         "id": 235109,
@@ -116857,6 +116885,20 @@
         "cover": "https://remanga.org/media/card-item/cover_f6cb6c94446543a7.webp",
         "rarity": "rank_re",
         "url": "https://remanga.org/card/154229"
+      },
+      {
+        "id": 235120,
+        "title": "Дон Кихот",
+        "cover": "https://remanga.org/media/card-item/cover_5bcf4cbcd71048f6.webp",
+        "rarity": "rank_a",
+        "url": "https://remanga.org/card/235120"
+      },
+      {
+        "id": 235119,
+        "title": "Хун Лу",
+        "cover": "https://remanga.org/media/card-item/cover_67db5d6a15ed44ed.webp",
+        "rarity": "rank_a",
+        "url": "https://remanga.org/card/235119"
       },
       {
         "id": 216777,
