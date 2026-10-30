@@ -82897,6 +82897,13 @@
     "author_id": 1339341,
     "cards": [
       {
+        "id": 235185,
+        "title": "Амбрелла",
+        "cover": "https://remanga.org/media/card-item/cover_8f1dd07282534c80.webp",
+        "rarity": "rank_b",
+        "url": "https://remanga.org/card/235185"
+      },
+      {
         "id": 234856,
         "title": "Сомбра",
         "cover": "https://remanga.org/media/card-item/cover_f2ad95a49ee04b56.webp",
@@ -86059,6 +86066,13 @@
         "cover": "https://remanga.org/media/card-item/cover_0c9862133a394179.webp",
         "rarity": "rank_b",
         "url": "https://remanga.org/card/134526"
+      },
+      {
+        "id": 235184,
+        "title": "Амбрелла",
+        "cover": "https://remanga.org/media/card-item/cover_3f935dea66074078.webp",
+        "rarity": "rank_c",
+        "url": "https://remanga.org/card/235184"
       },
       {
         "id": 234855,
@@ -140553,6 +140567,13 @@
         "cover": "https://remanga.org/media/card-item/cover_cf2b07e2b22b4bfb.webp",
         "rarity": "rank_a",
         "url": "https://remanga.org/card/3602"
+      },
+      {
+        "id": 235174,
+        "title": "Нёвиллет",
+        "cover": "https://remanga.org/media/card-item/cover_71c25dbead7045c9.webp",
+        "rarity": "rank_b",
+        "url": "https://remanga.org/card/235174"
       },
       {
         "id": 223389,
