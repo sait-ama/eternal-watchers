@@ -82904,6 +82904,27 @@
     "author_id": 1339341,
     "cards": [
       {
+        "id": 235389,
+        "title": "Кхорн",
+        "cover": "https://remanga.org/media/card-item/cover_fc04142ecca44413.webp",
+        "rarity": "rank_b",
+        "url": "https://remanga.org/card/235389"
+      },
+      {
+        "id": 235373,
+        "title": "Смауг",
+        "cover": "https://remanga.org/media/card-item/cover_70ee33971ed14b07.webp",
+        "rarity": "rank_b",
+        "url": "https://remanga.org/card/235373"
+      },
+      {
+        "id": 235308,
+        "title": "Энни",
+        "cover": "https://remanga.org/media/card-item/cover_ecf1aaf6e6c24cc4.webp",
+        "rarity": "rank_b",
+        "url": "https://remanga.org/card/235308"
+      },
+      {
         "id": 235185,
         "title": "Амбрелла",
         "cover": "https://remanga.org/media/card-item/cover_8f1dd07282534c80.webp",
