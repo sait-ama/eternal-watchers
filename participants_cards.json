@@ -83011,7 +83011,7 @@
       {
         "id": 233253,
         "title": "Падме Амидала",
-        "cover": "https://remanga.org/media/card-item/cover_2b913cbe04f34d96.webp",
+        "cover": "https://remanga.org/media/card-item/cover_6ccac609a33441a5.webp",
         "rarity": "rank_b",
         "url": "https://remanga.org/card/233253"
       },
@@ -89190,6 +89190,20 @@
         "url": "https://remanga.org/card/51589"
       },
       {
+        "id": 235261,
+        "title": "Смауг",
+        "cover": "https://remanga.org/media/card-item/cover_5664484052c84cff.webp",
+        "rarity": "rank_d",
+        "url": "https://remanga.org/card/235261"
+      },
+      {
+        "id": 235234,
+        "title": "Кхорн",
+        "cover": "https://remanga.org/media/card-item/cover_24c7470e177d4dd9.webp",
+        "rarity": "rank_d",
+        "url": "https://remanga.org/card/235234"
+      },
+      {
         "id": 235133,
         "title": "Амбрелла",
         "cover": "https://remanga.org/media/card-item/cover_7d968c05aab1482f.webp",
@@ -92366,6 +92380,13 @@
         "cover": "https://remanga.org/media/card-item/cover_50608ffa14234e28.webp",
         "rarity": "rank_d",
         "url": "https://remanga.org/card/57540"
+      },
+      {
+        "id": 235260,
+        "title": "Фукуа",
+        "cover": "https://remanga.org/media/card-item/cover_cb06a2bf3a544698.webp",
+        "rarity": "rank_e",
+        "url": "https://remanga.org/card/235260"
       },
       {
         "id": 235135,
@@ -95551,6 +95572,13 @@
         "cover": "https://remanga.org/media/card-item/cover_3e934d27049840b7.webp",
         "rarity": "rank_e",
         "url": "https://remanga.org/card/56452"
+      },
+      {
+        "id": 235243,
+        "title": "Фукуа",
+        "cover": "https://remanga.org/media/card-item/cover_7479e25d43d54bf8.webp",
+        "rarity": "rank_f",
+        "url": "https://remanga.org/card/235243"
       },
       {
         "id": 235112,
@@ -137634,6 +137662,13 @@
         "url": "https://remanga.org/card/227649"
       },
       {
+        "id": 235247,
+        "title": "Юта Оккоцу",
+        "cover": "https://remanga.org/media/card-item/cover_70bd73a3f889473f.webp",
+        "rarity": "rank_b",
+        "url": "https://remanga.org/card/235247"
+      },
+      {
         "id": 225012,
         "title": "Рю Нацумэ",
         "cover": "https://remanga.org/media/card-item/cover_04ef62bfd15149f8.webp",
@@ -140569,6 +140604,13 @@
         "url": "https://remanga.org/card/3602"
       },
       {
+        "id": 235210,
+        "title": "Виктор",
+        "cover": "https://remanga.org/media/card-item/cover_813db52ac82246d5.webp",
+        "rarity": "rank_b",
+        "url": "https://remanga.org/card/235210"
+      },
+      {
         "id": 235174,
         "title": "Нёвиллет",
         "cover": "https://remanga.org/media/card-item/cover_71c25dbead7045c9.webp",
@@ -142072,6 +142114,13 @@
         "cover": "https://remanga.org/media/card-item/cover_47363581ec61476c.webp",
         "rarity": "rank_b",
         "url": "https://remanga.org/card/45194"
+      },
+      {
+        "id": 235209,
+        "title": "Виктор",
+        "cover": "https://remanga.org/media/card-item/cover_ca225e7835384f74.webp",
+        "rarity": "rank_c",
+        "url": "https://remanga.org/card/235209"
       },
       {
         "id": 223388,
@@ -143586,6 +143635,13 @@
         "url": "https://remanga.org/card/25744"
       },
       {
+        "id": 235208,
+        "title": "Виктор",
+        "cover": "https://remanga.org/media/card-item/cover_dc394b2f69cf4ec5.webp",
+        "rarity": "rank_d",
+        "url": "https://remanga.org/card/235208"
+      },
+      {
         "id": 223387,
         "title": "Добре",
         "cover": "https://remanga.org/media/card-item/cover_aa7af853df0e48f9.webp",
@@ -145068,6 +145124,13 @@
         "cover": "https://remanga.org/media/card-item/cover_5b5bd927327143c3.webp",
         "rarity": "rank_d",
         "url": "https://remanga.org/card/52119"
+      },
+      {
+        "id": 235207,
+        "title": "Виктор",
+        "cover": "https://remanga.org/media/card-item/cover_7119318cbb1e4b9d.webp",
+        "rarity": "rank_e",
+        "url": "https://remanga.org/card/235207"
       },
       {
         "id": 234968,
@@ -146559,6 +146622,20 @@
         "cover": "https://remanga.org/media/card-item/cover_604eb10d0d154e27.webp",
         "rarity": "rank_e",
         "url": "https://remanga.org/card/45189"
+      },
+      {
+        "id": 235206,
+        "title": "Виктор",
+        "cover": "https://remanga.org/media/card-item/cover_2d23449428354ec3.webp",
+        "rarity": "rank_f",
+        "url": "https://remanga.org/card/235206"
+      },
+      {
+        "id": 235205,
+        "title": "Виктор",
+        "cover": "https://remanga.org/media/card-item/cover_faf93693307a464f.webp",
+        "rarity": "rank_f",
+        "url": "https://remanga.org/card/235205"
       },
       {
         "id": 223390,
