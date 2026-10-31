@@ -35,6 +35,15 @@
       "weekly": 0,
       "baseline": 172003
     },
+    "akashi550": {
+      "display": "Akashi550",
+      "profile": "https://remanga.org/user/617426/about",
+      "avatar": "avatars/akashi550.jpg",
+      "initial": 12000,
+      "current": 158995,
+      "weekly": 5000,
+      "baseline": 153995
+    },
     "яшtyg": {
       "display": "Яштуг",
       "profile": "https://remanga.org/user/1317566/about",
@@ -43,15 +52,6 @@
       "current": 145459,
       "weekly": 0,
       "baseline": 145459
-    },
-    "akashi550": {
-      "display": "Akashi550",
-      "profile": "https://remanga.org/user/617426/about",
-      "avatar": "avatars/akashi550.jpg",
-      "initial": 12000,
-      "current": 155995,
-      "weekly": 2000,
-      "baseline": 153995
     },
     "trillo": {
       "display": "Trillo",
