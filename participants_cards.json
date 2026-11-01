@@ -82904,6 +82904,13 @@
     "author_id": 1339341,
     "cards": [
       {
+        "id": 235501,
+        "title": "Фукуа",
+        "cover": "https://remanga.org/media/card-item/cover_a531a3a3b0c64d4f.webp",
+        "rarity": "rank_b",
+        "url": "https://remanga.org/card/235501"
+      },
+      {
         "id": 235389,
         "title": "Кхорн",
         "cover": "https://remanga.org/media/card-item/cover_fc04142ecca44413.webp",
@@ -86096,6 +86103,27 @@
         "url": "https://remanga.org/card/134526"
       },
       {
+        "id": 235557,
+        "title": "Филия",
+        "cover": "https://remanga.org/media/card-item/cover_2399072e3a0049fa.webp",
+        "rarity": "rank_c",
+        "url": "https://remanga.org/card/235557"
+      },
+      {
+        "id": 235555,
+        "title": "Филия",
+        "cover": "https://remanga.org/media/card-item/cover_bbf83b4df01b4cbb.webp",
+        "rarity": "rank_c",
+        "url": "https://remanga.org/card/235555"
+      },
+      {
+        "id": 235554,
+        "title": "Филия",
+        "cover": "https://remanga.org/media/card-item/cover_348fb204b3d14798.webp",
+        "rarity": "rank_c",
+        "url": "https://remanga.org/card/235554"
+      },
+      {
         "id": 235454,
         "title": "Фукуа",
         "cover": "https://remanga.org/media/card-item/cover_865acad481b449df.webp",
@@ -89244,6 +89272,27 @@
         "cover": "https://remanga.org/media/card-item/cover_d92419408046496b.webp",
         "rarity": "rank_c",
         "url": "https://remanga.org/card/51589"
+      },
+      {
+        "id": 235553,
+        "title": "Филия",
+        "cover": "https://remanga.org/media/card-item/cover_370e1dd4aa0547ab.webp",
+        "rarity": "rank_d",
+        "url": "https://remanga.org/card/235553"
+      },
+      {
+        "id": 235552,
+        "title": "Филия",
+        "cover": "https://remanga.org/media/card-item/cover_c37c6217b46243f6.webp",
+        "rarity": "rank_d",
+        "url": "https://remanga.org/card/235552"
+      },
+      {
+        "id": 235551,
+        "title": "Филия",
+        "cover": "https://remanga.org/media/card-item/cover_fcb616778b594039.webp",
+        "rarity": "rank_d",
+        "url": "https://remanga.org/card/235551"
       },
       {
         "id": 235270,
@@ -92452,6 +92501,34 @@
         "url": "https://remanga.org/card/57540"
       },
       {
+        "id": 235508,
+        "title": "Робо Форчун",
+        "cover": "https://remanga.org/media/card-item/cover_6426f57d8a294c22.webp",
+        "rarity": "rank_e",
+        "url": "https://remanga.org/card/235508"
+      },
+      {
+        "id": 235506,
+        "title": "Филия",
+        "cover": "https://remanga.org/media/card-item/cover_7ad93ff143d54aed.webp",
+        "rarity": "rank_e",
+        "url": "https://remanga.org/card/235506"
+      },
+      {
+        "id": 235505,
+        "title": "Филия",
+        "cover": "https://remanga.org/media/card-item/cover_efaf7c41b4ca4765.webp",
+        "rarity": "rank_e",
+        "url": "https://remanga.org/card/235505"
+      },
+      {
+        "id": 235503,
+        "title": "Филия",
+        "cover": "https://remanga.org/media/card-item/cover_825577acec7345b5.webp",
+        "rarity": "rank_e",
+        "url": "https://remanga.org/card/235503"
+      },
+      {
         "id": 235260,
         "title": "Фукуа",
         "cover": "https://remanga.org/media/card-item/cover_cb06a2bf3a544698.webp",
@@ -95642,6 +95719,27 @@
         "cover": "https://remanga.org/media/card-item/cover_3e934d27049840b7.webp",
         "rarity": "rank_e",
         "url": "https://remanga.org/card/56452"
+      },
+      {
+        "id": 235507,
+        "title": "Робо Форчун",
+        "cover": "https://remanga.org/media/card-item/cover_7d4957ea5464434f.webp",
+        "rarity": "rank_f",
+        "url": "https://remanga.org/card/235507"
+      },
+      {
+        "id": 235504,
+        "title": "Филия",
+        "cover": "https://remanga.org/media/card-item/cover_6b9eae65bfdf46bc.webp",
+        "rarity": "rank_f",
+        "url": "https://remanga.org/card/235504"
+      },
+      {
+        "id": 235502,
+        "title": "Филия",
+        "cover": "https://remanga.org/media/card-item/cover_1441ce2ff2974d65.webp",
+        "rarity": "rank_f",
+        "url": "https://remanga.org/card/235502"
       },
       {
         "id": 235455,
@@ -117055,6 +117153,20 @@
         "url": "https://remanga.org/card/60056"
       },
       {
+        "id": 235520,
+        "title": "Дульсинея",
+        "cover": "https://remanga.org/media/card-item/cover_9bdc7abe0b7c464d.webp",
+        "rarity": "rank_b",
+        "url": "https://remanga.org/card/235520"
+      },
+      {
+        "id": 235515,
+        "title": "Дульсинея",
+        "cover": "https://remanga.org/media/card-item/cover_83365b4a0dda42e4.webp",
+        "rarity": "rank_b",
+        "url": "https://remanga.org/card/235515"
+      },
+      {
         "id": 234028,
         "title": "Гогенгейм",
         "cover": "https://remanga.org/media/card-item/cover_d6ebb671549e4f97.webp",
@@ -120254,6 +120366,20 @@
         "url": "https://remanga.org/card/2418"
       },
       {
+        "id": 235519,
+        "title": "Дульсинея",
+        "cover": "https://remanga.org/media/card-item/cover_831b2d122925464f.webp",
+        "rarity": "rank_c",
+        "url": "https://remanga.org/card/235519"
+      },
+      {
+        "id": 235514,
+        "title": "Дульсинея",
+        "cover": "https://remanga.org/media/card-item/cover_72dee655c0e949b1.webp",
+        "rarity": "rank_c",
+        "url": "https://remanga.org/card/235514"
+      },
+      {
         "id": 234027,
         "title": "Гогенгейм",
         "cover": "https://remanga.org/media/card-item/cover_3b0f83b6263e47f8.webp",
@@ -123397,6 +123523,20 @@
         "url": "https://remanga.org/card/2104"
       },
       {
+        "id": 235518,
+        "title": "Дульсинея",
+        "cover": "https://remanga.org/media/card-item/cover_d1b8973c17d34a1e.webp",
+        "rarity": "rank_d",
+        "url": "https://remanga.org/card/235518"
+      },
+      {
+        "id": 235513,
+        "title": "Дульсинея",
+        "cover": "https://remanga.org/media/card-item/cover_831fa8efd510464c.webp",
+        "rarity": "rank_d",
+        "url": "https://remanga.org/card/235513"
+      },
+      {
         "id": 234026,
         "title": "Гогенгейм",
         "cover": "https://remanga.org/media/card-item/cover_4bcaca5838d74ac1.webp",
@@ -126503,6 +126643,20 @@
         "cover": "https://remanga.org/media/card-item/cover_5860bea679ae476e.webp",
         "rarity": "rank_d",
         "url": "https://remanga.org/card/1810"
+      },
+      {
+        "id": 235517,
+        "title": "Дульсинея",
+        "cover": "https://remanga.org/media/card-item/cover_c1f7d3dca6ca4334.webp",
+        "rarity": "rank_e",
+        "url": "https://remanga.org/card/235517"
+      },
+      {
+        "id": 235512,
+        "title": "Дульсинея",
+        "cover": "https://remanga.org/media/card-item/cover_3373922c0ab941ad.webp",
+        "rarity": "rank_e",
+        "url": "https://remanga.org/card/235512"
       },
       {
         "id": 234025,
@@ -129646,6 +129800,20 @@
         "cover": "https://remanga.org/media/card-item/cover_147c2e03643143a4.webp",
         "rarity": "rank_e",
         "url": "https://remanga.org/card/173"
+      },
+      {
+        "id": 235516,
+        "title": "Дульсинея",
+        "cover": "https://remanga.org/media/card-item/cover_479ef2720828436e.webp",
+        "rarity": "rank_f",
+        "url": "https://remanga.org/card/235516"
+      },
+      {
+        "id": 235511,
+        "title": "Дульсинея",
+        "cover": "https://remanga.org/media/card-item/cover_1a8a5a5b05704599.webp",
+        "rarity": "rank_f",
+        "url": "https://remanga.org/card/235511"
       },
       {
         "id": 234024,
@@ -140681,6 +140849,13 @@
         "url": "https://remanga.org/card/3602"
       },
       {
+        "id": 235541,
+        "title": "Гэвин",
+        "cover": "https://remanga.org/media/card-item/cover_b5a7cb1c8f734c72.webp",
+        "rarity": "rank_b",
+        "url": "https://remanga.org/card/235541"
+      },
+      {
         "id": 235293,
         "title": "Виктор",
         "cover": "https://remanga.org/media/card-item/cover_8d6d02084e39444f.webp",
@@ -142205,6 +142380,13 @@
         "cover": "https://remanga.org/media/card-item/cover_47363581ec61476c.webp",
         "rarity": "rank_b",
         "url": "https://remanga.org/card/45194"
+      },
+      {
+        "id": 235540,
+        "title": "Гэвин",
+        "cover": "https://remanga.org/media/card-item/cover_26181ccd49b445f0.webp",
+        "rarity": "rank_c",
+        "url": "https://remanga.org/card/235540"
       },
       {
         "id": 235292,
@@ -143740,6 +143922,13 @@
         "url": "https://remanga.org/card/25744"
       },
       {
+        "id": 235539,
+        "title": "Гэвин",
+        "cover": "https://remanga.org/media/card-item/cover_d9dba776188b41b0.webp",
+        "rarity": "rank_d",
+        "url": "https://remanga.org/card/235539"
+      },
+      {
         "id": 235291,
         "title": "Виктор",
         "cover": "https://remanga.org/media/card-item/cover_db0745cb20cc406e.webp",
@@ -145243,6 +145432,13 @@
         "cover": "https://remanga.org/media/card-item/cover_5b5bd927327143c3.webp",
         "rarity": "rank_d",
         "url": "https://remanga.org/card/52119"
+      },
+      {
+        "id": 235538,
+        "title": "Гэвин",
+        "cover": "https://remanga.org/media/card-item/cover_c4f2c7fda75b458b.webp",
+        "rarity": "rank_e",
+        "url": "https://remanga.org/card/235538"
       },
       {
         "id": 235290,
@@ -146755,6 +146951,13 @@
         "cover": "https://remanga.org/media/card-item/cover_604eb10d0d154e27.webp",
         "rarity": "rank_e",
         "url": "https://remanga.org/card/45189"
+      },
+      {
+        "id": 235537,
+        "title": "Гэвин",
+        "cover": "https://remanga.org/media/card-item/cover_891f0a6b922e43fa.webp",
+        "rarity": "rank_f",
+        "url": "https://remanga.org/card/235537"
       },
       {
         "id": 235289,
