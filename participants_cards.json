@@ -82904,6 +82904,13 @@
     "author_id": 1339341,
     "cards": [
       {
+        "id": 235559,
+        "title": "Филия",
+        "cover": "https://remanga.org/media/card-item/cover_a980c1f9d04e4823.webp",
+        "rarity": "rank_b",
+        "url": "https://remanga.org/card/235559"
+      },
+      {
         "id": 235501,
         "title": "Фукуа",
         "cover": "https://remanga.org/media/card-item/cover_a531a3a3b0c64d4f.webp",
@@ -119633,7 +119640,7 @@
       {
         "id": 80832,
         "title": "Нецах",
-        "cover": "https://remanga.org/media/card-item/cover_1a286190.webp",
+        "cover": "https://remanga.org/media/card-item/cover_c1b757a9f0b04724.webp",
         "rarity": "rank_b",
         "url": "https://remanga.org/card/80832"
       },
@@ -122832,7 +122839,7 @@
       {
         "id": 79790,
         "title": "Нецах",
-        "cover": "https://remanga.org/media/card-item/cover_bb015fa8.webp",
+        "cover": "https://remanga.org/media/card-item/cover_9e444cb0b7af4268.webp",
         "rarity": "rank_c",
         "url": "https://remanga.org/card/79790"
       },
@@ -129118,14 +129125,14 @@
       {
         "id": 80829,
         "title": "Нецах",
-        "cover": "https://remanga.org/media/card-item/cover_40d44ae5.webp",
+        "cover": "https://remanga.org/media/card-item/cover_f386ed9fee904005.webp",
         "rarity": "rank_e",
         "url": "https://remanga.org/card/80829"
       },
       {
         "id": 80530,
         "title": "Нецах",
-        "cover": "https://remanga.org/media/card-item/cover_97ba7088.webp",
+        "cover": "https://remanga.org/media/card-item/cover_90f2c2d8518d48e4.webp",
         "rarity": "rank_e",
         "url": "https://remanga.org/card/80530"
       },
@@ -132114,7 +132121,7 @@
       {
         "id": 98543,
         "title": "Цзя Сичунь",
-        "cover": "https://remanga.org/media/card-item/cover_c4db50c7.webp",
+        "cover": "https://remanga.org/media/card-item/cover_8d89b7d8f57d49fa.webp",
         "rarity": "rank_f",
         "url": "https://remanga.org/card/98543"
       },
@@ -132142,7 +132149,7 @@
       {
         "id": 96872,
         "title": "Цзя Сичунь",
-        "cover": "https://remanga.org/media/card-item/cover_9689d5e5.webp",
+        "cover": "https://remanga.org/media/card-item/cover_d49d53be3dbb4c90.webp",
         "rarity": "rank_f",
         "url": "https://remanga.org/card/96872"
       },

@@ -134,6 +134,15 @@
       "weekly": 0,
       "baseline": 75500
     },
+    "dolinapekisetynь": {
+      "display": "ДолинаРекиСетунь",
+      "profile": "https://remanga.org/user/24432/about",
+      "avatar": "avatars/dolinapekisetynь.jpg",
+      "initial": 21750,
+      "current": 93911,
+      "weekly": 2200,
+      "baseline": 91711
+    },
     "oblakatt": {
       "display": "OblakaT_T",
       "profile": "https://remanga.org/user/474087/about",
@@ -160,15 +169,6 @@
       "current": 71000,
       "weekly": 0,
       "baseline": 71000
-    },
-    "dolinapekisetynь": {
-      "display": "ДолинаРекиСетунь",
-      "profile": "https://remanga.org/user/24432/about",
-      "avatar": "avatars/dolinapekisetynь.jpg",
-      "initial": 21750,
-      "current": 91711,
-      "weekly": 0,
-      "baseline": 91711
     },
     "wertyservyt": {
       "display": "Werty-Servyt",
