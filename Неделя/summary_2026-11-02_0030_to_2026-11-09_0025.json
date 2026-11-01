@@ -1363,6 +1363,15 @@
           "weekly": 0,
           "baseline": 75655
         },
+        "llikojioma": {
+          "display": "LLIKoJIoma",
+          "profile": "https://remanga.org/user/938430/about",
+          "avatar": "avatars/llikojioma.jpg",
+          "initial": 10500,
+          "current": 75010,
+          "weekly": 2000,
+          "baseline": 73010
+        },
         "nirol": {
           "display": "Nirol",
           "profile": "https://remanga.org/user/1450372/about",
@@ -1389,15 +1398,6 @@
           "current": 73000,
           "weekly": 0,
           "baseline": 73000
-        },
-        "llikojioma": {
-          "display": "LLIKoJIoma",
-          "profile": "https://remanga.org/user/938430/about",
-          "avatar": "avatars/llikojioma.jpg",
-          "initial": 10500,
-          "current": 73010,
-          "weekly": 0,
-          "baseline": 73010
         },
         "sas47": {
           "display": "Sas47",
