@@ -1291,6 +1291,15 @@
           "weekly": 1000,
           "baseline": 70000
         },
+        "dolinapekisetynь": {
+          "display": "ДолинаРекиСетунь",
+          "profile": "https://remanga.org/user/24432/about",
+          "avatar": "avatars/dolinapekisetynь.jpg",
+          "initial": 21750,
+          "current": 91711,
+          "weekly": 6910,
+          "baseline": 84801
+        },
         "wertyservyt": {
           "display": "Werty-Servyt",
           "profile": "https://remanga.org/user/364625/about",
@@ -1299,15 +1308,6 @@
           "current": 303297,
           "weekly": 0,
           "baseline": 303297
-        },
-        "dolinapekisetynь": {
-          "display": "ДолинаРекиСетунь",
-          "profile": "https://remanga.org/user/24432/about",
-          "avatar": "avatars/dolinapekisetynь.jpg",
-          "initial": 21750,
-          "current": 91301,
-          "weekly": 6500,
-          "baseline": 84801
         },
         "ewdgham021": {
           "display": "EW.DG_Ham021",
