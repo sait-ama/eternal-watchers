@@ -784,6 +784,20 @@
       "profile": "https://remanga.org/user/295434/about",
       "avatar": "avatars/anythingcosta.jpg",
       "ts": "2026-11-02T00:29:15.735210+03:00"
+    },
+    {
+      "start_key": "2026-11-02_0030",
+      "end_key": "2026-11-09_0025",
+      "baseline": 111111,
+      "min_seen": 111111,
+      "current": 111111,
+      "weekly": 0,
+      "period_ru": "с 02.11 по 09.11",
+      "guild": "ШИЗА",
+      "display": "anythingCosta",
+      "profile": "https://remanga.org/user/295434/about",
+      "avatar": "avatars/anythingcosta.jpg",
+      "ts": "2026-11-02T00:34:16.277681+03:00"
     }
   ]
 }
