@@ -776,14 +776,14 @@
       "end_key": "2026-11-02_0025",
       "baseline": 61000,
       "min_seen": 61000,
-      "current": 63000,
-      "weekly": 2000,
+      "current": 64000,
+      "weekly": 3000,
       "period_ru": "с 26.10 по 02.11",
       "guild": "Eternal Demonic",
       "display": "Hazenberg",
       "profile": "https://remanga.org/user/612259/about",
       "avatar": "avatars/hazenberg.jpg",
-      "ts": "2026-11-01T17:29:12.525290+03:00"
+      "ts": "2026-11-01T17:34:12.110617+03:00"
     }
   ]
 }
