@@ -1480,6 +1480,15 @@
           "weekly": 0,
           "baseline": 62500
         },
+        "hatin": {
+          "display": "Hatin",
+          "profile": "https://remanga.org/user/2797890/about",
+          "avatar": "avatars/hatin.jpg",
+          "initial": 12900,
+          "current": 67322,
+          "weekly": 2000,
+          "baseline": 65322
+        },
         "kintownskiy": {
           "display": "kintownskiy",
           "profile": "https://remanga.org/user/3983/about",
@@ -1488,15 +1497,6 @@
           "current": 69237,
           "weekly": 0,
           "baseline": 69237
-        },
-        "hatin": {
-          "display": "Hatin",
-          "profile": "https://remanga.org/user/2797890/about",
-          "avatar": "avatars/hatin.jpg",
-          "initial": 12900,
-          "current": 65322,
-          "weekly": 0,
-          "baseline": 65322
         },
         "leyley": {
           "display": "Ley-Ley",
