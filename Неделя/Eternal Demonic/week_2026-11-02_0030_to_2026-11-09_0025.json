@@ -440,6 +440,15 @@
       "weekly": 0,
       "baseline": 102850
     },
+    "justea": {
+      "display": "Justea",
+      "profile": "https://remanga.org/user/911857/about",
+      "avatar": "avatars/justea.jpg",
+      "initial": 0,
+      "current": 48500,
+      "weekly": 500,
+      "baseline": 48000
+    },
     "velialsalivan": {
       "display": "Velial_Salivan",
       "profile": "https://remanga.org/user/220375/about",
@@ -448,15 +457,6 @@
       "current": 58200,
       "weekly": 0,
       "baseline": 58200
-    },
-    "justea": {
-      "display": "Justea",
-      "profile": "https://remanga.org/user/911857/about",
-      "avatar": "avatars/justea.jpg",
-      "initial": 0,
-      "current": 48000,
-      "weekly": 0,
-      "baseline": 48000
     },
     "akihiko": {
       "display": "Akihiko",
