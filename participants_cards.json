@@ -50816,7 +50816,7 @@
       {
         "id": 73947,
         "title": "Лукас Уайкс",
-        "cover": "https://remanga.org/media/card-item/cover_fafc4746.webp",
+        "cover": "https://remanga.org/media/card-item/cover_6df31c9214ac457c.webp",
         "rarity": "rank_f",
         "url": "https://remanga.org/card/73947"
       },
@@ -95761,6 +95761,13 @@
         "cover": "https://remanga.org/media/card-item/cover_3e934d27049840b7.webp",
         "rarity": "rank_e",
         "url": "https://remanga.org/card/56452"
+      },
+      {
+        "id": 235764,
+        "title": "Мефистон",
+        "cover": "https://remanga.org/media/card-item/cover_b41555b7d72c44b9.webp",
+        "rarity": "rank_f",
+        "url": "https://remanga.org/card/235764"
       },
       {
         "id": 235724,
