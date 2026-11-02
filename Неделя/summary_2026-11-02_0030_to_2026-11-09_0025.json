@@ -1426,6 +1426,15 @@
           "weekly": 0,
           "baseline": 72000
         },
+        "samurafs": {
+          "display": "SamuraFs",
+          "profile": "https://remanga.org/user/93225/about",
+          "avatar": "avatars/samurafs.jpg",
+          "initial": 11000,
+          "current": 70500,
+          "weekly": 2000,
+          "baseline": 68500
+        },
         "dpygчitatelei": {
           "display": "Друг_Читателей",
           "profile": "https://remanga.org/user/616372/about",
@@ -1434,15 +1443,6 @@
           "current": 69000,
           "weekly": 0,
           "baseline": 69000
-        },
-        "samurafs": {
-          "display": "SamuraFs",
-          "profile": "https://remanga.org/user/93225/about",
-          "avatar": "avatars/samurafs.jpg",
-          "initial": 11000,
-          "current": 68500,
-          "weekly": 0,
-          "baseline": 68500
         },
         "fox94": {
           "display": "Fox94",
