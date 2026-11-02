@@ -1849,6 +1849,15 @@
           "weekly": 0,
           "baseline": 23000
         },
+        "alienate": {
+          "display": "Alienate",
+          "profile": "https://remanga.org/user/784489/about",
+          "avatar": "avatars/alienate.jpg",
+          "initial": 4000,
+          "current": 27000,
+          "weekly": 1000,
+          "baseline": 26000
+        },
         "tiltexist": {
           "display": "TIltExist",
           "profile": "https://remanga.org/user/98565/about",
@@ -1857,15 +1866,6 @@
           "current": 51016,
           "weekly": 0,
           "baseline": 51016
-        },
-        "alienate": {
-          "display": "Alienate",
-          "profile": "https://remanga.org/user/784489/about",
-          "avatar": "avatars/alienate.jpg",
-          "initial": 4000,
-          "current": 26000,
-          "weekly": 0,
-          "baseline": 26000
         },
         "oporlew": {
           "display": "oporlew",
