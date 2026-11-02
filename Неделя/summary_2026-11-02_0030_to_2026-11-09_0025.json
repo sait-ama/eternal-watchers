@@ -1282,6 +1282,15 @@
           "weekly": 0,
           "baseline": 85066
         },
+        "marlya": {
+          "display": "MarLya",
+          "profile": "https://remanga.org/user/209369/about",
+          "avatar": "avatars/marlya.jpg",
+          "initial": 0,
+          "current": 72000,
+          "weekly": 1000,
+          "baseline": 71000
+        },
         "sunburst": {
           "display": "Sunburst",
           "profile": "https://remanga.org/user/34154/about",
@@ -1290,15 +1299,6 @@
           "current": 80000,
           "weekly": 0,
           "baseline": 80000
-        },
-        "marlya": {
-          "display": "MarLya",
-          "profile": "https://remanga.org/user/209369/about",
-          "avatar": "avatars/marlya.jpg",
-          "initial": 0,
-          "current": 71000,
-          "weekly": 0,
-          "baseline": 71000
         },
         "wertyservyt": {
           "display": "Werty-Servyt",
