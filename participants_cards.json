@@ -22244,6 +22244,20 @@
         "url": "https://remanga.org/card/100358"
       },
       {
+        "id": 235776,
+        "title": "Эйла Секура",
+        "cover": "https://remanga.org/media/card-item/cover_38a1d274cca64d95.webp",
+        "rarity": "rank_f",
+        "url": "https://remanga.org/card/235776"
+      },
+      {
+        "id": 235775,
+        "title": "Эйла Секура",
+        "cover": "https://remanga.org/media/card-item/cover_153316581fee4b2f.webp",
+        "rarity": "rank_f",
+        "url": "https://remanga.org/card/235775"
+      },
+      {
         "id": 234456,
         "title": "Асажж Вентресс",
         "cover": "https://remanga.org/media/card-item/cover_2d0db48a4ed04147.webp",
@@ -136047,6 +136061,13 @@
         "cover": "https://remanga.org/media/card-item/cover_846328df.webp",
         "rarity": "rank_e",
         "url": "https://remanga.org/card/104546"
+      },
+      {
+        "id": 235827,
+        "title": "Хияджо Махо",
+        "cover": "https://remanga.org/media/card-item/cover_b6c4db0b31df44ec.webp",
+        "rarity": "rank_f",
+        "url": "https://remanga.org/card/235827"
       },
       {
         "id": 219609,
