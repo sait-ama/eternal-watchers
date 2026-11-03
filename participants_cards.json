@@ -102845,13 +102845,6 @@
         "url": "https://remanga.org/card/109564"
       },
       {
-        "id": 109556,
-        "title": "Зодд Носферату",
-        "cover": "https://remanga.org/media/card-item/cover_7761bc76.webp",
-        "rarity": "rank_b",
-        "url": "https://remanga.org/card/109556"
-      },
-      {
         "id": 109414,
         "title": "Зодд Носферату",
         "cover": "https://remanga.org/media/card-item/cover_3138763c.webp",
@@ -133244,6 +133237,27 @@
         "cover": "https://remanga.org/media/card-item/cover_6b977360.webp",
         "rarity": "rank_f",
         "url": "https://remanga.org/card/14506"
+      },
+      {
+        "id": 13368,
+        "title": "Йона",
+        "cover": "https://remanga.org/media/card-item/cover_49e19f1ccc5340e3.webp",
+        "rarity": "rank_f",
+        "url": "https://remanga.org/card/13368"
+      },
+      {
+        "id": 13367,
+        "title": "Йона",
+        "cover": "https://remanga.org/media/card-item/cover_a5be7142961b4512.webp",
+        "rarity": "rank_f",
+        "url": "https://remanga.org/card/13367"
+      },
+      {
+        "id": 13366,
+        "title": "Йона",
+        "cover": "https://remanga.org/media/card-item/cover_c6d2c2c96c65445b.webp",
+        "rarity": "rank_f",
+        "url": "https://remanga.org/card/13366"
       },
       {
         "id": 13006,
