@@ -89323,6 +89323,13 @@
         "url": "https://remanga.org/card/51589"
       },
       {
+        "id": 235844,
+        "title": "Ангрон",
+        "cover": "https://remanga.org/media/card-item/cover_785a6fb01abf4f6e.webp",
+        "rarity": "rank_d",
+        "url": "https://remanga.org/card/235844"
+      },
+      {
         "id": 235553,
         "title": "Филия",
         "cover": "https://remanga.org/media/card-item/cover_370e1dd4aa0547ab.webp",
@@ -92548,6 +92555,27 @@
         "cover": "https://remanga.org/media/card-item/cover_50608ffa14234e28.webp",
         "rarity": "rank_d",
         "url": "https://remanga.org/card/57540"
+      },
+      {
+        "id": 235843,
+        "title": "Феррус Манус",
+        "cover": "https://remanga.org/media/card-item/cover_b71fd5e880ed4929.webp",
+        "rarity": "rank_e",
+        "url": "https://remanga.org/card/235843"
+      },
+      {
+        "id": 235842,
+        "title": "Лоргар Аврелиан",
+        "cover": "https://remanga.org/media/card-item/cover_4d5b923d4ecd4600.webp",
+        "rarity": "rank_e",
+        "url": "https://remanga.org/card/235842"
+      },
+      {
+        "id": 235841,
+        "title": "Мефистон",
+        "cover": "https://remanga.org/media/card-item/cover_14e6c1c4072946af.webp",
+        "rarity": "rank_e",
+        "url": "https://remanga.org/card/235841"
       },
       {
         "id": 235722,
@@ -138019,6 +138047,13 @@
         "url": "https://remanga.org/card/227649"
       },
       {
+        "id": 235857,
+        "title": "Ноэлль",
+        "cover": "https://remanga.org/media/card-item/cover_a32faca92f42495d.webp",
+        "rarity": "rank_b",
+        "url": "https://remanga.org/card/235857"
+      },
+      {
         "id": 235247,
         "title": "Юта Оккоцу",
         "cover": "https://remanga.org/media/card-item/cover_70bd73a3f889473f.webp",
@@ -138614,6 +138649,20 @@
         "url": "https://remanga.org/card/135629"
       },
       {
+        "id": 235856,
+        "title": "Ноэлль",
+        "cover": "https://remanga.org/media/card-item/cover_4d458c18b08f4564.webp",
+        "rarity": "rank_c",
+        "url": "https://remanga.org/card/235856"
+      },
+      {
+        "id": 235855,
+        "title": "Ноэлль",
+        "cover": "https://remanga.org/media/card-item/cover_edf0f2c889f64fc2.webp",
+        "rarity": "rank_c",
+        "url": "https://remanga.org/card/235855"
+      },
+      {
         "id": 234957,
         "title": "Осаму Дазай",
         "cover": "https://remanga.org/media/card-item/cover_d8e471af2c6f4e6b.webp",
@@ -139174,6 +139223,20 @@
         "url": "https://remanga.org/card/137322"
       },
       {
+        "id": 235858,
+        "title": "Ноэлль",
+        "cover": "https://remanga.org/media/card-item/cover_5941d56fbed74491.webp",
+        "rarity": "rank_d",
+        "url": "https://remanga.org/card/235858"
+      },
+      {
+        "id": 235854,
+        "title": "Ноэлль",
+        "cover": "https://remanga.org/media/card-item/cover_87c813330e2f405a.webp",
+        "rarity": "rank_d",
+        "url": "https://remanga.org/card/235854"
+      },
+      {
         "id": 225066,
         "title": "Тетта Кисаки",
         "cover": "https://remanga.org/media/card-item/cover_3c592c5f44534004.webp",
@@ -139699,9 +139762,23 @@
         "url": "https://remanga.org/card/129121"
       },
       {
+        "id": 235853,
+        "title": "Ноэлль",
+        "cover": "https://remanga.org/media/card-item/cover_dd09fb750fda43dc.webp",
+        "rarity": "rank_e",
+        "url": "https://remanga.org/card/235853"
+      },
+      {
+        "id": 235852,
+        "title": "Ноэлль",
+        "cover": "https://remanga.org/media/card-item/cover_4230ea0c41164a27.webp",
+        "rarity": "rank_e",
+        "url": "https://remanga.org/card/235852"
+      },
+      {
         "id": 234861,
         "title": "Осаму Дазай",
-        "cover": "https://remanga.org/media/card-item/cover_8fcdee3b516249a5.webp",
+        "cover": "https://remanga.org/media/card-item/cover_d62d764ead04409a.webp",
         "rarity": "rank_e",
         "url": "https://remanga.org/card/234861"
       },
@@ -140222,6 +140299,13 @@
         "cover": "https://remanga.org/media/card-item/cover_51ecbbbc.webp",
         "rarity": "rank_e",
         "url": "https://remanga.org/card/127272"
+      },
+      {
+        "id": 235851,
+        "title": "Ноэлль",
+        "cover": "https://remanga.org/media/card-item/cover_2829e498bd5b4f7d.webp",
+        "rarity": "rank_f",
+        "url": "https://remanga.org/card/235851"
       },
       {
         "id": 234733,
