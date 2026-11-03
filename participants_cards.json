@@ -22090,6 +22090,13 @@
         "url": "https://remanga.org/card/101385"
       },
       {
+        "id": 235960,
+        "title": "Эйла Секура",
+        "cover": "https://remanga.org/media/card-item/cover_ae6e0cb022094283.webp",
+        "rarity": "rank_e",
+        "url": "https://remanga.org/card/235960"
+      },
+      {
         "id": 234565,
         "title": "Асажж Вентресс",
         "cover": "https://remanga.org/media/card-item/cover_6e35833c85c64994.webp",
@@ -82932,6 +82939,27 @@
     "author_id": 1339341,
     "cards": [
       {
+        "id": 235970,
+        "title": "Феррус Манус",
+        "cover": "https://remanga.org/media/card-item/cover_95527ae04a01454c.webp",
+        "rarity": "rank_b",
+        "url": "https://remanga.org/card/235970"
+      },
+      {
+        "id": 235949,
+        "title": "Ангрон",
+        "cover": "https://remanga.org/media/card-item/cover_df53f7f324864eb1.webp",
+        "rarity": "rank_b",
+        "url": "https://remanga.org/card/235949"
+      },
+      {
+        "id": 235948,
+        "title": "Лоргар Аврелиан",
+        "cover": "https://remanga.org/media/card-item/cover_41dd9ba769c04919.webp",
+        "rarity": "rank_b",
+        "url": "https://remanga.org/card/235948"
+      },
+      {
         "id": 235616,
         "title": "Филия",
         "cover": "https://remanga.org/media/card-item/cover_061ece9d46314f63.webp",
@@ -86152,6 +86180,34 @@
         "url": "https://remanga.org/card/134526"
       },
       {
+        "id": 235971,
+        "title": "Мефистон",
+        "cover": "https://remanga.org/media/card-item/cover_444a63ce2b5e4d3f.webp",
+        "rarity": "rank_c",
+        "url": "https://remanga.org/card/235971"
+      },
+      {
+        "id": 235969,
+        "title": "Феррус Манус",
+        "cover": "https://remanga.org/media/card-item/cover_0b25b0c0b15b4800.webp",
+        "rarity": "rank_c",
+        "url": "https://remanga.org/card/235969"
+      },
+      {
+        "id": 235943,
+        "title": "Лоргар Аврелиан",
+        "cover": "https://remanga.org/media/card-item/cover_855ea5d6fbe443e6.webp",
+        "rarity": "rank_c",
+        "url": "https://remanga.org/card/235943"
+      },
+      {
+        "id": 235928,
+        "title": "Ангрон",
+        "cover": "https://remanga.org/media/card-item/cover_b3af8d3aacd042b8.webp",
+        "rarity": "rank_c",
+        "url": "https://remanga.org/card/235928"
+      },
+      {
         "id": 235557,
         "title": "Филия",
         "cover": "https://remanga.org/media/card-item/cover_2399072e3a0049fa.webp",
@@ -89321,6 +89377,27 @@
         "cover": "https://remanga.org/media/card-item/cover_d92419408046496b.webp",
         "rarity": "rank_c",
         "url": "https://remanga.org/card/51589"
+      },
+      {
+        "id": 235927,
+        "title": "Феррус Манус",
+        "cover": "https://remanga.org/media/card-item/cover_064ad623fdf94e85.webp",
+        "rarity": "rank_d",
+        "url": "https://remanga.org/card/235927"
+      },
+      {
+        "id": 235926,
+        "title": "Мефистон",
+        "cover": "https://remanga.org/media/card-item/cover_2d46245081934ddf.webp",
+        "rarity": "rank_d",
+        "url": "https://remanga.org/card/235926"
+      },
+      {
+        "id": 235925,
+        "title": "Лоргар Аврелиан",
+        "cover": "https://remanga.org/media/card-item/cover_32dbbe3d7d634aa1.webp",
+        "rarity": "rank_d",
+        "url": "https://remanga.org/card/235925"
       },
       {
         "id": 235844,
@@ -138047,6 +138124,20 @@
         "url": "https://remanga.org/card/227649"
       },
       {
+        "id": 235947,
+        "title": "Бетти",
+        "cover": "https://remanga.org/media/card-item/cover_92ec38ec992f44a0.webp",
+        "rarity": "rank_b",
+        "url": "https://remanga.org/card/235947"
+      },
+      {
+        "id": 235929,
+        "title": "Ноэлль",
+        "cover": "https://remanga.org/media/card-item/cover_11c4035a28064665.webp",
+        "rarity": "rank_b",
+        "url": "https://remanga.org/card/235929"
+      },
+      {
         "id": 235857,
         "title": "Ноэлль",
         "cover": "https://remanga.org/media/card-item/cover_a32faca92f42495d.webp",
@@ -138649,6 +138740,13 @@
         "url": "https://remanga.org/card/135629"
       },
       {
+        "id": 235946,
+        "title": "Бетти",
+        "cover": "https://remanga.org/media/card-item/cover_e38b93bf9c034552.webp",
+        "rarity": "rank_c",
+        "url": "https://remanga.org/card/235946"
+      },
+      {
         "id": 235856,
         "title": "Ноэлль",
         "cover": "https://remanga.org/media/card-item/cover_4d458c18b08f4564.webp",
@@ -139223,6 +139321,13 @@
         "url": "https://remanga.org/card/137322"
       },
       {
+        "id": 235945,
+        "title": "Бетти",
+        "cover": "https://remanga.org/media/card-item/cover_bdf12be65c40409e.webp",
+        "rarity": "rank_d",
+        "url": "https://remanga.org/card/235945"
+      },
+      {
         "id": 235858,
         "title": "Ноэлль",
         "cover": "https://remanga.org/media/card-item/cover_5941d56fbed74491.webp",
@@ -139762,6 +139867,13 @@
         "url": "https://remanga.org/card/129121"
       },
       {
+        "id": 235944,
+        "title": "Бетти",
+        "cover": "https://remanga.org/media/card-item/cover_cfc300144e0c4883.webp",
+        "rarity": "rank_e",
+        "url": "https://remanga.org/card/235944"
+      },
+      {
         "id": 235853,
         "title": "Ноэлль",
         "cover": "https://remanga.org/media/card-item/cover_dd09fb750fda43dc.webp",
@@ -140299,6 +140411,13 @@
         "cover": "https://remanga.org/media/card-item/cover_51ecbbbc.webp",
         "rarity": "rank_e",
         "url": "https://remanga.org/card/127272"
+      },
+      {
+        "id": 235942,
+        "title": "Бетти",
+        "cover": "https://remanga.org/media/card-item/cover_4689b2195faf44a3.webp",
+        "rarity": "rank_f",
+        "url": "https://remanga.org/card/235942"
       },
       {
         "id": 235851,
