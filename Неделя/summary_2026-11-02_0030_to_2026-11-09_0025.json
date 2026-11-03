@@ -1480,6 +1480,15 @@
           "weekly": 0,
           "baseline": 62500
         },
+        "axper00": {
+          "display": "𝑨𝑿𝑷𝑬𝑹_𝟎𝟎",
+          "profile": "https://remanga.org/user/3204383/about",
+          "avatar": "avatars/axper00.jpg",
+          "initial": 23200,
+          "current": 77933,
+          "weekly": 3407,
+          "baseline": 74526
+        },
         "hatin": {
           "display": "Hatin",
           "profile": "https://remanga.org/user/2797890/about",
@@ -1524,15 +1533,6 @@
           "current": 51500,
           "weekly": 0,
           "baseline": 51500
-        },
-        "axper00": {
-          "display": "𝑨𝑿𝑷𝑬𝑹_𝟎𝟎",
-          "profile": "https://remanga.org/user/3204383/about",
-          "avatar": "avatars/axper00.jpg",
-          "initial": 23200,
-          "current": 74526,
-          "weekly": 0,
-          "baseline": 74526
         },
         "saytoriya": {
           "display": "Saytoriya",
