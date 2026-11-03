@@ -594,6 +594,15 @@
           "weekly": 0,
           "baseline": 42695
         },
+        "techal": {
+          "display": "TeChal",
+          "profile": "https://remanga.org/user/1681839/about",
+          "avatar": "avatars/techal.jpg",
+          "initial": 10180,
+          "current": 26642,
+          "weekly": 5000,
+          "baseline": 21642
+        },
         "sergeysh": {
           "display": "Sergey-Sh",
           "profile": "https://remanga.org/user/605765/about",
@@ -728,15 +737,6 @@
           "current": 126038,
           "weekly": 0,
           "baseline": 126038
-        },
-        "techal": {
-          "display": "TeChal",
-          "profile": "https://remanga.org/user/1681839/about",
-          "avatar": "avatars/techal.jpg",
-          "initial": 10180,
-          "current": 21642,
-          "weekly": 0,
-          "baseline": 21642
         },
         "meeqq": {
           "display": "MeeQ_Q",
