@@ -790,14 +790,14 @@
       "end_key": "2026-11-09_0025",
       "baseline": 47300,
       "min_seen": 47300,
-      "current": 47300,
+      "current": 2500,
       "weekly": 0,
       "period_ru": "с 02.11 по 09.11",
       "guild": "ШИЗА",
       "display": "_Fire_Knight_",
-      "profile": "https://remanga.org/user/1280571/about",
-      "avatar": "avatars/fireknight.jpg",
-      "ts": "2026-11-05T01:49:13.179553+03:00"
+      "profile": "https://remanga.org",
+      "avatar": "avatars/placeholder.jpg",
+      "ts": "2026-11-05T01:54:13.068826+03:00"
     }
   ]
 }
