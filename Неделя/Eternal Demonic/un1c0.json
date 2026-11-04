@@ -734,14 +734,14 @@
       "end_key": "2026-11-09_0025",
       "baseline": 11000,
       "min_seen": 11000,
-      "current": 0,
+      "current": 11000,
       "weekly": 0,
       "period_ru": "с 02.11 по 09.11",
       "guild": "Eternal Demonic",
       "display": "un1c0",
-      "profile": "https://remanga.org",
-      "avatar": "avatars/placeholder.jpg",
-      "ts": "2026-11-05T01:44:11.884598+03:00"
+      "profile": "https://remanga.org/user/1045543/about",
+      "avatar": "avatars/un1c0.jpg",
+      "ts": "2026-11-05T01:49:12.151417+03:00"
     }
   ]
 }
