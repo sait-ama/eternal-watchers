@@ -21691,6 +21691,20 @@
     "author_id": 102335,
     "cards": [
       {
+        "id": 236148,
+        "title": "Эйла Секура",
+        "cover": "https://remanga.org/media/card-item/cover_6115745de14c45ea.webp",
+        "rarity": "rank_b",
+        "url": "https://remanga.org/card/236148"
+      },
+      {
+        "id": 236147,
+        "title": "Асажж Вентресс",
+        "cover": "https://remanga.org/media/card-item/cover_ac442b14055348a2.webp",
+        "rarity": "rank_b",
+        "url": "https://remanga.org/card/236147"
+      },
+      {
         "id": 233712,
         "title": "Асока Тано",
         "cover": "https://remanga.org/media/card-item/cover_d841576eb6684b5c.webp",
@@ -82953,6 +82967,13 @@
     "author_id": 1339341,
     "cards": [
       {
+        "id": 236153,
+        "title": "Леман Русс",
+        "cover": "https://remanga.org/media/card-item/cover_dfa99e7a59c94609.webp",
+        "rarity": "rank_b",
+        "url": "https://remanga.org/card/236153"
+      },
+      {
         "id": 236018,
         "title": "Мефистон",
         "cover": "https://remanga.org/media/card-item/cover_ea8779e80aab4bff.webp",
@@ -86201,6 +86222,13 @@
         "url": "https://remanga.org/card/134526"
       },
       {
+        "id": 236152,
+        "title": "Леман Русс",
+        "cover": "https://remanga.org/media/card-item/cover_8dcaed21b7e941bc.webp",
+        "rarity": "rank_c",
+        "url": "https://remanga.org/card/236152"
+      },
+      {
         "id": 235971,
         "title": "Мефистон",
         "cover": "https://remanga.org/media/card-item/cover_444a63ce2b5e4d3f.webp",
@@ -89398,6 +89426,13 @@
         "cover": "https://remanga.org/media/card-item/cover_d92419408046496b.webp",
         "rarity": "rank_c",
         "url": "https://remanga.org/card/51589"
+      },
+      {
+        "id": 236151,
+        "title": "Леман Русс",
+        "cover": "https://remanga.org/media/card-item/cover_bccc7a94e6794888.webp",
+        "rarity": "rank_d",
+        "url": "https://remanga.org/card/236151"
       },
       {
         "id": 235927,
@@ -92655,6 +92690,13 @@
         "url": "https://remanga.org/card/57540"
       },
       {
+        "id": 236150,
+        "title": "Леман Русс",
+        "cover": "https://remanga.org/media/card-item/cover_461cce2f96524a51.webp",
+        "rarity": "rank_e",
+        "url": "https://remanga.org/card/236150"
+      },
+      {
         "id": 235843,
         "title": "Феррус Манус",
         "cover": "https://remanga.org/media/card-item/cover_b71fd5e880ed4929.webp",
@@ -95901,6 +95943,13 @@
         "cover": "https://remanga.org/media/card-item/cover_3e934d27049840b7.webp",
         "rarity": "rank_e",
         "url": "https://remanga.org/card/56452"
+      },
+      {
+        "id": 236149,
+        "title": "Леман Русс",
+        "cover": "https://remanga.org/media/card-item/cover_38e993ee74474b0f.webp",
+        "rarity": "rank_f",
+        "url": "https://remanga.org/card/236149"
       },
       {
         "id": 235764,
