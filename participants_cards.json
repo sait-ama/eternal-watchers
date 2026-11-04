@@ -21810,6 +21810,13 @@
         "url": "https://remanga.org/card/101396"
       },
       {
+        "id": 236103,
+        "title": "Эйла Секура",
+        "cover": "https://remanga.org/media/card-item/cover_549dd1968edf48a7.webp",
+        "rarity": "rank_c",
+        "url": "https://remanga.org/card/236103"
+      },
+      {
         "id": 235646,
         "title": "Асажж Вентресс",
         "cover": "https://remanga.org/media/card-item/cover_41b3ef26a2a84584.webp",
@@ -123616,7 +123623,7 @@
       {
         "id": 25161,
         "title": "Хитори Гото",
-        "cover": "https://remanga.org/media/card-item/cover_4eaedecb.webp",
+        "cover": "https://remanga.org/media/card-item/cover_f63aa2ffffa843b8.webp",
         "rarity": "rank_c",
         "url": "https://remanga.org/card/25161"
       },
@@ -123630,7 +123637,7 @@
       {
         "id": 25159,
         "title": "Хитори Гото",
-        "cover": "https://remanga.org/media/card-item/cover_b748450e.webp",
+        "cover": "https://remanga.org/media/card-item/cover_90b8840b61904035.webp",
         "rarity": "rank_c",
         "url": "https://remanga.org/card/25159"
       },
@@ -129881,14 +129888,14 @@
       {
         "id": 25149,
         "title": "Хитори Гото",
-        "cover": "https://remanga.org/media/card-item/cover_f24869fa.webp",
+        "cover": "https://remanga.org/media/card-item/cover_43e1ebd223184fca.webp",
         "rarity": "rank_e",
         "url": "https://remanga.org/card/25149"
       },
       {
         "id": 25148,
         "title": "Хитори Гото",
-        "cover": "https://remanga.org/media/card-item/cover_277552a2.webp",
+        "cover": "https://remanga.org/media/card-item/cover_8bca56f7b7904e34.webp",
         "rarity": "rank_e",
         "url": "https://remanga.org/card/25148"
       },
@@ -133283,7 +133290,7 @@
       {
         "id": 25139,
         "title": "Хитори Гото",
-        "cover": "https://remanga.org/media/card-item/cover_53628878.webp",
+        "cover": "https://remanga.org/media/card-item/cover_825b9e90ac6e4fa3.webp",
         "rarity": "rank_f",
         "url": "https://remanga.org/card/25139"
       },
