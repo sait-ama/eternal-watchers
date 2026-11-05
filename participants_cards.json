@@ -22118,6 +22118,13 @@
         "url": "https://remanga.org/card/101385"
       },
       {
+        "id": 236322,
+        "title": "Эйла Секура",
+        "cover": "https://remanga.org/media/card-item/cover_9bb827ca4b484b22.webp",
+        "rarity": "rank_e",
+        "url": "https://remanga.org/card/236322"
+      },
+      {
         "id": 235960,
         "title": "Эйла Секура",
         "cover": "https://remanga.org/media/card-item/cover_ae6e0cb022094283.webp",
@@ -33127,6 +33134,13 @@
         "url": "https://remanga.org/card/77906"
       },
       {
+        "id": 236293,
+        "title": "Цуй Цин",
+        "cover": "https://remanga.org/media/card-item/cover_97a6ff46886743b1.webp",
+        "rarity": "rank_c",
+        "url": "https://remanga.org/card/236293"
+      },
+      {
         "id": 235126,
         "title": "Ли Ланьцзин",
         "cover": "https://remanga.org/media/card-item/cover_1cb0fe336a524c5f.webp",
@@ -33349,6 +33363,13 @@
         "cover": "https://remanga.org/media/card-item/cover_c39580c2.webp",
         "rarity": "rank_c",
         "url": "https://remanga.org/card/76238"
+      },
+      {
+        "id": 236292,
+        "title": "Цуй Цин",
+        "cover": "https://remanga.org/media/card-item/cover_ad2031f661f04cd1.webp",
+        "rarity": "rank_d",
+        "url": "https://remanga.org/card/236292"
       },
       {
         "id": 235100,
@@ -33594,6 +33615,13 @@
         "cover": "https://remanga.org/media/card-item/cover_dca48809.webp",
         "rarity": "rank_d",
         "url": "https://remanga.org/card/76237"
+      },
+      {
+        "id": 236287,
+        "title": "Цуй Цин",
+        "cover": "https://remanga.org/media/card-item/cover_fec64641336e4d43.webp",
+        "rarity": "rank_e",
+        "url": "https://remanga.org/card/236287"
       },
       {
         "id": 234954,
@@ -33846,6 +33874,13 @@
         "cover": "https://remanga.org/media/card-item/cover_21c89ef1.webp",
         "rarity": "rank_e",
         "url": "https://remanga.org/card/76236"
+      },
+      {
+        "id": 236286,
+        "title": "Цуй Цин",
+        "cover": "https://remanga.org/media/card-item/cover_2e333787c169484a.webp",
+        "rarity": "rank_f",
+        "url": "https://remanga.org/card/236286"
       },
       {
         "id": 234679,
@@ -82967,6 +83002,13 @@
     "author_id": 1339341,
     "cards": [
       {
+        "id": 236283,
+        "title": "Малкадор Сигиллит",
+        "cover": "https://remanga.org/media/card-item/cover_2e6216bab255436d.webp",
+        "rarity": "rank_b",
+        "url": "https://remanga.org/card/236283"
+      },
+      {
         "id": 236242,
         "title": "SCP-2747",
         "cover": "https://remanga.org/media/card-item/cover_282e2448c73347d2.webp",
@@ -86229,6 +86271,20 @@
         "url": "https://remanga.org/card/134526"
       },
       {
+        "id": 236315,
+        "title": "SCP-2747",
+        "cover": "https://remanga.org/media/card-item/cover_4c5c29cc6c2e4bd4.webp",
+        "rarity": "rank_c",
+        "url": "https://remanga.org/card/236315"
+      },
+      {
+        "id": 236282,
+        "title": "Эйдолон",
+        "cover": "https://remanga.org/media/card-item/cover_1bb1ec5ad828433e.webp",
+        "rarity": "rank_c",
+        "url": "https://remanga.org/card/236282"
+      },
+      {
         "id": 236261,
         "title": "Малкадор Сигиллит",
         "cover": "https://remanga.org/media/card-item/cover_a01e810ef4aa4398.webp",
@@ -89440,6 +89496,13 @@
         "cover": "https://remanga.org/media/card-item/cover_d92419408046496b.webp",
         "rarity": "rank_c",
         "url": "https://remanga.org/card/51589"
+      },
+      {
+        "id": 236314,
+        "title": "SCP-2747",
+        "cover": "https://remanga.org/media/card-item/cover_8014697fba8748ab.webp",
+        "rarity": "rank_d",
+        "url": "https://remanga.org/card/236314"
       },
       {
         "id": 236275,
@@ -92716,6 +92779,13 @@
         "cover": "https://remanga.org/media/card-item/cover_50608ffa14234e28.webp",
         "rarity": "rank_d",
         "url": "https://remanga.org/card/57540"
+      },
+      {
+        "id": 236319,
+        "title": "Орикан",
+        "cover": "https://remanga.org/media/card-item/cover_8df42965456a4d13.webp",
+        "rarity": "rank_e",
+        "url": "https://remanga.org/card/236319"
       },
       {
         "id": 236262,
@@ -136119,6 +136189,13 @@
         "url": "https://remanga.org/card/104547"
       },
       {
+        "id": 236288,
+        "title": "Хияджо Махо",
+        "cover": "https://remanga.org/media/card-item/cover_9d08c38869334a3a.webp",
+        "rarity": "rank_e",
+        "url": "https://remanga.org/card/236288"
+      },
+      {
         "id": 219610,
         "title": "Хияджо Махо",
         "cover": "https://remanga.org/media/card-item/cover_c6dce0307cdb4e14.webp",
@@ -141170,6 +141247,13 @@
     "display": "tenofmoses",
     "author_id": 3176212,
     "cards": [
+      {
+        "id": 236356,
+        "title": "Card 236356",
+        "cover": "https://remanga.org/media/card-item/cover_2f8f7514e32f4e1b.webp",
+        "rarity": "rank_re",
+        "url": "https://remanga.org/card/236356"
+      },
       {
         "id": 236281,
         "title": "Card 236281",
