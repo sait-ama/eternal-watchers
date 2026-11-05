@@ -432,6 +432,15 @@
           "weekly": 0,
           "baseline": 46105
         },
+        "nowarries": {
+          "display": "No_warries",
+          "profile": "https://remanga.org/user/1160253/about",
+          "avatar": "avatars/nowarries.jpg",
+          "initial": 16490,
+          "current": 42006,
+          "weekly": 1386,
+          "baseline": 40620
+        },
         "nichts": {
           "display": ".𝕹𝖎𝖈𝖍𝖙𝖘.",
           "profile": "https://remanga.org/user/3259037/about",
@@ -449,15 +458,6 @@
           "current": 29950,
           "weekly": 0,
           "baseline": 29950
-        },
-        "nowarries": {
-          "display": "No_warries",
-          "profile": "https://remanga.org/user/1160253/about",
-          "avatar": "avatars/nowarries.jpg",
-          "initial": 16490,
-          "current": 40620,
-          "weekly": 0,
-          "baseline": 40620
         },
         "rokywka": {
           "display": "RokYwka",
