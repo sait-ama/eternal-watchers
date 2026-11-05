@@ -82967,6 +82967,13 @@
     "author_id": 1339341,
     "cards": [
       {
+        "id": 236242,
+        "title": "SCP-2747",
+        "cover": "https://remanga.org/media/card-item/cover_282e2448c73347d2.webp",
+        "rarity": "rank_b",
+        "url": "https://remanga.org/card/236242"
+      },
+      {
         "id": 236153,
         "title": "Леман Русс",
         "cover": "https://remanga.org/media/card-item/cover_dfa99e7a59c94609.webp",
@@ -86222,6 +86229,13 @@
         "url": "https://remanga.org/card/134526"
       },
       {
+        "id": 236261,
+        "title": "Малкадор Сигиллит",
+        "cover": "https://remanga.org/media/card-item/cover_a01e810ef4aa4398.webp",
+        "rarity": "rank_c",
+        "url": "https://remanga.org/card/236261"
+      },
+      {
         "id": 236152,
         "title": "Леман Русс",
         "cover": "https://remanga.org/media/card-item/cover_8dcaed21b7e941bc.webp",
@@ -89426,6 +89440,20 @@
         "cover": "https://remanga.org/media/card-item/cover_d92419408046496b.webp",
         "rarity": "rank_c",
         "url": "https://remanga.org/card/51589"
+      },
+      {
+        "id": 236275,
+        "title": "Эйдолон",
+        "cover": "https://remanga.org/media/card-item/cover_82dfcdd8d3f8407c.webp",
+        "rarity": "rank_d",
+        "url": "https://remanga.org/card/236275"
+      },
+      {
+        "id": 236260,
+        "title": "Малкадор Сигиллит",
+        "cover": "https://remanga.org/media/card-item/cover_3e03171cbc0440fc.webp",
+        "rarity": "rank_d",
+        "url": "https://remanga.org/card/236260"
       },
       {
         "id": 236151,
@@ -92690,6 +92718,20 @@
         "url": "https://remanga.org/card/57540"
       },
       {
+        "id": 236262,
+        "title": "Эйдолон",
+        "cover": "https://remanga.org/media/card-item/cover_33b76dffee164251.webp",
+        "rarity": "rank_e",
+        "url": "https://remanga.org/card/236262"
+      },
+      {
+        "id": 236217,
+        "title": "Малкадор Сигиллит",
+        "cover": "https://remanga.org/media/card-item/cover_144cda91bcb7419c.webp",
+        "rarity": "rank_e",
+        "url": "https://remanga.org/card/236217"
+      },
+      {
         "id": 236150,
         "title": "Леман Русс",
         "cover": "https://remanga.org/media/card-item/cover_461cce2f96524a51.webp",
@@ -95943,6 +95985,27 @@
         "cover": "https://remanga.org/media/card-item/cover_3e934d27049840b7.webp",
         "rarity": "rank_e",
         "url": "https://remanga.org/card/56452"
+      },
+      {
+        "id": 236244,
+        "title": "Орикан",
+        "cover": "https://remanga.org/media/card-item/cover_e218525d257745ba.webp",
+        "rarity": "rank_f",
+        "url": "https://remanga.org/card/236244"
+      },
+      {
+        "id": 236223,
+        "title": "Эйдолон",
+        "cover": "https://remanga.org/media/card-item/cover_f4a4a9834b7c43a6.webp",
+        "rarity": "rank_f",
+        "url": "https://remanga.org/card/236223"
+      },
+      {
+        "id": 236216,
+        "title": "Малкадор Сигиллит",
+        "cover": "https://remanga.org/media/card-item/cover_ddce4dbd17d147cf.webp",
+        "rarity": "rank_f",
+        "url": "https://remanga.org/card/236216"
       },
       {
         "id": 236149,
@@ -118240,7 +118303,7 @@
       {
         "id": 187593,
         "title": "Кармен",
-        "cover": "https://remanga.org/media/card-item/cover_59e68798ce294be8.webp",
+        "cover": "https://remanga.org/media/card-item/cover_952828dfbc254053.webp",
         "rarity": "rank_b",
         "url": "https://remanga.org/card/187593"
       },
@@ -124617,7 +124680,7 @@
       {
         "id": 187203,
         "title": "Кармен",
-        "cover": "https://remanga.org/media/card-item/cover_d2cc4b2962254087.webp",
+        "cover": "https://remanga.org/media/card-item/cover_535cd27a10b042e5.webp",
         "rarity": "rank_d",
         "url": "https://remanga.org/card/187203"
       },
@@ -130973,7 +131036,7 @@
       {
         "id": 187206,
         "title": "Кармен",
-        "cover": "https://remanga.org/media/card-item/cover_540b5e385bf54c42.webp",
+        "cover": "https://remanga.org/media/card-item/cover_c41cde1da16c40da.webp",
         "rarity": "rank_f",
         "url": "https://remanga.org/card/187206"
       },
@@ -138829,6 +138892,13 @@
         "cover": "https://remanga.org/media/card-item/cover_943a6070da3e4b05.webp",
         "rarity": "rank_b",
         "url": "https://remanga.org/card/135629"
+      },
+      {
+        "id": 236167,
+        "title": "Эри",
+        "cover": "https://remanga.org/media/card-item/cover_5f8ab8576d8a40a8.webp",
+        "rarity": "rank_c",
+        "url": "https://remanga.org/card/236167"
       },
       {
         "id": 236081,
