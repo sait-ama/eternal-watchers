@@ -21957,6 +21957,13 @@
         "url": "https://remanga.org/card/101395"
       },
       {
+        "id": 236531,
+        "title": "Эйла Секура",
+        "cover": "https://remanga.org/media/card-item/cover_2f5b6e16dd714ea7.webp",
+        "rarity": "rank_d",
+        "url": "https://remanga.org/card/236531"
+      },
+      {
         "id": 235986,
         "title": "Эйла Секура",
         "cover": "https://remanga.org/media/card-item/cover_2ae5346c5e204b44.webp",
@@ -32923,6 +32930,13 @@
     "display": "EW_OBSERVER",
     "author_id": 141395,
     "cards": [
+      {
+        "id": 236554,
+        "title": "Цуй Цин",
+        "cover": "https://remanga.org/media/card-item/cover_6731d8d5e22d4ffe.webp",
+        "rarity": "rank_b",
+        "url": "https://remanga.org/card/236554"
+      },
       {
         "id": 235281,
         "title": "Ли Ланьцзин",
@@ -83002,6 +83016,27 @@
     "author_id": 1339341,
     "cards": [
       {
+        "id": 236602,
+        "title": "Мяо Ин",
+        "cover": "https://remanga.org/media/card-item/cover_a8927cf2b37e4e17.webp",
+        "rarity": "rank_b",
+        "url": "https://remanga.org/card/236602"
+      },
+      {
+        "id": 236599,
+        "title": "Ульрика Страгова",
+        "cover": "https://remanga.org/media/card-item/cover_dc7a46a7221c447c.webp",
+        "rarity": "rank_b",
+        "url": "https://remanga.org/card/236599"
+      },
+      {
+        "id": 236532,
+        "title": "SCP-2747",
+        "cover": "https://remanga.org/media/card-item/cover_5fe532b381c44599.webp",
+        "rarity": "rank_b",
+        "url": "https://remanga.org/card/236532"
+      },
+      {
         "id": 236459,
         "title": "Орикан",
         "cover": "https://remanga.org/media/card-item/cover_a9c11764ac9b41aa.webp",
@@ -86285,6 +86320,20 @@
         "url": "https://remanga.org/card/134526"
       },
       {
+        "id": 236598,
+        "title": "Ульрика Страгова",
+        "cover": "https://remanga.org/media/card-item/cover_af8db87fe60f4e63.webp",
+        "rarity": "rank_c",
+        "url": "https://remanga.org/card/236598"
+      },
+      {
+        "id": 236584,
+        "title": "Мяо Ин",
+        "cover": "https://remanga.org/media/card-item/cover_192629a46fcd4562.webp",
+        "rarity": "rank_c",
+        "url": "https://remanga.org/card/236584"
+      },
+      {
         "id": 236458,
         "title": "Орикан",
         "cover": "https://remanga.org/media/card-item/cover_69d1c9c0a3344b2e.webp",
@@ -89517,6 +89566,20 @@
         "cover": "https://remanga.org/media/card-item/cover_d92419408046496b.webp",
         "rarity": "rank_c",
         "url": "https://remanga.org/card/51589"
+      },
+      {
+        "id": 236597,
+        "title": "Ульрика Страгова",
+        "cover": "https://remanga.org/media/card-item/cover_23a1557fb2974d61.webp",
+        "rarity": "rank_d",
+        "url": "https://remanga.org/card/236597"
+      },
+      {
+        "id": 236517,
+        "title": "Мяо Ин",
+        "cover": "https://remanga.org/media/card-item/cover_aa0d12ca6e3843b0.webp",
+        "rarity": "rank_d",
+        "url": "https://remanga.org/card/236517"
       },
       {
         "id": 236380,
@@ -92807,6 +92870,13 @@
         "cover": "https://remanga.org/media/card-item/cover_50608ffa14234e28.webp",
         "rarity": "rank_d",
         "url": "https://remanga.org/card/57540"
+      },
+      {
+        "id": 236516,
+        "title": "Ульрика Страгова",
+        "cover": "https://remanga.org/media/card-item/cover_a41d4de0bb9043a9.webp",
+        "rarity": "rank_e",
+        "url": "https://remanga.org/card/236516"
       },
       {
         "id": 236484,
@@ -135367,7 +135437,7 @@
       {
         "id": 139134,
         "title": "Сильвана Ветрокрылая",
-        "cover": "https://remanga.org/media/card-item/cover_13406102612f4866.webp",
+        "cover": "https://remanga.org/media/card-item/cover_4f9069982fd3499b.webp",
         "rarity": "rank_f",
         "url": "https://remanga.org/card/139134"
       },
