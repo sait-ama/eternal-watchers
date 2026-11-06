@@ -10317,7 +10317,7 @@
       {
         "id": 230927,
         "title": "Маомао",
-        "cover": "https://remanga.org/media/card-item/cover_6d8698f93b094dae.webp",
+        "cover": "https://remanga.org/media/card-item/cover_ade1fc37fef9407a.webp",
         "rarity": "rank_b",
         "url": "https://remanga.org/card/230927"
       },
@@ -12298,7 +12298,7 @@
       {
         "id": 230704,
         "title": "Бай Лин",
-        "cover": "https://remanga.org/media/card-item/cover_6b969dcdc9f346c8.webp",
+        "cover": "https://remanga.org/media/card-item/cover_ddb762b0afda475a.webp",
         "rarity": "rank_c",
         "url": "https://remanga.org/card/230704"
       },
@@ -12480,7 +12480,7 @@
       {
         "id": 220967,
         "title": "Сумин",
-        "cover": "https://remanga.org/media/card-item/cover_1d148dde59704748.webp",
+        "cover": "https://remanga.org/media/card-item/cover_ba6a30b03d0640b2.webp",
         "rarity": "rank_c",
         "url": "https://remanga.org/card/220967"
       },
@@ -12732,7 +12732,7 @@
       {
         "id": 208545,
         "title": "Синь",
-        "cover": "https://remanga.org/media/card-item/cover_ba94452529e54eab.webp",
+        "cover": "https://remanga.org/media/card-item/cover_2f995e6305494cc5.webp",
         "rarity": "rank_c",
         "url": "https://remanga.org/card/208545"
       },
@@ -12774,7 +12774,7 @@
       {
         "id": 202333,
         "title": "Флориан Бранд",
-        "cover": "https://remanga.org/media/card-item/cover_8a7bee0fa96c4d66.webp",
+        "cover": "https://remanga.org/media/card-item/cover_7dce9b2019c94d5f.webp",
         "rarity": "rank_c",
         "url": "https://remanga.org/card/202333"
       },
@@ -14370,7 +14370,7 @@
       {
         "id": 220959,
         "title": "Сумин",
-        "cover": "https://remanga.org/media/card-item/cover_6cef2c03ac544d51.webp",
+        "cover": "https://remanga.org/media/card-item/cover_76eac1d4a99841ae.webp",
         "rarity": "rank_d",
         "url": "https://remanga.org/card/220959"
       },
@@ -14615,7 +14615,7 @@
       {
         "id": 208544,
         "title": "Синь",
-        "cover": "https://remanga.org/media/card-item/cover_f8fe352740eb4806.webp",
+        "cover": "https://remanga.org/media/card-item/cover_5c9bf7a1161546b8.webp",
         "rarity": "rank_d",
         "url": "https://remanga.org/card/208544"
       },
@@ -14734,7 +14734,7 @@
       {
         "id": 196577,
         "title": "Ким Соль Ым",
-        "cover": "https://remanga.org/media/card-item/cover_b2d0b917eeea4ab5.webp",
+        "cover": "https://remanga.org/media/card-item/cover_49c441d136bf4ed8.webp",
         "rarity": "rank_d",
         "url": "https://remanga.org/card/196577"
       },
@@ -16022,7 +16022,7 @@
       {
         "id": 230914,
         "title": "Маомао",
-        "cover": "https://remanga.org/media/card-item/cover_e5f96472582548e5.webp",
+        "cover": "https://remanga.org/media/card-item/cover_e0c35cea2ea449aa.webp",
         "rarity": "rank_e",
         "url": "https://remanga.org/card/230914"
       },
@@ -16043,7 +16043,7 @@
       {
         "id": 230702,
         "title": "Бай Лин",
-        "cover": "https://remanga.org/media/card-item/cover_78d97cfae6564859.webp",
+        "cover": "https://remanga.org/media/card-item/cover_a9b5274f9e0e4aee.webp",
         "rarity": "rank_e",
         "url": "https://remanga.org/card/230702"
       },
@@ -83002,6 +83002,13 @@
     "author_id": 1339341,
     "cards": [
       {
+        "id": 236379,
+        "title": "Эйдолон",
+        "cover": "https://remanga.org/media/card-item/cover_c7d763d056b240aa.webp",
+        "rarity": "rank_b",
+        "url": "https://remanga.org/card/236379"
+      },
+      {
         "id": 236283,
         "title": "Малкадор Сигиллит",
         "cover": "https://remanga.org/media/card-item/cover_2e6216bab255436d.webp",
@@ -89496,6 +89503,13 @@
         "cover": "https://remanga.org/media/card-item/cover_d92419408046496b.webp",
         "rarity": "rank_c",
         "url": "https://remanga.org/card/51589"
+      },
+      {
+        "id": 236380,
+        "title": "Орикан",
+        "cover": "https://remanga.org/media/card-item/cover_05968afbe278485e.webp",
+        "rarity": "rank_d",
+        "url": "https://remanga.org/card/236380"
       },
       {
         "id": 236314,
