@@ -83002,6 +83002,13 @@
     "author_id": 1339341,
     "cards": [
       {
+        "id": 236459,
+        "title": "Орикан",
+        "cover": "https://remanga.org/media/card-item/cover_a9c11764ac9b41aa.webp",
+        "rarity": "rank_b",
+        "url": "https://remanga.org/card/236459"
+      },
+      {
         "id": 236379,
         "title": "Эйдолон",
         "cover": "https://remanga.org/media/card-item/cover_c7d763d056b240aa.webp",
@@ -86276,6 +86283,13 @@
         "cover": "https://remanga.org/media/card-item/cover_0c9862133a394179.webp",
         "rarity": "rank_b",
         "url": "https://remanga.org/card/134526"
+      },
+      {
+        "id": 236458,
+        "title": "Орикан",
+        "cover": "https://remanga.org/media/card-item/cover_69d1c9c0a3344b2e.webp",
+        "rarity": "rank_c",
+        "url": "https://remanga.org/card/236458"
       },
       {
         "id": 236315,
@@ -92795,6 +92809,13 @@
         "url": "https://remanga.org/card/57540"
       },
       {
+        "id": 236484,
+        "title": "Мяо Ин",
+        "cover": "https://remanga.org/media/card-item/cover_b4c862190e0143ef.webp",
+        "rarity": "rank_e",
+        "url": "https://remanga.org/card/236484"
+      },
+      {
         "id": 236319,
         "title": "Орикан",
         "cover": "https://remanga.org/media/card-item/cover_8df42965456a4d13.webp",
@@ -96069,6 +96090,20 @@
         "cover": "https://remanga.org/media/card-item/cover_3e934d27049840b7.webp",
         "rarity": "rank_e",
         "url": "https://remanga.org/card/56452"
+      },
+      {
+        "id": 236483,
+        "title": "Мяо Ин",
+        "cover": "https://remanga.org/media/card-item/cover_20f7983cf6e545d3.webp",
+        "rarity": "rank_f",
+        "url": "https://remanga.org/card/236483"
+      },
+      {
+        "id": 236482,
+        "title": "Ульрика Страгова",
+        "cover": "https://remanga.org/media/card-item/cover_4c6283cb53ae4b0f.webp",
+        "rarity": "rank_f",
+        "url": "https://remanga.org/card/236482"
       },
       {
         "id": 236244,
