@@ -21824,6 +21824,13 @@
         "url": "https://remanga.org/card/101396"
       },
       {
+        "id": 236716,
+        "title": "Эйла Секура",
+        "cover": "https://remanga.org/media/card-item/cover_7d3e043716634e50.webp",
+        "rarity": "rank_c",
+        "url": "https://remanga.org/card/236716"
+      },
+      {
         "id": 236103,
         "title": "Эйла Секура",
         "cover": "https://remanga.org/media/card-item/cover_549dd1968edf48a7.webp",
@@ -86320,6 +86327,20 @@
         "url": "https://remanga.org/card/134526"
       },
       {
+        "id": 236734,
+        "title": "Идира Тласс",
+        "cover": "https://remanga.org/media/card-item/cover_5d04fe3dd2174738.webp",
+        "rarity": "rank_c",
+        "url": "https://remanga.org/card/236734"
+      },
+      {
+        "id": 236731,
+        "title": "Царица Катарина",
+        "cover": "https://remanga.org/media/card-item/cover_b1fdb40f7fc848bc.webp",
+        "rarity": "rank_c",
+        "url": "https://remanga.org/card/236731"
+      },
+      {
         "id": 236598,
         "title": "Ульрика Страгова",
         "cover": "https://remanga.org/media/card-item/cover_af8db87fe60f4e63.webp",
@@ -89566,6 +89587,20 @@
         "cover": "https://remanga.org/media/card-item/cover_d92419408046496b.webp",
         "rarity": "rank_c",
         "url": "https://remanga.org/card/51589"
+      },
+      {
+        "id": 236732,
+        "title": "Идира Тласс",
+        "cover": "https://remanga.org/media/card-item/cover_19b2a12ffe7e4ca1.webp",
+        "rarity": "rank_d",
+        "url": "https://remanga.org/card/236732"
+      },
+      {
+        "id": 236728,
+        "title": "Царица Катарина",
+        "cover": "https://remanga.org/media/card-item/cover_d3fe572069d84acb.webp",
+        "rarity": "rank_d",
+        "url": "https://remanga.org/card/236728"
       },
       {
         "id": 236597,
@@ -92872,6 +92907,27 @@
         "url": "https://remanga.org/card/57540"
       },
       {
+        "id": 236726,
+        "title": "О'Шасерра",
+        "cover": "https://remanga.org/media/card-item/cover_14088794aa6542cb.webp",
+        "rarity": "rank_e",
+        "url": "https://remanga.org/card/236726"
+      },
+      {
+        "id": 236712,
+        "title": "Идира Тласс",
+        "cover": "https://remanga.org/media/card-item/cover_dc8c73f93828439c.webp",
+        "rarity": "rank_e",
+        "url": "https://remanga.org/card/236712"
+      },
+      {
+        "id": 236710,
+        "title": "Царица Катарина",
+        "cover": "https://remanga.org/media/card-item/cover_7c29d04afc304b46.webp",
+        "rarity": "rank_e",
+        "url": "https://remanga.org/card/236710"
+      },
+      {
         "id": 236516,
         "title": "Ульрика Страгова",
         "cover": "https://remanga.org/media/card-item/cover_a41d4de0bb9043a9.webp",
@@ -96160,6 +96216,27 @@
         "cover": "https://remanga.org/media/card-item/cover_3e934d27049840b7.webp",
         "rarity": "rank_e",
         "url": "https://remanga.org/card/56452"
+      },
+      {
+        "id": 236725,
+        "title": "О'Шасерра",
+        "cover": "https://remanga.org/media/card-item/cover_b5284fb2982b4659.webp",
+        "rarity": "rank_f",
+        "url": "https://remanga.org/card/236725"
+      },
+      {
+        "id": 236711,
+        "title": "Идира Тласс",
+        "cover": "https://remanga.org/media/card-item/cover_906d38185c4346ef.webp",
+        "rarity": "rank_f",
+        "url": "https://remanga.org/card/236711"
+      },
+      {
+        "id": 236709,
+        "title": "Царица Катарина",
+        "cover": "https://remanga.org/media/card-item/cover_d6c72ccb618049f9.webp",
+        "rarity": "rank_f",
+        "url": "https://remanga.org/card/236709"
       },
       {
         "id": 236483,
