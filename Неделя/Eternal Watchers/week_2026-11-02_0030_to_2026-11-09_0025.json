@@ -341,6 +341,15 @@
       "weekly": 0,
       "baseline": 48002
     },
+    "pupstv": {
+      "display": "PupsTv",
+      "profile": "https://remanga.org/user/117177/about",
+      "avatar": "avatars/pupstv.jpg",
+      "initial": 12000,
+      "current": 43000,
+      "weekly": 1500,
+      "baseline": 41500
+    },
     "thostriel": {
       "display": "Thostriel",
       "profile": "https://remanga.org/user/1405392/about",
@@ -358,15 +367,6 @@
       "current": 75523,
       "weekly": 0,
       "baseline": 75523
-    },
-    "pupstv": {
-      "display": "PupsTv",
-      "profile": "https://remanga.org/user/117177/about",
-      "avatar": "avatars/pupstv.jpg",
-      "initial": 12000,
-      "current": 41500,
-      "weekly": 0,
-      "baseline": 41500
     },
     "suba7u": {
       "display": "Suba7u",
