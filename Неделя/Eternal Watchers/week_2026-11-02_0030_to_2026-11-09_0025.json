@@ -584,6 +584,15 @@
       "weekly": 0,
       "baseline": 36430
     },
+    "chitandael": {
+      "display": "Chitandael",
+      "profile": "https://remanga.org/user/372102/about",
+      "avatar": "avatars/chitandael.jpg",
+      "initial": 39780,
+      "current": 56991,
+      "weekly": 1540,
+      "baseline": 55451
+    },
     "totktonablюdaet": {
       "display": "тот_кто_наблюдает...",
       "profile": "https://remanga.org/user/201921/about",
@@ -646,15 +655,6 @@
       "current": 20672,
       "weekly": 0,
       "baseline": 20672
-    },
-    "chitandael": {
-      "display": "Chitandael",
-      "profile": "https://remanga.org/user/372102/about",
-      "avatar": "avatars/chitandael.jpg",
-      "initial": 39780,
-      "current": 55451,
-      "weekly": 0,
-      "baseline": 55451
     },
     "payk": {
       "display": "Payk_",
