@@ -116,6 +116,15 @@
       "weekly": 0,
       "baseline": 10000
     },
+    "ፚꮼꮢꭵ૮ꮒꮶꮧ": {
+      "display": "ፚᏬᏒᎥ૮ᏂᏦᏗ",
+      "profile": "https://remanga.org/user/189990/about",
+      "avatar": "avatars/ፚꮼꮢꭵ૮ꮒꮶꮧ.jpg",
+      "initial": 1500,
+      "current": 6274,
+      "weekly": 2000,
+      "baseline": 4274
+    },
     "pandor": {
       "display": "Pandor",
       "profile": "https://remanga.org/user/940898/about",
@@ -124,15 +133,6 @@
       "current": 4194,
       "weekly": 2009,
       "baseline": 2185
-    },
-    "ፚꮼꮢꭵ૮ꮒꮶꮧ": {
-      "display": "ፚᏬᏒᎥ૮ᏂᏦᏗ",
-      "profile": "https://remanga.org/user/189990/about",
-      "avatar": "avatars/ፚꮼꮢꭵ૮ꮒꮶꮧ.jpg",
-      "initial": 1500,
-      "current": 4274,
-      "weekly": 0,
-      "baseline": 4274
     },
     "7wave": {
       "display": "7Wave",
