@@ -798,6 +798,20 @@
       "profile": "https://remanga.org/user/2797890/about",
       "avatar": "avatars/hatin.jpg",
       "ts": "2026-11-09T00:29:14.926869+03:00"
+    },
+    {
+      "start_key": "2026-11-09_0030",
+      "end_key": "2026-11-16_0025",
+      "baseline": 67322,
+      "min_seen": 67322,
+      "current": 67322,
+      "weekly": 0,
+      "period_ru": "с 09.11 по 16.11",
+      "guild": "Eternal Demonic",
+      "display": "Hatin",
+      "profile": "https://remanga.org/user/2797890/about",
+      "avatar": "avatars/hatin.jpg",
+      "ts": "2026-11-09T00:34:13.798970+03:00"
     }
   ]
 }
