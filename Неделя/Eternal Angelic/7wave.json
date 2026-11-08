@@ -762,14 +762,14 @@
       "end_key": "2026-11-09_0025",
       "baseline": 5559,
       "min_seen": 5559,
-      "current": 5559,
-      "weekly": 0,
+      "current": 5609,
+      "weekly": 50,
       "period_ru": "с 02.11 по 09.11",
       "guild": "Eternal Angelic",
       "display": "7Wave",
       "profile": "https://remanga.org/user/54424/about",
       "avatar": "avatars/7wave.jpg",
-      "ts": "2026-11-09T00:04:14.319583+03:00"
+      "ts": "2026-11-09T00:09:14.287776+03:00"
     }
   ]
 }
