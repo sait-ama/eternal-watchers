@@ -33680,6 +33680,13 @@
         "url": "https://remanga.org/card/76237"
       },
       {
+        "id": 237057,
+        "title": "Султана",
+        "cover": "https://remanga.org/media/card-item/cover_fe0a3775338242d6.webp",
+        "rarity": "rank_e",
+        "url": "https://remanga.org/card/237057"
+      },
+      {
         "id": 236287,
         "title": "Цуй Цин",
         "cover": "https://remanga.org/media/card-item/cover_fec64641336e4d43.webp",
@@ -33937,6 +33944,13 @@
         "cover": "https://remanga.org/media/card-item/cover_21c89ef1.webp",
         "rarity": "rank_e",
         "url": "https://remanga.org/card/76236"
+      },
+      {
+        "id": 237056,
+        "title": "Султана",
+        "cover": "https://remanga.org/media/card-item/cover_ffb37405253643cb.webp",
+        "rarity": "rank_f",
+        "url": "https://remanga.org/card/237056"
       },
       {
         "id": 236286,
@@ -83065,6 +83079,27 @@
     "author_id": 1339341,
     "cards": [
       {
+        "id": 237047,
+        "title": "О'Шасерра",
+        "cover": "https://remanga.org/media/card-item/cover_97afb4d4cd9c4537.webp",
+        "rarity": "rank_b",
+        "url": "https://remanga.org/card/237047"
+      },
+      {
+        "id": 237046,
+        "title": "SCP-999",
+        "cover": "https://remanga.org/media/card-item/cover_ba2bc20a79534f64.webp",
+        "rarity": "rank_b",
+        "url": "https://remanga.org/card/237046"
+      },
+      {
+        "id": 237045,
+        "title": "Мяо Ин",
+        "cover": "https://remanga.org/media/card-item/cover_6387da5574024ac9.webp",
+        "rarity": "rank_b",
+        "url": "https://remanga.org/card/237045"
+      },
+      {
         "id": 236755,
         "title": "Идира Тласс",
         "cover": "https://remanga.org/media/card-item/cover_e66a86c0c58a4a86.webp",
@@ -86383,6 +86418,27 @@
         "url": "https://remanga.org/card/134526"
       },
       {
+        "id": 237016,
+        "title": "О'Шасерра",
+        "cover": "https://remanga.org/media/card-item/cover_1477bf00517640d7.webp",
+        "rarity": "rank_c",
+        "url": "https://remanga.org/card/237016"
+      },
+      {
+        "id": 237012,
+        "title": "Мяо Ин",
+        "cover": "https://remanga.org/media/card-item/cover_54c81d0b712e40f0.webp",
+        "rarity": "rank_c",
+        "url": "https://remanga.org/card/237012"
+      },
+      {
+        "id": 237004,
+        "title": "SCP-999",
+        "cover": "https://remanga.org/media/card-item/cover_df8b318bcb4445bf.webp",
+        "rarity": "rank_c",
+        "url": "https://remanga.org/card/237004"
+      },
+      {
         "id": 236734,
         "title": "Идира Тласс",
         "cover": "https://remanga.org/media/card-item/cover_5d04fe3dd2174738.webp",
@@ -89643,6 +89699,20 @@
         "cover": "https://remanga.org/media/card-item/cover_d92419408046496b.webp",
         "rarity": "rank_c",
         "url": "https://remanga.org/card/51589"
+      },
+      {
+        "id": 237011,
+        "title": "Мяо Ин",
+        "cover": "https://remanga.org/media/card-item/cover_3afb4b8fa0914acd.webp",
+        "rarity": "rank_d",
+        "url": "https://remanga.org/card/237011"
+      },
+      {
+        "id": 237003,
+        "title": "SCP-999",
+        "cover": "https://remanga.org/media/card-item/cover_40744de0828c4175.webp",
+        "rarity": "rank_d",
+        "url": "https://remanga.org/card/237003"
       },
       {
         "id": 236758,
