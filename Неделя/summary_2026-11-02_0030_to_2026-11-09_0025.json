@@ -1786,6 +1786,15 @@
           "weekly": 0,
           "baseline": 36500
         },
+        "pilsyчk@": {
+          "display": "Рил_сучк@.",
+          "profile": "https://remanga.org/user/1245568/about",
+          "avatar": "avatars/pilsyчk@.jpg",
+          "initial": 10780,
+          "current": 37888,
+          "weekly": 1900,
+          "baseline": 35988
+        },
         "acediaqq": {
           "display": "Acediaqq",
           "profile": "https://remanga.org/user/102335/about",
@@ -1821,15 +1830,6 @@
           "current": 45712,
           "weekly": 0,
           "baseline": 45712
-        },
-        "pilsyчk@": {
-          "display": "Рил_сучк@.",
-          "profile": "https://remanga.org/user/1245568/about",
-          "avatar": "avatars/pilsyчk@.jpg",
-          "initial": 10780,
-          "current": 35988,
-          "weekly": 0,
-          "baseline": 35988
         },
         "harutsu": {
           "display": "Harutsu",
