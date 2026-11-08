@@ -710,6 +710,15 @@
       "weekly": 0,
       "baseline": 25850
     },
+    "alienate": {
+      "display": "Alienate",
+      "profile": "https://remanga.org/user/784489/about",
+      "avatar": "avatars/alienate.jpg",
+      "initial": 4000,
+      "current": 28000,
+      "weekly": 1000,
+      "baseline": 27000
+    },
     "dutif": {
       "display": "Dutif",
       "profile": "https://remanga.org/user/1896012/about",
@@ -718,15 +727,6 @@
       "current": 23000,
       "weekly": 0,
       "baseline": 23000
-    },
-    "alienate": {
-      "display": "Alienate",
-      "profile": "https://remanga.org/user/784489/about",
-      "avatar": "avatars/alienate.jpg",
-      "initial": 4000,
-      "current": 27000,
-      "weekly": 0,
-      "baseline": 27000
     },
     "tiltexist": {
       "display": "TIltExist",
