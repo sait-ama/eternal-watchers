@@ -14678,7 +14678,7 @@
       {
         "id": 202332,
         "title": "Флориан Бранд",
-        "cover": "https://remanga.org/media/card-item/cover_477e491efbe3498f.webp",
+        "cover": "https://remanga.org/media/card-item/cover_c4c12d0d699943e4.webp",
         "rarity": "rank_d",
         "url": "https://remanga.org/card/202332"
       },
@@ -92970,6 +92970,20 @@
         "url": "https://remanga.org/card/57540"
       },
       {
+        "id": 236984,
+        "title": "Мяо Ин",
+        "cover": "https://remanga.org/media/card-item/cover_9bbad950af92485c.webp",
+        "rarity": "rank_e",
+        "url": "https://remanga.org/card/236984"
+      },
+      {
+        "id": 236936,
+        "title": "SCP-999",
+        "cover": "https://remanga.org/media/card-item/cover_758432a262d84d80.webp",
+        "rarity": "rank_e",
+        "url": "https://remanga.org/card/236936"
+      },
+      {
         "id": 236726,
         "title": "О'Шасерра",
         "cover": "https://remanga.org/media/card-item/cover_14088794aa6542cb.webp",
@@ -96279,6 +96293,20 @@
         "cover": "https://remanga.org/media/card-item/cover_3e934d27049840b7.webp",
         "rarity": "rank_e",
         "url": "https://remanga.org/card/56452"
+      },
+      {
+        "id": 236983,
+        "title": "Мяо Ин",
+        "cover": "https://remanga.org/media/card-item/cover_476cce43937a42f8.webp",
+        "rarity": "rank_f",
+        "url": "https://remanga.org/card/236983"
+      },
+      {
+        "id": 236935,
+        "title": "SCP-999",
+        "cover": "https://remanga.org/media/card-item/cover_4f72c5074aba431a.webp",
+        "rarity": "rank_f",
+        "url": "https://remanga.org/card/236935"
       },
       {
         "id": 236725,
