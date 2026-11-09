@@ -86418,6 +86418,13 @@
         "url": "https://remanga.org/card/134526"
       },
       {
+        "id": 237269,
+        "title": "Мяо Ин",
+        "cover": "https://remanga.org/media/card-item/cover_92692facc41944e7.webp",
+        "rarity": "rank_c",
+        "url": "https://remanga.org/card/237269"
+      },
+      {
         "id": 237016,
         "title": "О'Шасерра",
         "cover": "https://remanga.org/media/card-item/cover_1477bf00517640d7.webp",
@@ -89699,6 +89706,27 @@
         "cover": "https://remanga.org/media/card-item/cover_d92419408046496b.webp",
         "rarity": "rank_c",
         "url": "https://remanga.org/card/51589"
+      },
+      {
+        "id": 237268,
+        "title": "Мяо Ин",
+        "cover": "https://remanga.org/media/card-item/cover_fe9dc7cb7b5d4314.webp",
+        "rarity": "rank_d",
+        "url": "https://remanga.org/card/237268"
+      },
+      {
+        "id": 237267,
+        "title": "Робо Форчун",
+        "cover": "https://remanga.org/media/card-item/cover_085b4bb1c73943b0.webp",
+        "rarity": "rank_d",
+        "url": "https://remanga.org/card/237267"
+      },
+      {
+        "id": 237266,
+        "title": "Амбрелла",
+        "cover": "https://remanga.org/media/card-item/cover_a1c9fc649d7f44f4.webp",
+        "rarity": "rank_d",
+        "url": "https://remanga.org/card/237266"
       },
       {
         "id": 237011,
@@ -93040,6 +93068,20 @@
         "url": "https://remanga.org/card/57540"
       },
       {
+        "id": 237265,
+        "title": "Амбрелла",
+        "cover": "https://remanga.org/media/card-item/cover_d520e4ed72c74aff.webp",
+        "rarity": "rank_e",
+        "url": "https://remanga.org/card/237265"
+      },
+      {
+        "id": 237249,
+        "title": "Мяо Ин",
+        "cover": "https://remanga.org/media/card-item/cover_32b273027a19453e.webp",
+        "rarity": "rank_e",
+        "url": "https://remanga.org/card/237249"
+      },
+      {
         "id": 236984,
         "title": "Мяо Ин",
         "cover": "https://remanga.org/media/card-item/cover_9bbad950af92485c.webp",
@@ -96363,6 +96405,27 @@
         "cover": "https://remanga.org/media/card-item/cover_3e934d27049840b7.webp",
         "rarity": "rank_e",
         "url": "https://remanga.org/card/56452"
+      },
+      {
+        "id": 237261,
+        "title": "О'Шасерра",
+        "cover": "https://remanga.org/media/card-item/cover_366f068052774eb8.webp",
+        "rarity": "rank_f",
+        "url": "https://remanga.org/card/237261"
+      },
+      {
+        "id": 237248,
+        "title": "Мяо Ин",
+        "cover": "https://remanga.org/media/card-item/cover_f1ac6b774c2d4833.webp",
+        "rarity": "rank_f",
+        "url": "https://remanga.org/card/237248"
+      },
+      {
+        "id": 237231,
+        "title": "Амбрелла",
+        "cover": "https://remanga.org/media/card-item/cover_fb7e89fbbe4c495e.webp",
+        "rarity": "rank_f",
+        "url": "https://remanga.org/card/237231"
       },
       {
         "id": 236983,
