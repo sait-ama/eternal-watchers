@@ -804,14 +804,14 @@
       "end_key": "2026-11-16_0025",
       "baseline": 152001,
       "min_seen": 152001,
-      "current": 152001,
-      "weekly": 0,
+      "current": 153001,
+      "weekly": 1000,
       "period_ru": "с 09.11 по 16.11",
       "guild": "Eternal Demonic",
       "display": "Trillo",
       "profile": "https://remanga.org/user/207200/about",
       "avatar": "avatars/trillo.jpg",
-      "ts": "2026-11-10T16:19:12.963484+03:00"
+      "ts": "2026-11-10T16:24:12.949687+03:00"
     }
   ]
 }
