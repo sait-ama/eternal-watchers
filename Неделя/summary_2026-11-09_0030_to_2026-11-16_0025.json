@@ -1453,6 +1453,15 @@
           "weekly": 750,
           "baseline": 68100
         },
+        "aggressive": {
+          "display": "-AGGRESSIVE-",
+          "profile": "https://remanga.org/user/1939125/about",
+          "avatar": "avatars/aggressive.jpg",
+          "initial": 7750,
+          "current": 65500,
+          "weekly": 1500,
+          "baseline": 64000
+        },
         "ckckck": {
           "display": "CKCKCK",
           "profile": "https://remanga.org/user/172319/about",
@@ -1461,15 +1470,6 @@
           "current": 67981,
           "weekly": 0,
           "baseline": 67981
-        },
-        "aggressive": {
-          "display": "-AGGRESSIVE-",
-          "profile": "https://remanga.org/user/1939125/about",
-          "avatar": "avatars/aggressive.jpg",
-          "initial": 7750,
-          "current": 64000,
-          "weekly": 0,
-          "baseline": 64000
         },
         "hazenberg": {
           "display": "Hazenberg",
