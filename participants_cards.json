@@ -83107,6 +83107,20 @@
     "author_id": 1339341,
     "cards": [
       {
+        "id": 237687,
+        "title": "Генри Леголант",
+        "cover": "https://remanga.org/media/card-item/cover_2172803b331644ec.webp",
+        "rarity": "rank_b",
+        "url": "https://remanga.org/card/237687"
+      },
+      {
+        "id": 237673,
+        "title": "Гордон Агриппа",
+        "cover": "https://remanga.org/media/card-item/cover_bae950fb790f452c.webp",
+        "rarity": "rank_b",
+        "url": "https://remanga.org/card/237673"
+      },
+      {
         "id": 237546,
         "title": "Амбрелла",
         "cover": "https://remanga.org/media/card-item/cover_95df689417c54036.webp",
@@ -86460,6 +86474,20 @@
         "url": "https://remanga.org/card/134526"
       },
       {
+        "id": 237686,
+        "title": "Генри Леголант",
+        "cover": "https://remanga.org/media/card-item/cover_7bc86a9335ce4412.webp",
+        "rarity": "rank_c",
+        "url": "https://remanga.org/card/237686"
+      },
+      {
+        "id": 237635,
+        "title": "Гордон Агриппа",
+        "cover": "https://remanga.org/media/card-item/cover_81acf7460e4a4eb5.webp",
+        "rarity": "rank_c",
+        "url": "https://remanga.org/card/237635"
+      },
+      {
         "id": 237545,
         "title": "Амбрелла",
         "cover": "https://remanga.org/media/card-item/cover_0fec6be5300a4ec5.webp",
@@ -89755,6 +89783,27 @@
         "cover": "https://remanga.org/media/card-item/cover_d92419408046496b.webp",
         "rarity": "rank_c",
         "url": "https://remanga.org/card/51589"
+      },
+      {
+        "id": 237685,
+        "title": "Генри Леголант",
+        "cover": "https://remanga.org/media/card-item/cover_a228fd13a3ee4d30.webp",
+        "rarity": "rank_d",
+        "url": "https://remanga.org/card/237685"
+      },
+      {
+        "id": 237636,
+        "title": "Небра Сильвер",
+        "cover": "https://remanga.org/media/card-item/cover_c69675ec45844526.webp",
+        "rarity": "rank_d",
+        "url": "https://remanga.org/card/237636"
+      },
+      {
+        "id": 237634,
+        "title": "Гордон Агриппа",
+        "cover": "https://remanga.org/media/card-item/cover_e0b0cb4c47d941bf.webp",
+        "rarity": "rank_d",
+        "url": "https://remanga.org/card/237634"
       },
       {
         "id": 237268,
