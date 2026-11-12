@@ -83107,6 +83107,20 @@
     "author_id": 1339341,
     "cards": [
       {
+        "id": 237727,
+        "title": "Робо Форчун",
+        "cover": "https://remanga.org/media/card-item/cover_c919b3d04dd14f47.webp",
+        "rarity": "rank_b",
+        "url": "https://remanga.org/card/237727"
+      },
+      {
+        "id": 237698,
+        "title": "Небра Сильвер",
+        "cover": "https://remanga.org/media/card-item/cover_e017a4c3292b4004.webp",
+        "rarity": "rank_b",
+        "url": "https://remanga.org/card/237698"
+      },
+      {
         "id": 237687,
         "title": "Генри Леголант",
         "cover": "https://remanga.org/media/card-item/cover_2172803b331644ec.webp",
@@ -86472,6 +86486,20 @@
         "cover": "https://remanga.org/media/card-item/cover_0c9862133a394179.webp",
         "rarity": "rank_b",
         "url": "https://remanga.org/card/134526"
+      },
+      {
+        "id": 237726,
+        "title": "Робо Форчун",
+        "cover": "https://remanga.org/media/card-item/cover_6a1818c4fb3249c6.webp",
+        "rarity": "rank_c",
+        "url": "https://remanga.org/card/237726"
+      },
+      {
+        "id": 237697,
+        "title": "Небра Сильвер",
+        "cover": "https://remanga.org/media/card-item/cover_44d52c1692994e6c.webp",
+        "rarity": "rank_c",
+        "url": "https://remanga.org/card/237697"
       },
       {
         "id": 237686,
@@ -93166,6 +93194,27 @@
         "url": "https://remanga.org/card/57540"
       },
       {
+        "id": 237734,
+        "title": "Рил Буамортье",
+        "cover": "https://remanga.org/media/card-item/cover_ce1c1c2ee73b4c17.webp",
+        "rarity": "rank_e",
+        "url": "https://remanga.org/card/237734"
+      },
+      {
+        "id": 237732,
+        "title": "Джек Потрошитель",
+        "cover": "https://remanga.org/media/card-item/cover_37feb68372724284.webp",
+        "rarity": "rank_e",
+        "url": "https://remanga.org/card/237732"
+      },
+      {
+        "id": 237730,
+        "title": "Фуэголеон Вермиллион",
+        "cover": "https://remanga.org/media/card-item/cover_44833351151b4ad3.webp",
+        "rarity": "rank_e",
+        "url": "https://remanga.org/card/237730"
+      },
+      {
         "id": 237554,
         "title": "Генри Леголант",
         "cover": "https://remanga.org/media/card-item/cover_30b6fecad66f4931.webp",
@@ -96517,6 +96566,27 @@
         "cover": "https://remanga.org/media/card-item/cover_3e934d27049840b7.webp",
         "rarity": "rank_e",
         "url": "https://remanga.org/card/56452"
+      },
+      {
+        "id": 237733,
+        "title": "Рил Буамортье",
+        "cover": "https://remanga.org/media/card-item/cover_ff7628d2df534464.webp",
+        "rarity": "rank_f",
+        "url": "https://remanga.org/card/237733"
+      },
+      {
+        "id": 237731,
+        "title": "Джек Потрошитель",
+        "cover": "https://remanga.org/media/card-item/cover_a7e60b6f2af84677.webp",
+        "rarity": "rank_f",
+        "url": "https://remanga.org/card/237731"
+      },
+      {
+        "id": 237729,
+        "title": "Фуэголеон Вермиллион",
+        "cover": "https://remanga.org/media/card-item/cover_17a220e0146041cf.webp",
+        "rarity": "rank_f",
+        "url": "https://remanga.org/card/237729"
       },
       {
         "id": 237555,
@@ -136376,6 +136446,13 @@
         "cover": "https://remanga.org/media/card-item/cover_62d037e2.webp",
         "rarity": "rank_b",
         "url": "https://remanga.org/card/104550"
+      },
+      {
+        "id": 237746,
+        "title": "Хияджо Махо",
+        "cover": "https://remanga.org/media/card-item/cover_51202e19b86549a4.webp",
+        "rarity": "rank_c",
+        "url": "https://remanga.org/card/237746"
       },
       {
         "id": 219816,
