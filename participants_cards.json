@@ -83121,6 +83121,13 @@
     "author_id": 1339341,
     "cards": [
       {
+        "id": 237914,
+        "title": "Рил Буамортье",
+        "cover": "https://remanga.org/media/card-item/cover_72cc48fba53a4783.webp",
+        "rarity": "rank_b",
+        "url": "https://remanga.org/card/237914"
+      },
+      {
         "id": 237727,
         "title": "Робо Форчун",
         "cover": "https://remanga.org/media/card-item/cover_c919b3d04dd14f47.webp",
@@ -86502,6 +86509,13 @@
         "url": "https://remanga.org/card/134526"
       },
       {
+        "id": 237901,
+        "title": "Рил Буамортье",
+        "cover": "https://remanga.org/media/card-item/cover_5af37eb5f0fc4dd5.webp",
+        "rarity": "rank_c",
+        "url": "https://remanga.org/card/237901"
+      },
+      {
         "id": 237726,
         "title": "Робо Форчун",
         "cover": "https://remanga.org/media/card-item/cover_6a1818c4fb3249c6.webp",
@@ -89825,6 +89839,27 @@
         "cover": "https://remanga.org/media/card-item/cover_d92419408046496b.webp",
         "rarity": "rank_c",
         "url": "https://remanga.org/card/51589"
+      },
+      {
+        "id": 237900,
+        "title": "Рил Буамортье",
+        "cover": "https://remanga.org/media/card-item/cover_cf3a74ae61544e68.webp",
+        "rarity": "rank_d",
+        "url": "https://remanga.org/card/237900"
+      },
+      {
+        "id": 237899,
+        "title": "Джек Потрошитель",
+        "cover": "https://remanga.org/media/card-item/cover_b400518ed404428e.webp",
+        "rarity": "rank_d",
+        "url": "https://remanga.org/card/237899"
+      },
+      {
+        "id": 237898,
+        "title": "Фуэголеон Вермиллион",
+        "cover": "https://remanga.org/media/card-item/cover_bf42108fea93458d.webp",
+        "rarity": "rank_d",
+        "url": "https://remanga.org/card/237898"
       },
       {
         "id": 237685,
