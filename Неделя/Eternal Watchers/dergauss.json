@@ -804,14 +804,14 @@
       "end_key": "2026-11-16_0025",
       "baseline": 41200,
       "min_seen": 41200,
-      "current": 41200,
-      "weekly": 0,
+      "current": 41400,
+      "weekly": 200,
       "period_ru": "с 09.11 по 16.11",
       "guild": "Eternal Watchers",
       "display": "Dergauss",
       "profile": "https://remanga.org/user/57091/about",
       "avatar": "avatars/dergauss.jpg",
-      "ts": "2026-11-12T18:09:11.154857+03:00"
+      "ts": "2026-11-12T18:14:11.180407+03:00"
     }
   ]
 }
