@@ -161,15 +161,6 @@
       "weekly": 0,
       "baseline": 4737
     },
-    "kaizaki": {
-      "display": "Kaizaki",
-      "profile": "https://remanga.org/user/40277/about",
-      "avatar": "avatars/kaizaki.jpg",
-      "initial": 685,
-      "current": 695,
-      "weekly": 0,
-      "baseline": 695
-    },
     "фanatytki": {
       "display": "Фанат_утки",
       "profile": "https://remanga.org/user/2895554/about",
@@ -205,6 +196,15 @@
       "current": 0,
       "weekly": 0,
       "baseline": 0
+    },
+    "kaizaki": {
+      "display": "Kaizaki",
+      "profile": "https://remanga.org",
+      "avatar": "avatars/placeholder.jpg",
+      "initial": 685,
+      "current": 685,
+      "weekly": 0,
+      "baseline": 695
     },
     "tenofmoses": {
       "display": "tenofmoses",
