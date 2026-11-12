@@ -804,14 +804,14 @@
       "end_key": "2026-11-16_0025",
       "baseline": 47000,
       "min_seen": 47000,
-      "current": 47000,
+      "current": 32890,
       "weekly": 0,
       "period_ru": "с 09.11 по 16.11",
       "guild": "Eternal Watchers",
       "display": "Clf",
-      "profile": "https://remanga.org/user/942689/about",
-      "avatar": "avatars/clf.jpg",
-      "ts": "2026-11-13T02:09:11.874415+03:00"
+      "profile": "https://remanga.org",
+      "avatar": "avatars/placeholder.jpg",
+      "ts": "2026-11-13T02:14:32.610878+03:00"
     }
   ]
 }

@@ -804,14 +804,14 @@
       "end_key": "2026-11-16_0025",
       "baseline": 31686,
       "min_seen": 31686,
-      "current": 31686,
+      "current": 15450,
       "weekly": 0,
       "period_ru": "с 09.11 по 16.11",
       "guild": "Eternal Demonic",
       "display": "mei_mei",
-      "profile": "https://remanga.org/user/52975/about",
-      "avatar": "avatars/meimei.jpg",
-      "ts": "2026-11-13T02:09:14.773882+03:00"
+      "profile": "https://remanga.org",
+      "avatar": "avatars/placeholder.jpg",
+      "ts": "2026-11-13T02:14:34.185684+03:00"
     }
   ]
 }
