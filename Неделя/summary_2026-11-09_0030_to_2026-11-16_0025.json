@@ -2624,8 +2624,8 @@
         },
         "desport": {
           "display": "desport",
-          "profile": "https://remanga.org/user/216019/about",
-          "avatar": "avatars/desport.jpg",
+          "profile": "https://remanga.org",
+          "avatar": "avatars/placeholder.jpg",
           "initial": 0,
           "current": 0,
           "weekly": 0,
