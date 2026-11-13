@@ -10296,7 +10296,7 @@
       {
         "id": 237998,
         "title": "Пьеро",
-        "cover": "https://remanga.org/media/card-item/cover_5345f881ccc84123.webp",
+        "cover": "https://remanga.org/media/card-item/cover_c3e2a931335841a6.webp",
         "rarity": "rank_b",
         "url": "https://remanga.org/card/237998"
       },
@@ -14174,7 +14174,7 @@
       {
         "id": 237999,
         "title": "Пьеро",
-        "cover": "https://remanga.org/media/card-item/cover_b111b81c4c6d47f1.webp",
+        "cover": "https://remanga.org/media/card-item/cover_5646d02201304f61.webp",
         "rarity": "rank_d",
         "url": "https://remanga.org/card/237999"
       },
@@ -33056,6 +33056,13 @@
     "display": "EW_OBSERVER",
     "author_id": 141395,
     "cards": [
+      {
+        "id": 238184,
+        "title": "Султана",
+        "cover": "https://remanga.org/media/card-item/cover_24a0cd55ddb149d3.webp",
+        "rarity": "rank_b",
+        "url": "https://remanga.org/card/238184"
+      },
       {
         "id": 236554,
         "title": "Цуй Цин",
@@ -83197,6 +83204,13 @@
     "display": "RokYwka",
     "author_id": 1339341,
     "cards": [
+      {
+        "id": 238189,
+        "title": "Фуэголеон Вермиллион",
+        "cover": "https://remanga.org/media/card-item/cover_153480434d0249e3.webp",
+        "rarity": "rank_b",
+        "url": "https://remanga.org/card/238189"
+      },
       {
         "id": 238149,
         "title": "Морген Фауст",
