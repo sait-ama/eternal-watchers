@@ -12277,7 +12277,7 @@
       {
         "id": 238000,
         "title": "Пьеро",
-        "cover": "https://remanga.org/media/card-item/cover_f8d61e95804e416e.webp",
+        "cover": "https://remanga.org/media/card-item/cover_58d23c7afdd04b9d.webp",
         "rarity": "rank_c",
         "url": "https://remanga.org/card/238000"
       },
@@ -17901,6 +17901,13 @@
         "cover": "https://remanga.org/media/card-item/cover_40066f5f.webp",
         "rarity": "rank_e",
         "url": "https://remanga.org/card/55088"
+      },
+      {
+        "id": 238046,
+        "title": "Пьеро",
+        "cover": "https://remanga.org/media/card-item/cover_407fe5133c23472c.webp",
+        "rarity": "rank_f",
+        "url": "https://remanga.org/card/238046"
       },
       {
         "id": 237993,
@@ -83191,6 +83198,13 @@
     "author_id": 1339341,
     "cards": [
       {
+        "id": 238119,
+        "title": "Солид Сильва",
+        "cover": "https://remanga.org/media/card-item/cover_3a8fc28da0594893.webp",
+        "rarity": "rank_b",
+        "url": "https://remanga.org/card/238119"
+      },
+      {
         "id": 237914,
         "title": "Рил Буамортье",
         "cover": "https://remanga.org/media/card-item/cover_72cc48fba53a4783.webp",
@@ -86579,6 +86593,13 @@
         "url": "https://remanga.org/card/134526"
       },
       {
+        "id": 238100,
+        "title": "Солид Сильва",
+        "cover": "https://remanga.org/media/card-item/cover_77e9697db3d143a1.webp",
+        "rarity": "rank_c",
+        "url": "https://remanga.org/card/238100"
+      },
+      {
         "id": 237901,
         "title": "Рил Буамортье",
         "cover": "https://remanga.org/media/card-item/cover_5af37eb5f0fc4dd5.webp",
@@ -89909,6 +89930,13 @@
         "cover": "https://remanga.org/media/card-item/cover_d92419408046496b.webp",
         "rarity": "rank_c",
         "url": "https://remanga.org/card/51589"
+      },
+      {
+        "id": 238099,
+        "title": "Солид Сильва",
+        "cover": "https://remanga.org/media/card-item/cover_713d5f6d24124996.webp",
+        "rarity": "rank_d",
+        "url": "https://remanga.org/card/238099"
       },
       {
         "id": 237900,
@@ -93313,6 +93341,27 @@
         "url": "https://remanga.org/card/57540"
       },
       {
+        "id": 238121,
+        "title": "Морген Фауст",
+        "cover": "https://remanga.org/media/card-item/cover_993735c4110d44fe.webp",
+        "rarity": "rank_e",
+        "url": "https://remanga.org/card/238121"
+      },
+      {
+        "id": 238056,
+        "title": "Солид Сильва",
+        "cover": "https://remanga.org/media/card-item/cover_82535fadc11c4472.webp",
+        "rarity": "rank_e",
+        "url": "https://remanga.org/card/238056"
+      },
+      {
+        "id": 238054,
+        "title": "Принсия Фаннибанни",
+        "cover": "https://remanga.org/media/card-item/cover_f62844cbf1014545.webp",
+        "rarity": "rank_e",
+        "url": "https://remanga.org/card/238054"
+      },
+      {
         "id": 237734,
         "title": "Рил Буамортье",
         "cover": "https://remanga.org/media/card-item/cover_ce1c1c2ee73b4c17.webp",
@@ -96685,6 +96734,27 @@
         "cover": "https://remanga.org/media/card-item/cover_3e934d27049840b7.webp",
         "rarity": "rank_e",
         "url": "https://remanga.org/card/56452"
+      },
+      {
+        "id": 238120,
+        "title": "Морген Фауст",
+        "cover": "https://remanga.org/media/card-item/cover_e50947ffa979486d.webp",
+        "rarity": "rank_f",
+        "url": "https://remanga.org/card/238120"
+      },
+      {
+        "id": 238055,
+        "title": "Солид Сильва",
+        "cover": "https://remanga.org/media/card-item/cover_73f67fc847774f9b.webp",
+        "rarity": "rank_f",
+        "url": "https://remanga.org/card/238055"
+      },
+      {
+        "id": 238053,
+        "title": "Принсия Фаннибанни",
+        "cover": "https://remanga.org/media/card-item/cover_dcdfb78e5c654dcf.webp",
+        "rarity": "rank_f",
+        "url": "https://remanga.org/card/238053"
       },
       {
         "id": 237733,
