@@ -10296,7 +10296,7 @@
       {
         "id": 237998,
         "title": "Пьеро",
-        "cover": "https://remanga.org/media/card-item/cover_762b8b2d38864b46.webp",
+        "cover": "https://remanga.org/media/card-item/cover_5345f881ccc84123.webp",
         "rarity": "rank_b",
         "url": "https://remanga.org/card/237998"
       },
@@ -14174,7 +14174,7 @@
       {
         "id": 237999,
         "title": "Пьеро",
-        "cover": "https://remanga.org/media/card-item/cover_9f175101c1924732.webp",
+        "cover": "https://remanga.org/media/card-item/cover_b111b81c4c6d47f1.webp",
         "rarity": "rank_d",
         "url": "https://remanga.org/card/237999"
       },
@@ -16057,7 +16057,7 @@
       {
         "id": 237994,
         "title": "Пьеро",
-        "cover": "https://remanga.org/media/card-item/cover_c4b1da81464e4109.webp",
+        "cover": "https://remanga.org/media/card-item/cover_b64bdfbf11d64dfa.webp",
         "rarity": "rank_e",
         "url": "https://remanga.org/card/237994"
       },
@@ -83198,6 +83198,13 @@
     "author_id": 1339341,
     "cards": [
       {
+        "id": 238149,
+        "title": "Морген Фауст",
+        "cover": "https://remanga.org/media/card-item/cover_fc20641c39904f1e.webp",
+        "rarity": "rank_b",
+        "url": "https://remanga.org/card/238149"
+      },
+      {
         "id": 238119,
         "title": "Солид Сильва",
         "cover": "https://remanga.org/media/card-item/cover_3a8fc28da0594893.webp",
@@ -86593,6 +86600,27 @@
         "url": "https://remanga.org/card/134526"
       },
       {
+        "id": 238134,
+        "title": "Фуэголеон Вермиллион",
+        "cover": "https://remanga.org/media/card-item/cover_0c2c9a43aab34522.webp",
+        "rarity": "rank_c",
+        "url": "https://remanga.org/card/238134"
+      },
+      {
+        "id": 238132,
+        "title": "Джек Потрошитель",
+        "cover": "https://remanga.org/media/card-item/cover_0af26a831d5b42d4.webp",
+        "rarity": "rank_c",
+        "url": "https://remanga.org/card/238132"
+      },
+      {
+        "id": 238131,
+        "title": "Морген Фауст",
+        "cover": "https://remanga.org/media/card-item/cover_5afc4b6fa90e4b96.webp",
+        "rarity": "rank_c",
+        "url": "https://remanga.org/card/238131"
+      },
+      {
         "id": 238100,
         "title": "Солид Сильва",
         "cover": "https://remanga.org/media/card-item/cover_77e9697db3d143a1.webp",
@@ -89930,6 +89958,13 @@
         "cover": "https://remanga.org/media/card-item/cover_d92419408046496b.webp",
         "rarity": "rank_c",
         "url": "https://remanga.org/card/51589"
+      },
+      {
+        "id": 238130,
+        "title": "Морген Фауст",
+        "cover": "https://remanga.org/media/card-item/cover_0d8096b77a924f5a.webp",
+        "rarity": "rank_d",
+        "url": "https://remanga.org/card/238130"
       },
       {
         "id": 238099,
