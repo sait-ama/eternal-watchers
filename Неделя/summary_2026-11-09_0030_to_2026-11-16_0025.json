@@ -2469,6 +2469,15 @@
           "weekly": 0,
           "baseline": 50000
         },
+        "ewobserver": {
+          "display": "EW_OBSERVER",
+          "profile": "https://remanga.org/user/141395/about",
+          "avatar": "avatars/ewobserver.jpg",
+          "initial": 155,
+          "current": 40077,
+          "weekly": 13576,
+          "baseline": 26501
+        },
         "rezord": {
           "display": "rezord",
           "profile": "https://remanga.org/user/210114/about",
@@ -2477,15 +2486,6 @@
           "current": 41006,
           "weekly": 155,
           "baseline": 40851
-        },
-        "ewobserver": {
-          "display": "EW_OBSERVER",
-          "profile": "https://remanga.org/user/141395/about",
-          "avatar": "avatars/ewobserver.jpg",
-          "initial": 155,
-          "current": 39577,
-          "weekly": 13076,
-          "baseline": 26501
         },
         "iopm": {
           "display": "Йорм",
