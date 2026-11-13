@@ -692,14 +692,14 @@
       "end_key": "2026-11-16_0025",
       "baseline": 43000,
       "min_seen": 43000,
-      "current": 0,
+      "current": 43000,
       "weekly": 0,
       "period_ru": "с 09.11 по 16.11",
       "guild": "Eternal Demonic",
       "display": "Der_Wehrwolf",
-      "profile": "https://remanga.org",
-      "avatar": "avatars/placeholder.jpg",
-      "ts": "2026-11-13T02:14:34.185684+03:00"
+      "profile": "https://remanga.org/user/2833636/about",
+      "avatar": "avatars/derwehrwolf.jpg",
+      "ts": "2026-11-13T02:19:14.037238+03:00"
     }
   ]
 }
