@@ -16048,6 +16048,20 @@
         "url": "https://remanga.org/card/26480"
       },
       {
+        "id": 238392,
+        "title": "Арлекин",
+        "cover": "https://remanga.org/media/card-item/cover_c21dddd2d7974315.webp",
+        "rarity": "rank_e",
+        "url": "https://remanga.org/card/238392"
+      },
+      {
+        "id": 238391,
+        "title": "Арлекин",
+        "cover": "https://remanga.org/media/card-item/cover_ed34fba3294b45c5.webp",
+        "rarity": "rank_e",
+        "url": "https://remanga.org/card/238391"
+      },
+      {
         "id": 237995,
         "title": "Пьеро",
         "cover": "https://remanga.org/media/card-item/cover_3b969e4aaa6140cb.webp",
@@ -17901,6 +17915,27 @@
         "cover": "https://remanga.org/media/card-item/cover_40066f5f.webp",
         "rarity": "rank_e",
         "url": "https://remanga.org/card/55088"
+      },
+      {
+        "id": 238390,
+        "title": "Арлекин",
+        "cover": "https://remanga.org/media/card-item/cover_1e83afd4ac1e462b.webp",
+        "rarity": "rank_f",
+        "url": "https://remanga.org/card/238390"
+      },
+      {
+        "id": 238389,
+        "title": "Арлекин",
+        "cover": "https://remanga.org/media/card-item/cover_9ab8b82b7b7a40b2.webp",
+        "rarity": "rank_f",
+        "url": "https://remanga.org/card/238389"
+      },
+      {
+        "id": 238388,
+        "title": "Арлекин",
+        "cover": "https://remanga.org/media/card-item/cover_e50918519afd4f8f.webp",
+        "rarity": "rank_f",
+        "url": "https://remanga.org/card/238388"
       },
       {
         "id": 238046,
@@ -33056,6 +33091,13 @@
     "display": "EW_OBSERVER",
     "author_id": 141395,
     "cards": [
+      {
+        "id": 238329,
+        "title": "Сяо Гуэй",
+        "cover": "https://remanga.org/media/card-item/cover_3f0b8b38c4714924.webp",
+        "rarity": "rank_b",
+        "url": "https://remanga.org/card/238329"
+      },
       {
         "id": 238184,
         "title": "Султана",
@@ -83212,6 +83254,13 @@
     "author_id": 1339341,
     "cards": [
       {
+        "id": 238432,
+        "title": "scp-105",
+        "cover": "https://remanga.org/media/card-item/cover_e1e7252c365748fc.webp",
+        "rarity": "rank_b",
+        "url": "https://remanga.org/card/238432"
+      },
+      {
         "id": 238189,
         "title": "Фуэголеон Вермиллион",
         "cover": "https://remanga.org/media/card-item/cover_153480434d0249e3.webp",
@@ -86621,6 +86670,27 @@
         "url": "https://remanga.org/card/134526"
       },
       {
+        "id": 238437,
+        "title": "SCP-073",
+        "cover": "https://remanga.org/media/card-item/cover_1c96ebafdce2430c.webp",
+        "rarity": "rank_c",
+        "url": "https://remanga.org/card/238437"
+      },
+      {
+        "id": 238436,
+        "title": "SCP-073",
+        "cover": "https://remanga.org/media/card-item/cover_38c90972d7a5437d.webp",
+        "rarity": "rank_c",
+        "url": "https://remanga.org/card/238436"
+      },
+      {
+        "id": 238431,
+        "title": "scp-105",
+        "cover": "https://remanga.org/media/card-item/cover_3272affa21ca4da6.webp",
+        "rarity": "rank_c",
+        "url": "https://remanga.org/card/238431"
+      },
+      {
         "id": 238134,
         "title": "Фуэголеон Вермиллион",
         "cover": "https://remanga.org/media/card-item/cover_0c2c9a43aab34522.webp",
@@ -89979,6 +90049,34 @@
         "cover": "https://remanga.org/media/card-item/cover_d92419408046496b.webp",
         "rarity": "rank_c",
         "url": "https://remanga.org/card/51589"
+      },
+      {
+        "id": 238339,
+        "title": "SCP-073",
+        "cover": "https://remanga.org/media/card-item/cover_2c18b6348c0340a0.webp",
+        "rarity": "rank_d",
+        "url": "https://remanga.org/card/238339"
+      },
+      {
+        "id": 238337,
+        "title": "SCP-073",
+        "cover": "https://remanga.org/media/card-item/cover_c558235668b04bce.webp",
+        "rarity": "rank_d",
+        "url": "https://remanga.org/card/238337"
+      },
+      {
+        "id": 238336,
+        "title": "scp-105",
+        "cover": "https://remanga.org/media/card-item/cover_0dd08c8f55be47a4.webp",
+        "rarity": "rank_d",
+        "url": "https://remanga.org/card/238336"
+      },
+      {
+        "id": 238335,
+        "title": "SCP-076-2",
+        "cover": "https://remanga.org/media/card-item/cover_7ecea197b4b445dc.webp",
+        "rarity": "rank_d",
+        "url": "https://remanga.org/card/238335"
       },
       {
         "id": 238130,
