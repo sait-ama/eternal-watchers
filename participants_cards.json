@@ -10287,6 +10287,27 @@
         "url": "https://remanga.org/card/222049"
       },
       {
+        "id": 238520,
+        "title": "Арлекин",
+        "cover": "https://remanga.org/media/card-item/cover_c4623a9a98834c6f.webp",
+        "rarity": "rank_b",
+        "url": "https://remanga.org/card/238520"
+      },
+      {
+        "id": 238519,
+        "title": "Арлекин",
+        "cover": "https://remanga.org/media/card-item/cover_24906cdab8e0438f.webp",
+        "rarity": "rank_b",
+        "url": "https://remanga.org/card/238519"
+      },
+      {
+        "id": 238518,
+        "title": "Арлекин",
+        "cover": "https://remanga.org/media/card-item/cover_3a41d2f3cba943af.webp",
+        "rarity": "rank_b",
+        "url": "https://remanga.org/card/238518"
+      },
+      {
         "id": 238001,
         "title": "Пьеро",
         "cover": "https://remanga.org/media/card-item/cover_6d004cac414a4715.webp",
@@ -12275,6 +12296,27 @@
         "url": "https://remanga.org/card/3178"
       },
       {
+        "id": 238517,
+        "title": "Арлекин",
+        "cover": "https://remanga.org/media/card-item/cover_a79286b0dfca44ff.webp",
+        "rarity": "rank_c",
+        "url": "https://remanga.org/card/238517"
+      },
+      {
+        "id": 238516,
+        "title": "Арлекин",
+        "cover": "https://remanga.org/media/card-item/cover_c174697900db48ae.webp",
+        "rarity": "rank_c",
+        "url": "https://remanga.org/card/238516"
+      },
+      {
+        "id": 238514,
+        "title": "Арлекин",
+        "cover": "https://remanga.org/media/card-item/cover_51a60b3559d642fd.webp",
+        "rarity": "rank_c",
+        "url": "https://remanga.org/card/238514"
+      },
+      {
         "id": 238000,
         "title": "Пьеро",
         "cover": "https://remanga.org/media/card-item/cover_58d23c7afdd04b9d.webp",
@@ -14172,6 +14214,27 @@
         "url": "https://remanga.org/card/362"
       },
       {
+        "id": 238512,
+        "title": "Арлекин",
+        "cover": "https://remanga.org/media/card-item/cover_9b303b0096554204.webp",
+        "rarity": "rank_d",
+        "url": "https://remanga.org/card/238512"
+      },
+      {
+        "id": 238511,
+        "title": "Арлекин",
+        "cover": "https://remanga.org/media/card-item/cover_0bd5acc29c4d4d48.webp",
+        "rarity": "rank_d",
+        "url": "https://remanga.org/card/238511"
+      },
+      {
+        "id": 238509,
+        "title": "Арлекин",
+        "cover": "https://remanga.org/media/card-item/cover_d864bb242ba741df.webp",
+        "rarity": "rank_d",
+        "url": "https://remanga.org/card/238509"
+      },
+      {
         "id": 237999,
         "title": "Пьеро",
         "cover": "https://remanga.org/media/card-item/cover_5646d02201304f61.webp",
@@ -16046,6 +16109,13 @@
         "cover": "https://remanga.org/media/card-item/cover_4a527d33.webp",
         "rarity": "rank_d",
         "url": "https://remanga.org/card/26480"
+      },
+      {
+        "id": 238508,
+        "title": "Арлекин",
+        "cover": "https://remanga.org/media/card-item/cover_5435d17a63174b7e.webp",
+        "rarity": "rank_e",
+        "url": "https://remanga.org/card/238508"
       },
       {
         "id": 238392,
@@ -39845,6 +39915,27 @@
         "url": "https://remanga.org/card/201582"
       },
       {
+        "id": 238663,
+        "title": "Онинеко",
+        "cover": "https://remanga.org/media/card-item/cover_c3291b63c58843f7.webp",
+        "rarity": "rank_b",
+        "url": "https://remanga.org/card/238663"
+      },
+      {
+        "id": 238640,
+        "title": "Принц Мертвецов",
+        "cover": "https://remanga.org/media/card-item/cover_8193450a21e54eee.webp",
+        "rarity": "rank_b",
+        "url": "https://remanga.org/card/238640"
+      },
+      {
+        "id": 238544,
+        "title": "Мира Хидуме",
+        "cover": "https://remanga.org/media/card-item/cover_579a14cd2484433e.webp",
+        "rarity": "rank_b",
+        "url": "https://remanga.org/card/238544"
+      },
+      {
         "id": 232577,
         "title": "Дизель",
         "cover": "https://remanga.org/media/card-item/cover_add1624b0e504009.webp",
@@ -42099,6 +42190,27 @@
         "url": "https://remanga.org/card/1104"
       },
       {
+        "id": 238662,
+        "title": "Онинеко",
+        "cover": "https://remanga.org/media/card-item/cover_ed37f7aca9044714.webp",
+        "rarity": "rank_c",
+        "url": "https://remanga.org/card/238662"
+      },
+      {
+        "id": 238639,
+        "title": "Принц Мертвецов",
+        "cover": "https://remanga.org/media/card-item/cover_aee721c439a04c4a.webp",
+        "rarity": "rank_c",
+        "url": "https://remanga.org/card/238639"
+      },
+      {
+        "id": 238543,
+        "title": "Мира Хидуме",
+        "cover": "https://remanga.org/media/card-item/cover_61dc71956d9a4e2d.webp",
+        "rarity": "rank_c",
+        "url": "https://remanga.org/card/238543"
+      },
+      {
         "id": 232563,
         "title": "Дизель",
         "cover": "https://remanga.org/media/card-item/cover_f93e961a68c14799.webp",
@@ -43686,6 +43798,27 @@
         "cover": "https://remanga.org/media/card-item/cover_6be1d807dc224ffe.webp",
         "rarity": "rank_c",
         "url": "https://remanga.org/card/3385"
+      },
+      {
+        "id": 238661,
+        "title": "Онинеко",
+        "cover": "https://remanga.org/media/card-item/cover_08f698c346e54c88.webp",
+        "rarity": "rank_d",
+        "url": "https://remanga.org/card/238661"
+      },
+      {
+        "id": 238638,
+        "title": "Принц Мертвецов",
+        "cover": "https://remanga.org/media/card-item/cover_bdb938d60f854115.webp",
+        "rarity": "rank_d",
+        "url": "https://remanga.org/card/238638"
+      },
+      {
+        "id": 238542,
+        "title": "Мира Хидуме",
+        "cover": "https://remanga.org/media/card-item/cover_7fda3fb9da7e4a0f.webp",
+        "rarity": "rank_d",
+        "url": "https://remanga.org/card/238542"
       },
       {
         "id": 234731,
@@ -45277,6 +45410,27 @@
         "url": "https://remanga.org/card/309"
       },
       {
+        "id": 238656,
+        "title": "Онинеко",
+        "cover": "https://remanga.org/media/card-item/cover_6725973dd0924183.webp",
+        "rarity": "rank_e",
+        "url": "https://remanga.org/card/238656"
+      },
+      {
+        "id": 238637,
+        "title": "Принц Мертвецов",
+        "cover": "https://remanga.org/media/card-item/cover_4dddbe4cac9e4b3e.webp",
+        "rarity": "rank_e",
+        "url": "https://remanga.org/card/238637"
+      },
+      {
+        "id": 238541,
+        "title": "Мира Хидуме",
+        "cover": "https://remanga.org/media/card-item/cover_950dc9d1abde40aa.webp",
+        "rarity": "rank_e",
+        "url": "https://remanga.org/card/238541"
+      },
+      {
         "id": 234730,
         "title": "Арлекино",
         "cover": "https://remanga.org/media/card-item/cover_dcd5659bf31140fb.webp",
@@ -46745,6 +46899,27 @@
         "cover": "https://remanga.org/media/card-item/cover_e9c6c171882941d8.webp",
         "rarity": "rank_e",
         "url": "https://remanga.org/card/1090"
+      },
+      {
+        "id": 238654,
+        "title": "Онинеко",
+        "cover": "https://remanga.org/media/card-item/cover_0101ad340bfa4e12.webp",
+        "rarity": "rank_f",
+        "url": "https://remanga.org/card/238654"
+      },
+      {
+        "id": 238596,
+        "title": "Принц Мертвецов",
+        "cover": "https://remanga.org/media/card-item/cover_db4252478b7a4ddf.webp",
+        "rarity": "rank_f",
+        "url": "https://remanga.org/card/238596"
+      },
+      {
+        "id": 238540,
+        "title": "Мира Хидуме",
+        "cover": "https://remanga.org/media/card-item/cover_e59e8ef33304422c.webp",
+        "rarity": "rank_f",
+        "url": "https://remanga.org/card/238540"
       },
       {
         "id": 234802,
@@ -83253,6 +83428,20 @@
     "display": "RokYwka",
     "author_id": 1339341,
     "cards": [
+      {
+        "id": 238539,
+        "title": "SCP-073",
+        "cover": "https://remanga.org/media/card-item/cover_a0bc58528bfe4276.webp",
+        "rarity": "rank_b",
+        "url": "https://remanga.org/card/238539"
+      },
+      {
+        "id": 238526,
+        "title": "SCP-073",
+        "cover": "https://remanga.org/media/card-item/cover_9d099bf15e3e4314.webp",
+        "rarity": "rank_b",
+        "url": "https://remanga.org/card/238526"
+      },
       {
         "id": 238432,
         "title": "scp-105",
