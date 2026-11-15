@@ -812,6 +812,20 @@
       "profile": "https://remanga.org/user/486583/about",
       "avatar": "avatars/bigmen07.jpg",
       "ts": "2026-11-16T00:29:12.464345+03:00"
+    },
+    {
+      "start_key": "2026-11-16_0030",
+      "end_key": "2026-11-23_0025",
+      "baseline": 36500,
+      "min_seen": 36500,
+      "current": 36500,
+      "weekly": 0,
+      "period_ru": "с 16.11 по 23.11",
+      "guild": "Eternal Demonic",
+      "display": "BigMen07",
+      "profile": "https://remanga.org/user/486583/about",
+      "avatar": "avatars/bigmen07.jpg",
+      "ts": "2026-11-16T00:34:12.383131+03:00"
     }
   ]
 }

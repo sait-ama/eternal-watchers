@@ -756,6 +756,20 @@
       "profile": "https://remanga.org/user/175047/about",
       "avatar": "avatars/belashik.jpg",
       "ts": "2026-11-16T00:29:12.464345+03:00"
+    },
+    {
+      "start_key": "2026-11-16_0030",
+      "end_key": "2026-11-23_0025",
+      "baseline": 42103,
+      "min_seen": 42103,
+      "current": 42103,
+      "weekly": 0,
+      "period_ru": "с 16.11 по 23.11",
+      "guild": "Eternal Demonic",
+      "display": "Belashik",
+      "profile": "https://remanga.org/user/175047/about",
+      "avatar": "avatars/belashik.jpg",
+      "ts": "2026-11-16T00:34:12.383131+03:00"
     }
   ]
 }

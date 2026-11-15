@@ -812,6 +812,20 @@
       "profile": "https://remanga.org/user/197380/about",
       "avatar": "avatars/cracker7.jpg",
       "ts": "2026-11-16T00:29:12.464345+03:00"
+    },
+    {
+      "start_key": "2026-11-16_0030",
+      "end_key": "2026-11-23_0025",
+      "baseline": 80550,
+      "min_seen": 80550,
+      "current": 80550,
+      "weekly": 0,
+      "period_ru": "с 16.11 по 23.11",
+      "guild": "Eternal Demonic",
+      "display": "Cracker_7",
+      "profile": "https://remanga.org/user/197380/about",
+      "avatar": "avatars/cracker7.jpg",
+      "ts": "2026-11-16T00:34:12.383131+03:00"
     }
   ]
 }
