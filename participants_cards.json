@@ -34177,6 +34177,13 @@
         "url": "https://remanga.org/card/76236"
       },
       {
+        "id": 238891,
+        "title": "Сюй Фу",
+        "cover": "https://remanga.org/media/card-item/cover_e182d9ec93354eb3.webp",
+        "rarity": "rank_f",
+        "url": "https://remanga.org/card/238891"
+      },
+      {
         "id": 237374,
         "title": "Сяо Гуэй",
         "cover": "https://remanga.org/media/card-item/cover_1ae3a890ccf84d75.webp",
@@ -83464,6 +83471,20 @@
     "author_id": 1339341,
     "cards": [
       {
+        "id": 238880,
+        "title": "il_ho",
+        "cover": "https://remanga.org/media/card-item/cover_e08bf183ec8b463c.webp",
+        "rarity": "rank_b",
+        "url": "https://remanga.org/card/238880"
+      },
+      {
+        "id": 238879,
+        "title": "il_ho",
+        "cover": "https://remanga.org/media/card-item/cover_9fcc73b03e334329.webp",
+        "rarity": "rank_b",
+        "url": "https://remanga.org/card/238879"
+      },
+      {
         "id": 238539,
         "title": "SCP-073",
         "cover": "https://remanga.org/media/card-item/cover_a0bc58528bfe4276.webp",
@@ -86894,6 +86915,20 @@
         "url": "https://remanga.org/card/134526"
       },
       {
+        "id": 238877,
+        "title": "il_ho",
+        "cover": "https://remanga.org/media/card-item/cover_ee0ace90684f4ae3.webp",
+        "rarity": "rank_c",
+        "url": "https://remanga.org/card/238877"
+      },
+      {
+        "id": 238876,
+        "title": "il_ho",
+        "cover": "https://remanga.org/media/card-item/cover_5757e286523e4de3.webp",
+        "rarity": "rank_c",
+        "url": "https://remanga.org/card/238876"
+      },
+      {
         "id": 238437,
         "title": "SCP-073",
         "cover": "https://remanga.org/media/card-item/cover_1c96ebafdce2430c.webp",
@@ -90273,6 +90308,20 @@
         "cover": "https://remanga.org/media/card-item/cover_d92419408046496b.webp",
         "rarity": "rank_c",
         "url": "https://remanga.org/card/51589"
+      },
+      {
+        "id": 238875,
+        "title": "il_ho",
+        "cover": "https://remanga.org/media/card-item/cover_4a47dd6500f24fdb.webp",
+        "rarity": "rank_d",
+        "url": "https://remanga.org/card/238875"
+      },
+      {
+        "id": 238874,
+        "title": "il_ho",
+        "cover": "https://remanga.org/media/card-item/cover_d716cf5fc3144711.webp",
+        "rarity": "rank_d",
+        "url": "https://remanga.org/card/238874"
       },
       {
         "id": 238339,
