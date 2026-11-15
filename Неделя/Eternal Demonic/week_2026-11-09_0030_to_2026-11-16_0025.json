@@ -143,6 +143,15 @@
       "weekly": 1200,
       "baseline": 95711
     },
+    "oblakatt": {
+      "display": "OblakaT_T",
+      "profile": "https://remanga.org/user/474087/about",
+      "avatar": "avatars/oblakatt.jpg",
+      "initial": 13000,
+      "current": 88066,
+      "weekly": 3000,
+      "baseline": 85066
+    },
     "marlya": {
       "display": "MarLya",
       "profile": "https://remanga.org/user/209369/about",
@@ -151,15 +160,6 @@
       "current": 73000,
       "weekly": 1000,
       "baseline": 72000
-    },
-    "oblakatt": {
-      "display": "OblakaT_T",
-      "profile": "https://remanga.org/user/474087/about",
-      "avatar": "avatars/oblakatt.jpg",
-      "initial": 13000,
-      "current": 85066,
-      "weekly": 0,
-      "baseline": 85066
     },
     "sunburst": {
       "display": "Sunburst",
