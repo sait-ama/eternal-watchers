@@ -125,6 +125,15 @@
       "weekly": 0,
       "baseline": 102007
     },
+    "maksimbybnov": {
+      "display": "МаксимБубнов",
+      "profile": "https://remanga.org/user/3503844/about",
+      "avatar": "avatars/maksimbybnov.jpg",
+      "initial": 0,
+      "current": 69300,
+      "weekly": 2000,
+      "baseline": 67300
+    },
     "ewobserver": {
       "display": "EW_OBSERVER",
       "profile": "https://remanga.org/user/141395/about",
@@ -142,15 +151,6 @@
       "current": 100000,
       "weekly": 0,
       "baseline": 100000
-    },
-    "maksimbybnov": {
-      "display": "МаксимБубнов",
-      "profile": "https://remanga.org/user/3503844/about",
-      "avatar": "avatars/maksimbybnov.jpg",
-      "initial": 0,
-      "current": 67300,
-      "weekly": 0,
-      "baseline": 67300
     },
     "ewtaya": {
       "display": "EW_Taya_",
