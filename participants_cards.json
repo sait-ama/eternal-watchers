@@ -39922,13 +39922,6 @@
         "url": "https://remanga.org/card/238663"
       },
       {
-        "id": 238640,
-        "title": "Принц Мертвецов",
-        "cover": "https://remanga.org/media/card-item/cover_8193450a21e54eee.webp",
-        "rarity": "rank_b",
-        "url": "https://remanga.org/card/238640"
-      },
-      {
         "id": 238544,
         "title": "Мира Хидуме",
         "cover": "https://remanga.org/media/card-item/cover_579a14cd2484433e.webp",
@@ -42190,6 +42183,13 @@
         "url": "https://remanga.org/card/1104"
       },
       {
+        "id": 238807,
+        "title": "Юксин Янг",
+        "cover": "https://remanga.org/media/card-item/cover_32c15a2d10b44248.webp",
+        "rarity": "rank_c",
+        "url": "https://remanga.org/card/238807"
+      },
+      {
         "id": 238662,
         "title": "Онинеко",
         "cover": "https://remanga.org/media/card-item/cover_ed37f7aca9044714.webp",
@@ -43798,6 +43798,13 @@
         "cover": "https://remanga.org/media/card-item/cover_6be1d807dc224ffe.webp",
         "rarity": "rank_c",
         "url": "https://remanga.org/card/3385"
+      },
+      {
+        "id": 238806,
+        "title": "Юксин Янг",
+        "cover": "https://remanga.org/media/card-item/cover_0e6ee47760214bf6.webp",
+        "rarity": "rank_d",
+        "url": "https://remanga.org/card/238806"
       },
       {
         "id": 238661,
@@ -45410,6 +45417,13 @@
         "url": "https://remanga.org/card/309"
       },
       {
+        "id": 238805,
+        "title": "Юксин Янг",
+        "cover": "https://remanga.org/media/card-item/cover_37defe01792b4af5.webp",
+        "rarity": "rank_e",
+        "url": "https://remanga.org/card/238805"
+      },
+      {
         "id": 238656,
         "title": "Онинеко",
         "cover": "https://remanga.org/media/card-item/cover_6725973dd0924183.webp",
@@ -46899,6 +46913,20 @@
         "cover": "https://remanga.org/media/card-item/cover_e9c6c171882941d8.webp",
         "rarity": "rank_e",
         "url": "https://remanga.org/card/1090"
+      },
+      {
+        "id": 238804,
+        "title": "Юксин Янг",
+        "cover": "https://remanga.org/media/card-item/cover_7876ef9c9e1f47ea.webp",
+        "rarity": "rank_f",
+        "url": "https://remanga.org/card/238804"
+      },
+      {
+        "id": 238803,
+        "title": "Юксин Янг",
+        "cover": "https://remanga.org/media/card-item/cover_c09792fcdb414137.webp",
+        "rarity": "rank_f",
+        "url": "https://remanga.org/card/238803"
       },
       {
         "id": 238654,
@@ -49791,6 +49819,13 @@
         "cover": "https://remanga.org/media/card-item/cover_586a8484e2854fc3.webp",
         "rarity": "rank_e",
         "url": "https://remanga.org/card/74419"
+      },
+      {
+        "id": 238848,
+        "title": "Фурухата Рана",
+        "cover": "https://remanga.org/media/card-item/cover_e9af513878864272.webp",
+        "rarity": "rank_f",
+        "url": "https://remanga.org/card/238848"
       },
       {
         "id": 171318,
@@ -93682,6 +93717,27 @@
         "cover": "https://remanga.org/media/card-item/cover_50608ffa14234e28.webp",
         "rarity": "rank_d",
         "url": "https://remanga.org/card/57540"
+      },
+      {
+        "id": 238826,
+        "title": "il_ho",
+        "cover": "https://remanga.org/media/card-item/cover_0fa330e0c60d4b6f.webp",
+        "rarity": "rank_e",
+        "url": "https://remanga.org/card/238826"
+      },
+      {
+        "id": 238825,
+        "title": "il_ho",
+        "cover": "https://remanga.org/media/card-item/cover_963ca243144e4590.webp",
+        "rarity": "rank_e",
+        "url": "https://remanga.org/card/238825"
+      },
+      {
+        "id": 238824,
+        "title": "il_ho",
+        "cover": "https://remanga.org/media/card-item/cover_b8123b717ec74c3b.webp",
+        "rarity": "rank_e",
+        "url": "https://remanga.org/card/238824"
       },
       {
         "id": 238311,
