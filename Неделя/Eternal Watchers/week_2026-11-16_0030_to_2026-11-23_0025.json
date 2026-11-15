@@ -845,6 +845,15 @@
       "weekly": 0,
       "baseline": 19751
     },
+    "nikesnt": {
+      "display": "NikesNt",
+      "profile": "https://remanga.org/user/1227659/about",
+      "avatar": "avatars/nikesnt.jpg",
+      "initial": 10040,
+      "current": 18437,
+      "weekly": 2920,
+      "baseline": 15517
+    },
     "zarti": {
       "display": "zarti",
       "profile": "https://remanga.org/user/845606/about",
@@ -925,15 +934,6 @@
       "current": 18598,
       "weekly": 0,
       "baseline": 18598
-    },
-    "nikesnt": {
-      "display": "NikesNt",
-      "profile": "https://remanga.org/user/1227659/about",
-      "avatar": "avatars/nikesnt.jpg",
-      "initial": 10040,
-      "current": 15517,
-      "weekly": 0,
-      "baseline": 15517
     },
     "darkangei": {
       "display": "Dark_AngeI",
