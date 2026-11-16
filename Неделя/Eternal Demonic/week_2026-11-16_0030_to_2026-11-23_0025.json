@@ -107,6 +107,15 @@
       "weekly": 0,
       "baseline": 149004
     },
+    "alld995": {
+      "display": "AllD-995",
+      "profile": "https://remanga.org/user/453647/about",
+      "avatar": "avatars/alld995.jpg",
+      "initial": 17000,
+      "current": 103000,
+      "weekly": 1000,
+      "baseline": 102000
+    },
     "izdatelь": {
       "display": "Издатель",
       "profile": "https://remanga.org/user/2439923/about",
@@ -115,15 +124,6 @@
       "current": 100639,
       "weekly": 0,
       "baseline": 100639
-    },
-    "alld995": {
-      "display": "AllD-995",
-      "profile": "https://remanga.org/user/453647/about",
-      "avatar": "avatars/alld995.jpg",
-      "initial": 17000,
-      "current": 102000,
-      "weekly": 0,
-      "baseline": 102000
     },
     "taпka66": {
       "display": "Тапка66",
