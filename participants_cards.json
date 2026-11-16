@@ -39922,6 +39922,13 @@
         "url": "https://remanga.org/card/201582"
       },
       {
+        "id": 239066,
+        "title": "Хоукисей",
+        "cover": "https://remanga.org/media/card-item/cover_add5d01a82dc4a84.webp",
+        "rarity": "rank_b",
+        "url": "https://remanga.org/card/239066"
+      },
+      {
         "id": 239040,
         "title": "Принц Мертвецов",
         "cover": "https://remanga.org/media/card-item/cover_86b30c5c93504de8.webp",
@@ -42197,6 +42204,13 @@
         "url": "https://remanga.org/card/1104"
       },
       {
+        "id": 239065,
+        "title": "Хоукисей",
+        "cover": "https://remanga.org/media/card-item/cover_c524c7933c7540f8.webp",
+        "rarity": "rank_c",
+        "url": "https://remanga.org/card/239065"
+      },
+      {
         "id": 238807,
         "title": "Юксин Янг",
         "cover": "https://remanga.org/media/card-item/cover_32c15a2d10b44248.webp",
@@ -43812,6 +43826,13 @@
         "cover": "https://remanga.org/media/card-item/cover_6be1d807dc224ffe.webp",
         "rarity": "rank_c",
         "url": "https://remanga.org/card/3385"
+      },
+      {
+        "id": 239064,
+        "title": "Хоукисей",
+        "cover": "https://remanga.org/media/card-item/cover_8513a14ad2e94cfe.webp",
+        "rarity": "rank_d",
+        "url": "https://remanga.org/card/239064"
       },
       {
         "id": 238806,
@@ -45431,6 +45452,20 @@
         "url": "https://remanga.org/card/309"
       },
       {
+        "id": 239074,
+        "title": "Хоукисей",
+        "cover": "https://remanga.org/media/card-item/cover_5ce68cdbb9a94f3b.webp",
+        "rarity": "rank_e",
+        "url": "https://remanga.org/card/239074"
+      },
+      {
+        "id": 239060,
+        "title": "Хоукисей",
+        "cover": "https://remanga.org/media/card-item/cover_a5ac1230cf124e75.webp",
+        "rarity": "rank_e",
+        "url": "https://remanga.org/card/239060"
+      },
+      {
         "id": 238805,
         "title": "Юксин Янг",
         "cover": "https://remanga.org/media/card-item/cover_37defe01792b4af5.webp",
@@ -46927,6 +46962,13 @@
         "cover": "https://remanga.org/media/card-item/cover_e9c6c171882941d8.webp",
         "rarity": "rank_e",
         "url": "https://remanga.org/card/1090"
+      },
+      {
+        "id": 239073,
+        "title": "Хоукисей",
+        "cover": "https://remanga.org/media/card-item/cover_b5131bd6818b4ce0.webp",
+        "rarity": "rank_f",
+        "url": "https://remanga.org/card/239073"
       },
       {
         "id": 238981,
@@ -49044,6 +49086,13 @@
     "author_id": 415473,
     "cards": [
       {
+        "id": 239121,
+        "title": "Фурухата Рана",
+        "cover": "https://remanga.org/media/card-item/cover_880cddc72d9649b3.webp",
+        "rarity": "rank_b",
+        "url": "https://remanga.org/card/239121"
+      },
+      {
         "id": 227150,
         "title": "Виена",
         "cover": "https://remanga.org/media/card-item/cover_70c1dd35b6a7443d.webp",
@@ -49280,6 +49329,13 @@
         "cover": "https://remanga.org/media/card-item/cover_8320f88ef10b4ce3.webp",
         "rarity": "rank_b",
         "url": "https://remanga.org/card/74423"
+      },
+      {
+        "id": 239120,
+        "title": "Фурухата Рана",
+        "cover": "https://remanga.org/media/card-item/cover_d2358817baaa4daf.webp",
+        "rarity": "rank_c",
+        "url": "https://remanga.org/card/239120"
       },
       {
         "id": 226312,
