@@ -37648,13 +37648,6 @@
         "url": "https://remanga.org/card/32792"
       },
       {
-        "id": 32736,
-        "title": "Крони Оуро",
-        "cover": "https://remanga.org/media/card-item/cover_21df2498.webp",
-        "rarity": "rank_c",
-        "url": "https://remanga.org/card/32736"
-      },
-      {
         "id": 31965,
         "title": "Крони Оуро",
         "cover": "https://remanga.org/media/card-item/cover_ebf988f3.webp",
@@ -97364,6 +97357,13 @@
         "cover": "https://remanga.org/media/card-item/cover_3e934d27049840b7.webp",
         "rarity": "rank_e",
         "url": "https://remanga.org/card/56452"
+      },
+      {
+        "id": 239287,
+        "title": "Хоррор Санс",
+        "cover": "https://remanga.org/media/card-item/cover_b366654bfa214c22.webp",
+        "rarity": "rank_f",
+        "url": "https://remanga.org/card/239287"
       },
       {
         "id": 239166,
