@@ -142648,6 +142648,20 @@
     "author_id": 3176212,
     "cards": [
       {
+        "id": 239010,
+        "title": "Card 239010",
+        "cover": "https://remanga.org/media/card-item/cover_46ee3718b038470d.webp",
+        "rarity": "rank_re",
+        "url": "https://remanga.org/card/239010"
+      },
+      {
+        "id": 239009,
+        "title": "Card 239009",
+        "cover": "https://remanga.org/media/card-item/cover_002021f950e54411.webp",
+        "rarity": "rank_re",
+        "url": "https://remanga.org/card/239009"
+      },
+      {
         "id": 238316,
         "title": "Card 238316",
         "cover": "https://remanga.org/media/card-item/cover_9f025a28ff1c4f84.webp",
