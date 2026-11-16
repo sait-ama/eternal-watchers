@@ -215,6 +215,15 @@
       "weekly": 0,
       "baseline": 80550
     },
+    "kost9n": {
+      "display": "KOST9N",
+      "profile": "https://remanga.org/user/48794/about",
+      "avatar": "avatars/kost9n.jpg",
+      "initial": 11000,
+      "current": 78655,
+      "weekly": 1000,
+      "baseline": 77655
+    },
     "stas211242": {
       "display": "stas211242",
       "profile": "https://remanga.org/user/269608/about",
@@ -223,15 +232,6 @@
       "current": 79497,
       "weekly": 0,
       "baseline": 79497
-    },
-    "kost9n": {
-      "display": "KOST9N",
-      "profile": "https://remanga.org/user/48794/about",
-      "avatar": "avatars/kost9n.jpg",
-      "initial": 11000,
-      "current": 77655,
-      "weekly": 0,
-      "baseline": 77655
     },
     "nirol": {
       "display": "Nirol",
