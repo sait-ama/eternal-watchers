@@ -412,14 +412,14 @@
       "end_key": "2026-11-23_0025",
       "baseline": 28000,
       "min_seen": 28000,
-      "current": 28000,
-      "weekly": 0,
+      "current": 29000,
+      "weekly": 1000,
       "period_ru": "с 16.11 по 23.11",
       "guild": "Eternal Demonic",
       "display": "Alienate",
       "profile": "https://remanga.org/user/784489/about",
       "avatar": "avatars/alienate.jpg",
-      "ts": "2026-11-16T14:34:13.399397+03:00"
+      "ts": "2026-11-16T14:39:15.820120+03:00"
     }
   ]
 }
