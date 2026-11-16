@@ -144,6 +144,15 @@
           "weekly": 0,
           "baseline": 333334
         },
+        "ewtaya": {
+          "display": "EW_Taya_",
+          "profile": "https://remanga.org/user/2325061/about",
+          "avatar": "avatars/ewtaya.jpg",
+          "initial": 48130,
+          "current": 116320,
+          "weekly": 2000,
+          "baseline": 114320
+        },
         "sallikrash": {
           "display": "SalliKrash",
           "profile": "https://remanga.org/user/73710/about",
@@ -152,15 +161,6 @@
           "current": 100000,
           "weekly": 0,
           "baseline": 100000
-        },
-        "ewtaya": {
-          "display": "EW_Taya_",
-          "profile": "https://remanga.org/user/2325061/about",
-          "avatar": "avatars/ewtaya.jpg",
-          "initial": 48130,
-          "current": 114320,
-          "weekly": 0,
-          "baseline": 114320
         },
         "harutsu": {
           "display": "Harutsu",
