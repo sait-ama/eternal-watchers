@@ -413,6 +413,15 @@
       "weekly": 0,
       "baseline": 62002
     },
+    "justea": {
+      "display": "Justea",
+      "profile": "https://remanga.org/user/911857/about",
+      "avatar": "avatars/justea.jpg",
+      "initial": 0,
+      "current": 50500,
+      "weekly": 1000,
+      "baseline": 49500
+    },
     "huahua": {
       "display": "Hua-Hua",
       "profile": "https://remanga.org/user/554143/about",
@@ -421,15 +430,6 @@
       "current": 50000,
       "weekly": 0,
       "baseline": 50000
-    },
-    "justea": {
-      "display": "Justea",
-      "profile": "https://remanga.org/user/911857/about",
-      "avatar": "avatars/justea.jpg",
-      "initial": 0,
-      "current": 49500,
-      "weekly": 0,
-      "baseline": 49500
     },
     "alafex": {
       "display": "Alafex",
