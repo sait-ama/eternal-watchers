@@ -39922,6 +39922,13 @@
         "url": "https://remanga.org/card/201582"
       },
       {
+        "id": 239182,
+        "title": "Хоукисей",
+        "cover": "https://remanga.org/media/card-item/cover_99c80e40557541c5.webp",
+        "rarity": "rank_b",
+        "url": "https://remanga.org/card/239182"
+      },
+      {
         "id": 239066,
         "title": "Хоукисей",
         "cover": "https://remanga.org/media/card-item/cover_add5d01a82dc4a84.webp",
@@ -42204,6 +42211,13 @@
         "url": "https://remanga.org/card/1104"
       },
       {
+        "id": 239181,
+        "title": "Хоукисей",
+        "cover": "https://remanga.org/media/card-item/cover_644e3ee7f0304da0.webp",
+        "rarity": "rank_c",
+        "url": "https://remanga.org/card/239181"
+      },
+      {
         "id": 239065,
         "title": "Хоукисей",
         "cover": "https://remanga.org/media/card-item/cover_c524c7933c7540f8.webp",
@@ -43826,6 +43840,13 @@
         "cover": "https://remanga.org/media/card-item/cover_6be1d807dc224ffe.webp",
         "rarity": "rank_c",
         "url": "https://remanga.org/card/3385"
+      },
+      {
+        "id": 239180,
+        "title": "Хоукисей",
+        "cover": "https://remanga.org/media/card-item/cover_4a289697b158467d.webp",
+        "rarity": "rank_d",
+        "url": "https://remanga.org/card/239180"
       },
       {
         "id": 239064,
@@ -83555,6 +83576,13 @@
     "author_id": 1339341,
     "cards": [
       {
+        "id": 239170,
+        "title": "Дан",
+        "cover": "https://remanga.org/media/card-item/cover_7c8ae198790c4dba.webp",
+        "rarity": "rank_b",
+        "url": "https://remanga.org/card/239170"
+      },
+      {
         "id": 238954,
         "title": "il_ho",
         "cover": "https://remanga.org/media/card-item/cover_8e6a7e7c68c844b0.webp",
@@ -87006,6 +87034,13 @@
         "url": "https://remanga.org/card/134526"
       },
       {
+        "id": 239169,
+        "title": "Дан",
+        "cover": "https://remanga.org/media/card-item/cover_fb2a1fbb27a445ac.webp",
+        "rarity": "rank_c",
+        "url": "https://remanga.org/card/239169"
+      },
+      {
         "id": 238953,
         "title": "il_ho",
         "cover": "https://remanga.org/media/card-item/cover_1a03a4f924504b5a.webp",
@@ -90406,6 +90441,13 @@
         "cover": "https://remanga.org/media/card-item/cover_d92419408046496b.webp",
         "rarity": "rank_c",
         "url": "https://remanga.org/card/51589"
+      },
+      {
+        "id": 239168,
+        "title": "Дан",
+        "cover": "https://remanga.org/media/card-item/cover_5d9af53c35b94200.webp",
+        "rarity": "rank_d",
+        "url": "https://remanga.org/card/239168"
       },
       {
         "id": 238952,
@@ -93873,6 +93915,13 @@
         "url": "https://remanga.org/card/57540"
       },
       {
+        "id": 239167,
+        "title": "Дан",
+        "cover": "https://remanga.org/media/card-item/cover_e85ca2c63a944e82.webp",
+        "rarity": "rank_e",
+        "url": "https://remanga.org/card/239167"
+      },
+      {
         "id": 238826,
         "title": "il_ho",
         "cover": "https://remanga.org/media/card-item/cover_0fa330e0c60d4b6f.webp",
@@ -97315,6 +97364,13 @@
         "cover": "https://remanga.org/media/card-item/cover_3e934d27049840b7.webp",
         "rarity": "rank_e",
         "url": "https://remanga.org/card/56452"
+      },
+      {
+        "id": 239166,
+        "title": "Дан",
+        "cover": "https://remanga.org/media/card-item/cover_1b9af23fc8194d0d.webp",
+        "rarity": "rank_f",
+        "url": "https://remanga.org/card/239166"
       },
       {
         "id": 238738,
