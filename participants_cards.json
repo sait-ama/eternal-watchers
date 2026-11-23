@@ -83905,6 +83905,20 @@
     "author_id": 1339341,
     "cards": [
       {
+        "id": 241202,
+        "title": "Джин",
+        "cover": "https://remanga.org/media/card-item/cover_d65e27abf7cb437b.webp",
+        "rarity": "rank_b",
+        "url": "https://remanga.org/card/241202"
+      },
+      {
+        "id": 241201,
+        "title": "Джин",
+        "cover": "https://remanga.org/media/card-item/cover_20547dd5817248da.webp",
+        "rarity": "rank_b",
+        "url": "https://remanga.org/card/241201"
+      },
+      {
         "id": 241078,
         "title": "Маринеркс",
         "cover": "https://remanga.org/media/card-item/cover_01b1b5ce1d2244e8.webp",
@@ -84060,7 +84074,7 @@
       },
       {
         "id": 238432,
-        "title": "scp-105",
+        "title": "SCP-105",
         "cover": "https://remanga.org/media/card-item/cover_e1e7252c365748fc.webp",
         "rarity": "rank_b",
         "url": "https://remanga.org/card/238432"
@@ -87475,6 +87489,20 @@
         "url": "https://remanga.org/card/134526"
       },
       {
+        "id": 241200,
+        "title": "Джин",
+        "cover": "https://remanga.org/media/card-item/cover_261f2788e0084b60.webp",
+        "rarity": "rank_c",
+        "url": "https://remanga.org/card/241200"
+      },
+      {
+        "id": 241199,
+        "title": "Джин",
+        "cover": "https://remanga.org/media/card-item/cover_dd026cd1cdfe4394.webp",
+        "rarity": "rank_c",
+        "url": "https://remanga.org/card/241199"
+      },
+      {
         "id": 240961,
         "title": "Маринеркс",
         "cover": "https://remanga.org/media/card-item/cover_5f5857fe90834689.webp",
@@ -87630,7 +87658,7 @@
       },
       {
         "id": 238431,
-        "title": "scp-105",
+        "title": "SCP-105",
         "cover": "https://remanga.org/media/card-item/cover_3272affa21ca4da6.webp",
         "rarity": "rank_c",
         "url": "https://remanga.org/card/238431"
@@ -90996,6 +91024,20 @@
         "url": "https://remanga.org/card/51589"
       },
       {
+        "id": 241198,
+        "title": "Джин",
+        "cover": "https://remanga.org/media/card-item/cover_87070d1dcda546cb.webp",
+        "rarity": "rank_d",
+        "url": "https://remanga.org/card/241198"
+      },
+      {
+        "id": 241197,
+        "title": "Джин",
+        "cover": "https://remanga.org/media/card-item/cover_40a95fa7bef8437b.webp",
+        "rarity": "rank_d",
+        "url": "https://remanga.org/card/241197"
+      },
+      {
         "id": 240894,
         "title": "Маринеркс",
         "cover": "https://remanga.org/media/card-item/cover_4bf2427dca7545d7.webp",
@@ -91151,7 +91193,7 @@
       },
       {
         "id": 238336,
-        "title": "scp-105",
+        "title": "SCP-105",
         "cover": "https://remanga.org/media/card-item/cover_0dd08c8f55be47a4.webp",
         "rarity": "rank_d",
         "url": "https://remanga.org/card/238336"
@@ -94742,7 +94784,7 @@
       },
       {
         "id": 238310,
-        "title": "scp-105",
+        "title": "SCP-105",
         "cover": "https://remanga.org/media/card-item/cover_cb721e707f0249c7.webp",
         "rarity": "rank_e",
         "url": "https://remanga.org/card/238310"
@@ -98326,7 +98368,7 @@
       },
       {
         "id": 238297,
-        "title": "scp-105",
+        "title": "SCP-105",
         "cover": "https://remanga.org/media/card-item/cover_b9e6826cc80b464f.webp",
         "rarity": "rank_f",
         "url": "https://remanga.org/card/238297"
