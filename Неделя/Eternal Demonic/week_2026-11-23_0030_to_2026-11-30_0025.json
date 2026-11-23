@@ -692,6 +692,15 @@
       "weekly": 0,
       "baseline": 26500
     },
+    "alienate": {
+      "display": "Alienate",
+      "profile": "https://remanga.org/user/784489/about",
+      "avatar": "avatars/alienate.jpg",
+      "initial": 4000,
+      "current": 30000,
+      "weekly": 1000,
+      "baseline": 29000
+    },
     "kaizaki": {
       "display": "Kaizaki",
       "profile": "https://remanga.org/user/40277/about",
@@ -709,15 +718,6 @@
       "current": 25850,
       "weekly": 0,
       "baseline": 25850
-    },
-    "alienate": {
-      "display": "Alienate",
-      "profile": "https://remanga.org/user/784489/about",
-      "avatar": "avatars/alienate.jpg",
-      "initial": 4000,
-      "current": 29000,
-      "weekly": 0,
-      "baseline": 29000
     },
     "dutif": {
       "display": "Dutif",
