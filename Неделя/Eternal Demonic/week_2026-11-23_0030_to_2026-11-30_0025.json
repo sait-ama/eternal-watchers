@@ -224,6 +224,15 @@
       "weekly": 1000,
       "baseline": 78655
     },
+    "nirol": {
+      "display": "Nirol",
+      "profile": "https://remanga.org/user/1450372/about",
+      "avatar": "avatars/nirol.jpg",
+      "initial": 26100,
+      "current": 94486,
+      "weekly": 1000,
+      "baseline": 93486
+    },
     "vallynor": {
       "display": "Vallynor",
       "profile": "https://remanga.org/user/876246/about",
@@ -232,15 +241,6 @@
       "current": 80000,
       "weekly": 0,
       "baseline": 80000
-    },
-    "nirol": {
-      "display": "Nirol",
-      "profile": "https://remanga.org/user/1450372/about",
-      "avatar": "avatars/nirol.jpg",
-      "initial": 26100,
-      "current": 93486,
-      "weekly": 0,
-      "baseline": 93486
     },
     "stas211242": {
       "display": "stas211242",
