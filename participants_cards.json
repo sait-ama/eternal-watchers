@@ -10287,6 +10287,27 @@
         "url": "https://remanga.org/card/222049"
       },
       {
+        "id": 241327,
+        "title": "Эмма Вудс",
+        "cover": "https://remanga.org/media/card-item/cover_eab10ee3b9f741fe.webp",
+        "rarity": "rank_b",
+        "url": "https://remanga.org/card/241327"
+      },
+      {
+        "id": 241245,
+        "title": "Эмма Вудс",
+        "cover": "https://remanga.org/media/card-item/cover_6734460560754eba.webp",
+        "rarity": "rank_b",
+        "url": "https://remanga.org/card/241245"
+      },
+      {
+        "id": 241244,
+        "title": "Эмма Вудс",
+        "cover": "https://remanga.org/media/card-item/cover_5104c65ad24f440e.webp",
+        "rarity": "rank_b",
+        "url": "https://remanga.org/card/241244"
+      },
+      {
         "id": 240836,
         "title": "Кусоч",
         "cover": "https://remanga.org/media/card-item/cover_602e830162e54f39.webp",
@@ -12331,6 +12352,27 @@
         "url": "https://remanga.org/card/3178"
       },
       {
+        "id": 241326,
+        "title": "Эмма Вудс",
+        "cover": "https://remanga.org/media/card-item/cover_48b5b6b392ef4b36.webp",
+        "rarity": "rank_c",
+        "url": "https://remanga.org/card/241326"
+      },
+      {
+        "id": 241243,
+        "title": "Эмма Вудс",
+        "cover": "https://remanga.org/media/card-item/cover_91622332743a404b.webp",
+        "rarity": "rank_c",
+        "url": "https://remanga.org/card/241243"
+      },
+      {
+        "id": 241242,
+        "title": "Эмма Вудс",
+        "cover": "https://remanga.org/media/card-item/cover_c9812d2eef9145c7.webp",
+        "rarity": "rank_c",
+        "url": "https://remanga.org/card/241242"
+      },
+      {
         "id": 240835,
         "title": "Кусоч",
         "cover": "https://remanga.org/media/card-item/cover_f7ab128de7b64bdc.webp",
@@ -14284,6 +14326,27 @@
         "url": "https://remanga.org/card/362"
       },
       {
+        "id": 241325,
+        "title": "Эмма Вудс",
+        "cover": "https://remanga.org/media/card-item/cover_9c04afcc906a484c.webp",
+        "rarity": "rank_d",
+        "url": "https://remanga.org/card/241325"
+      },
+      {
+        "id": 241241,
+        "title": "Эмма Вудс",
+        "cover": "https://remanga.org/media/card-item/cover_e40cb4eed28349b1.webp",
+        "rarity": "rank_d",
+        "url": "https://remanga.org/card/241241"
+      },
+      {
+        "id": 241240,
+        "title": "Эмма Вудс",
+        "cover": "https://remanga.org/media/card-item/cover_25b67b0baca44970.webp",
+        "rarity": "rank_d",
+        "url": "https://remanga.org/card/241240"
+      },
+      {
         "id": 240834,
         "title": "Кусоч",
         "cover": "https://remanga.org/media/card-item/cover_1f6f43bafefa464b.webp",
@@ -16216,6 +16279,27 @@
         "url": "https://remanga.org/card/26480"
       },
       {
+        "id": 241324,
+        "title": "Эмма Вудс",
+        "cover": "https://remanga.org/media/card-item/cover_dffba2ca62b944e7.webp",
+        "rarity": "rank_e",
+        "url": "https://remanga.org/card/241324"
+      },
+      {
+        "id": 241239,
+        "title": "Эмма Вудс",
+        "cover": "https://remanga.org/media/card-item/cover_146a046de3164405.webp",
+        "rarity": "rank_e",
+        "url": "https://remanga.org/card/241239"
+      },
+      {
+        "id": 241238,
+        "title": "Эмма Вудс",
+        "cover": "https://remanga.org/media/card-item/cover_5d55cfc54ca94ca9.webp",
+        "rarity": "rank_e",
+        "url": "https://remanga.org/card/241238"
+      },
+      {
         "id": 240833,
         "title": "Кусоч",
         "cover": "https://remanga.org/media/card-item/cover_ec4bdde1bc184e78.webp",
@@ -18125,6 +18209,27 @@
         "cover": "https://remanga.org/media/card-item/cover_40066f5f.webp",
         "rarity": "rank_e",
         "url": "https://remanga.org/card/55088"
+      },
+      {
+        "id": 241323,
+        "title": "Эмма Вудс",
+        "cover": "https://remanga.org/media/card-item/cover_32e460cc24e44e6d.webp",
+        "rarity": "rank_f",
+        "url": "https://remanga.org/card/241323"
+      },
+      {
+        "id": 241237,
+        "title": "Эмма Вудс",
+        "cover": "https://remanga.org/media/card-item/cover_894879d728854516.webp",
+        "rarity": "rank_f",
+        "url": "https://remanga.org/card/241237"
+      },
+      {
+        "id": 241236,
+        "title": "Эмма Вудс",
+        "cover": "https://remanga.org/media/card-item/cover_0c6dd3d473a44f4b.webp",
+        "rarity": "rank_f",
+        "url": "https://remanga.org/card/241236"
       },
       {
         "id": 240832,
@@ -33372,6 +33477,13 @@
     "author_id": 141395,
     "cards": [
       {
+        "id": 241362,
+        "title": "Ёрусе",
+        "cover": "https://remanga.org/media/card-item/cover_84f5ad585f42481e.webp",
+        "rarity": "rank_b",
+        "url": "https://remanga.org/card/241362"
+      },
+      {
         "id": 241091,
         "title": "Поц в капюшоне",
         "cover": "https://remanga.org/media/card-item/cover_35b22421dfcf4977.webp",
@@ -33622,6 +33734,13 @@
         "cover": "https://remanga.org/media/card-item/cover_91c18844.webp",
         "rarity": "rank_b",
         "url": "https://remanga.org/card/77906"
+      },
+      {
+        "id": 241361,
+        "title": "Ёрусе",
+        "cover": "https://remanga.org/media/card-item/cover_1f85a375eafe495e.webp",
+        "rarity": "rank_c",
+        "url": "https://remanga.org/card/241361"
       },
       {
         "id": 241059,
@@ -33888,6 +34007,13 @@
         "cover": "https://remanga.org/media/card-item/cover_c39580c2.webp",
         "rarity": "rank_c",
         "url": "https://remanga.org/card/76238"
+      },
+      {
+        "id": 241360,
+        "title": "Ёрусе",
+        "cover": "https://remanga.org/media/card-item/cover_5739920f6a3946a5.webp",
+        "rarity": "rank_d",
+        "url": "https://remanga.org/card/241360"
       },
       {
         "id": 241058,
@@ -34175,6 +34301,20 @@
         "cover": "https://remanga.org/media/card-item/cover_dca48809.webp",
         "rarity": "rank_d",
         "url": "https://remanga.org/card/76237"
+      },
+      {
+        "id": 241359,
+        "title": "Ёрусе",
+        "cover": "https://remanga.org/media/card-item/cover_c0b87dce76e84385.webp",
+        "rarity": "rank_e",
+        "url": "https://remanga.org/card/241359"
+      },
+      {
+        "id": 241308,
+        "title": "Ласия",
+        "cover": "https://remanga.org/media/card-item/cover_ae393e00a1774640.webp",
+        "rarity": "rank_e",
+        "url": "https://remanga.org/card/241308"
       },
       {
         "id": 241057,
@@ -34469,6 +34609,20 @@
         "cover": "https://remanga.org/media/card-item/cover_21c89ef1.webp",
         "rarity": "rank_e",
         "url": "https://remanga.org/card/76236"
+      },
+      {
+        "id": 241358,
+        "title": "Ёрусе",
+        "cover": "https://remanga.org/media/card-item/cover_1f48daedaba14fbd.webp",
+        "rarity": "rank_f",
+        "url": "https://remanga.org/card/241358"
+      },
+      {
+        "id": 241307,
+        "title": "Ласия",
+        "cover": "https://remanga.org/media/card-item/cover_f62e9c43f5bd441f.webp",
+        "rarity": "rank_f",
+        "url": "https://remanga.org/card/241307"
       },
       {
         "id": 241056,
@@ -94622,6 +94776,13 @@
         "url": "https://remanga.org/card/57540"
       },
       {
+        "id": 241280,
+        "title": "Онгджол Парк",
+        "cover": "https://remanga.org/media/card-item/cover_61e1050652454caf.webp",
+        "rarity": "rank_e",
+        "url": "https://remanga.org/card/241280"
+      },
+      {
         "id": 241170,
         "title": "Джин",
         "cover": "https://remanga.org/media/card-item/cover_62392e549281475f.webp",
@@ -98197,6 +98358,20 @@
         "cover": "https://remanga.org/media/card-item/cover_3e934d27049840b7.webp",
         "rarity": "rank_e",
         "url": "https://remanga.org/card/56452"
+      },
+      {
+        "id": 241279,
+        "title": "Онгджол Парк",
+        "cover": "https://remanga.org/media/card-item/cover_80518dd175334593.webp",
+        "rarity": "rank_f",
+        "url": "https://remanga.org/card/241279"
+      },
+      {
+        "id": 241278,
+        "title": "Онгджол Парк",
+        "cover": "https://remanga.org/media/card-item/cover_adf4b8163b794bb1.webp",
+        "rarity": "rank_f",
+        "url": "https://remanga.org/card/241278"
       },
       {
         "id": 241168,
