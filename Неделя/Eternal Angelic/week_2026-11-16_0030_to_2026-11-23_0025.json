@@ -22,8 +22,8 @@
       "profile": "https://remanga.org/user/415473/about",
       "avatar": "avatars/harutsu.jpg",
       "initial": 25000,
-      "current": 150000,
-      "weekly": 0,
+      "current": 151000,
+      "weekly": 1000,
       "baseline": 150000
     },
     "chitandael": {
@@ -40,9 +40,18 @@
       "profile": "https://remanga.org/user/3503844/about",
       "avatar": "avatars/maksimbybnov.jpg",
       "initial": 4000,
-      "current": 85000,
-      "weekly": 0,
+      "current": 87000,
+      "weekly": 2000,
       "baseline": 85000
+    },
+    "ewobserver": {
+      "display": "EW_OBSERVER",
+      "profile": "https://remanga.org/user/141395/about",
+      "avatar": "avatars/ewobserver.jpg",
+      "initial": 155,
+      "current": 61844,
+      "weekly": 17374,
+      "baseline": 44470
     },
     "saitama": {
       "display": "Сайтама",
@@ -52,15 +61,6 @@
       "current": 88177,
       "weekly": 0,
       "baseline": 88177
-    },
-    "ewobserver": {
-      "display": "EW_OBSERVER",
-      "profile": "https://remanga.org/user/141395/about",
-      "avatar": "avatars/ewobserver.jpg",
-      "initial": 155,
-      "current": 51183,
-      "weekly": 6713,
-      "baseline": 44470
     },
     "ewdgham021": {
       "display": "EW.DG_Ham021",
@@ -139,9 +139,18 @@
       "profile": "https://remanga.org/user/54424/about",
       "avatar": "avatars/7wave.jpg",
       "initial": 3500,
-      "current": 5609,
-      "weekly": 0,
+      "current": 6249,
+      "weekly": 640,
       "baseline": 5609
+    },
+    "nix": {
+      "display": "-Nix-",
+      "profile": "https://remanga.org/user/46754/about",
+      "avatar": "avatars/nix.jpg",
+      "initial": 0,
+      "current": 2000,
+      "weekly": 0,
+      "baseline": 0
     },
     "frostik4": {
       "display": "Frostik4",
@@ -151,6 +160,15 @@
       "current": 2052,
       "weekly": 0,
       "baseline": 2052
+    },
+    "elduck": {
+      "display": "El_Duck",
+      "profile": "https://remanga.org/user/1125410/about",
+      "avatar": "avatars/elduck.jpg",
+      "initial": 0,
+      "current": 1085,
+      "weekly": 0,
+      "baseline": 0
     },
     "忘的世界魔鬼": {
       "display": "忘的世界魔鬼",
@@ -174,24 +192,6 @@
       "display": "МилыйКохай",
       "profile": "https://remanga.org/user/45081/about",
       "avatar": "avatars/milыikoxai.jpg",
-      "initial": 0,
-      "current": 0,
-      "weekly": 0,
-      "baseline": 0
-    },
-    "elduck": {
-      "display": "El_Duck",
-      "profile": "https://remanga.org/user/1125410/about",
-      "avatar": "avatars/elduck.jpg",
-      "initial": 0,
-      "current": 0,
-      "weekly": 0,
-      "baseline": 0
-    },
-    "nix": {
-      "display": "-Nix-",
-      "profile": "https://remanga.org/user/46754/about",
-      "avatar": "avatars/nix.jpg",
       "initial": 0,
       "current": 0,
       "weekly": 0,

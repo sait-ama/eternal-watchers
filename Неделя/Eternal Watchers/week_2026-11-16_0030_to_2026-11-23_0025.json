@@ -130,8 +130,8 @@
       "profile": "https://remanga.org/user/3503844/about",
       "avatar": "avatars/maksimbybnov.jpg",
       "initial": 0,
-      "current": 69300,
-      "weekly": 0,
+      "current": 71300,
+      "weekly": 2000,
       "baseline": 69300
     },
     "ewtaya": {
@@ -139,8 +139,8 @@
       "profile": "https://remanga.org/user/2325061/about",
       "avatar": "avatars/ewtaya.jpg",
       "initial": 48130,
-      "current": 117410,
-      "weekly": 3090,
+      "current": 118822,
+      "weekly": 4502,
       "baseline": 114320
     },
     "ewobserver": {
@@ -521,6 +521,15 @@
       "weekly": 0,
       "baseline": 70109
     },
+    "rayze": {
+      "display": "rayze",
+      "profile": "https://remanga.org/user/108995/about",
+      "avatar": "avatars/rayze.jpg",
+      "initial": 15730,
+      "current": 35307,
+      "weekly": 7000,
+      "baseline": 28307
+    },
     "healot": {
       "display": "healot",
       "profile": "https://remanga.org/user/2505495/about",
@@ -709,15 +718,6 @@
       "current": 61999,
       "weekly": 0,
       "baseline": 61999
-    },
-    "rayze": {
-      "display": "rayze",
-      "profile": "https://remanga.org/user/108995/about",
-      "avatar": "avatars/rayze.jpg",
-      "initial": 15730,
-      "current": 28307,
-      "weekly": 0,
-      "baseline": 28307
     },
     "vladsпididi": {
       "display": "Влад_Спидиди",

@@ -622,14 +622,28 @@
       "end_key": "2026-11-23_0025",
       "baseline": 51500,
       "min_seen": 51500,
-      "current": 51500,
-      "weekly": 0,
+      "current": 53500,
+      "weekly": 2000,
       "period_ru": "с 16.11 по 23.11",
       "guild": "Eternal Demonic",
       "display": "WhiteWold",
       "profile": "https://remanga.org/user/609928/about",
       "avatar": "avatars/whitewold.jpg",
-      "ts": "2026-11-17T16:09:12.616526+03:00"
+      "ts": "2026-11-23T00:29:13.706885+03:00"
+    },
+    {
+      "start_key": "2026-11-23_0030",
+      "end_key": "2026-11-30_0025",
+      "baseline": 53500,
+      "min_seen": 53500,
+      "current": 53500,
+      "weekly": 0,
+      "period_ru": "с 23.11 по 30.11",
+      "guild": "Eternal Demonic",
+      "display": "WhiteWold",
+      "profile": "https://remanga.org/user/609928/about",
+      "avatar": "avatars/whitewold.jpg",
+      "ts": "2026-11-23T17:44:14.168217+03:00"
     }
   ]
 }
