@@ -22832,6 +22832,13 @@
         "url": "https://remanga.org/card/100358"
       },
       {
+        "id": 241571,
+        "title": "Ангелизе Рейтер",
+        "cover": "https://remanga.org/media/card-item/cover_73f694fb9de04b23.webp",
+        "rarity": "rank_f",
+        "url": "https://remanga.org/card/241571"
+      },
+      {
         "id": 240090,
         "title": "Красавица Джейсон",
         "cover": "https://remanga.org/media/card-item/cover_dc32ca29605442ed.webp",
@@ -84059,6 +84066,27 @@
     "author_id": 1339341,
     "cards": [
       {
+        "id": 241515,
+        "title": "Онгджол Парк",
+        "cover": "https://remanga.org/media/card-item/cover_539bdb7935d74b38.webp",
+        "rarity": "rank_b",
+        "url": "https://remanga.org/card/241515"
+      },
+      {
+        "id": 241514,
+        "title": "Онгджол Парк",
+        "cover": "https://remanga.org/media/card-item/cover_881cca18ea24468d.webp",
+        "rarity": "rank_b",
+        "url": "https://remanga.org/card/241514"
+      },
+      {
+        "id": 241503,
+        "title": "Мастер",
+        "cover": "https://remanga.org/media/card-item/cover_a09fd1c7266749e1.webp",
+        "rarity": "rank_b",
+        "url": "https://remanga.org/card/241503"
+      },
+      {
         "id": 241202,
         "title": "Джин",
         "cover": "https://remanga.org/media/card-item/cover_d65e27abf7cb437b.webp",
@@ -87643,6 +87671,27 @@
         "url": "https://remanga.org/card/134526"
       },
       {
+        "id": 241513,
+        "title": "Онгджол Парк",
+        "cover": "https://remanga.org/media/card-item/cover_f0888e1451134671.webp",
+        "rarity": "rank_c",
+        "url": "https://remanga.org/card/241513"
+      },
+      {
+        "id": 241512,
+        "title": "Онгджол Парк",
+        "cover": "https://remanga.org/media/card-item/cover_f41c4f1a15744dde.webp",
+        "rarity": "rank_c",
+        "url": "https://remanga.org/card/241512"
+      },
+      {
+        "id": 241502,
+        "title": "Мастер",
+        "cover": "https://remanga.org/media/card-item/cover_e89e9932ca244624.webp",
+        "rarity": "rank_c",
+        "url": "https://remanga.org/card/241502"
+      },
+      {
         "id": 241200,
         "title": "Джин",
         "cover": "https://remanga.org/media/card-item/cover_261f2788e0084b60.webp",
@@ -91176,6 +91225,13 @@
         "cover": "https://remanga.org/media/card-item/cover_d92419408046496b.webp",
         "rarity": "rank_c",
         "url": "https://remanga.org/card/51589"
+      },
+      {
+        "id": 241501,
+        "title": "Мастер",
+        "cover": "https://remanga.org/media/card-item/cover_ebe9629147f44897.webp",
+        "rarity": "rank_d",
+        "url": "https://remanga.org/card/241501"
       },
       {
         "id": 241497,
@@ -94790,6 +94846,13 @@
         "url": "https://remanga.org/card/57540"
       },
       {
+        "id": 241500,
+        "title": "Мастер",
+        "cover": "https://remanga.org/media/card-item/cover_de07b396abf64abf.webp",
+        "rarity": "rank_e",
+        "url": "https://remanga.org/card/241500"
+      },
+      {
         "id": 241433,
         "title": "Онгджол Парк",
         "cover": "https://remanga.org/media/card-item/cover_cd61dc1e1e034c90.webp",
@@ -98379,6 +98442,13 @@
         "cover": "https://remanga.org/media/card-item/cover_3e934d27049840b7.webp",
         "rarity": "rank_e",
         "url": "https://remanga.org/card/56452"
+      },
+      {
+        "id": 241499,
+        "title": "Мастер",
+        "cover": "https://remanga.org/media/card-item/cover_22e3117e08244688.webp",
+        "rarity": "rank_f",
+        "url": "https://remanga.org/card/241499"
       },
       {
         "id": 241279,
