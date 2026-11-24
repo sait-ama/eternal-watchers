@@ -287,6 +287,15 @@
       "weekly": 0,
       "baseline": 76161
     },
+    "aggressive": {
+      "display": "-AGGRESSIVE-",
+      "profile": "https://remanga.org/user/1939125/about",
+      "avatar": "avatars/aggressive.jpg",
+      "initial": 7750,
+      "current": 69500,
+      "weekly": 2000,
+      "baseline": 67500
+    },
     "jacksaifer": {
       "display": "JackSaifer",
       "profile": "https://remanga.org/user/349030/about",
@@ -304,15 +313,6 @@
       "current": 70001,
       "weekly": 0,
       "baseline": 70001
-    },
-    "aggressive": {
-      "display": "-AGGRESSIVE-",
-      "profile": "https://remanga.org/user/1939125/about",
-      "avatar": "avatars/aggressive.jpg",
-      "initial": 7750,
-      "current": 67500,
-      "weekly": 0,
-      "baseline": 67500
     },
     "fox94": {
       "display": "Fox94",
