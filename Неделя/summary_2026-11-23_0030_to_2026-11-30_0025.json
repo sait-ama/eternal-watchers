@@ -1291,6 +1291,15 @@
           "weekly": 1000,
           "baseline": 74000
         },
+        "etoromantic": {
+          "display": "etoRomantic",
+          "profile": "https://remanga.org/user/90646/about",
+          "avatar": "avatars/etoromantic.jpg",
+          "initial": 11000,
+          "current": 82769,
+          "weekly": 1500,
+          "baseline": 81269
+        },
         "sunburst": {
           "display": "Sunburst",
           "profile": "https://remanga.org/user/34154/about",
@@ -1299,15 +1308,6 @@
           "current": 80000,
           "weekly": 0,
           "baseline": 80000
-        },
-        "etoromantic": {
-          "display": "etoRomantic",
-          "profile": "https://remanga.org/user/90646/about",
-          "avatar": "avatars/etoromantic.jpg",
-          "initial": 11000,
-          "current": 81269,
-          "weekly": 0,
-          "baseline": 81269
         },
         "wertyservyt": {
           "display": "Werty-Servyt",
