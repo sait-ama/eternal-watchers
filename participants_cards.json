@@ -14326,6 +14326,13 @@
         "url": "https://remanga.org/card/362"
       },
       {
+        "id": 241853,
+        "title": "Мистер Сильвер",
+        "cover": "https://remanga.org/media/card-item/cover_7bf592d8ad744c05.webp",
+        "rarity": "rank_d",
+        "url": "https://remanga.org/card/241853"
+      },
+      {
         "id": 241325,
         "title": "Эмма Вудс",
         "cover": "https://remanga.org/media/card-item/cover_9c04afcc906a484c.webp",
@@ -16279,6 +16286,13 @@
         "url": "https://remanga.org/card/26480"
       },
       {
+        "id": 241852,
+        "title": "Мистер Сильвер",
+        "cover": "https://remanga.org/media/card-item/cover_62c76540a76342c7.webp",
+        "rarity": "rank_e",
+        "url": "https://remanga.org/card/241852"
+      },
+      {
         "id": 241324,
         "title": "Эмма Вудс",
         "cover": "https://remanga.org/media/card-item/cover_dffba2ca62b944e7.webp",
@@ -18209,6 +18223,13 @@
         "cover": "https://remanga.org/media/card-item/cover_40066f5f.webp",
         "rarity": "rank_e",
         "url": "https://remanga.org/card/55088"
+      },
+      {
+        "id": 241833,
+        "title": "Мистер Сильвер",
+        "cover": "https://remanga.org/media/card-item/cover_664a4d923fd64f0f.webp",
+        "rarity": "rank_f",
+        "url": "https://remanga.org/card/241833"
       },
       {
         "id": 241323,
@@ -20449,6 +20470,13 @@
         "cover": "https://remanga.org/media/card-item/cover_434f452e7b184ec9.webp",
         "rarity": "rank_a",
         "url": "https://remanga.org/card/118513"
+      },
+      {
+        "id": 241723,
+        "title": "Мелисса Моретти",
+        "cover": "https://remanga.org/media/card-item/cover_f1baf78de65b405e.webp",
+        "rarity": "rank_b",
+        "url": "https://remanga.org/card/241723"
       },
       {
         "id": 233759,
@@ -33484,6 +33512,13 @@
     "author_id": 141395,
     "cards": [
       {
+        "id": 241767,
+        "title": "Ласия",
+        "cover": "https://remanga.org/media/card-item/cover_17af18c3e1dc4001.webp",
+        "rarity": "rank_b",
+        "url": "https://remanga.org/card/241767"
+      },
+      {
         "id": 241362,
         "title": "Ёрусе",
         "cover": "https://remanga.org/media/card-item/cover_84f5ad585f42481e.webp",
@@ -33741,6 +33776,13 @@
         "cover": "https://remanga.org/media/card-item/cover_91c18844.webp",
         "rarity": "rank_b",
         "url": "https://remanga.org/card/77906"
+      },
+      {
+        "id": 241766,
+        "title": "Ласия",
+        "cover": "https://remanga.org/media/card-item/cover_c22d04bfc83841b2.webp",
+        "rarity": "rank_c",
+        "url": "https://remanga.org/card/241766"
       },
       {
         "id": 241361,
@@ -34014,6 +34056,13 @@
         "cover": "https://remanga.org/media/card-item/cover_c39580c2.webp",
         "rarity": "rank_c",
         "url": "https://remanga.org/card/76238"
+      },
+      {
+        "id": 241765,
+        "title": "Ласия",
+        "cover": "https://remanga.org/media/card-item/cover_834f3c69c3cd49b5.webp",
+        "rarity": "rank_d",
+        "url": "https://remanga.org/card/241765"
       },
       {
         "id": 241360,
@@ -50421,6 +50470,13 @@
         "cover": "https://remanga.org/media/card-item/cover_586a8484e2854fc3.webp",
         "rarity": "rank_e",
         "url": "https://remanga.org/card/74419"
+      },
+      {
+        "id": 241768,
+        "title": "Ласия",
+        "cover": "https://remanga.org/media/card-item/cover_66301839dd1b43e3.webp",
+        "rarity": "rank_f",
+        "url": "https://remanga.org/card/241768"
       },
       {
         "id": 238848,
@@ -94909,6 +94965,20 @@
         "url": "https://remanga.org/card/57540"
       },
       {
+        "id": 241735,
+        "title": "Джин",
+        "cover": "https://remanga.org/media/card-item/cover_dd8453bece234a5b.webp",
+        "rarity": "rank_e",
+        "url": "https://remanga.org/card/241735"
+      },
+      {
+        "id": 241733,
+        "title": "Мастер",
+        "cover": "https://remanga.org/media/card-item/cover_21ae2232d5fe4c30.webp",
+        "rarity": "rank_e",
+        "url": "https://remanga.org/card/241733"
+      },
+      {
         "id": 241660,
         "title": "Пинпин",
         "cover": "https://remanga.org/media/card-item/cover_5d8dc95f316d470f.webp",
@@ -98526,6 +98596,20 @@
         "cover": "https://remanga.org/media/card-item/cover_3e934d27049840b7.webp",
         "rarity": "rank_e",
         "url": "https://remanga.org/card/56452"
+      },
+      {
+        "id": 241734,
+        "title": "Джин",
+        "cover": "https://remanga.org/media/card-item/cover_00f742638c12493f.webp",
+        "rarity": "rank_f",
+        "url": "https://remanga.org/card/241734"
+      },
+      {
+        "id": 241732,
+        "title": "Мастер",
+        "cover": "https://remanga.org/media/card-item/cover_5e30f998af0f48ab.webp",
+        "rarity": "rank_f",
+        "url": "https://remanga.org/card/241732"
       },
       {
         "id": 241657,
