@@ -84066,6 +84066,27 @@
     "author_id": 1339341,
     "cards": [
       {
+        "id": 241708,
+        "title": "Пинпин",
+        "cover": "https://remanga.org/media/card-item/cover_55b4236af1714553.webp",
+        "rarity": "rank_b",
+        "url": "https://remanga.org/card/241708"
+      },
+      {
+        "id": 241707,
+        "title": "Пинпин",
+        "cover": "https://remanga.org/media/card-item/cover_e185274221e04c3d.webp",
+        "rarity": "rank_b",
+        "url": "https://remanga.org/card/241707"
+      },
+      {
+        "id": 241705,
+        "title": "Пинпин",
+        "cover": "https://remanga.org/media/card-item/cover_d1bf2c7a0dda40bd.webp",
+        "rarity": "rank_b",
+        "url": "https://remanga.org/card/241705"
+      },
+      {
         "id": 241515,
         "title": "Онгджол Парк",
         "cover": "https://remanga.org/media/card-item/cover_539bdb7935d74b38.webp",
@@ -87669,6 +87690,20 @@
         "cover": "https://remanga.org/media/card-item/cover_0c9862133a394179.webp",
         "rarity": "rank_b",
         "url": "https://remanga.org/card/134526"
+      },
+      {
+        "id": 241704,
+        "title": "Пинпин",
+        "cover": "https://remanga.org/media/card-item/cover_d86d8af169d3415c.webp",
+        "rarity": "rank_c",
+        "url": "https://remanga.org/card/241704"
+      },
+      {
+        "id": 241703,
+        "title": "Пинпин",
+        "cover": "https://remanga.org/media/card-item/cover_71bc3a1ea74049a9.webp",
+        "rarity": "rank_c",
+        "url": "https://remanga.org/card/241703"
       },
       {
         "id": 241664,
