@@ -49970,7 +49970,7 @@
       {
         "id": 98150,
         "title": "Цинъи",
-        "cover": "https://remanga.org/media/card-item/cover_e4c99d06.webp",
+        "cover": "https://remanga.org/media/card-item/cover_42b64e71139e4b45.webp",
         "rarity": "rank_c",
         "url": "https://remanga.org/card/98150"
       },
@@ -50092,6 +50092,13 @@
         "cover": "https://remanga.org/media/card-item/cover_b90b21adb8754530.webp",
         "rarity": "rank_c",
         "url": "https://remanga.org/card/74422"
+      },
+      {
+        "id": 242109,
+        "title": "Ласия",
+        "cover": "https://remanga.org/media/card-item/cover_8c5e3493cc1f48c5.webp",
+        "rarity": "rank_d",
+        "url": "https://remanga.org/card/242109"
       },
       {
         "id": 238926,
@@ -50311,6 +50318,13 @@
         "url": "https://remanga.org/card/2839"
       },
       {
+        "id": 242106,
+        "title": "Ласия",
+        "cover": "https://remanga.org/media/card-item/cover_1127f1b1bea54e7a.webp",
+        "rarity": "rank_e",
+        "url": "https://remanga.org/card/242106"
+      },
+      {
         "id": 238925,
         "title": "Фурухата Рана",
         "cover": "https://remanga.org/media/card-item/cover_9fdc53c0c5ce457c.webp",
@@ -50369,7 +50383,7 @@
       {
         "id": 98148,
         "title": "Цинъи",
-        "cover": "https://remanga.org/media/card-item/cover_925cbd0c.webp",
+        "cover": "https://remanga.org/media/card-item/cover_51733e49995647f2.webp",
         "rarity": "rank_e",
         "url": "https://remanga.org/card/98148"
       },
@@ -84129,6 +84143,27 @@
     "author_id": 1339341,
     "cards": [
       {
+        "id": 242108,
+        "title": "Джин",
+        "cover": "https://remanga.org/media/card-item/cover_a9cb3ea9bf0549bb.webp",
+        "rarity": "rank_b",
+        "url": "https://remanga.org/card/242108"
+      },
+      {
+        "id": 242098,
+        "title": "Неема",
+        "cover": "https://remanga.org/media/card-item/cover_d31a50845dae4eba.webp",
+        "rarity": "rank_b",
+        "url": "https://remanga.org/card/242098"
+      },
+      {
+        "id": 242097,
+        "title": "Мастер",
+        "cover": "https://remanga.org/media/card-item/cover_cb446ad067d64548.webp",
+        "rarity": "rank_b",
+        "url": "https://remanga.org/card/242097"
+      },
+      {
         "id": 241708,
         "title": "Пинпин",
         "cover": "https://remanga.org/media/card-item/cover_55b4236af1714553.webp",
@@ -87753,6 +87788,13 @@
         "cover": "https://remanga.org/media/card-item/cover_0c9862133a394179.webp",
         "rarity": "rank_b",
         "url": "https://remanga.org/card/134526"
+      },
+      {
+        "id": 242099,
+        "title": "Джин",
+        "cover": "https://remanga.org/media/card-item/cover_5b04f08917184dc9.webp",
+        "rarity": "rank_c",
+        "url": "https://remanga.org/card/242099"
       },
       {
         "id": 242069,
@@ -144396,6 +144438,20 @@
         "cover": "https://remanga.org/media/card-item/cover_679d2255be8343a9.webp",
         "rarity": "rank_re",
         "url": "https://remanga.org/card/207112"
+      },
+      {
+        "id": 242154,
+        "title": "Оак Каскет",
+        "cover": "https://remanga.org/media/card-item/cover_16c82f6c0702486f.webp",
+        "rarity": "rank_a",
+        "url": "https://remanga.org/card/242154"
+      },
+      {
+        "id": 242152,
+        "title": "Мику Хацунэ",
+        "cover": "https://remanga.org/media/card-item/cover_0d52cf1314ff4cb9.webp",
+        "rarity": "rank_a",
+        "url": "https://remanga.org/card/242152"
       },
       {
         "id": 232446,
