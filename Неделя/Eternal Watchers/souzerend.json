@@ -832,14 +832,14 @@
       "end_key": "2026-11-30_0025",
       "baseline": 28500,
       "min_seen": 28500,
-      "current": 28500,
+      "current": 0,
       "weekly": 0,
       "period_ru": "с 23.11 по 30.11",
       "guild": "Eternal Watchers",
       "display": "SouZeRenD",
-      "profile": "https://remanga.org/user/2230415/about",
+      "profile": "https://remanga.org",
       "avatar": "avatars/placeholder.jpg",
-      "ts": "2026-11-27T00:44:11.197662+03:00"
+      "ts": "2026-11-27T00:49:10.908621+03:00"
     }
   ]
 }
