@@ -1651,6 +1651,15 @@
           "weekly": 0,
           "baseline": 43000
         },
+        "sw1ty": {
+          "display": "Sw1ty",
+          "profile": "https://remanga.org/user/3154400/about",
+          "avatar": "avatars/sw1ty.jpg",
+          "initial": 11000,
+          "current": 52800,
+          "weekly": 500,
+          "baseline": 52300
+        },
         "heardand": {
           "display": "Heardand",
           "profile": "https://remanga.org/user/1575407/about",
@@ -1659,15 +1668,6 @@
           "current": 41500,
           "weekly": 0,
           "baseline": 41500
-        },
-        "sw1ty": {
-          "display": "Sw1ty",
-          "profile": "https://remanga.org/user/3154400/about",
-          "avatar": "avatars/sw1ty.jpg",
-          "initial": 11000,
-          "current": 52300,
-          "weekly": 0,
-          "baseline": 52300
         },
         "belashik": {
           "display": "Belashik",
