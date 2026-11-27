@@ -22881,6 +22881,13 @@
         "url": "https://remanga.org/card/100358"
       },
       {
+        "id": 242280,
+        "title": "Ласия",
+        "cover": "https://remanga.org/media/card-item/cover_df188969c20e4a21.webp",
+        "rarity": "rank_f",
+        "url": "https://remanga.org/card/242280"
+      },
+      {
         "id": 241571,
         "title": "Ангелизе Рейтер",
         "cover": "https://remanga.org/media/card-item/cover_73f694fb9de04b23.webp",
@@ -33519,6 +33526,13 @@
     "author_id": 141395,
     "cards": [
       {
+        "id": 242322,
+        "title": "Ёрусе",
+        "cover": "https://remanga.org/media/card-item/cover_b0f4efd585fe42e1.webp",
+        "rarity": "rank_b",
+        "url": "https://remanga.org/card/242322"
+      },
+      {
         "id": 241767,
         "title": "Ласия",
         "cover": "https://remanga.org/media/card-item/cover_17af18c3e1dc4001.webp",
@@ -33783,6 +33797,13 @@
         "cover": "https://remanga.org/media/card-item/cover_91c18844.webp",
         "rarity": "rank_b",
         "url": "https://remanga.org/card/77906"
+      },
+      {
+        "id": 242321,
+        "title": "Ёрусе",
+        "cover": "https://remanga.org/media/card-item/cover_9f34fbaf3d2c4510.webp",
+        "rarity": "rank_c",
+        "url": "https://remanga.org/card/242321"
       },
       {
         "id": 241766,
@@ -34063,6 +34084,13 @@
         "cover": "https://remanga.org/media/card-item/cover_c39580c2.webp",
         "rarity": "rank_c",
         "url": "https://remanga.org/card/76238"
+      },
+      {
+        "id": 242320,
+        "title": "Ёрусе",
+        "cover": "https://remanga.org/media/card-item/cover_9e656062e5fa473e.webp",
+        "rarity": "rank_d",
+        "url": "https://remanga.org/card/242320"
       },
       {
         "id": 241765,
@@ -34364,6 +34392,13 @@
         "cover": "https://remanga.org/media/card-item/cover_dca48809.webp",
         "rarity": "rank_d",
         "url": "https://remanga.org/card/76237"
+      },
+      {
+        "id": 242319,
+        "title": "Ёрусе",
+        "cover": "https://remanga.org/media/card-item/cover_6ff4972df6844444.webp",
+        "rarity": "rank_e",
+        "url": "https://remanga.org/card/242319"
       },
       {
         "id": 241359,
@@ -34672,6 +34707,13 @@
         "cover": "https://remanga.org/media/card-item/cover_21c89ef1.webp",
         "rarity": "rank_e",
         "url": "https://remanga.org/card/76236"
+      },
+      {
+        "id": 242318,
+        "title": "Ёрусе",
+        "cover": "https://remanga.org/media/card-item/cover_31562b9235424960.webp",
+        "rarity": "rank_f",
+        "url": "https://remanga.org/card/242318"
       },
       {
         "id": 241358,
@@ -49653,6 +49695,13 @@
     "author_id": 415473,
     "cards": [
       {
+        "id": 242281,
+        "title": "Ласия",
+        "cover": "https://remanga.org/media/card-item/cover_903917081e974778.webp",
+        "rarity": "rank_b",
+        "url": "https://remanga.org/card/242281"
+      },
+      {
         "id": 239121,
         "title": "Фурухата Рана",
         "cover": "https://remanga.org/media/card-item/cover_880cddc72d9649b3.webp",
@@ -50099,6 +50148,13 @@
         "cover": "https://remanga.org/media/card-item/cover_b90b21adb8754530.webp",
         "rarity": "rank_c",
         "url": "https://remanga.org/card/74422"
+      },
+      {
+        "id": 242279,
+        "title": "Ласия",
+        "cover": "https://remanga.org/media/card-item/cover_524aec08181d45e6.webp",
+        "rarity": "rank_d",
+        "url": "https://remanga.org/card/242279"
       },
       {
         "id": 238926,
@@ -84143,6 +84199,20 @@
     "author_id": 1339341,
     "cards": [
       {
+        "id": 242384,
+        "title": "Джису Ли",
+        "cover": "https://remanga.org/media/card-item/cover_07d1d6cbaa8b4d63.webp",
+        "rarity": "rank_b",
+        "url": "https://remanga.org/card/242384"
+      },
+      {
+        "id": 242383,
+        "title": "Джису Ли",
+        "cover": "https://remanga.org/media/card-item/cover_5a6d703da0164e00.webp",
+        "rarity": "rank_b",
+        "url": "https://remanga.org/card/242383"
+      },
+      {
         "id": 242108,
         "title": "Джин",
         "cover": "https://remanga.org/media/card-item/cover_a9cb3ea9bf0549bb.webp",
@@ -87790,6 +87860,20 @@
         "url": "https://remanga.org/card/134526"
       },
       {
+        "id": 242382,
+        "title": "Джису Ли",
+        "cover": "https://remanga.org/media/card-item/cover_3260a277b4f743b1.webp",
+        "rarity": "rank_c",
+        "url": "https://remanga.org/card/242382"
+      },
+      {
+        "id": 242381,
+        "title": "Джису Ли",
+        "cover": "https://remanga.org/media/card-item/cover_4e113254570349b5.webp",
+        "rarity": "rank_c",
+        "url": "https://remanga.org/card/242381"
+      },
+      {
         "id": 242099,
         "title": "Джин",
         "cover": "https://remanga.org/media/card-item/cover_5b04f08917184dc9.webp",
@@ -91386,6 +91470,20 @@
         "cover": "https://remanga.org/media/card-item/cover_d92419408046496b.webp",
         "rarity": "rank_c",
         "url": "https://remanga.org/card/51589"
+      },
+      {
+        "id": 242380,
+        "title": "Джису Ли",
+        "cover": "https://remanga.org/media/card-item/cover_4b801035c685463e.webp",
+        "rarity": "rank_d",
+        "url": "https://remanga.org/card/242380"
+      },
+      {
+        "id": 242379,
+        "title": "Джису Ли",
+        "cover": "https://remanga.org/media/card-item/cover_bdf18b0459224b0a.webp",
+        "rarity": "rank_d",
+        "url": "https://remanga.org/card/242379"
       },
       {
         "id": 242067,
@@ -95049,6 +95147,20 @@
         "url": "https://remanga.org/card/57540"
       },
       {
+        "id": 242378,
+        "title": "Джису Ли",
+        "cover": "https://remanga.org/media/card-item/cover_cc4d872488f542fb.webp",
+        "rarity": "rank_e",
+        "url": "https://remanga.org/card/242378"
+      },
+      {
+        "id": 242377,
+        "title": "Джису Ли",
+        "cover": "https://remanga.org/media/card-item/cover_eabd7c9aaf334a23.webp",
+        "rarity": "rank_e",
+        "url": "https://remanga.org/card/242377"
+      },
+      {
         "id": 242014,
         "title": "Неема",
         "cover": "https://remanga.org/media/card-item/cover_aef7aaa7b5324384.webp",
@@ -98687,6 +98799,20 @@
         "cover": "https://remanga.org/media/card-item/cover_3e934d27049840b7.webp",
         "rarity": "rank_e",
         "url": "https://remanga.org/card/56452"
+      },
+      {
+        "id": 242376,
+        "title": "Джису Ли",
+        "cover": "https://remanga.org/media/card-item/cover_3f7ff92e13404a02.webp",
+        "rarity": "rank_f",
+        "url": "https://remanga.org/card/242376"
+      },
+      {
+        "id": 242375,
+        "title": "Джису Ли",
+        "cover": "https://remanga.org/media/card-item/cover_259f409be88a4fbb.webp",
+        "rarity": "rank_f",
+        "url": "https://remanga.org/card/242375"
       },
       {
         "id": 242191,
