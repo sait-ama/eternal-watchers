@@ -832,14 +832,14 @@
       "end_key": "2026-11-30_0025",
       "baseline": 11227,
       "min_seen": 11227,
-      "current": 11227,
-      "weekly": 0,
+      "current": 11230,
+      "weekly": 3,
       "period_ru": "с 23.11 по 30.11",
       "guild": "Eternal Watchers",
       "display": "Lesto",
-      "profile": "https://remanga.org/user/2909/about",
-      "avatar": "avatars/lesto.jpg",
-      "ts": "2026-11-27T19:19:10.947079+03:00"
+      "profile": "https://remanga.org",
+      "avatar": "avatars/placeholder.jpg",
+      "ts": "2026-11-27T19:24:47.078179+03:00"
     }
   ]
 }
